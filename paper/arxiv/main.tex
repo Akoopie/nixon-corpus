@@ -1,0 +1,70 @@
+% The Nixon Corpus -- arXiv preprint.
+% Build:  make            (latexmk + pdflatex/bibtex, TeX Live on Linux)
+%     or  make tectonic   (single binary, downloads packages on first run)
+% Title, author and links are set in metadata.tex.
+\documentclass[11pt]{article}
+
+\input{metadata}
+
+% ---- Page and fonts -------------------------------------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{newtxtext,newtxmath}
+\usepackage{microtype}
+\usepackage{setspace}
+\setstretch{1.08}
+
+% ---- Tables, figures, lists ----------------------------------------
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{siunitx}
+\sisetup{group-separator={,},group-minimum-digits=4}
+\usepackage{enumitem}
+\setlist{itemsep=2pt,topsep=4pt}
+\usepackage[font=small,labelfont=bf,skip=6pt]{caption}
+\usepackage{float}
+\usepackage{xcolor}
+\usepackage{csquotes}
+\usepackage{fvextra}
+
+% ---- Citations and links -------------------------------------------
+\usepackage[authoryear,round]{natbib}
+\usepackage[hidelinks]{hyperref}
+\usepackage{orcidlink}
+\usepackage{xurl}
+\hypersetup{pdftitle={\papertitle},pdfauthor={\authorname}}
+
+% ---- Small helpers --------------------------------------------------
+\definecolor{notecolor}{HTML}{B3261E}
+% Author notes: visible in draft mode only.
+\newcommand{\authornote}[1]{\ifdraft{\color{notecolor}\textsf{\footnotesize[Note: #1]}}\fi}
+% Placeholders for numbers not yet filled in: always visible, so none slips through.
+\newcommand{\tbd}[1]{{\color{notecolor}\textsf{[#1]}}}
+\newcommand{\conv}[1]{\mbox{#1}}                 % conversation numbers, e.g. \conv{871-004}
+\newcommand{\machine}[1]{\textit{``#1''}}        % quoted machine transcript
+\newcommand{\pct}[1]{#1\%}
+
+\title{\papertitle}
+\author{\authorname\,\orcidlink{\authororcid}}
+\date{\normalsize\paperversion}
+
+\begin{document}
+\maketitle
+
+\input{sections/00_abstract}
+\input{sections/01_introduction}
+\input{sections/02_methods}
+\input{sections/03_results}
+\input{sections/04_corpus}
+\input{sections/05_passages}
+\input{sections/06_conclusion}
+\input{sections/07_backmatter}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}

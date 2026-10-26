@@ -1,0 +1,118 @@
+# Nixon Corpus v1.1 | conversation 449-001 | 1971-09-21 | 9:19 AM - 9:36 AM | Oval Office (OVAL)
+# NARA participants: Nixon, Richard M. (President); Sanchez, Manolo; Haldeman, H. R. ("Bob"); Ehrlichman, John D.
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:00] UNKNOWN: well that is all
+[00:00:05] UNKNOWN: gee
+[00:00:10] UNKNOWN: it is wonderful if you cross the door you have to be on call yeah i am sure right now
+[00:00:37] UNKNOWN: it is obvious henry is he told mel not to release sure i did not know that we were there
+[00:00:45] EHRLICHMAN: henry told us not to release them
+[00:00:50] UNKNOWN: We're in a kind of crunch. And that's what we're doing.
+[00:01:09] UNKNOWN: And so I'm going to have
+[00:01:11] NIXON: counterput this later, I guess.
+[00:01:15] EHRLICHMAN: You see, I've been, I've been pursuing this on a QT with buzhardt over there.
+[00:01:21] UNKNOWN: Now we're discovered here.
+[00:01:28] UNKNOWN: I think Henry's bringing in early. The morning I, [unclear]
+[00:01:40] EHRLICHMAN: I've been playing a little game with the General Counsel over at the Pentagon and we're putting out an expurgated version of the Pentagon papers, you know. and henry ordered laird not to release
+[00:01:53] UNKNOWN: and is very upset about it.
+[00:01:56] EHRLICHMAN: of course, he wasn't in on the, he wasn't in on the play to begin with. So I'm going to have to get him straight out this morning and I want to just double-check with you so that you knew what was going on. in case anything came bouncing in
+[00:02:08] UNKNOWN: What's his objection?
+[00:02:09] HALDEMAN: what he feels that this opens the issue of the Pentagon papers again, which we don't want to
+[00:02:14] UNKNOWN: do. Which he argues we don't want to do. Why?
+[00:02:20] EHRLICHMAN: Well, he feels very sensitive about it
+[00:02:22] UNKNOWN: and he feels he thinks it should, it should all be hushed up
+[00:02:29] UNKNOWN: He would like we should not have any Pentagon papers anymore.
+[00:02:38] HALDEMAN: Just the opposite direction, which was, you know, in your instructions to
+[00:02:41] EHRLICHMAN: give, I would have been alright if you had him out, except that somebody leaked it to the post last night, and so the Post is out with a story this morning and Henry up with it last night. I talked with him, but I didn't.
+[00:02:56] NIXON: Well, why don't you, did you have a...
+[00:03:00] UNKNOWN: Did you have a chance to talk to him?
+[00:03:02] NIXON: You and Colson talked to him about the politics of the thing. Okay. Have a little kind of chat and say, Now look here, this is something we're going to do and then we're going to keep him out of it. All right. That's what he's, I think he's deep down, he's very worried about that problem. Probably. Yeah. The other thing is that if the problem is the Vietnamese elections, I can feel very conceived reason to wait until, wait till after the election. In other words, so that we don't have a riot or some damn thing as a result. I mean, so they can't pin on that reason.
+[00:03:35] UNKNOWN: I mean, that's only two weeks. We could, we could do that. He hasn't raised that as a white object. He just doesn't want any kind of papers
+[00:03:42] HALDEMAN: for you. That's, that's it. No. He raises the whole issue of Vietnam and all this stuff.
+[00:03:50] UNKNOWN: Do you agree?
+[00:03:52] EHRLICHMAN: Well, no, I, I think our, our strategy is to keep that pot boiling anyway that we can. Yeah. And this cleaned up version of the papers of the Times is already run.
+[00:04:04] UNKNOWN: Yeah.
+[00:04:06] HALDEMAN: That was his other argument, I guess, is there'll be a discrepancy between this
+[00:04:10] UNKNOWN: version and the beacon That's, that's really. There's a post that it's going to come out
+[00:04:15] EHRLICHMAN: with the Ellsberg papers. Well, no, not really. And their argument is that by process of elimination you'll know the difference, but these aren't the gravel papers. See, these are the, these are the New York Times papers basically that are cleaned up.
+[00:04:32] NIXON: Yeah. Well, let me say that they, they've got me about the time today. [unclear] So I've got to
+[00:04:41] UNKNOWN: be able to do it.
+[00:04:45] EHRLICHMAN: Well, I, I'm here in anticipation.
+[00:04:48] UNKNOWN: You'll be hearing from
+[00:04:48] NIXON: Henry. Well, I'm not going to talk to him. Okay, I'm busy. Good. And, I think you ought to, you can say that I'm just tied up with the message, but why don't you have a little fun with it? All right. You and Colson go in and talk to him. political situation and said, and, and set Colson up on it. We've got to keep this thing alive and that, this is, this is something the Democrats are trying to stain. So he, the only argument that I think he can give on the other side is, well, he could, first he could be concerned about himself, second, he could be concerned about, raising the issue of Vietnam. If the issue is raised, I don't think, I think if it isn't raised this way, it's going to be raised other ways. That's
+[00:05:27] UNKNOWN: right. We'll do that. Or do you agree?
+[00:05:30] EHRLICHMAN: No, I, I think we have to keep going the way we're drawing. There isn't
+[00:05:33] UNKNOWN: any way
+[00:05:33] EHRLICHMAN: to unring the bell The papers are already out. That's right. Yeah. There's even a story in the, in the paper this morning about how the Japanese opposition is using them against sato
+[00:05:44] UNKNOWN: So they're out there. We're not going to add very much to it by this publication. And this is only beginning. We're going to do a lot worse. You know,
+[00:05:57] NIXON: well, it's got to you give the order to Helms and I'm going to
+[00:06:00] EHRLICHMAN: go to President. Okay. I'm going to see Helms. I'm going to see Helms tomorrow. I have a partial list now. Yeah. I want to know exactly what there is so that they can't, a decree and, Cuban Missile Crisis, Bay of pigs and the assassination.
+[00:06:21] NIXON: I've got huston coming back to finish the bombing.
+[00:06:25] UNKNOWN: We'll get all... Alan Backs ready.
+[00:06:27] NIXON: Now these are the things that got that. I have not, when I talked about it, I am not really so concerned about doing it now.
+[00:06:36] UNKNOWN: You understand? Is having it. It's the timing. We may want to throw it, it may be want to do it in January.
+[00:06:43] NIXON: If Henry's point is waiting for january but, but we're not going to sink it. We're going to make this an issue come hell or high water The Kennedy papers have to be an issue.
+[00:06:52] UNKNOWN: How we got into Vietnam because they got us in and we have not a God damn thing to do with it. That's my point about it. It's that side of the story that doesn't got the problem. Well, that's now the other subject is getting physical possession
+[00:07:05] NIXON: Well, physical possession has john acquired
+[00:07:10] UNKNOWN: now remains to be seen.
+[00:07:16] UNKNOWN: Well, that's good. I figured Henry Jetson. I don't know
+[00:07:22] NIXON: what I don't know how deep the waters run there. That's the
+[00:07:24] UNKNOWN: point I'm concerned about. I can see his argument.
+[00:07:42] NIXON: How does your, how does your meeting go if Henry's, this is the Oregon program is a Russian meeting here.
+[00:07:50] UNKNOWN: Yeah, hell.
+[00:07:52] HALDEMAN: That little meeting, yes, it is.
+[00:07:54] UNKNOWN: It, it takes one thing
+[00:07:56] NIXON: that occurred to me is that Lake I think it's quite important and you know you're scattering the polls and things around and you always scatter them to Henry as well as others. He runs around in this, this Washington set, and, he seemed to be, when we were talking about, you know, the fact that this negotiates with, russians and so forth and all
+[00:08:17] UNKNOWN: these stand in the
+[00:08:17] NIXON: polls is going to be very important. I said, Well, the last one shouldn't be raised. He said, gallup should be 46 or something like that.
+[00:08:24] HALDEMAN: Yeah, he didn't get into that. He didn't raise it last night and I didn't want to get into it. No,
+[00:08:29] UNKNOWN: but I do want to find out what is I don't think there is, is there any?
+[00:08:33] NIXON: I think he's, he may be, well, I don't think they're, the point is that if there is, it's, it's something that can't, it's, totally inconsistent with the last,
+[00:08:43] UNKNOWN: or it can't be, because there's, because they haven't taken one down in a week. Yeah. But maybe needless to say that on the more positive side, though,
+[00:08:52] NIXON: that it's the trial heat thing that Colson. Yeah. Yeah. Businessman. Yeah. Good God, fellow like Kissinger who, you know, blah blahs all over town.
+[00:09:01] HALDEMAN: It's good for him to have, isn't it? Yeah.
+[00:09:03] UNKNOWN: And we do give him, General,
+[00:09:07] HALDEMAN: there's another that he could use the, that we haven't put
+[00:09:11] NIXON: out. The main thing is to talk to him about it. Yeah. You know, how he, he skeptically a great sopper up of gossip.
+[00:09:20] HALDEMAN: Now, the whole discussion last night, after Henry got there, got to the, how he put together a
+[00:09:29] UNKNOWN: planning and then, through the staffing mechanism on the international economic question,
+[00:09:36] HALDEMAN: which connally has now said he, he wants done at the White House and both connally and Henry have now said they,
+[00:09:45] UNKNOWN: that, the, obviously the person who should do it is peterson That's where it belongs.
+[00:09:50] HALDEMAN: His responsibility both connally and kissinger feel he can't be alive. I, I feel we can't.
+[00:09:56] UNKNOWN: And the only conclusion that any of them come to that all of them come to
+[00:10:01] HALDEMAN: who has said that george this guy he is the only one on the staffing you know
+[00:10:06] UNKNOWN: he is the only one on the acceptability he is the only one on the brains and the only one on the bottom down And George doesn't want to do it because of peterson interestingly George on a substantive basis would give his left nut to do it He's absolutely fascinated with the subject.
+[00:10:19] HALDEMAN: He feels that you're on the brink of real history To him, this is as important, I think, as China is to Henry.
+[00:10:27] UNKNOWN: but he doesn't want to hurt peterson so. But he says, I don't see how you can do it with peterson here And I don't see how peterson could stay if you put it on me.
+[00:10:35] HALDEMAN: Well, Henry comes up with his diabolical approach to it, which is that you leave it ostensibly in peterson is council but you actually, what you do is you program outside and unknown to peterson You program connally shultz McCracken, and Kissinger. the 4 of them meet separately. Meet. Agreed. And then when they get into the council they don't... They move on the decisions and the council will never if those four go together, the counsel was.
+[00:11:01] UNKNOWN: Well, I haven't made the same note. I have connally at it he does too connally shultz
+[00:11:09] HALDEMAN: Kissinger, connally shultz Kissinger. Well, now Kissinger wants to be in it. he wants mccracken for economic expertise and because
+[00:11:22] UNKNOWN: that night of the, yeah council Good. And said, I, well, I understand. I wrote that right
+[00:11:28] NIXON: down last night. I got a piece of paper and, it's exactly the plan. Now the problem they have
+[00:11:35] HALDEMAN: is that Henry's going to talk to connally because connally has asked Henry how to do this and asked Henry to do it. And connally is going to henry is going to talk to connally He set that up. Connally agrees with that. Then they look at shultz as the lead guy on staffing And that's the problem that shultz has to has the... Yes. Okay. No.
+[00:11:57] UNKNOWN: Do exactly that. All right, let's get connally and shultz just
+[00:12:06] NIXON: no, I don't think they don't want to give it away.
+[00:12:08] UNKNOWN: Don't want to get him in with you. It does just move on. I'll get shultz in Yeah.
+[00:12:14] HALDEMAN: How does it George this morning then was still enough, he's, you know, very worried. He doesn't see how you can do this. He's to be peterson peterson can't be... Now, if we, if we can wheel the commerce department then that solves that. And maybe it's going to be Kalmbach today. I'm going to get him to go over to san diego And also, if we can prepare peterson for it and say to peterson Petersen's gotta go over there and maybe move, How was the,
+[00:12:41] UNKNOWN: how you're getting
+[00:12:42] NIXON: along if you got the detroit thing worked out the way I want it now?
+[00:12:46] UNKNOWN: Yes. It is going to be radio only and they'll talk to you. Don't you think it's a good idea to get some? Or do you do
+[00:12:53] HALDEMAN: yesterday? Rather than I... I think we're losing a little bit of coverage potential. We always do some coverage.
+[00:12:58] UNKNOWN: But we have the other kinds
+[00:12:59] NIXON: of coverage here that, there'll be, you're not going to get all the coverage
+[00:13:04] UNKNOWN: That's true, but, Detroit. Except Midwest regional live. Well, are they ready to cover live?
+[00:13:18] HALDEMAN: I don't know. I don't think so. The only thing now we said it this way is if someone comes back with a really good Yeah. kind of proposal that we might not consider.
+[00:13:26] NIXON: Yeah. Now, not, may I say, not the proposal, which, which, you know, which we always get from our friend. This is my deal with it in some way.
+[00:13:47] HALDEMAN: she incidentally, she took the maury stans approach and she's worked with these people last night. Yeah. I think she's got to really crank that out.
+[00:13:56] NIXON: I do, I do not want now to be pressured by the TV people to say, Well, we have not... No. Yeah. I mean, either, we either do it with the release there over there. You can film them. we're going to let you film portland What do you think? This is for a change.
+[00:14:19] UNKNOWN: That question, Bob.
+[00:14:22] HALDEMAN: Question about Well, filming Portland won't do us much good because there's no Sunday morning news and Saturday evening and no late saturday news So
+[00:14:30] UNKNOWN: what the hell are they going to do Well, you get the 11 o'clock news and then today show in the morning.
+[00:14:36] NIXON: Well, for one minute. You would get some
+[00:14:39] UNKNOWN: minute. Yeah, that's, that's the problem. You only do it. Just basically one minute, one question.
+[00:14:44] NIXON: You know, maybe we've been through that, but it won't make
+[00:14:46] UNKNOWN: more than two. Well, so you've got
+[00:14:48] NIXON: two minutes. Have we been through this so long before?
+[00:14:51] UNKNOWN: Yeah. And I don't think it's worth it
+[00:14:52] HALDEMAN: that you have that picture. You'll still get the answers.
+[00:14:55] UNKNOWN: I'll still carry the news item. all you are losing is the picture

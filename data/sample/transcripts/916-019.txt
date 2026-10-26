@@ -1,0 +1,361 @@
+# Nixon Corpus v1.1 | conversation 916-019 | 1973-05-11 | 12:53 PM - 2:02 PM | Oval Office (OVAL)
+# NARA participants: Nixon, Richard M. (President); Haldeman, H. R. ("Bob"); Haig, Alexander M., Jr.; [Unknown person(s)]
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:00] UNKNOWN: Robert, now, I have quite see. Yeah. I wonder if you've got to build in on this with his blackmail. Yeah. Just, just know what we're sorry about. And it was a... Yeah. Oh, I see. And that, telling it out. we want to keep Al a little bit away from it. Yeah. You're not here what you said. But you see, we can't keep Al really followed with him. He's in the middle of that one. No.
+[00:00:29] HALDEMAN: When you get to the material, because he got it.
+[00:00:32] UNKNOWN: We're talking about two kinds of materials. I'm talking also about, you know, about the walters thing I, I, I know that there is, that walters memcon on the meeting that Walters and Helms had with ehrlichman and me That's the only thing I know about the... Yeah, and Dean. Dean was not there. Well, he wasn't. I don't think so. Well, let me say. That's an interesting point. I don't think he ought to. I think John and I'm not involved as a young man now. Yeah. Let me say that, no, no, oh, on, on the sick, on the situation, let me say first with the buzhardt thing trust him completely. He's all right now. He's on our side here
+[00:01:15] NIXON: on this, and I think that we might very well consider, very well considered, I mean, on, because of the, that, because there's only one memorandum in there. buzhardt said that they put it out there that makes sense is to give that to the damned safe to learn and give it to byrne and say this national security, but here it is. So he knows what it is long before the Pentagon thing and it resulted in the discharge of the employee involved
+[00:01:45] UNKNOWN: who did it to the counter.
+[00:01:50] NIXON: Well, just his relief from duties. Yeah.
+[00:01:53] UNKNOWN: He was transferred.
+[00:01:54] NIXON: Yeah. He was transferred away from that post. Yeah. That's the point of that. No. I'm not concerned about that. That's part of where i fight till hell freezes over Okay.
+[00:02:05] UNKNOWN: You're concerned about the part of the... Now, here's the thing, and here's the thing there. They, they have,
+[00:02:15] NIXON: Schlesinger has called Walters back from the trip so that
+[00:02:18] UNKNOWN: he would be available to discuss this matter with Petersen, you know, of, of a, a, testimony that apparently comes from Gray to the effect that Gray called the testimony. I was told by Walters that, well, there was a discussion between Walters and Gray
+[00:02:50] NIXON: about possible CIA cover andor involvement in this matter. The
+[00:02:56] HALDEMAN: question was raised, was there any, at least that's what
+[00:02:58] UNKNOWN: I was told by Helms. Right. Yeah. I
+[00:03:02] HALDEMAN: said Gray had, before. Yeah.
+[00:03:05] UNKNOWN: Ehrlichman and I met with Helms and Walters. Yeah. One morning up in John's office. Helms at that meeting said that Gray had contacted him. Yeah. Ehrlichman there to preceding or something. Yeah. To question whether there had been any CIA involvement, whether the CIA was in this, because there were some meetings that looked like it was. Yeah. And then Helms had told him it was not. Yeah,
+[00:03:27] NIXON: well, here's how the story folds up now. Apparently, Walters had several memcons that he has made. Fortunately, he's a loyal fellow and has brought them back. He's there in the White House at the present time, including the memcon of the meeting where helms i do not think was present helms
+[00:03:49] UNKNOWN: and you, Ehrlichman, Dean, at which point that the, the discussion was where, where some discussion was to the effect that Walters ought to do what he could to, that, that, that, that, that, that, that, that, that, that, that there, that, that this Watergate is getting out of hand in effect. That Walters do he could agree with, Gray to,
+[00:04:19] NIXON: because of a possible CIA, embarrassment andor involvement. Now, as that, the main thing I wanted to tell you, and I want to talk to you about it is this so sure that when, as in when you and John will be asked about it if you are, that you will, that John, there's no concern about you, will be on track in terms of what the story really is. The
+[00:04:45] UNKNOWN: story is that they, that Hunt had been in the CIA. The story is that he had done some national security work. Right. The story is you didn't know what the situation is and that's why you asked this guy. Ever suggested to walters that walters should, should, and basically put up a cover story that it wasn't CIA business and get Gray to go along those lines. See, the Gray line is probably trying to be able to realize playing a little bit a little along that line. Now, Walters is like a rock. Walters has got his memcons and he would, he is, I would say, I cannot reveal them.
+[00:05:43] UNKNOWN: But
+[00:05:44] NIXON: he has his diary and his photographic memory, which he will use to the extent that it's necessary. Walters is going to say that what happened was that he met here, that he was asked to talk to Gray and he did
+[00:05:57] UNKNOWN: talk to Gray about this matter, but determined there was no CIA involvement. And, however, that, that he has 8 memcons where, most of which are Dean hammering it over and over and over again, God damn it, you've got to do something about getting the CIA cover for this thing. Now, as I told Al, I says this again points up the Dean thing. Yeah, but the point that I make, I said that Al I said not, what does this do in terms of walters memcons if they got out? They're not going to get out because I'll sit on it until hell freezes over the, the, the, the, the, the, the,
+[00:06:39] NIXON: the problem is that in the, and then I'm not sure who we asked about it, but you know what I mean, because basically he's, Walters is, who will, will be so, so that. But the point is what he did about Helms now.
+[00:06:59] UNKNOWN: Yeah, but Helms, Helms, your conversation with Helms was, there was a conversation with him and what did that... I think, I think I had a conversation with Walters. Yeah. Other than the one that... What was the conversation with Helms about? It was about the problem of these people being former CIA people, the question of whether there was any CIA involved. We didn't know. Yeah, that you were asking that question. We were raised problems. We were raising that question and we were raising a concern, I forget why, but bay of pigs came into
+[00:07:31] HALDEMAN: this. And it was a concern, making the point to Helms that if, if this, if these people are drawn out. Yeah. And see, we
+[00:07:40] UNKNOWN: had a concern at
+[00:07:41] HALDEMAN: that time that Helm, if Hunt and Liddy and, well, Liddy not so much. But Hunt, they were all in the Cubans. Right. But
+[00:07:49] NIXON: John, Bob, just be sure that you and John talked exactly that way, in particular, John. Now, the important thing, John?
+[00:07:57] UNKNOWN: Yeah.
+[00:07:58] HALDEMAN: The thing I wonder is if we ought to look at one of us, at least I'm going to look at that, that Hunt Hunt, Walters and
+[00:08:04] UNKNOWN: Ehrlichman, because it would be accurate. It would be accurate. No, let me tell you that he isn't going to, some
+[00:08:13] NIXON: of it is, he says, Well, Al has looked at it and Al
+[00:08:16] UNKNOWN: believes that some of it would be damaging. He said, Not to the President, because walters walters said he always asked, does the President approve any, wants you to do this, and he couldn't get anything in writing with Dean on that. Thank God. Thank God, I nobody. I don't care about walters stuff with Dean because I don't know what Dean's up to. I, I don't think that walters the meeting with walters and Helms and me and John would be the only one I'd be concerned about because of Helms and how whether he would distort that somehow that meeting was held to express direction. It was so characterized for the purpose of, of ascertaining the problems involved in, and that these were bay of pigs characters that was concerned about they're coming out. You told us, you know, get, get him helms on this problem because Helms, I think you had some noise that I didn't know about that Helms was concerned about some bay of pigs stuff at that point in time. Because Helms bluffed at that meeting
+[00:09:18] HALDEMAN: and said, Well, oh, we have no concern about the bay of pigs it doesn't matter what comes out or something.
+[00:09:23] UNKNOWN: That's the part I remember clearly is the bay of pigs
+[00:09:26] NIXON: Well, I remember saying that because CIA people were in this to get them in. That's the line we should take.
+[00:09:32] UNKNOWN: But what, that doesn't bother me. The
+[00:09:34] NIXON: only thing that would bother me is if we, if Walters were told to go over to Gray and say, Look, cool your investigation in the
+[00:09:42] UNKNOWN: fact here's the problem with the, here's the problem of the memcon as I understand. And I guess I can, I can sure get it before you.
+[00:09:49] NIXON: The problem with the memcon does not involve you, but it does potentially involve John according to, according to Al, who and Al should not talk to you about it. For the reason that it makes it appear, it could make it appear that John was trying to get walters to talk to Gray to basically make it appear more like that. There was more of an actual, of a CIA than another kind of a thing. Now, my point is, John's story should be perfect, should be, and I hope you talked to John. John's story is perfect. John should say his only concern was the whole CIA involvement and so forth and wanted to be sure that the, this investigation of Watergate didn't get out, as he put it, didn't get out of hand. John used that term apparently in the conversation. Didn't get out of hand. Well, because he didn't involve getting out of hand had nothing to do with, with, apprehending the Watergate criminals and trying them. Getting out of hand had to do with exactly what's now happening. Yeah. Which is unloading all this Pentagon papers. Investigation type stuff, the leak, the plumbers operation type stuff, the, Exactly. Wiretapping of the reporters and, and staff members type stuff. Yeah. And we've still got another one, as we know, that, that I think we've got to figure it out. Henry? Yeah. At some point.
+[00:11:15] UNKNOWN: Well, I think you can hold that, but...
+[00:11:17] NIXON: Well, let's hope so, but, but, on a selective basis. You never know. Yeah. Well, I said, well, let me say it would do our best, but on a selective basis, I
+[00:11:30] UNKNOWN: rather think, I mean, I mean, I'm just intrigued with getting back to our first subject. I'm intrigued with the idea of letting them, letting the god damn judge have they that was for America. I think so did. And John agreed with that, John Ehrlichman? buzhardt raised that with al john and i just met with buzhardt good and buzhardt had raised that with us. Right. And, now buzhardt was under, a misunderstanding as to how that all worked. He thought John was the principal in that bugging operation. And as you probably recall, Ehrlichman had nothing to do with that. He, I don't know that he even knew about it. Yeah, I guess he did because he saw some of the outputs once in a while, but, but that was basically Henry. And then it was shifted to me. Yeah, I know. Because it involved Henry
+[00:12:12] NIXON: staff. And Hoover, Hoover didn't want to talk to anybody. Remember, he said, I want, I don't want to talk to anybody else.
+[00:12:17] UNKNOWN: Finally talked to you. And then eventually with John. Right? Yeah. And that,
+[00:12:24] NIXON: uh... We're going to fight for that and we're going to be on the offensive on it. Let me tell you, I'm not, I'm not,
+[00:12:29] UNKNOWN: let's, I'm not pessimistic about this one. Good.
+[00:12:32] NIXON: I think we should fight the hell out of this.
+[00:12:34] HALDEMAN: Yeah. That's, I don't know if you read the news summary, David. There's a
+[00:12:37] UNKNOWN: London one in London papers as some guy writing and, Lean or something. I don't know. And he says, he says, What the hell's wrong with the United States government trying to protect the leak in his secrets? That's right. Anyway, the thing
+[00:13:00] NIXON: I, I don't need to paint a picture. I just want to be sure that John doesn't indicate that the President directed him to get Walters to get Gray to turn this off and set up a phony story
+[00:13:17] HALDEMAN: John would never indicate that. In the first place, that First it wasn't true. First, were they trying to do that? A, it wasn't true. B, that's under the, that area that we're not, we don't testify in any way. Which is both good and bad. What the President tells us to do is not, not public, public consumption.
+[00:13:41] UNKNOWN: Except that I would
+[00:13:43] NIXON: always practice that by saying, I can say that the President had nothing to do with it. Yeah.
+[00:13:47] UNKNOWN: You know what I mean?
+[00:13:49] NIXON: But I can say that. I'll testify as to what I did.
+[00:13:55] UNKNOWN: Now, because
+[00:13:58] NIXON: basically, Bob, I think in this place, in this particular case, I think the more, you know, that we talk about it is the thing you talked to me the other night. Or here were talking yesterday. It seems to me that more and more,
+[00:14:11] UNKNOWN: that Dean proves the guy that frankly is concocting the whole god damned story I mean, what's astonishing it? Not that we weren't, I mean, delighted to have it, apparently. But, you know, it came over true. Well, he knew what he was doing though. But in the Well, the Walters thing I remember I suggested getting in Walters and Helms. That's right. And, but I don't think... I don't know why he suggested it. You think it's because of the bay of pigs Well, that was, that was encoiled in it. Yeah. I, that's the only thing I remember really about it was that the concern about the Bay of Pigs stuff and that Helms, you know. And Helm said he wasn't concerned. Oh,
+[00:14:53] NIXON: yeah helms later told me that. I don't think
+[00:14:54] UNKNOWN: helms is going to be any problem here that is right no because helms told me he said there's no problem on this. No, I didn't, we did it just straight, straight arrow on this sort of thing, and he assured me there was no problem on that thing. In that meeting that we had with helms present and walters Ehrlichman did do all the talking. So whatever Walters says would have been, in the memorand would have, would basically have been on ehrlichman I don't think I said much. That's right. There's nothing on this, but let me say there's nothing on you with. Well, I'm not, that's not my concern.
+[00:15:31] HALDEMAN: I don't. My concern is how we deal with the implications of it. Each of these, see, I don't worry about the facts in this, I worry about the implications in each one.
+[00:15:41] UNKNOWN: Right. Because that's what they lied on. They don't pay attention to the facts.
+[00:15:47] HALDEMAN: The implication of, of there even being such a meeting poses the problem, obviously. But it's a perfectly rationalized problem. What the hell? Huh? It looked like in the FBI, we were told, I was told by Dean.
+[00:16:00] UNKNOWN: Yeah. And I think it was in the papers.
+[00:16:03] HALDEMAN: hum. That the FBI was convinced for months that this was a CIA operation. Right. That's
+[00:16:09] UNKNOWN: right.
+[00:16:09] HALDEMAN: And so we were trying to find out. And that was one of the points we were one, because if it was CIA operation, that was another factor. Or if there were cia embarrassments to it which was another possibility.
+[00:16:26] UNKNOWN: And by, I mean, the only implication that it would be bad here is would be a implication on the part of Walters to the effect that,
+[00:16:36] HALDEMAN: that's why I would sure like to look at that memcon if I can.
+[00:16:39] UNKNOWN: I'd like to see what he implies. He's going to say that though. No, I don't know what the
+[00:16:45] HALDEMAN: hell is me.
+[00:17:00] UNKNOWN: Could I have those, do you have those? Yeah. Yeah.
+[00:17:26] UNKNOWN: that one shouldn't be much of a problem. I don't see why there's any problem in putting on the, we're not putting it. I have that paper, it seems to me. That puts at least one national security item to put out, but we say that on general national security things. Our, our Presidential papers. You see, I, they break down our President's papers privilege, but that's all right. You bring this down on a, huh? well, yeah, that's it. That's all right. But on the other hand. No, no, it doesn't, it, it's a different thing. This isn't. This is a Presidential paper. This is an FBI report. The fbi reports hell mark felt sends the FBI reports out by the Trump's.
+[00:18:14] NIXON: He's the guy that's done, is doing all the leaking now. We finally, the snake has finally, come out, you know.
+[00:18:21] UNKNOWN: Have you confirmed it now? Well, basically, yes,
+[00:18:24] NIXON: according to Al Haig, we went, Kleindienst house and I guess he split the story out on the U.S. Coast, and he is the one that leaked it to the new york times the fact that there was this,
+[00:18:36] UNKNOWN: this, this, this earlier bugging of ellsberg That doesn't check because his normal leak is time magazine sandy smith Nevertheless, this was got. I mean,
+[00:18:46] NIXON: he is trying to,
+[00:18:51] NIXON: butter his own bread. I did kill Sullivan.
+[00:18:55] UNKNOWN: We got Sullivan coming in for
+[00:18:57] NIXON: Sullivan would be a good witness according to haig he says he's solid as a rock.
+[00:19:06] UNKNOWN: He's emotional. That he's emotional right away. Is he emotional? Yeah, he's a, he's a, sort of a tom huston type in fact he he was tom huston is guy
+[00:19:26] UNKNOWN: Well, he kind of shows you, though, as you say, you're absolutely right. Right. True believers on, on our side. We're going to get the blood and rap in here and so forth. But let me tell you. Bob, me and I told you yesterday, I want you to know that how much that meeting meant to be in the lincoln room that night I kind of, reached that. You know, you kind of reached low spots sometimes in life and, even though I had to agree. Just as good to talk to you and know that we have no choices and I don't mind the choice. That is about fighting like hell. We're, we're right. We're not going to allow this stuff. We can't, you can't, can't let all of us press the, you know, this is the worst scandal in history......and all this kind of crap. It isn't the worst scandal. It isn't. It is really a scan. It's broader, if not deeper, but not as deep. Yeah, it's, it's broader because, because it's unraveling it.
+[00:20:32] HALDEMAN: These are unrelated things, really. mardian is operation they tie that into Watergate. How a fucking thing to do with Watergate.
+[00:20:39] NIXON: That's right. neither did vesco neither did vesco
+[00:20:42] UNKNOWN: But here was poor mitchell and stans isn't that a crime?
+[00:20:46] HALDEMAN: Yeah. I, I, that one I had just, I watched speculation. I
+[00:20:50] UNKNOWN: just had the guess with a poor old stance being had now. Had by Home. Mitchell's. And, you know, but if he is, he'll get, he'll, he'll come out of that thing. I mean, when he goes to trial, you have to have some faith, as Maury said last night, and I'm sure he needs it.
+[00:21:09] HALDEMAN: God. He has faith in God and he has faith in the American, judicial system. And that when he has the opportunity to defend himself, which you don't, the Grand Jury is a terrible, you know, it's a time, it's a valuable instrument, obviously, in bringing criminals to account.
+[00:21:26] UNKNOWN: But it's a terrible thing
+[00:21:28] HALDEMAN: to think because you go into a big dark room with these, these hostile people here and these merciless prosecutors and they tear you up.
+[00:21:37] UNKNOWN: And
+[00:21:37] HALDEMAN: you have, you can't get no lawyer there. You're all alone.
+[00:21:40] UNKNOWN: You know, you feel like a, like the bull in a bullfight and with everybody taking picks in
+[00:21:45] HALDEMAN: you and everybody in the gallery cheering, and, there's nobody there on your side, and your, your
+[00:21:51] UNKNOWN: accusers
+[00:21:52] HALDEMAN: aren't there. You don't know what you're being accused of. Let us
+[00:21:54] NIXON: be sure that John, and anything that he says would be spoken to
+[00:21:58] UNKNOWN: John. Not only his case, but particularly, our case would be terribly terribly jeopardized Whatever is in this country indicating that we were, there have been comments not going to get out, I can sure, it'll, it'll be burned first. But, don't worry, you know what I mean. I mean it'll be too
+[00:22:21] NIXON: much burn already. No, you know what I mean. It'll be in the file. I was going to say that John must not indicate that the President said set up a fake cover would be with the CIA. Well, we've never talked about a fake cover with the CIA. We never told Pat Gray that this was that. We frankly did not know.
+[00:22:46] UNKNOWN: You know that. No, that's right. I think that John raised the question of whether there was a CIA involvement, whether this running, unraveling this didn't pose a problem for the CIA, and that it did pose it, and he was thinking of the pentagon papers stuff which is... That's right. And the ellsberg case And I was concerned about it. So I suggested that you meet, I suggested that you meet with Helms and Walters, right? Yeah. You met with Helms and Walters. And what's your recollection of that meeting? That's the meeting where John, I think John did, did all the talking and he laid
+[00:23:22] HALDEMAN: out the problem that, well, he laid out the theory that had been developed or raised the point of it. And it's hard to recall because I really. I would guess that he said that the FBI apparently has a feeling that there's a CIA factor in this or that the CIA is involved in this. if there are problems here that are going to unravel CIA stuff,
+[00:23:51] UNKNOWN: that I think it was directed to the idea of limiting the investigation to the Watergate. Yeah. And avoiding getting the thing going beyond Watergate into other activities of these principles. Exactly. And that was a matter of concern. And I think we've got to admit that it was. I don't think we can pretend. That's right. Well, no, no, no, no. I think it would leave. And I think we can show that it has gone to those and it has been damaging that it has. That's right. That it's gotten into the things it has got into ellsberg That's right. For one thing.
+[00:24:23] NIXON: Even though the CIA was not in that thing.
+[00:24:32] NIXON: Incidentally.
+[00:24:33] HALDEMAN: And you've got a strange thing there with, with Bob Cushman, too.
+[00:24:36] UNKNOWN: we saw schlesinger when we were walking over with buzhardt
+[00:24:40] HALDEMAN: And he says Cushman today is filing a sworn affidavit And says that Ehrlichman called him on July 7th and told him to provide the CIA support for Hunt and Liddy here, whatever it was. Well, the,
+[00:24:54] UNKNOWN: the, the, the matter. Yeah. Yeah.
+[00:24:57] HALDEMAN: And, Ehrlichman says he And then when, when Cushman first recalled that Ehrlichman did, Ehrlichman talked to him and said, Bob, I didn't make that call and Bob said, Well, somebody from the White House did. I thought it was you, but it was you or Dean or somebody who called me.
+[00:25:15] UNKNOWN: And that was the way that was
+[00:25:16] HALDEMAN: left. And then John said, Well, I would like a memorandum from you in
+[00:25:19] UNKNOWN: that effect because it's, you know, there's, there's a thing now saying that, that, this is, this is all a long time ago. Yeah. And so cushman wrote a memo on that as I understand from John that says, I did not, I do not recall that it was you who called me. I know that there was a phone call. Now he's, today, files a sworn affidavit saying it was Ehrlichman who called him. I don't know. But, John sworn to the government? Probably. And he may very well have introduced cushman is memorandum I don't know that he has, but if he hasn't he will. He has to, of course.
+[00:26:04] UNKNOWN: Well, of course it was, was John and John's probably approval or knowledge. And then
+[00:26:10] HALDEMAN: whether the call was... Maybe you say it. Well, at one point they were saying maybe Hunt called and said Ehrlichman wants this given to me, or something like that. And that could very well have happened without Ehrlichman knowing it. That's a problem we've got here in all of this. And it's a problem I'm sure is going to come to haunt me when, when I get into this, is where a lot of people are going to say, Well, I was told Haldeman wanted this done.
+[00:26:36] UNKNOWN: Or I was told the person wanted this done. And people are told that what it is. I know.
+[00:26:52] HALDEMAN: Little guys down the line used big names in order to get their Yeah. Orders carried out. That's something, you know, if that's happened to me, that's very hard
+[00:27:04] UNKNOWN: to defend because you can't. I know, I know. Well, that's true. That's not, And he gets your credibility.
+[00:27:09] NIXON: That's right. And by Hell, that's why my hell, I'm almost inclined to think the, you know, with all the problems of the hearings about, he may be better off in the hearings
+[00:27:18] UNKNOWN: than in the court. Why can't we do it? You know, I'm not worried about the hearings. Golly. Here's not. I think look, the miss little guy marked crap. As we said all along, the myth that settled in people's minds about all this is much worse than the fact. And the hearings will, I think, establish more.
+[00:27:51] UNKNOWN: Yeah. Yeah.
+[00:28:00] UNKNOWN: Yeah.
+[00:28:11] NIXON: I don't want to look at all these things. I was only interested in the one that had to do with, you know, that was he thought it was a meeting with Helms.
+[00:28:23] HALDEMAN: Yeah. Should be a meeting with Helms.
+[00:28:26] UNKNOWN: And Dean was not there, he saw it. You, you mentioned to me that Dean was in most. Well, Dean called him. There's a meeting in which I was with Dean with any of the CIA was. Here, in other words, I don't want to read it, but I just want to be sure that Bob knows, just, just take a second to you, my son. Let me say my purpose, my purpose here is, as long as you get the facts and get the facts. And, take a
+[00:29:02] UNKNOWN: Here is the facts we saw. Basically, I, when I heard, when, when I was informed of this thing afterwards, the CIA was in the thing. I told, Chuck Bob to meet with helms and walters and Find out. I told him. Is that true? Yes, sir. That's exactly the way it should be. John and me. And you called him to John's office. And I remember I said, Yes, I said, Find out what the hell the story is. And we didn't know. I didn't know. I mean, I thought maybe Christ, that we were getting a bad rap because he's curious and so forth. We didn't know. Believe me, that's how unknowledgeable I did. And I don't think you knew. And as I said, there was something... You called Johnson and Helms, Helms took that. That's how this, this is the meeting. When you did, you didn't mention Helms if you were in before. I thought you said there was a meeting in which walters dean ehrlichman and Haldeman. No, no, no. Dean was... Well, that would be curious because that looked like I ordered Walters, my old friend over to do some Thompson Robert's job, but it wasn't. Right. You think I called Helms into something that I wanted to screw up? No. I said, I said that to any meeting that Ehrlichman and I were in? Yeah. In these things? Yeah. That's it. The two of us were with helms and Yeah. Yeah. That's right. And, and I said, and I said to them, find out what the hell is the situation here. And I said, If the, I said, because if the CIA is involved or CIA people are involved,
+[00:30:40] NIXON: we don't want CIA to be pulled in
+[00:30:43] UNKNOWN: to this
+[00:30:43] NIXON: Watergate lucky. Now that basically is
+[00:30:46] UNKNOWN: where, is that approximately what your recollection is, what I said or what? What is Bob? I don't know. And there was, as I mentioned, there's, there's a, in the back of my mind, there's a bay of pigs connection in this. Yes. But the reason was that I, I also said, I understand that. He said. Hunt and the five people were all in the bay of pigs and so therefore they ought to get them in and find out. And we were concerned about raising it. We raised the point, I think, and this should say it. Said Helms
+[00:31:16] HALDEMAN: about the bay of pigs blowing Blow it. As a result of these guys.
+[00:31:21] UNKNOWN: And later on, now that my recollection is, later on, Helms told me just in a very cryptic comment after our meeting. He says, I checked this whole Watergate thing and the cia has no problem in it. Period. That was months later. That's what, that's, that's what that is, basically. Well, I said you have anything later, Yeah. I just want to be sure to know how the meeting came about. Well, that's the end. You see, the way, the way it was described seemed to me that, I don't want you to get the impression was the meeting where Bob and John called up Walters and said, Come over here, we're going to concoct a story to go over, you know, to get Gray to get the hell off the trail and stick this to the CIA. That was not. No, no,
+[00:32:07] HAIG: no, no. And that's not the connotation of that meeting then. Yeah. But the subsequent discussions with Dean are very clearly that. Does
+[00:32:15] HALDEMAN: Dean imply that he's acting in anybody's else's? No.
+[00:32:19] UNKNOWN: Huh? He does not? No.
+[00:32:20] HAIG: And Walters is, very strong on that.
+[00:32:23] HALDEMAN: Because I don't think that I had any knowledge that Walters had any meetings with, or that Dean was having any deals with Walters. No,
+[00:32:30] UNKNOWN: I thought the only Read the memorandum. You know, you ought to look at him, Bob. That's the best way to do it. Well, I don't think he, does he need to see the read that the Dean almost should? I'd rather not. You characterize them, if they don't get into this, the one I'm getting to.
+[00:32:53] UNKNOWN: You can see why I like to meet now because why do I worry about it? Let me ask you this, is this call of the President? Tell me the truth. It does. No, I, no, because no. There's a, there's a hearsay from Gray. Hearsay from
+[00:33:11] HAIG: Gray. Hearsay from Gray to Walters.
+[00:33:14] UNKNOWN: To the effect of that. The effect that he had called you. That's right. No, no, no, no. I called him. I told you about that call. Yeah. And he expressed his concern about it. And I told him,
+[00:33:27] NIXON: I told him to go ahead and carry on an investigation of the hearsay
+[00:33:31] UNKNOWN: carry that out to him and not. It doesn't. No, it doesn't, it doesn't say that, but was another. Well, this isn't the one. He hasn't.
+[00:33:44] HALDEMAN: Is the one there on the meeting with Hunt? John.
+[00:33:58] NIXON: Gray can't claim now that he was restricted in his investigation because when I talked to him when I called him on the hijacker thing, he said, I think some of your boys are doing with his service,
+[00:34:09] UNKNOWN: Mr. President. And I said, go right ahead and, you know, carry on your investigation, you know, and, don't talk to me about, you know what I mean?
+[00:34:23] NIXON: Don't give out the hearsay from Gray.
+[00:34:26] UNKNOWN: is that, is
+[00:34:27] NIXON: that something that's going to be in the, in, in a memcon now not anything that was going to be that Walters are going to say, as Gray said it. I, I
+[00:34:37] HAIG: don't know whether Gray said it or
+[00:34:40] UNKNOWN: we've got to find that out. He testified yesterday and that was.
+[00:34:53] NIXON: I can't believe Gray could have got almighty. I mean, what the hell I went through for for that. Mitchell, whatever Mitchell represented now, what I said to him, he raised the point about this whole CIA crap. He, and I said, You, about the investigation, and I said, Pat, you've got to go ahead and leave it. I didn't know what
+[00:35:17] UNKNOWN: the hell it was all about.
+[00:35:27] UNKNOWN: Well,
+[00:35:28] HALDEMAN: this does say that he, he was instructed by me to talk with Gray. Tell him that the investigation not be pushed further.
+[00:35:38] UNKNOWN: See that? Who says who? Walters said. No way, is helms in this meeting Yeah. And what does it say that? Well, he gets a little lead in there. He says Haldeman said the whole affair was getting embarrassing. It was the President's wish that Walters call on acting FBI Director Patrick Gray suggested to him that since the five suspects have been arrested, this should be sufficient was not in that they should have any inquiry pushed, especially in Mexico, etc.
+[00:36:07] HALDEMAN: Director Helms said he had talked to Gray on the previous day and made an agency and outlined this matter. He told Gray on his investigation touching for the projects. Haldeman then stated that I could tell Gray that I had talked to the White House and suggest the investigation not be pushed further. Now Haldeman thought Gray. That Haldeman, Haldeman stated that I, Walters,
+[00:36:27] UNKNOWN: could tell Gray that I, Walters had talked to the White House and suggest that the investigation not be pushed further. Gray would be receptive as he was looking for guidance in the matter.
+[00:36:36] HALDEMAN: Now that I remember that Gray had raised the question here, we'd been told that Gray had raised the question of how, you know, where was he supposed to push in this?
+[00:36:46] UNKNOWN: Which directions?
+[00:36:47] HALDEMAN: And the question here was not pushing it in the direction of the CIA, not pushing in the direction that I would uncover bay of pigs and the National Security. That's right. We were concerned. That's right. About not only the CIA, but also the thing the CIA didn't know, which was that Hunt Liddy
+[00:37:02] UNKNOWN: Pentagon papers. That's right. Go ahead.
+[00:37:05] HALDEMAN: Director entered the agency was unconnected with the matter. I agreed to talk to Gray and directed
+[00:37:09] UNKNOWN: Ehrlichman and why I could do this soon and I said I would try to do it today. Well, he and the White House had discussed the matter briefly with the Director. Returning the office, I called Gray, indicated a matter somewhere and seeing he agreed to see me at 14:30 that day. Is there a June 23rd, 14:30 meeting with Gray? Because that would then tell you what Gray would say if Walters got out of this meeting. All right.
+[00:37:37] HAIG: That's all I think to Director Gray.
+[00:37:41] HALDEMAN: This implies that he saw Gray at 2:30 on the 23rd of June.
+[00:38:00] UNKNOWN: Okay, perfect.
+[00:38:01] HALDEMAN: Well, a further investigation of the Watergate affair had not touched any current or ongoing covert projects of the agency. His continuation might lead to some projects.
+[00:38:09] UNKNOWN: I recall the FBI and the agency then agreement with this respect Bureau Gray was aware that misunderstood wasn't bad. His problem was not a little key to matter now was launched. He said a lot of money was involved, matter of the check on the Mexican bank for $89,000 made all for anything to me. Gray said this was the most automatic point for investigation to see what he could do. It would be the investigations were pushed out of the border to trust us on some of our covert projects in view of the fact that by men involved on the rest of investigate for the matter off hearing. Replied that he understood that he would have to talk to John Dean about it. Gray said he looked forward to cooperating closely. Who said that wasn't Dean? Gray. He said he would have to talk to John Dean about it. See, this is where you get into the implications again.
+[00:38:51] HALDEMAN: You get one hell of a sense on what it implies, even though what's there is no confidence. Now, what there's no question we were concerned about this investigation going beyond watergate
+[00:39:04] NIXON: now, what, what this is is now after so that you guess
+[00:39:08] UNKNOWN: this thing. Gray, I mean, they were, that, that Walters and Walters and Helms were called in for the purpose of seeing that the investigation, hell with the Watergate,
+[00:39:27] NIXON: but did not get into covert operations of the CIA, other covert operations. I didn't, none of us knew what the hell they were. Is that basically what the, what the thing is? Now, plus, we didn't know, I didn't know in any specifics, but I knew there had been this project with Hunt working in the, in the leak business, the plumbers operation. And we didn't want to get into that.
+[00:39:50] UNKNOWN: That's right. Yeah.
+[00:39:53] HALDEMAN: And we didn't want to pursue Hunt and Liddy asked their involvement here. They had arrested
+[00:39:59] UNKNOWN: him. Maybe they haven't
+[00:40:02] HAIG: yet. you see walters in his discussions with Gray, keeps hitting upon the fact that some middle-level White House guy, he's referring not by name to, to Dean, is constantly trying to involve the White House in things that will involve the President and the emphasis on that and all that, that, Walters would testify to would be that Dean was the monkey here and the mastermind. And two, that in his discussions with Dean, he could, he could never get any authority for what Dean was asking. This is what Walters
+[00:40:48] UNKNOWN: was told out.
+[00:40:49] HAIG: That, it was just absolutely, very
+[00:40:54] HALDEMAN: much because I, I don't believe I had any knowledge from Dean that he was dealing with walters at all I thought the only contact with the CIA, and I knew, I, you were calling the racists. I remember meeting these meeting with Walters now.
+[00:41:08] HAIG: Is it 28 June meeting with Dean? And Walters? 27 June meeting with Dean.
+[00:41:15] UNKNOWN: That's all after our meeting. What do those all say I don't know? He, he recommended me and talked,
+[00:41:25] HAIG: to, Helms and he had told, Dean that he was not going to, let Hunt continue and the operations after the agency and that there was no. The staff was a resident call. Well, maybe
+[00:41:42] UNKNOWN: Hunt had him arrested by then. See, Hunt wasn't arrested until later, remember he was loser about a month or 2
+[00:41:48] HALDEMAN: So this may have been when we were concerned about getting hunt arrested about Hunt getting arrested and all that. At that
+[00:41:53] UNKNOWN: point we didn't know Hunt was in the Watergate. Oh, didn't we? No. I didn't know that. I thought he was
+[00:41:59] HALDEMAN: talking with Hunt. He was in somebody's book. His name was in somebody's book. He wasn't
+[00:42:04] UNKNOWN: there. Oh, I see. Was he? Yeah. I don't know. No, I don't know. I don't
+[00:42:09] HAIG: think he was. On alone.
+[00:42:13] UNKNOWN: Well, Al was exactly
+[00:42:14] NIXON: right. The implication of this, if you look, if to read the Memcon is bad.
+[00:42:21] UNKNOWN: On the other hand, the story of told by Walters will be not bad. He's very good. It's not about that.
+[00:42:31] HAIG: Are there any other copies of him God damned things? No. The originals he's about to deliver. Then we had them for, to be able to claim
+[00:42:40] UNKNOWN: executive privilege. You couldn't, if he had had them out there. That's right. So Walters tell me over the random... Everyone... He learned over the originals, Hunt isn't going to say he delivered them to them. He's going to say that he brought them over, to the counsel, because there were national security issues discussed in them, covert methods and things that went way beyond this thing. And that we were, virtually viewed them for impact on the national security. We're okay on that. Now we get it, but, but, but then don't they retain
+[00:43:14] NIXON: such things in the, CIA law they even had them there yet for purpose much? Sure. Yeah. They can't, you can't
+[00:43:22] UNKNOWN: see. Yeah. You do, but it's, again, it's strength. Now, of course they can't break into the CIA, but it's much safer to have them here because... No, no, no. I know them here, but my point is, I, I just wonder if there's other copies of him bouncing around sometimes. He says no. He says, Absolutely, these are his personal memcons Now, Schlesinger has seen them
+[00:43:46] HAIG: and, Colby has seen them. Schlesinger ordered him this morning to deliver them to Elliot Richardson and to me
+[00:43:55] UNKNOWN: copies to each. Thank God he stopped here first. Yeah. So he didn't go there and Elliot didn't do.
+[00:44:04] HAIG: And I called Schlesinger and said, A, he shouldn't because, Elliot is not the, the Attorney General.
+[00:44:12] UNKNOWN: That's
+[00:44:12] HAIG: right. And B, that the, we are assessing these for national security. And when, what we should do later today, and you finish your coordination with buzhardt so he, he's comfortable with this. I
+[00:44:26] HALDEMAN: guess I'm supposed to meet him again. That's the same. Well,
+[00:44:28] HAIG: you should, so that I just wanted to be sure that, Well, John, you got to keep Colby, if
+[00:44:35] NIXON: Colby's seen the name of things, he's got to get lined
+[00:44:37] UNKNOWN: up on this too. How do we do that? Well, we, they had no, they had no executive. No, but why, are they going to, is Elliot going to want us to see these memcons if colby knows there is a memcon and so forth and so on.
+[00:44:55] HAIG: Is Elliot going to want to insist on seeing them? He can't see them. Because we've got them. And we owe, we are under executive privilege and
+[00:45:03] UNKNOWN: they'll say
+[00:45:04] HAIG: that way. That's the only thing we can do. That's right. That's why I want to get them up, get the original.
+[00:45:10] UNKNOWN: That's what they say. The point of being boring, I most that I got raising this privilege thing all the time.
+[00:45:15] HALDEMAN: Is just that. We can explain all those things and we could probably look. This way. If you took damage, if you took lenny garment is approach and put all that out, we could wade through it and Well, by the other way to get it untangled because in the meantime you couldn't survive it.
+[00:45:32] HAIG: It would be damaging now because of a sequence of time. First you have a pretty high-level meeting with Helms and That's right. And Walters. And then suddenly these contacts start with Dean. With Dean, who's really a bad guy. And
+[00:45:45] NIXON: Dean would then say that he was ordered to go.
+[00:45:50] HALDEMAN: Of course, he'll say that anyway. But that,
+[00:45:52] UNKNOWN: well, I know, I know, I know, but maybe put it in that context.
+[00:45:55] HAIG: You see, and, and what, what Walters would be able to confirm. Let's never
+[00:46:00] UNKNOWN: put it. Schlesinger out there understands that Colby is, it was, it's up to him. His ass is up here now. He's... Well, I'll have buzhardt call colby and tell him that we are holding these memcons
+[00:46:10] NIXON: here. Well, yes, they were holding these MEMCONs because they do involve national security and that we're, but that we have a flat rule that, that we, we can't break over on, on,
+[00:46:22] UNKNOWN: on, on, on this sort of thing. And that's buzhardt is statement too. He just called me and said we just got to hold to the Yeah. Yeah. Well, now, what does buzhardt think about this? One of the, what about the one memorandum, though? Well, now he thinks that, uh... Break him over in that. that's a good idea. Yeah,
+[00:46:38] NIXON: but how can, how can he break there and then say we don't break on this?
+[00:46:42] HAIG: Because this is the Ellsberg trial and what it has nothing to do with the case. Yeah. It's a, a document which the judge has requested. Right, right, right, right.
+[00:46:53] NIXON: Now suppose now let's come again now to the Watergate trial. they request documents that they think that has to do with the watergate trial I'm just trying to try to run
+[00:47:03] UNKNOWN: the
+[00:47:03] HAIG: thing about it. Well, here we hold what we examine all
+[00:47:06] UNKNOWN: along. huh. The other point the lawyers make, which you just should keep in mind, our lawyers make, and they've been studying your guys', I'm sure will come up with the same thing.
+[00:47:17] HALDEMAN: The executive privilege is, is an objective and selective judgment on the part of the President. That's right. And it can be made case by case. Totally selectively, it can be made paper by paper. Obviously, you weaken your case every time you, you let the bar down at all. you make it harder to keep it up for the next one. But
+[00:47:40] UNKNOWN: we don't eliminate the privilege by way. The reason here the reason here is the reason we hear, I think you've got a, a basis for not releasing the papers to help somebody, is that we do give them a principle to whip Walters who was present, who will testify politically. Totally. So in other words, they aren't, we aren't holding the... Turn the evidence at all. Because we've got information. Everything's got basically the papers have other information that people testify totally. Whatever. Dean executive privilege isn't the basis you're holding is national security. National here. National security. And, and this is a damn first, buzhardt says
+[00:48:24] HAIG: that by having Walters go over and say, I'm ready to testify. Bringing his diary along which he uses in his testimony. He says that he doesn't, and no one knows about this except schlesinger and colby and his secretary who types them, who's been with him for all through Paris and what they won't know about and they probably won't even ask about it. They'll say, Have you, do you have written members? He, written record, he'll say, Yes, I use my diary and made some notes
+[00:48:54] UNKNOWN: and, that's it.
+[00:48:56] HAIG: Then if, if they really bore in it would be the last case that he'd say yes, I gave it to the lawyers to be sure that there were other national security matters discussed in those notes.
+[00:49:07] NIXON: You gave it to the lawyer. I
+[00:49:09] HAIG: gave it to us to the counsel in the White House because there were some very important national security things. It was
+[00:49:16] UNKNOWN: important that corporate activities occurred were in the notes. Yeah. Everywhere that cannot be responsible.
+[00:49:34] UNKNOWN: It did, it must be. How do we, why do we, why do we,
+[00:49:37] NIXON: who did it? I don't know. I don't even know what to do. No, no, I think that was done by tongue in order to get it covered. McCord. In order to get it covered or to prove that everything he did was CIA, tanked or something like that. That's right. Well, now you've got to, you've got to say it's very important for all the people out of it.
+[00:49:58] UNKNOWN: buzhardt has got to realize
+[00:50:00] NIXON: Now he's just read this paper. Does he also talked to walters buzhardt
+[00:50:04] UNKNOWN: Oh, yes. Well, good. So I don't want buzhardt to have any implications for just reading that God damn paper. Oh, no. That what this is, is a, it's basically
+[00:50:14] NIXON: a, a cover-up on the part of the, that first paragraph where it says the President told Haldeman to get the CIA to, what did he say
+[00:50:21] HALDEMAN: to do? Talk to the FBI about not pursuing this further or something that would be.
+[00:50:28] NIXON: but buzhardt understands that the purpose of that talk had nothing to do with not pursuing the Watergate further.
+[00:50:35] UNKNOWN: It had to do with not getting into the national security aspects further.
+[00:50:40] HAIG: Now we know buzhardt is
+[00:50:44] UNKNOWN: he's just dedicated to one thing and that keeps us. I don't worry about it. That's very. I said that this, that I knew that this could not have been what it appeared to be in sequence of time, and that's why we couldn't have these papers go after. He said, I agree completely. He said, Christ, you get in the window and it's all even with them. That's it. huh.
+[00:51:06] HALDEMAN: And that's, that's our biggest problem in this case every time, every event has been in God damn implications. You never get a chance to get the facts.
+[00:51:15] UNKNOWN: Right. And then they live on the implications. They flatly stated.
+[00:51:21] HAIG: But you see buzhardt sat there and heard Walters. Uh... What did that? Tell me what he wouldn't testify. My God, it was very clear. There's no implications
+[00:51:32] UNKNOWN: of the President's... I suppose our loose cannon out there now is Gray who haven't... Gray's a cannon. Yeah. And who? Gray. gray is a cannon He's the guy I worked. Yeah.
+[00:51:44] HALDEMAN: And Gray is trying to clean himself up. Well,
+[00:51:47] NIXON: he cleaned himself up with my God after we, I don't know if it wasn't even. We've
+[00:51:52] UNKNOWN: done everything you could to save you.
+[00:51:55] NIXON: And so forth. But, but Gray, in effect, just said that what Gray is apparently you think, we think is testifying
+[00:52:03] UNKNOWN: to the effect that he was ordered by the CIA. What is it, Allen? that Gray is supposed to, what do you hear that he's supposed to have said?
+[00:52:13] HAIG: Well, I think the only thing that Gray said,
+[00:52:18] UNKNOWN: here is what meeting with. I don't mean it there, but I meant the Grand Jury press.
+[00:52:25] HAIG: I thought he said that you had discussed this with him and, you told him to go on with the investigation.
+[00:52:33] UNKNOWN: That's someplace in there, I know. I saw it yesterday. I thought that came from Gray testimony. What's in there? He said, No. This is the thing everywhere knows about the President talking to Gray on hijacking. It's not my paper.
+[00:52:47] HAIG: Yeah, but that... Yeah,
+[00:52:49] NIXON: that's right. I don't know whether he told the truth if he didn't. They had, I know whether it's true or not. My recollection may be wrong, but I'm sure it was such a cursory conversation. But I said, Go ahead and do it.
+[00:53:04] UNKNOWN: Yes, he told him. I think there isn't any question about it. What does it say there about the highest? This is very good, this is
+[00:53:14] HAIG: Gray had replied that the case could not be covered up. We were talking about this. I did. Right. Any attempt to involve the FBI or the CIA in this case could only prove a mortal wound and would achieve nothing. The President then said, then I should get rid of whoever is involved no matter how high. Gray replied that that was his recommendation. The President then asked what I thought and Gray said that my views were the same as his The President took it well and thanked Gray.
+[00:53:50] NIXON: Now whose, whose memorandum is that?
+[00:53:53] UNKNOWN: Watergate? Walters.
+[00:53:54] NIXON: Now, can, can we get Walters to say that?
+[00:53:58] UNKNOWN: Yes. It's hearsay I know. Gray. Gray said that. Yeah, I mean Gray. That's something that, that walters has got to hit that is that is damn good stuff that frankly makes walters would be a much better business than Gray did. We could be superb. Walters was so bugged and he, his recollections were so sharp. So right. I said that.
+[00:54:23] NIXON: He's underline that part that he sure is. It's not about paper clipping. A paper. Well, now, that, doesn't that hearten you a little about my role out if you've ever doubted it with you?
+[00:54:34] HAIG: Hell, I never doubted your role for, for a minute. I
+[00:54:37] UNKNOWN: told Gray that I said, Get whoever it is. Now High said that all the time. You were constantly saying, why don't you? I frankly said to know Christ wasn't all the score of us and the CIA thing really did bother me. I thought that's why Henry Haldeman's come over to Walters. No question. I did bug you.
+[00:54:53] HAIG: The only thing that bothers me really about the whole thing is that there are so many goddamn creeps around here that are walking around. Always thinking the worst is all
+[00:55:03] UNKNOWN: he
+[00:55:03] HAIG: went down and I'm convinced we're going to knock this ball right now.
+[00:55:07] UNKNOWN: Would you please mark that for buzhardt so he sees that
+[00:55:10] NIXON: point? Would I go over it? Or
+[00:55:12] UNKNOWN: has he seen
+[00:55:13] NIXON: it? Or do you think buzhardt needs to see such things i i am not worried about buzhardt
+[00:55:19] HAIG: Well, I'm
+[00:55:20] UNKNOWN: rather worried. I want him to believe. He believes. Yeah. But be sure to mark that. The President needs really both not just leave because he wants to. No, I don't want him to tell us. God damn it. I'm not covering anything up. I want buzhardt by god to read that point. Now that's something that hasn't been written lately. That's something that was written at the time. That's what Pat Gray said. But I said in a conversation with Gray. Now, God damn it, that's my role, and that's what I told everybody in this whole God damn shop. You know what I mean? I said, Oh, sure, it'll pick people involved. They're not involved. And watch the press on it. Be careful that we don't start hanging people by innuendo and stuff. That we were worried about. And be careful that we don't get slopped over into what these people were doing in national security. Look at this kind of a statement from Walters.
+[00:56:08] HAIG: I agree that in my view, the President should be protected from his self-appointed protectors and talking to Dean who would harm him while trying to cover up their own
+[00:56:18] UNKNOWN: statement. You sure he's not talking about Ehrlichman and me? True. Because I'm not so sure that he didn't feel that we were acting without our, without authority and we met with him, didn't you? I don't know.
+[00:56:31] HAIG: That certainly doesn't imply the President. That's a meeting now, I think. Well, it was after these contacts appeared. Yeah.
+[00:56:39] NIXON: See that June Dean was. walters will not say anything but hurt you or Dean. Yeah.
+[00:56:44] UNKNOWN: John You're early.
+[00:56:46] NIXON: look that is walters there's no problem there. the main, the main thing, the main point is that I want him to be above everything else, he's got to
+[00:56:55] UNKNOWN: nail it. And now, when can he get over it? And incidentally, Walters, I want him to tell Richardson. Oh, and, can not walters talk to richardson and talk to colby and too and schlesinger said, gosh, I don't want colby and schlesinger to have any doubts on this. How about those two? I tell him I'm going to point two men to the highest positions in this government and then having read this, they've read these things. Remember, I don't think these. And talk to walters i do not know whether they how closely they read them but they have talked to walters I'm just confident that,
+[00:57:36] HAIG: that there's, it's not you that there's any concern that's a fact that they know that Dean is up. Now,
+[00:57:42] UNKNOWN: Dean,
+[00:57:42] NIXON: I know they also know the first memorandum doesn't indicate that the President said, Let's limit it or some damn thing,
+[00:57:49] UNKNOWN: doesn't
+[00:57:49] HAIG: it? It would be inconceivable to me. I talk to schlesinger every day twice, three, four times a day. Conception of anything.
+[00:57:59] UNKNOWN: Anything wrong? No, I don't know about it. After seeing these memorandums that he had such a conception. He saw him sometime ago for some. Some time
+[00:58:07] HAIG: ago, yeah. As a matter of fact, he's the one that went to Walters, came out yesterday and Gray's testimony brought Walters back.
+[00:58:19] UNKNOWN: They're bringing Helms back too, right? Oh, are they?
+[00:58:27] UNKNOWN: Hell, that's what I was concerned about. There's what Helms
+[00:58:30] HALDEMAN: would say. Helms would be capable of putting a twist on the best. But when it doesn't put it
+[00:58:35] UNKNOWN: in all the way wanted.
+[00:58:37] HALDEMAN: Helms said that he answers to him. But reading the helms He has to be malicious to put a bad twist on it. He, if he, if he plays... I don't think Helms is an
+[00:58:46] UNKNOWN: ambassador. He wanted to do anything to harm the President. No, I know. Because he knows damn well that I didn't, I, you know. Well, you treated him very decently and he felt that he, he told me a number of times how much he appreciated the way the whole thing was in. I, I, well, Helms was in the meeting,
+[00:59:06] NIXON: but that meeting was the one where they discussed the whole thing and Helms said the CIA was not involved in it. But I've asked them, is it clear from that memcon that, that, that I had asked and directed that they get together with him for the purpose of seeing what the CIA or mean, whether the CIA or, I don't know.
+[00:59:27] HAIG: It's not that clear, but it isn't that, it doesn't suggest otherwise either.
+[00:59:33] UNKNOWN: It's,
+[00:59:37] NIXON: and helms later assured me the cia was not involved Don't have no concern. I said, Fine.
+[00:59:42] UNKNOWN: Good. At that point, hell, that was only a few weeks, a few days after the break-in, so it was a question then we didn't know what the hell was in suit there. That's right. Trying to get the facts.
+[01:00:06] UNKNOWN: And then we kind of centered down. We just sort of forgot about the thing after you.
+[01:00:12] NIXON: Believe me, now that does show you how naive you were about it at the time. The actual thought the CIA was for God damn. I must have thought so.
+[01:00:21] UNKNOWN: I thought so for months. I thought so. the fbi was convinced for quite a long time.
+[01:00:26] NIXON: Well, I read a story in the Miami paper once about the Cubans, you know. Yeah. And doing this and that for the purpose of their lawyer. God damn it, I thought the poor bastards may have done it for that reason. You know, but they really concocted this whole thing up
+[01:00:40] UNKNOWN: and did it because of their, this whole thing.
+[01:00:44] NIXON: Then I wondered whether this, when I read about the mexican bank I thought there must be a CIA involved.
+[01:00:49] UNKNOWN: That's
+[01:00:54] HAIG: right. Well, we got, I think this one is
+[01:00:58] UNKNOWN: an asset for it. Yeah. Well, I said, bring Walters in and have him testify. I think it's an answer. when will walters be here Where is he now? He's here now. Where's his papers? Well, they supposedly he's on his way back with him. It takes so long to get out here to see how he needed the bank. We talked to him for quite a while. I came here. Right after he left. I'd like to have a talk with
+[01:01:28] NIXON: him. I think it's perfectly proper for me.
+[01:01:31] UNKNOWN: Yeah, I think so. And I'd say, Now look
+[01:01:33] NIXON: here, I just want you to know we were trying to get at the bottom here. I don't know. You think that's perfectly all right.
+[01:01:41] UNKNOWN: He isn't back yet. Well, I think
+[01:01:43] NIXON: what Jack. Oh, I'm sorry, Bob is a lot. Not
+[01:01:49] UNKNOWN: talking about it. Now, the main thing is my business. No, you sure have a bitch. 24 hours a day. You check it and bust me back to whether he'll be here. Are you sure that John stands totally? John's going to come out. Well, Allison maybe you will work, but I don't know why that. Now, John is cards a little bit. But John has got to know. No, John. John's got to come for Gray's sake. We didn't order by the cover crap from the CIA. You know that. Right. John. The morning could, I think what happened is Dean some way got into this thing
+[01:02:28] NIXON: and then he started operating, go into business on his own. Yeah.
+[01:02:33] UNKNOWN: Or
+[01:02:33] HALDEMAN: you agree. I think that must be it because I don't see what else we can do at this point. That's, that's what all the trails lead to now.
+[01:02:45] UNKNOWN: And if that's the case, they'll
+[01:02:47] HALDEMAN: find it out. I mean, there's enough, you know, there's so many times. You know, it's
+[01:02:51] UNKNOWN: not a fact about Tuesday. I guess too, but I get so strong. I don't want, I hope you see I don't know. I don't want they read his men, they, they might think the President was involved in this, you think? No. I don't think so. I don't think so. I mean, I think they see there's name dropping the moment, huh?
+[01:03:19] HALDEMAN: I think they see it. You were concerned about just what, whether they were in.
+[01:03:30] NIXON: Gray, you can't know what the hell he's up to. Although, although that's very, very hell of a hell of an admission on his part
+[01:03:40] UNKNOWN: where I said, Go after whoever it is right to the top.
+[01:03:44] NIXON: He can't say on the basis of that, walters could be a star witness in this, and that's got to leak out.
+[01:03:49] UNKNOWN: Yeah.
+[01:03:57] NIXON: Well, let me say my own feeling, I don't care what comes up on me. I, I said, damn there. Broke my heart and indicted poor old mitchell and stans
+[01:04:10] UNKNOWN: You just gotta write it. The rest
+[01:04:11] NIXON: and the other thing is somewhere or other, I think... I'm
+[01:04:14] HALDEMAN: afraid John has no way they have it. I still think I think maury is being had I think more he put the money in. And, I don't think he got in any peace wing with stuff. He's got it. I don't think I don't think he perjured.
+[01:04:30] NIXON: Why would it take us to really was my, sort of my frame point? Right. Just sort of finally based up to the fact that
+[01:04:42] UNKNOWN: there is nothing else
+[01:04:43] NIXON: to do. I don't give a damn what happens here but fight this through to the finish. I mean, they're not after, should not, they're not after
+[01:04:52] UNKNOWN: you either. I said, Hot is that I, they're not under
+[01:04:56] NIXON: John Mitchell, they're not after Dean, John Dean.
+[01:05:03] UNKNOWN: What they're after is, and I, for me as a person, but they're after what I have stood for, right? New stand for, right? That's what they're after. And they're trying to destroy, and that you have to find, for example, in this national security thing, a crap situation where the
+[01:05:23] NIXON: son of a bitching thief It was made a national hero sending it off on a mistrial. New York Times gets a pulitzer prize for stealing documents.
+[01:05:36] UNKNOWN: Bob. And then that wants me crucified for trying to get at the thieves
+[01:05:42] NIXON: What in the name of God you come to?
+[01:05:45] UNKNOWN: That's the, that's decided all we have to turn to you, but we, we've got to, we can't. We can't. Yeah,
+[01:05:52] HALDEMAN: but we can't do it right now. We've got to get, we've got to
+[01:05:55] UNKNOWN: clean up our own positions and then move from there.
+[01:06:05] UNKNOWN: That's, the Senate will give us a chance on that. Especially if, of course, the Senate's going to screw up this Grand Jury thinks so badly. Yeah. Well, what's going to happen there? That's... Tell me what you, you're going to be testifying this afternoon. No, I'm not the FBI this afternoon. The FBI is, is on this thing. Three different things there after me. What are they, you know? One's on
+[01:06:32] HALDEMAN: this. And,
+[01:06:40] HALDEMAN: well, once I go to me
+[01:06:41] UNKNOWN: on the halperin thing they want to talk to me about halperin and the name of Christ, are they in the hoffa thing
+[01:06:53] UNKNOWN: I don't, I don't. Don't know
+[01:06:55] NIXON: what i did to hoffa well i gave him clemency That was the recommendation of the Department of Justice and everybody else, you know, there was no God damn question on that.
+[01:07:08] UNKNOWN: I think Dean has said something on that, they didn't.
+[01:07:20] UNKNOWN: Good. Glad they're getting into that. So, then I'm going to subpoena to appear in the Federal Court in Illinois. The plan to murder several dozen people. On what grounds are getting there? The airline crashes where Mrs. Hunt died.
+[01:07:46] UNKNOWN: There's a factory crashing airplane or something.
+[01:08:01] UNKNOWN: Oh, yeah. Oh, now Yeah.
+[01:08:14] NIXON: Okay, fine, I'll see if you'll be.
+[01:08:21] UNKNOWN: Oh, this God never worries. Never worries.

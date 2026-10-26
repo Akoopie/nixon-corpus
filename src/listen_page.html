@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nixon Tapes Listening Session</title>
+<style>
+:root {
+  --bg: #f3f1ec; --surface: #fffdf8; --ink: #1d1b18; --ink-2: #5c574f; --rule: #ddd6c8;
+  --accent: #8a3b12; --a: #2a64b8; --b: #b8452a; --both: #6b4fa0; --unsure: #8c8577;
+  --font: "Segoe UI", system-ui, -apple-system, sans-serif; --mono: "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #17150f; --surface: #221f18; --ink: #efe9dd; --ink-2: #b3ab9b; --rule: #3a352b;
+          --accent: #e0915f; --a: #6ea2ee; --b: #ee8a6e; --both: #b29be0; --unsure: #9a927f; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--font); }
+main { max-width: 820px; margin: 0 auto; padding: 28px 18px 60px; display: grid; gap: 18px; }
+header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+h1 { font-size: 21px; margin: 0; }
+.muted { color: var(--ink-2); font-size: 14px; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 18px; display: grid; gap: 14px; }
+.meta { font-size: 14px; color: var(--ink-2); }
+.meta b { color: var(--ink); }
+.ctx { font-size: 14px; color: var(--ink-2); }
+.ctx i { color: var(--ink); font-style: normal; background: color-mix(in srgb, var(--accent) 14%, transparent); padding: 0 3px; border-radius: 3px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+button { font: inherit; font-size: 14px; padding: 7px 13px; border-radius: 7px; border: 1px solid var(--rule); background: var(--bg); color: var(--ink); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+button.on { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.cand { display: grid; grid-template-columns: 90px 1fr auto; gap: 10px; align-items: center; font-size: 15px; }
+.cand .lab { font: 12px var(--mono); color: var(--ink-2); text-transform: uppercase; letter-spacing: .05em; }
+textarea { width: 100%; min-height: 64px; font: 17px/1.5 var(--font); padding: 10px; border-radius: 8px; border: 1px solid var(--rule); background: var(--bg); color: var(--ink); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { padding: 3px 8px; border-radius: 6px; border: 1px solid var(--rule); cursor: pointer; font-size: 15px; user-select: none; }
+.chip[data-s="A"] { border-color: var(--a); color: var(--a); }
+.chip[data-s="B"] { border-color: var(--b); color: var(--b); }
+.chip[data-s="both"] { border-color: var(--both); color: var(--both); }
+.chip[data-s="unsure"] { border-color: var(--unsure); color: var(--unsure); border-style: dashed; }
+.who { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: 14px; }
+select { font: inherit; font-size: 14px; padding: 5px; border-radius: 6px; background: var(--bg); color: var(--ink); border: 1px solid var(--rule); }
+.bar { height: 6px; background: var(--rule); border-radius: 3px; overflow: hidden; }
+.bar div { height: 100%; background: var(--accent); }
+.keys { font-size: 13px; color: var(--ink-2); }
+kbd { font: 12px var(--mono); border: 1px solid var(--rule); border-radius: 4px; padding: 0 4px; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Nixon Tapes Listening Session</h1>
+    <span class="muted" id="progress">loading…</span>
+  </header>
+  <div class="bar"><div id="bar" style="width:0%"></div></div>
+  <section class="card" id="card" aria-live="polite">
+    <div class="meta" id="meta"></div>
+    <div class="row">
+      <button class="primary" id="play">▶ Play</button>
+      <button id="slow">Play at 0.75×</button>
+      <button id="part">Play only the disputed part</button>
+      <button id="clean" class="on">Cleaned audio: on</button>
+      <span class="muted" id="where"></span>
+      <audio id="audio" preload="auto"></audio>
+    </div>
+    <div class="ctx" id="ctx"></div>
+    <div class="cand"><span class="lab">Model 1</span><span id="c1"></span><button id="use1">Use</button></div>
+    <div class="cand"><span class="lab">Model 2</span><span id="c2"></span><button id="use2">Use</button></div>
+    <label for="text"><b>What you hear</b> <span class="muted">(type only the words you can make out; write numbers as spoken words, e.g. "fifty thousand"; keep uh / um; leave the rest out)</span></label>
+    <textarea id="text"></textarea>
+    <div class="row">
+      <button id="cant">Can't make it out</button>
+      <button id="nospeech">No speech here</button>
+      <button id="sure">I'm sure</button>
+      <button id="guess">Best guess</button>
+    </div>
+    <div>
+      <div class="who" style="margin-bottom:8px">
+        <b>Who said what</b> <span class="muted">— pick a speaker, then click words:</span>
+        <button data-pick="A" class="on">A</button><select id="nameA" aria-label="Who is A"></select>
+        <button data-pick="B">B</button><select id="nameB" aria-label="Who is B"></select>
+        <button data-pick="both">Both / crosstalk</button><button data-pick="unsure">Not sure</button>
+      </div>
+      <div class="chips" id="chips"></div>
+      <div class="who" style="margin-top:10px" id="bank"></div>
+    </div>
+    <div class="row" style="justify-content:space-between">
+      <button id="prev">← Back</button>
+      <button class="primary" id="save">Save &amp; next →</button>
+    </div>
+    <div class="keys"><kbd>Space</kbd> play · <kbd>Ctrl</kbd>+<kbd>Enter</kbd> save &amp; next · model order is shuffled per clip</div>
+  </section>
+</main>
+<script>
+let voices = {}, sample = new Audio();
+let clips = [], labels = {}, i = 0, pick = "A", conf = "sure", cant = false, nospeech = false, chipSpk = [], order = [0, 1];
+let clean = true; try { clean = localStorage.getItem("clean") !== "0"; } catch (e) {}
+const audioUrl = id => `/${clean ? "audio_clean" : "audio"}/${id}.wav?v=2`;
+const $ = id => document.getElementById(id), audio = $("audio");
+
+async function load() {
+  clips = await (await fetch("/clips.json")).json();
+  labels = await (await fetch("/labels.json")).json();
+  voices = await (await fetch("/voices.json")).json();
+  i = clips.findIndex(c => !labels[c.id]); if (i < 0) i = 0;
+  show();
+}
+function hash(s) { let h = 0; for (const ch of s) h = (h * 31 + ch.charCodeAt(0)) | 0; return h; }
+function show() {
+  const c = clips[i], prev = labels[c.id];
+  const done = Object.keys(labels).length;
+  $("progress").textContent = `clip ${i + 1} of ${clips.length} · ${done} saved`;
+  $("bar").style.width = (100 * done / clips.length) + "%";
+  $("meta").innerHTML = `<b>${c.conv}</b> · ${c.date} · ${({OVAL:"Oval Office",EOB:"Executive Office Building",CAB:"Cabinet Room"})[c.location] || c.location} · present: ${c.participants.join(", ")}` +
+    (c.speaker_guess.length ? ` · voiceprint guess: ${c.speaker_guess.join(", ")}` : "");
+  $("ctx").innerHTML = `<span class="lab">around it, Parakeet's guess (unverified):</span> …${c.before} <i>[this clip]</i> ${c.after}…`;
+  order = hash(c.id) % 2 ? [1, 0] : [0, 1];  // don't reveal which model is which
+  const cands = [c.parakeet || "(nothing heard)", c.whisper || "(nothing heard)"];
+  $("c1").textContent = cands[order[0]]; $("c2").textContent = cands[order[1]];
+  $("use1").onclick = () => setText(cands[order[0]]); $("use2").onclick = () => setText(cands[order[1]]);
+  for (const id of ["nameA", "nameB"]) $(id).innerHTML = ["(unknown)", "Not Nixon (someone else)", ...c.participants].map(p => `<option>${p}</option>`).join("");
+  // reference voices for everyone NARA lists as present (plus Nixon), several samples each
+  const people = [...new Set(["Nixon", ...c.participants])];
+  const btns = people.flatMap(p => (voices[p] || []).map((v, k) =>
+    `<button data-voice="${v.file}" title="${v.location}, ${v.date}">▶ ${p} ${k + 1}</button>`));
+  const missing = people.filter(p => !voices[p]);
+  $("bank").innerHTML = btns.length ? `<b>Reference voices</b> ${btns.join("")}` +
+    (missing.length ? ` <span class="muted">no sample yet: ${missing.join(", ")}</span>` : "") : "";
+  cant = prev ? prev.cant_hear : false; conf = prev ? prev.confidence : "unsure";
+  if (prev) { $("nameA").value = prev.names.A || "(unknown)"; $("nameB").value = prev.names.B || "(unknown)"; }
+  setText(prev ? prev.text : "", prev ? prev.speakers : null);
+  syncButtons();
+  $("where").textContent = c.clip_offset !== undefined
+    ? `disputed part: ${c.clip_offset.toFixed(1)}–${(c.clip_offset + c.clip_len).toFixed(1)} s of the clip` : "";
+  stopAt = null;
+  nospeech = prev ? !!prev.no_speech : false;
+  audio.src = audioUrl(c.id); audio.playbackRate = 1; audio.play().catch(() => {});
+}
+function setText(t, spk) {
+  $("text").value = t; renderChips(spk);
+}
+function renderChips(spk) {
+  const words = $("text").value.trim().split(/\s+/).filter(Boolean);
+  chipSpk = spk && spk.length === words.length ? spk : words.map((_, k) => chipSpk[k] || null);
+  $("chips").innerHTML = words.map((w, k) => `<span class="chip" data-k="${k}" ${chipSpk[k] ? `data-s="${chipSpk[k]}"` : ""}>${w.replace(/</g, "&lt;")}</span>`).join("");
+}
+$("chips").onclick = e => { const k = e.target.dataset.k; if (k === undefined) return; chipSpk[k] = chipSpk[k] === pick ? null : pick; renderChips(chipSpk); };
+$("text").oninput = () => renderChips();
+document.querySelectorAll("[data-pick]").forEach(b => b.onclick = () => { pick = b.dataset.pick; syncButtons(); });
+function syncButtons() {
+  document.querySelectorAll("[data-pick]").forEach(b => b.classList.toggle("on", b.dataset.pick === pick));
+  $("sure").classList.toggle("on", conf === "sure"); $("guess").classList.toggle("on", conf === "guess"); $("cant").classList.toggle("on", cant);
+  $("nospeech").classList.toggle("on", nospeech);
+  $("clean").classList.toggle("on", clean); $("clean").textContent = `Cleaned audio: ${clean ? "on" : "off"}`;
+}
+$("bank").onclick = e => { const f = e.target.dataset.voice; if (!f) return; audio.pause(); sample.src = `/voices/${f}`; sample.play(); };
+$("nospeech").onclick = () => { nospeech = !nospeech; if (nospeech) { cant = false; setText(""); } syncButtons(); };
+$("clean").onclick = () => {
+  clean = !clean; try { localStorage.setItem("clean", clean ? "1" : "0"); } catch (e) {}
+  const t = audio.currentTime; audio.src = audioUrl(clips[i].id); audio.currentTime = t; syncButtons();
+};
+$("sure").onclick = () => { conf = "sure"; syncButtons(); };
+$("guess").onclick = () => { conf = "guess"; syncButtons(); };
+$("cant").onclick = () => { cant = !cant; syncButtons(); };
+$("play").onclick = () => { audio.playbackRate = 1; audio.currentTime = 0; audio.play(); };
+$("slow").onclick = () => { audio.playbackRate = 0.75; audio.currentTime = 0; audio.play(); };
+let stopAt = null;
+$("part").onclick = () => { const c = clips[i]; audio.playbackRate = 1; audio.currentTime = c.clip_offset || 0;
+  stopAt = (c.clip_offset || 0) + (c.clip_len || audio.duration); audio.play(); };
+audio.ontimeupdate = () => { if (stopAt !== null && audio.currentTime >= stopAt) { audio.pause(); stopAt = null; } };
+async function save() {
+  const c = clips[i];
+  if (!$("text").value.trim() && !nospeech) cant = true;  // blank answer = speech I couldn't make out
+  const x = { id: c.id, conv: c.conv, start: c.start, end: c.end, mode: "assisted", text: $("text").value.trim(),
+              cant_hear: cant, no_speech: nospeech, audio: clean ? "cleaned" : "original", confidence: conf, speakers: chipSpk, names: { A: $("nameA").value, B: $("nameB").value },
+              shown: { parakeet: c.parakeet, whisper: c.whisper }, shown_order: order };
+  await fetch("/label", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(x) });
+  labels[c.id] = x; if (i < clips.length - 1) i++; show();
+}
+$("save").onclick = save;
+$("prev").onclick = () => { if (i > 0) { i--; show(); } };
+document.addEventListener("keydown", e => {
+  if (e.key === "Enter" && e.ctrlKey) { e.preventDefault(); save(); }
+  else if (e.key === " " && document.activeElement.tagName !== "TEXTAREA") { e.preventDefault(); $("play").click(); }
+});
+load();
+</script>
+</body>
+</html>

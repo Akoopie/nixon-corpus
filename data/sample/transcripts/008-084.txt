@@ -1,0 +1,149 @@
+# Nixon Corpus v1.1 | conversation 008-084 | 1971-09-10 | 3:53 PM - 4:17 PM | White House Telephone (WHT)
+# NARA participants: Nixon, Richard M. (President); Colson, Charles W.
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:00] NIXON: Hello. I have Mr. Colson, sir. Yeah. Good afternoon, Mr. President. Hi, Chuck, how goes the battle today.
+[00:00:06] COLSON: Well, I think pretty well, sir. I haven't seen the wires this afternoon, but our fellows, Didn't go to bed they went to bat I talked to Bob Griffin and he said he had, Good. Seven of the eight, went out on the floor and, he said they did a damn good job and Good. Bob was headed up for the TV gallery himself to do a tape, so we'll, we'll see if we We're trying to get some play. They did, and they did do well. Sure.
+[00:00:29] UNKNOWN: We had Hatfield,
+[00:00:31] NIXON: That's a good, I remember you gave me the... names yesterday
+[00:00:34] UNKNOWN: It's
+[00:00:35] COLSON: quite a group. Everybody showed up except Baker who took off for the weekend. Yeah. I talked to Ed Brooke this morning and, gee, Ed was just effusive over your speech yesterday. He called me
+[00:00:44] NIXON: except He didn't like that, the business about, menial work, but I've got to take that position. Well, he
+[00:00:49] UNKNOWN: called me to
+[00:00:50] NIXON: apologize. But you see, he didn't understand that, that, you see, my feeling on this, Chuck is this. When I was a kid, and I still feel the way of the Hell, I'd wash floors. I... Right....pick,
+[00:01:03] UNKNOWN: I have picked
+[00:01:03] NIXON: beans. Yeah. I have, You ever work in a, in, in a lemon packing house? No, haven't done that. The worst damn work there is. It stinks and it makes you sick, but you do it. But that's the way we did and in order to stay off of this thing.
+[00:01:16] COLSON: I remember the Depression. I remember working for
+[00:01:18] NIXON: Well, that's the point and so each has got a
+[00:01:20] COLSON: well ed called the reason for Brooke's call, Mr. President, he called me first thing this morning and he said, I've seen the story in the Washington Post where I'm quoted as being critical of the President. He said, Will you please tell the President that I issued a very positive statement and the only thing they picked up was the one comment I made about welfare and he said, I have to make that 'cause blacks all expect me to say those things. But he said, I'll tell ya, tell the President I am with him and will back him to the hilt on this program. Good. And he said, I've been doing some head counting and he said, I've, and he said, I said this to the press yesterday, but he said print it He said that there are a minimum of 40 Republicans who will support his program all the way and probably 43. And he said, I'm very bullish. He was, and he thought your speech was superb. So
+[00:02:06] UNKNOWN: Good. Great. He made the call really to...
+[00:02:09] NIXON: That's fine. Well, I know what it is and he's exactly right. I
+[00:02:12] UNKNOWN: know he has to
+[00:02:12] NIXON: say that. hum. I mean, he's got to say that to his constituency. But, there are our press people.
+[00:02:18] COLSON: Well, he issued a long statement.
+[00:02:19] UNKNOWN: They took the one What is, thing out of it that, the,
+[00:02:25] NIXON: I'll tell you the Labour leaders are certainly contrite right now. Boy,
+[00:02:29] UNKNOWN: did you turn
+[00:02:29] COLSON: them around? I've had a long conversation with Fitzsimmons and, he said you, you did a fantastic job with him. He said, I'll give you some quotes. he said, The President really scored points. it was a complete turnaround. He said, he won them over completely. Fitz told me, by the way, that this morning at nine o'clock he was asked to come to meany Meaney's office. He got to meany Meaney's office and they were all reading over your speech yesterday and trying to figure places they could pick it apart and he gave them a hell of a lecture. He said, Yeah, let's go over there and figure out how we're going to work together. And, after the meeting. He was awfully
+[00:03:08] UNKNOWN: good
+[00:03:08] NIXON: and fitzsimmons was just strong as the hell.
+[00:03:10] COLSON: Yeah, he's great. He, he, he really is just our kind of guy. He's, he's our people. He's with us. He is. He said that he said he rode back with meany in the car. Yeah. And, he turned to meany and he said, Now, what do you think now? And meany said, We're all right. The President means what he says. And, and so he's, his feeling is that meany is going to cooperate fully. He said, I, I think you've won your fight with him. Well,
+[00:03:36] NIXON: we have, our problem is what we do about such horrible things, deferred wage increases a lot of others, but,
+[00:03:42] UNKNOWN: Well, they're going to be
+[00:03:43] COLSON: all those problems. But I think basically, Mr. President, you have passed the point of... Yeah.
+[00:03:47] NIXON: You know, the part that we have to bear in mind though, that labor chuck is in a terribly weak position.
+[00:03:52] UNKNOWN: They're, they're enormously......only,
+[00:03:54] NIXON: Haldeman has just taken out another poll and my God, the people are just their own members don't support their position.
+[00:04:00] COLSON: Dave Bradshaw, who I, I brought him up last night so he could... Yeah,
+[00:04:04] UNKNOWN: yeah....and say
+[00:04:05] COLSON: hello to you. Yeah. He's a great fellow and he travels all over the country and he, talks to working men and he's a Democrat and he's kind of an earthy guy that they'll talk to. He said that all over the country and he gave me a list of the places he'd been. It was an interesting cross section. Denver, Colorado, Florida, Tampa, Minnesota, different towns in Missouri. He said the reaction everywhere among people is that the President has balls. He said the general feeling is totally different than it was six months ago. These feeling is he's strong, he's got guts, he will say what he said what had to be said and he'll stand up to Labour and he said that comes from rank and file working men that, they will say, Thank God that the President has the guts to, to talk to these guys. We don't, you know, and that we've been paying our damn dues all these years to get nothing for it. He said he didn't find one single Labour rank and file member rank and file. Yeah. Who was critical of you. They
+[00:05:00] UNKNOWN: all
+[00:05:00] NIXON: were cheering you. We have a, we have a situation, interestingly enough, Bob and in the poll that, he took on some other issues. Showed he's, it's only that we, you know, Gallup shows the same approval on his next poll, 49, 38 that he had before, but Gallup makes a very interesting finding that he's going to make an interesting finding. That is, whereas in March, those who, it's, it's sort of a, it's sort of on the same line as Harris. huh. They're, the, those who mildly approve were three to one over those who strongly approve. Now it was half and half 50 50 Yeah, that's so I... That's what Harris said. And he says that's what, that is what bodes well for the future. And as a matter of fact, Chuck, I doubt if we're going to go much up much in approval. My feeling is that we're going to stick around 50 and they're going to be about 35% that are not, you know, that are basically hardcore on the other side. Well... Until the war and the economy move. In other words, the fact only will change any of those people.
+[00:05:55] COLSON: Well, I, I think probably that's right, Mr. President, that, that it's going to take us, time to do it, but I think if the trend is right and it just, I'll, I'll settle for, it's just like the stock market. I'll settle for it. Yeah. A little bit of gain here, just, just steady, uh... Yeah. And if Harris is totally convinced that you don't even need fifty to be re-elected. He said the advantage of incumbency works Yeah.
+[00:06:18] NIXON: Yeah. We, Well, one thing about this, it's too really too bad in a way that we couldn't have had that talk on, on the, night television. Of course we couldn't do it because we'd had the one but two weeks before, but the same thing. But it was the applause factor apparently was carried somewhat in the news.
+[00:06:36] COLSON: Oh my... Golly, the news last night, we had three and four minutes of it on each of the networks. NBC gave us a little less, but, no that, the, the, well, it was three minutes and fifteen seconds on, ABC and two ten on NBC, four and a half minutes, four and three quarter minutes on CBS. And they picked out the best portions, I must say, Did they? They edited it beautifully, yes, sir. They, it was just like watching it again on, good on the, the live. No, it was, it was perfect. I wish it had been at night night, 'cause I think personally it was, I hate to keep saying this because you keep outdoing yourself, but it was the best performance, the best delivery I've, I've seen, the strongest
+[00:07:19] UNKNOWN: delivery, the
+[00:07:20] COLSON: most confident I, I wish eighty million people had seen it, but,
+[00:07:24] NIXON: Well, I don't think we could have done it, do you? No.
+[00:07:27] UNKNOWN: You definitely
+[00:07:27] NIXON: could have. having having taken prime time to I couldn't take prime time again to say that relatively the same thing.
+[00:07:34] UNKNOWN: No. No. You could... They would have raised hell. But it
+[00:07:37] NIXON: was, You see the Democrats would have asked for equal time too.
+[00:07:40] COLSON: Well, they probably will anyway, but as, as far as I'm concerned, let 'em, let them have it if they do let 'em have it because, they haven't got an answer to that.
+[00:07:47] NIXON: What's Jackson, Jackson, I understand's, now thrashing around about Vietnam, huh?
+[00:07:52] UNKNOWN: Oh, is he? I
+[00:07:52] NIXON: hadn't heard that. I heard that, well, in the news summary and indicated that he was going to take on about the Vietnam elections and our handling of them. Well, of course, if he's doing that, he's going to lose even his labor support.
+[00:08:02] COLSON: Oh, hell yes. That would be a terrible mistake for him. I watched him on, television yesterday while you were speaking. They, they came down on Teddy once who was not applauding.
+[00:08:11] NIXON: Yeah. No. They didn't look very bad.
+[00:08:13] COLSON: And they came down on Jackson once when he was really scowling. He was, he was sort of sitting back in his chair looking trying to put on a little, act. Well, he's, you know, he's become a candidate and he's... Yeah. It's to be expected i do not
+[00:08:27] NIXON: think he's got his heart in it, frankly. Jackson basically is a decent fellow, but, he's a damn good partisan. No, our Democratic friends......they are more partisan than our people, you know. Our, I'll never forget the Republicans when Truman came down and all the rest, we'd all clap and everything 'cause we're supposed to.
+[00:08:43] UNKNOWN: hum.
+[00:08:44] NIXON: yesterday I must say the Democrats did better than usual, but they, they were damn hard for them not to applaud a few of those things. It sure
+[00:08:50] UNKNOWN: was. It
+[00:08:50] COLSON: sure was. And, they, but they are more partisan and we tend to forget that, you know, a fellow like scoop jackson says things that we agree with and we think
+[00:08:58] UNKNOWN: he's a pretty good fellow. Sure. He'll cut us up at any turn. Oh, of course he will.
+[00:09:03] NIXON: jacksons boggs all those fellows, they are cut the n-cut our nuts off.
+[00:09:08] COLSON: Lou Harris had an interesting report on Muskie's trip. I
+[00:09:11] UNKNOWN: must...
+[00:09:11] COLSON: Oh, did he? I must say that Mus, that, Harris has the damnedest intelligence network I've ever seen. He must have. He, he will call me with things. Maybe it's
+[00:09:20] UNKNOWN: from Kennedy. No,
+[00:09:20] COLSON: no, he's No, no, he's out with Kennedy. Badly out with Kennedy. But he just has, he just has people around the country. He said Muskie stepped all over himself on the coast. He did a terrible job. Crowds were poor, the staff work was bad, his speeches were dull, and he thinks he's, he thinks he's made an unbelievable blunder with this black
+[00:09:42] NIXON: for Vice President, You know, it's a curious thing about that. A little thing like that is more important than we think. You remember when cabot lodge pulled that terrible boo-boo in '60 and I damn near died. I sure died. when he said he was going to put a black in the cabinet. I nearly died with... Well, well, first of all, that hurt us terribly Terribly, where we were really all wild, you know, we had the goddamn south won probably
+[00:10:04] UNKNOWN: Texas.
+[00:10:05] NIXON: Might have, it probably cost us Texas. But look, Texas, North Carolina any, but, but that, but because and basically it didn't help in the North. Yeah. Because it looked as if we were you know patronizing these people. So a little thing like the black vice president, if it gets around Chuck, if
+[00:10:21] UNKNOWN: you can get that around
+[00:10:22] NIXON: pretty good. Does Harris see, realize the potency of that thing?
+[00:10:26] COLSON: Well, he's going to ask a question i will tell you the extent to which he realizes the potency.
+[00:10:29] UNKNOWN: He's going to ask a question in his next poll.
+[00:10:31] COLSON: Would you vote against a candidate for President if he selected a black as his running mate. And he knows from having asked that question about Catholics and Jews that the answer will come out resoundingly no because
+[00:10:44] UNKNOWN: people will never admit that they would. But they will. But
+[00:10:47] COLSON: they will, but they will, or they would vote against it. Yeah. sure they will never admit it. Yeah. And, then he's going to publish that. Now that, he, he predicts that two-thirds to 75% of the people will say that it wouldn't make any difference to them. Right. And that just makes Muskie look like a fool. Of course he, it was all over television, you know, yesterday morning... What things, oh, golly, he got all kinds of coverage on it. Then
+[00:11:08] UNKNOWN: they had the About the black for Vice President? Yes, sir. I didn't
+[00:11:12] NIXON: realize it. I only saw a little squib in the newspaper about it.
+[00:11:15] COLSON: No, he was, Yesterday morning, no, night before last and yesterday morning, there was extensive coverage of him trying to answer what he really meant by it and he just, as he always does, he fudged it in answering it. He, he said, Well, it isn't what I think, it's my judgment. And then somebody said, Then what's the difference between what you think and your judgment? He said, Well, I certainly, it wouldn't make any difference to me, but my judgment is it would to other people. Just made it, he, he just stepped up... putting a black on Oh, boy. I would hope
+[00:11:45] NIXON: Ed Brooke would see that. Now, as a matter of fact, let me tell ya, if I were picking a guy for vice president, Brooke would come damn high on my list. Well, you know, I had a, I mean he knows that. I had
+[00:11:57] COLSON: a devilish thought yesterday that I'd like to call Frank Sargent in Massachusetts and say, Why don't you say that, there's the difference right, right there because ed brooke could be Vice President any day and then I was afraid, well... Yeah. We don't want to stir that up, but it's Yeah, but, but ed brooke
+[00:12:11] NIXON: is a tr-, as a matter of fact, you know, we have thought of him at times before because he's a high class fellow. but himself, Ed himself would not want it. hum. Because he knows. He talked, we talked about it once and he said, No, this isn't time. This isn't time. It would, it would raise too much hell. And he's right. He's right. Of course he's right. There will come a time. It will, I think it's first we got to move a fellow like Brooke into a, whenever he's willing, he's got to move into a top cabinet position. huh. And then from there he can go on. But that's the way it's going to happen. Well, he's,
+[00:12:43] COLSON: it, the kind of remark that Muskie made is
+[00:12:46] NIXON: But how did, what did Brooke think of that remark or did he... Did you talk to him about? Didn't discuss
+[00:12:50] UNKNOWN: it this morning. I should have asked him about it but you think that thing is getting around while... Oh, it's well around and it'll continue and,
+[00:12:57] NIXON: But maybe Chuck, maybe he figures it's helping him. No, it won't
+[00:13:00] UNKNOWN: help him, Mr. Why wouldn't it help
+[00:13:02] COLSON: him in the South? Well, for this reason, that in the South, the fact that he was so mealy-mouthed about it. I mean, it wasn't that he came out and said, I'm against a black on the ticket. he's accusing ph what he really is doing is, is saying that the country is prejudiced. I mean, he's really not indicting the blacks, he's indicting the public. It's like Yeah. It's like the catholics and kennedy you know, and he just, it's an incredibly bad gaffe And, Harris said it's really going to hurt him. He said the, the, the intellectual circles in New York are all talking about what a stupid thing it was. It was, it's an indictment of the American public more than the blacks. Now, that isn't going to help him in the South. Why
+[00:13:42] UNKNOWN: the hell did he say it, I wonder? He, he blundered.
+[00:13:45] NIXON: He was somebody asked him. Nobody asked him, he volunteered
+[00:13:47] COLSON: it. No, no, he was in a meeting with a group of blacks and... And they
+[00:13:50] UNKNOWN: asked him... And they asked him
+[00:13:51] NIXON: and he said Well, they, his answer should have been very easy. Certainly I'd put a black in any qualified position.
+[00:13:56] COLSON: I would never hold a man race, religion, or
+[00:13:59] NIXON: color against him make the usual, answer and then do what you please.
+[00:14:05] COLSON: And what he said was, in my judgment, the American people, that, you know, I want to get elected to help you, and that would not get me elected.
+[00:14:15] NIXON: And it's a terrible answer. What a terribly patronizing thing to say to the blacks. Exactly. I mean,
+[00:14:19] UNKNOWN: it was, it's patronizing to the blacks. But didn't, but on the other hand, Bradley praised
+[00:14:23] NIXON: him for it, didn't he? The mayor, mayor candidate out there. I didn't see. I think he did. He said it was
+[00:14:30] COLSON: very honest. Oh, yeah, see, that's right. He said he would, at least you can say he's candid, but but, Well, that'll get him just so far. But, but Lou reported that he did not do well with the pros and the politicians. Of course, they published the California poll while he was in California showing kennedy ahead of him I just think he's ill-fated. I think he's, Well, he's got Romney, Romney problems. We'll see.
+[00:14:54] UNKNOWN: Well, he, he did not make a very auspicious beginning, uh... Where is he now this week? See? Well, he
+[00:14:59] COLSON: goes to the governors conference on tuesday and, I have a man down there who is advance there Who's going to, have it all arranged that if he gets partisan, then Rockefeller and Reagan will have a press conference to take him apart if he gets partisan. He
+[00:15:17] NIXON: probably would think Well, he's capable of it. Are you remember his gridiron Yes. Remember he was a very stupid speech. I mean, because he was so mean and, and, and partisan.
+[00:15:28] COLSON: Well, he, that's right, and if he, if he blunders in and gets partisan there, the Vice President has a marvelous speech that bill safire wrote that very high level talks about the great risks you took in doing what you did, but how courageous and it's, it calls for unity and support. It's a good speech. If Muskie the next day gets partisan, we, as I say, we have a man, Al Abrams down there who's going to, organize a little counter-attack at Muskie, which would We'll, we'll hit him wherever he does this. I, I think that really he's, he's vulnerable to it because he overreacts to criticism and he, and he will say, he'll say, he has a penchant for saying the wrong thing. I think he said the wrong thing on bussing. And you know they, the, the bussing statement that he made was carried on television and immediately thereafter was, a CBS film of blacks and whites boycotting busing and then Chinese Americans and whites boycotting bussing. Yeah.
+[00:16:32] UNKNOWN: in the north michigan and california That's right. And
+[00:16:36] NIXON: it Well, hell, blacks and whites are both against it. Of course
+[00:16:39] UNKNOWN: they
+[00:16:39] COLSON: are. And he's for it now. He's,
+[00:16:42] UNKNOWN: he's attacked
+[00:16:43] COLSON: your position, so we're, we're seeing that that gets plenty of distribution and, and that one will keep alive also, I think he. Of course he'll be forced to a vote on that when the, when the, as he was on the Ribicoff amendment. So that's his position will be clearly for forced busing, I think before much longer, and that's a damned unpopular side of that issue.
+[00:17:12] NIXON: Okay. Well, anyway, we'll keep up the good work. We'll keep the, The, the, the, I, the idea, I, I know it we discussed it this morning that, Mills took on the idea that why should we, that, we should announce the end of the freeze. Of course we had to, in order to get, to keep the pre, to keep, to, to keep business, to, to be sure that business decisions, did not come up to the last minute and, but, on the other hand, I'm gonna, I think we, we need to get out quite soon the, the fact that, as of a certain date we will announce the second phase. bob told me that you wanted connally to do that Well, my feeling is that, my feeling is that, and it's a, it's a, it's a judgment call, but my feeling is that first we are going to do it by that date and I don't see any disadvantage in, setting our setting it to us. Let me tell you the advantage, Mr. President, market went
+[00:18:08] COLSON: off again today, as you perhaps know. how far? 4.8. Well, that's all right. Well, it was down at one point this noon, it, it was down almost eight points at noon. Now the reason it did, I, I talked to Al Gordon and, he spent a couple of hours checking around for me. I was concerned, frankly, that following and, and Al yesterday had said the market would go up after your speech. So he, he did some checking around and he doesn't agree with this himself, but he said this is the consensus. there's a general letdown feeling today that we may not know where we're going in November, that by announcing the end of the freeze, people are again uncertain what's going to happen. And the general, the Dow Jones wire and the, and the, general talk in New York is nothing will happen now until the new plan's announced. It's, this'll put everything sort of into, into a hiatus. So I, I just sent a memo over to john connally with a whole list of talking points. If he announces the date, he can make all the points that you never keep a freeze on. It's only temporary. It's only for the purpose of working out the permanent system. And by X date we will announce phase two and we've put extensive work into this over the past month. We know
+[00:19:28] UNKNOWN: what we're
+[00:19:28] COLSON: doing. It isn't as if we're just jumping from one thing to the next. And, I, he can put that, that uncertainty to rest completely. Yeah. if he announces a date and says all that is going on
+[00:19:40] UNKNOWN: Yeah. So I think that,
+[00:19:43] NIXON: Yeah. Well, my guess is, and I, I anticipate this could happen. You see, the, the, the question is does it happen now or does it happen later? And, my guess is that, that, that the way to, to, stifle it, however, is to, is to create is to give the impression that there is going to be as of a certain
+[00:20:03] COLSON: time. Well, I think if he, if he does that, I think you're absolutely right. deadlines are tricky and dangerous, but I think it's, in this instance, the thing we have got to do is keep people convinced that you are going to deliberately, right on charge, right
+[00:20:22] UNKNOWN: on, right
+[00:20:22] NIXON: on target. And also that I keep people convinced that we are still fighting inflation. Exactly. And we're going to keep a wage price freeze on, so to speak, or something
+[00:20:31] COLSON: to speak. Well, there will be, there will be no let up in the fight against inflation. The only thing about a freeze is that it's a temporary period in which you work out the permanent solution. Right.
+[00:20:40] NIXON: That's what meant. Now, as a matter of fact, that's where your speakers next week ought to really hit that very hard and I
+[00:20:45] UNKNOWN: trust they have
+[00:20:46] NIXON: today that I covered that if, if I covered that very directly in the speech where I said we are going to have a, you know, we're, let's, we're making a commitment to the American people in the Congress that we were going to set up a system which would avoid another runaway inflation.
+[00:21:01] COLSON: Well, Ziegler hit it today well and, hit that point and, and reinforced it, and our speakers, up in the Senate did and,
+[00:21:10] UNKNOWN: Good. So we'll,
+[00:21:11] COLSON: we'll get it of course, but, but if, I think you, you've got the right track with connally saying something very specific and, and making the point that we've done a hell of a lot of work in the last three weeks,
+[00:21:22] UNKNOWN: it is... As if, That's right. This thing is coming out of the air.
+[00:21:25] COLSON: I'm just looking at the wires, on meany it's, it's, running very, very well. He said that he, afl cio President meany one of the bitterest critics of the Administration's economic program, told President Nixon today Labor would cooperate with any equitable and fair wage and price stabilization program. I am convinced the Administration and the
+[00:21:46] NIXON: President are sincere. That's pretty good. Good. It's good, good stuff. Well, we'll try to keep this thing, this, economy thing It's a, it's a little tricky pro, time right now, but we don't want to lose the initiative of being for the program, that's all. Oh,
+[00:22:02] COLSON: I, well, you've, of course, by going to the Congress yesterday you did that.
+[00:22:05] NIXON: Yeah. But I mean, but I don't want, but I don't want the reaction to that, the fact that we said we were going to discontinue the freeze to leave the impression among people that it's you see what I mean?
+[00:22:18] COLSON: It's created a little bit of uncertainty.
+[00:22:20] NIXON: Uncertainty about the freeze. In other words,
+[00:22:22] UNKNOWN: uncertainty
+[00:22:22] COLSON: about the future. That, that's right. It has, unfortunately, that, that, as, as somebody, one of the Wall Street fellows said to al gordon we were just, we were used to it. We figured it was all being programmed and all of a sudden now we're in doubt as to what's going to happen a month from now. we can put Even
+[00:22:41] NIXON: though they, even though we announced the 90 day thing, they... That's right....they didn't have a face up
+[00:22:45] COLSON: to it. Well, they get used to it. That's right. They get accustomed to it and they feel things are...
+[00:22:49] NIXON: Of course, what would have happened, you see, the problem we have is that if we, this would build up if we hadn't covered it, this would have built up gradually. Oh, yeah. Then over the next month until hell wouldn't have it. They'd say, Now what you going to do next? And then the trouble is that they might, you might be forced into going on and freezing some more and it wouldn't work. It would
+[00:23:09] UNKNOWN: never work.
+[00:23:09] NIXON: That's the problem we have to, we cannot continue to freeze 'cause these labor guys are just about ready to jump out of their skins anyway.
+[00:23:15] COLSON: Well, whatever uncertainty there is can be quickly cleared up. I think it can be. I think the points can be made very effectively and, and Connally is just the guy to make 'em and take away that, that just that little element. If you
+[00:23:26] UNKNOWN: can, you
+[00:23:26] NIXON: convey though that thing. Well, of course, he's with the Japanese today, but, I'm going to see him tomorrow at noon, I think I
+[00:23:32] COLSON: will. I've sent a memo over so he would have it before he saw you tomorrow so that... Yeah. Just the points that I've just made. Good. I think he can do very well.
+[00:23:40] UNKNOWN: Okay. Fine. Fine, Chuck. Thank you, sir.

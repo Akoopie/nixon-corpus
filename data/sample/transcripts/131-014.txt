@@ -1,0 +1,65 @@
+# Nixon Corpus v1.1 | conversation 131-014 | 1972-05-17 | 5:48 PM - 5:57 PM | Camp David Study Table (CDST)
+# NARA participants: Nixon, Richard M. (President); Haig, Alexander M., Jr.
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:01] HAIG: Hello. Yes, sir.
+[00:00:03] NIXON: Well, what's the evening report, anything new?
+[00:00:06] HAIG: no, sir, it's been weirdly quiet today, an loc is, we still haven't got word that they have linked up, but they're on the verge of it and the attacks have broken off completely there.
+[00:00:21] NIXON: hum. The, But we're, we're continuing to hit them there, though, are we,
+[00:00:26] HAIG: Yes sir. We, well, today they did get the, the sorties at, at 1260.
+[00:00:31] NIXON: Yeah. And they're hitting that and they're hitting that kontum area hard too, are they?
+[00:00:35] HAIG: in kontum it looks like from all indications that attack should break out within the next 48 hours. of course we've been saying that for a week, but abrams said the units are all in position
+[00:00:49] NIXON: now. Well, why doesn't he just put the whole 1200 on that place for, I mean, if that's where he's, he, does he, if, or is his intelligence that accurate. He doesn't feel that he could really, really give that a wallop if, if they know they're in place, does he know where they are?
+[00:01:02] HAIG: No, I don't think he knows other than to know that the communications are such that, Yeah. They anticipate that.
+[00:01:09] NIXON: The, Well, he must have it all in mind in any event.
+[00:01:12] HAIG: Yes, sir. I think they're, they're doing quite well. Now, we had a report that, the Air Force General we sent out there says, has told the Chairman this morning. Yeah. That he feels the tide is just turning. You know, I sense this. Yeah. About three days ago. Yeah, you told me that, yeah. And he, he has now confirmed this himself. He said the, the captions they're getting and the, the general appearances that they've been hurt very badly.
+[00:01:42] NIXON: hum. What is, the one part, Al, that I, I'm going to write a little memorandum on it, but I really wish you'd follow up and I, I just don't think that Helms' outfit and that means, of course,
+[00:01:54] UNKNOWN: our own even our own
+[00:01:55] NIXON: that we're, we're, we're probably doing the maximum that we should in terms of propaganda. I mean, in North Vietnam and in South Vietnam with the enemy. Now, are we doing there like, for example, said, saying we, that, pointing out that more B-52s are coming, come on over, you're losing, you know, I mean, every kind of a thing, you know, that, I mean, it was commonplace in World War II, but, is Helms' outfit ever come up with anything. I remember I wrote a memorandum on it... about a week ago
+[00:02:25] HAIG: this isn't all Helms people, this is this interdepartmental group. Right. Are they by State?
+[00:02:31] NIXON: And what do they do? Well, for Christ's sake, State doesn't know anything about that sort
+[00:02:34] HAIG: of thing. Well, the people that do the job are, are cincpac and macv
+[00:02:38] UNKNOWN: Yeah,
+[00:02:38] HAIG: yeah. They've, they've had millions of, leaflets drop, both in the south and in the North.
+[00:02:44] NIXON: Right. But are they playing, I, I mean, are they playing the, frankly, the Dirty Tricks game, you know, that's what you have to do, Al, as you know, it's, you've got to mislead them. You, you don't tell 'em the truth. You tell 'em what is not true and scare the hell out of them.
+[00:02:56] HAIG: Right, and, and also, now, CIA has got that. They've got, the black broadcast, which they're threatening invasion and Yeah, yeah. Misleading,
+[00:03:07] NIXON: I think one point that should be made is, to now make a major effort to get prisoners to come over. Just say, Look, it's all over and your homeland is finished and you'll be treated well and,
+[00:03:18] HAIG: you are Exactly right, sir, because I, we have a report from a Frenchman, from Hanoi who, Yeah. He's a very reliable guy. hum. And he said that while the control is still quite good. Yeah. That there are real signs of shortages already, that the, the, people that have been bringing the bodies into, that have been killed in our airstrikes and putting them in the city hall there in Hanoi in outrage that, and are very upset at what the government's
+[00:03:46] UNKNOWN: gotten them into.
+[00:03:48] NIXON: What, where would these people have been killed? You mean
+[00:03:50] UNKNOWN: killed up
+[00:03:51] HAIG: in the north? Yes, in, in the Hanoi area. Yeah. The airstrikes. Yeah. And that the, the city at, the port is in very bad shape already, that the strikes have been much more brutal than they've ever experienced before.
+[00:04:03] NIXON: hum. Of course the ports. You mean apart from the mining, you mean?
+[00:04:07] HAIG: Apart from the mining, the airstrikes.
+[00:04:08] NIXON: Yeah. Good, good. Good.
+[00:04:10] HAIG: So there are some, and this is a pretty reliable guy. He's a guy that godley knows and gives high, high credit to. He said they're still in firm control, but there is a stronger disillusionment than he's ever sensed there before.
+[00:04:24] NIXON: hum. hum. They're getting word to the North too of the, of the reverses in the south in the battlefield.
+[00:04:29] HAIG: You see. They're concerned about their families. the, the families are concerned about what happened to their young. hum. Now, this is the kind of thing we're trying to stress in this, this, theme of the leaflets are dropping up north.
+[00:04:45] UNKNOWN: Yeah,
+[00:04:45] HAIG: yeah. That these guys are being totally devastated by B-52s and they'll never see them again. they're being chained to their weapons in some cases and
+[00:04:57] NIXON: Yeah, I, and I would just indicate that if you could just tell indicate that the President has ordered doubling the number of b 52s and that they're on the way. All right. Let's put that out. That the, that the number is of, now we have a hundred and the President has ordered another hundred to come in from Europe.
+[00:05:13] UNKNOWN: Put that out.
+[00:05:14] NIXON: Fine, sir. Let them, let 'em get a little frightened. Anything else you can think of, well, I just, I, I just want them to have some imagination now. I don't, we, we, we don't do anything that, you know, from the NSC group
+[00:05:27] UNKNOWN: and,
+[00:05:28] NIXON: and, and that's one place we've been terribly weak throughout this whole damn miserable war. That's right. Propaganda side is just because it's in too many hands and Christ State doesn't understand it. They, they, they're thinking in the usual, you know, what's true and all that and that's just crap. This is war. I mean, remember George Creel in World War One and, you know, even that silly OSS did pretty well at times. But what my point is, I really feel that this is a time now to, if, if, if the, if the propaganda, I mean, if the tide of battle is turning, that's the time to pour in the propaganda. Don't you think so?
+[00:06:05] HAIG: Yes, I do. I think it's very important that we do up north, especially and in the areas where there's been heavy, heavy losses in the... Yeah. Yeah. huh. I think we, we may see some, increased sapper activity, and terrorist activity here, starting Friday.
+[00:06:24] NIXON: Because of O, that's ho chi minh O'Giman's birthday.
+[00:06:26] HAIG: Right, sir. Yeah. And, that would probably show itself in the Delta and around iii corps areas. hum.
+[00:06:32] NIXON: hum. Well, I suppose all of our guys are, are, the Americans are certainly alert to that now, aren't they our forces?
+[00:06:38] HAIG: Oh, yes, they're on full alert for it.
+[00:06:40] NIXON: But the other thing, it seemed to me, remember you told me about that, if you could just, just, just do one thing, tell vogt to do one thing. You know, that C1, what was it, c 5 a they knocked out. You, you know, that plane, did you say that with the carrying ammunition killed seven guys? Yeah. This
+[00:06:58] UNKNOWN: morning at kontum Yeah,
+[00:06:59] NIXON: yeah. Why not just put 20 B-52s in that general area there? I mean, wouldn't that be, I mean, just, just to show the God damn it, if they pull this sort of thing, they're going to be hit.
+[00:07:08] UNKNOWN: Or has that
+[00:07:09] NIXON: been done? You know, I, I really feel that when they, what was that, a rocket attack
+[00:07:14] HAIG: or Well, we didn't know whether it was artillery or, or mortar or rocket. It just, there was a lucky hit on the damn plane and two South Vietnamese planes were hit too, and that airfield at kontum is now under pretty heavy fire.
+[00:07:30] NIXON: Well, get, and, but Abram, Abrams is hitting that area around it, is he? I mean, if it's under
+[00:07:35] HAIG: fire very heavily, both with, they broke up an attack yesterday with B-52s and another one that landed right on an attacking unit and the attack broke off, but the attacks by fire are continuing.
+[00:07:47] NIXON: I see. hum. Well, I guess we're just doing everything we can, just keep their feet to the fire and tell 'em on the propaganda side, just tell them that I'm, that I do, you can pass this word that I'm disappointed that I haven't had any ideas from Helms' outfit and none from the other outfit and I want to see some, I really want to see some Friday noon before I leave. What the hell are their new ideas in the propaganda front when you do that. Tell them I expect something. I don't want a long paper and I don't want a long report, but what new things can they suggest doing at this time, having in mind the fact that the tide of battle may be changing and, and, and, and that we want to really pour terror of the hearts of the enemy.
+[00:08:26] HAIG: Fine, sir. We did have a memo being prepared right now to tell you what we've done very briefly.
+[00:08:31] NIXON: Well, that's right, but I want some new ideas. Just say now, now tell 'em to work all night that I expect it, you know, they can do that. They could do that. It's not a routine business, you know, if other guys are out there, those poor guys in that plane or seven of them dead. Let these bastards that we have here work overnight for a change. You know, tell 'em to get off their ass and think of something fine
+[00:08:51] HAIG: Well, we'll get on it right now Yeah.
+[00:08:53] UNKNOWN: Good. Get some new programs here. Okay. Good. Fine.
+[00:08:56] NIXON: Apparently vogt Boe's doing a good job, isn't he?
+[00:08:59] HAIG: He's doing a superb job and I, you know the Chairman's, That's a good move. Got great reliance on it. Great.
+[00:09:05] UNKNOWN: Okay, al thank you. Fine.

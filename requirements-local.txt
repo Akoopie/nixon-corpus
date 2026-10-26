@@ -1,0 +1,25 @@
+# Local / CPU side: orchestration, scoring, merging, speaker naming, correction clients,
+# the explorer and the paper figures. Versions are from the working environment (Python 3.11).
+# Stage-specific GPU stacks are in requirements-gpu-whisper.txt and requirements-gpu-nemo.txt.
+# Also needed on PATH: ffmpeg.
+numpy==2.4.6
+requests==2.34.2
+tqdm==4.68.1
+jiwer==4.0.0
+pymupdf==1.28.2
+striprtf==0.0.33
+scikit-learn==1.9.0
+soundfile==0.14.0
+matplotlib==3.10.9
+Markdown==3.7
+sqlite-vec==0.1.9
+sentence-transformers==5.5.1
+anthropic==0.107.1
+huggingface_hub==0.36.2
+# Only needed when running Whisper / diarization / Parakeet locally rather than on a GPU pod
+# (the published results were produced on the pods):
+# torch==2.8.0
+# torchaudio==2.8.0
+# whisperx==3.8.6
+# faster-whisper==1.2.1
+# pyannote-audio==4.0.4

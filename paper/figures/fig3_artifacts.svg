@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.432756pt" height="238.995149pt" viewBox="0 0 516.432756 238.995149" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 238.995149 
+L 516.432756 238.995149 
+L 516.432756 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 55.907717 208.369134 
+L 148.010561 208.369134 
+L 148.010561 140.47937 
+L 55.907717 140.47937 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 55.907717 205.283236 
+L 57.094216 205.283236 
+L 57.094216 183.383312 
+L 55.907717 183.383312 
+z
+" clip-path="url(#p9a7d2765b6)" style="fill: #86b6ef; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 55.907717 165.465192 
+L 126.756058 165.465192 
+L 126.756058 143.565268 
+L 55.907717 143.565268 
+z
+" clip-path="url(#p9a7d2765b6)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4900ee0adc" d="M 0 0 
+L 0 2.5 
+" style="stroke: #222222; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4900ee0adc" x="55.907717" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="55.907717" y="219.09329" transform="rotate(-0 55.907717 219.09329)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="100.729967" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="100.729967" y="219.09329" transform="rotate(-0 100.729967 219.09329)">2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="145.552218" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="145.552218" y="219.09329" transform="rotate(-0 145.552218 219.09329)">4</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="101.959139" y="229.076915" transform="rotate(-0 101.959139 229.076915)">Loop words per 1,000 words</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4"/>
+     <g id="text_5">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #222222" x="52.407717" y="196.695352" transform="rotate(-0 52.407717 196.695352)">Parakeet v5</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5"/>
+     <g id="text_6">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #222222" x="52.407717" y="156.877308" transform="rotate(-0 52.407717 156.877308)">Whisper</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 55.907717 208.369134 
+L 148.010561 208.369134 
+" style="fill: none; stroke: #222222; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="59.219666" y="196.013625" transform="rotate(-0 59.219666 196.013625)">0.053</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="128.881509" y="156.195582" transform="rotate(-0 128.881509 156.195582)">3.2</text>
+   </g>
+   <g id="AnnotationBbox_1">
+    <g id="patch_6">
+     <path d="M 46.000592 138.645984 
+L 146.410561 138.645984 
+Q 150.250561 138.645984 150.250561 134.805984 
+L 150.250561 124.99775 
+Q 150.250561 121.15775 146.410561 121.15775 
+L 46.000592 121.15775 
+Q 42.160592 121.15775 42.160592 124.99775 
+L 42.160592 134.805984 
+Q 42.160592 138.645984 46.000592 138.645984 
+z
+" style="fill: #fdeae1; stroke: #eb6834; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-weight: 700; font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="44.400592" y="128.357125" transform="rotate(-0 44.400592 128.357125)">2,613 loops in Whisper's output</text>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="44.400592" y="135.213484" transform="rotate(-0 44.400592 135.213484)">105 in Parakeet v5's</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 235.508263 208.369134 
+L 327.611107 208.369134 
+L 327.611107 140.47937 
+L 235.508263 140.47937 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 235.508263 205.283236 
+L 263.440153 205.283236 
+L 263.440153 183.383312 
+L 235.508263 183.383312 
+z
+" clip-path="url(#pa335b798a6)" style="fill: #86b6ef; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 235.508263 165.465192 
+L 306.356605 165.465192 
+L 306.356605 143.565268 
+L 235.508263 143.565268 
+z
+" clip-path="url(#pa335b798a6)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="235.508263" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="235.508263" y="219.09329" transform="rotate(-0 235.508263 219.09329)">0</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="262.78205" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="262.78205" y="219.09329" transform="rotate(-0 262.78205 219.09329)">2</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="290.055838" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="290.055838" y="219.09329" transform="rotate(-0 290.055838 219.09329)">4</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="317.329625" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="317.329625" y="219.09329" transform="rotate(-0 317.329625 219.09329)">6</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #222222" transform="translate(227.576169 229.140899)">Other recognizer's words in this one's</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #222222" transform="translate(237.694333 236.187103)">≥20 s silences (% of its words)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_10"/>
+     <g id="text_16">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #222222" x="232.008263" y="196.695352" transform="rotate(-0 232.008263 196.695352)">Parakeet v5</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11"/>
+     <g id="text_17">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #222222" x="232.008263" y="156.917527" transform="rotate(-0 232.008263 156.917527)">WhisperX (batched)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_10">
+    <path d="M 235.508263 208.369134 
+L 327.611107 208.369134 
+" style="fill: none; stroke: #222222; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="265.565603" y="196.013625" transform="rotate(-0 265.565603 196.013625)">2.0</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="308.482055" y="156.195582" transform="rotate(-0 308.482055 156.195582)">5.2</text>
+   </g>
+   <g id="AnnotationBbox_2">
+    <g id="patch_11">
+     <path d="M 231.550795 138.645984 
+L 326.011107 138.645984 
+Q 329.851107 138.645984 329.851107 134.805984 
+L 329.851107 124.945109 
+Q 329.851107 121.105109 326.011107 121.105109 
+L 231.550795 121.105109 
+Q 227.710795 121.105109 227.710795 124.945109 
+L 227.710795 134.805984 
+Q 227.710795 138.645984 231.550795 138.645984 
+z
+" style="fill: #fdeae1; stroke: #eb6834; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-weight: 700; font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="229.950795" y="128.284" transform="rotate(-0 229.950795 128.284)">5.2% of Parakeet's words</text>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="229.950795" y="135.213484" transform="rotate(-0 229.950795 135.213484)">fall where WhisperX was silent ≥20 s</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 415.108809 208.369134 
+L 507.211654 208.369134 
+L 507.211654 140.47937 
+L 415.108809 140.47937 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 415.108809 205.283236 
+L 420.040336 205.283236 
+L 420.040336 183.383312 
+L 415.108809 183.383312 
+z
+" clip-path="url(#pc2c7dc1899)" style="fill: #86b6ef; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 415.108809 165.465192 
+L 485.957151 165.465192 
+L 485.957151 143.565268 
+L 415.108809 143.565268 
+z
+" clip-path="url(#pc2c7dc1899)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_8">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="415.108809" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="415.108809" y="219.09329" transform="rotate(-0 415.108809 219.09329)">0</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="449.836543" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="449.836543" y="219.09329" transform="rotate(-0 449.836543 219.09329)">50</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m4900ee0adc" x="484.564277" y="208.369134" style="fill: #222222; stroke: #222222; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #222222" x="484.564277" y="219.09329" transform="rotate(-0 484.564277 219.09329)">100</text>
+     </g>
+    </g>
+    <g id="text_25">
+     <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #222222" transform="translate(406.312927 229.057618)">Words written over muted withdrawals</text>
+     <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #222222" transform="translate(407.327536 236.027649)">(per hour; 18.4 hours of muted audio)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_26">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #222222" x="411.608809" y="196.695352" transform="rotate(-0 411.608809 196.695352)">Parakeet v5</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16"/>
+     <g id="text_27">
+      <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #222222" x="411.608809" y="156.877308" transform="rotate(-0 411.608809 156.877308)">Whisper</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_15">
+    <path d="M 415.108809 208.369134 
+L 507.211654 208.369134 
+" style="fill: none; stroke: #222222; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="422.165786" y="196.013625" transform="rotate(-0 422.165786 196.013625)">7.1</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="488.082601" y="156.195582" transform="rotate(-0 488.082601 156.195582)">102</text>
+   </g>
+   <g id="AnnotationBbox_3">
+    <g id="patch_16">
+     <path d="M 398.371763 138.645984 
+L 505.611654 138.645984 
+Q 509.451654 138.645984 509.451654 134.805984 
+L 509.451654 124.99775 
+Q 509.451654 121.15775 505.611654 121.15775 
+L 398.371763 121.15775 
+Q 394.531763 121.15775 394.531763 124.99775 
+L 394.531763 134.805984 
+Q 394.531763 138.645984 398.371763 138.645984 
+z
+" style="fill: #fdeae1; stroke: #eb6834; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <text style="font-weight: 700; font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="396.771763" y="128.357125" transform="rotate(-0 396.771763 128.357125)">1,882 Whisper words over silence</text>
+    </g>
+    <g id="text_31">
+     <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="396.771763" y="135.213484" transform="rotate(-0 396.771763 135.213484)">in 422 conversations; Parakeet v5: 131</text>
+    </g>
+   </g>
+  </g>
+  <g id="patch_17">
+   <path d="M 14.408504 26.384882 
+L 16.224094 26.384882 
+L 16.224094 14.195906 
+L 14.408504 14.195906 
+z
+" style="fill: #8c8c8c"/>
+  </g>
+  <g id="patch_18">
+   <path d="M 14.408504 43.109291 
+L 16.224094 43.109291 
+L 16.224094 30.920315 
+L 14.408504 30.920315 
+z
+" style="fill: #eb6834"/>
+  </g>
+  <g id="patch_19">
+   <path d="M 14.408504 59.833701 
+L 16.224094 59.833701 
+L 16.224094 47.644724 
+L 14.408504 47.644724 
+z
+" style="fill: #1baf7a"/>
+  </g>
+  <g id="patch_20">
+   <path d="M 14.408504 86.621102 
+L 16.224094 86.621102 
+L 16.224094 81.377008 
+L 14.408504 81.377008 
+z
+" style="fill: #8c8c8c"/>
+  </g>
+  <g id="patch_21">
+   <path d="M 14.408504 96.40063 
+L 16.224094 96.40063 
+L 16.224094 91.156535 
+L 14.408504 91.156535 
+z
+" style="fill: #eb6834"/>
+  </g>
+  <g id="patch_22">
+   <path d="M 14.408504 106.180157 
+L 16.224094 106.180157 
+L 16.224094 100.936063 
+L 14.408504 100.936063 
+z
+" style="fill: #1baf7a"/>
+  </g>
+  <g id="text_32">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="1.44" y="7.16625" transform="rotate(-0 1.44 7.16625)">a</text>
+  </g>
+  <g id="text_33">
+   <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="14.408504" y="7.020246" transform="rotate(-0 14.408504 7.020246)">Repetition loop</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 6.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="514.992756" y="6.728237" transform="rotate(-0 514.992756 6.728237)">421-018 · March 21, 1973 · EOB</text>
+  </g>
+  <g id="text_35">
+   <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="19.077165" y="18.644238" transform="rotate(-0 19.077165 18.644238)">Reference (WSPF)</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="18.717035" transform="rotate(-0 79.251024 18.717035)">Nixon: Well, John, you, uh, you, uh, you must feel that's, uh, is enough. Dean: No [unintelligible] Ehrlichman: Now,</text>
+  </g>
+  <g id="text_37">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="25.661917" transform="rotate(-0 79.251024 25.661917)">let's, let's try another, let's try another concommitant to that. Supposing Mitchell were to step out on that same day</text>
+  </g>
+  <g id="text_38">
+   <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="19.077165" y="35.289429" transform="rotate(-0 19.077165 35.289429)">Whisper alone</text>
+  </g>
+  <g id="text_39">
+   <text style="font-style: italic; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="35.441444" transform="rotate(-0 79.251024 35.441444)">As for that concept, John, you were, you were, you were, you were, you were, you were, … ('you were' 16 times in all) … I</text>
+  </g>
+  <g id="text_40">
+   <text style="font-style: italic; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="42.305889" transform="rotate(-0 79.251024 42.305889)">don't know what he would say</text>
+  </g>
+  <g id="text_41">
+   <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="19.077165" y="52.093057" transform="rotate(-0 19.077165 52.093057)">Corrected layer</text>
+  </g>
+  <g id="text_42">
+   <text style="font-style: italic; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="52.085416" transform="rotate(-0 79.251024 52.085416)">But, John, you, you want to do that, Well, I don't think it's good. Now, let's, let's try another, let's try another</text>
+  </g>
+  <g id="text_43">
+   <text style="font-style: italic; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="59.110735" transform="rotate(-0 79.251024 59.110735)">comment for that. Supposing Mitchell were to step out on that same day</text>
+  </g>
+  <g id="text_44">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="1.44" y="74.347352" transform="rotate(-0 1.44 74.347352)">b</text>
+  </g>
+  <g id="text_45">
+   <text style="font-weight: 700; font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="14.408504" y="74.201348" transform="rotate(-0 14.408504 74.201348)">Text produced over silence</text>
+  </g>
+  <g id="text_46">
+   <text style="font-size: 6.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="514.992756" y="73.984902" transform="rotate(-0 514.992756 73.984902)">099-010 · May 1, 1972 · Cabinet Room</text>
+  </g>
+  <g id="text_47">
+   <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="19.077165" y="85.746121" transform="rotate(-0 19.077165 85.746121)">Audio</text>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="85.898137" transform="rotate(-0 79.251024 85.898137)">Withdrawn by NARA: a tone for the first 55 min 42 s, muted to silence before transcription.</text>
+  </g>
+  <g id="text_49">
+   <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="19.077165" y="95.525649" transform="rotate(-0 19.077165 95.525649)">Whisper alone</text>
+  </g>
+  <g id="text_50">
+   <text style="font-style: italic; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="95.677665" transform="rotate(-0 79.251024 95.677665)">you … you … you … (one word every 30 s, 111 times, 0:00–55:00)</text>
+  </g>
+  <g id="text_51">
+   <text style="font-weight: 700; font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="19.077165" y="105.384395" transform="rotate(-0 19.077165 105.384395)">Corrected layer</text>
+  </g>
+  <g id="text_52">
+   <text style="font-style: italic; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="79.251024" y="105.457192" transform="rotate(-0 79.251024 105.457192)">(no words)</text>
+  </g>
+  <g id="text_53">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="17.127717" y="136.077313" transform="rotate(-0 17.127717 136.077313)">c</text>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="173.628263" y="136.077313" transform="rotate(-0 173.628263 136.077313)">d</text>
+  </g>
+  <g id="text_55">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #222222" x="376.328809" y="136.077313" transform="rotate(-0 376.328809 136.077313)">e</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9a7d2765b6">
+   <rect x="55.907717" y="140.47937" width="92.102844" height="67.889764"/>
+  </clipPath>
+  <clipPath id="pa335b798a6">
+   <rect x="235.508263" y="140.47937" width="92.102844" height="67.889764"/>
+  </clipPath>
+  <clipPath id="pc2c7dc1899">
+   <rect x="415.108809" y="140.47937" width="92.102844" height="67.889764"/>
+  </clipPath>
+ </defs>
+</svg>

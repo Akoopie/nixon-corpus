@@ -1,0 +1,16 @@
+# Nixon Corpus v1.1 | conversation 001-068 | 1971-04-12 | 5:34 PM - 5:36 PM | White House Telephone (WHT)
+# NARA participants: Nixon, Richard M. (President); Cox, Tricia Nixon
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:00] NIXON: Hello. miss tricia is on Yes. Hello. Hello? Hi, Trish. Hi, Daddy. Well, you didn't have your meeting with Ron today, I
+[00:00:08] UNKNOWN: was just talking to him and, No, we didn't have today, we decided to talk to priscilla and Lucy
+[00:00:13] NIXON: Winchester first. Fine. I think we'll have it tomorrow. Fine. Well, he said he'd be ready any time and I gave him a little fill-in on my own views so you can... You can, he'll be, he'll be ready to help out any way you want. Okay, well thanks. How are the other plans coming? You all, you still set the way we're talking? Yeah. Good.
+[00:00:28] UNKNOWN: We are. Yeah. I think ev everything is. So, how's your day coming? Oh, fine,
+[00:00:34] NIXON: fine. We're just sitting here with Secretary Rogers and going over a few things for his trip. We're going to, you, whether you decide in the bridesmaids yes or no. Are
+[00:00:42] UNKNOWN: we going to keep it open? on the bridesmaids Yeah. did you want to add someone? No, no, no, no, no, no.
+[00:00:48] NIXON: No, no, no. Did you decide just one or, or, or the group?
+[00:00:51] UNKNOWN: Well, I think I'm going to have a few.
+[00:00:55] NIXON: I agree. Then I think the basis you suggested would be great. Okay. But, but Ron will talk, we'll talk and he'll be very helpful on this, so. Okay, good. Well, I think we, we'll plan to meet with him around three tomorrow and, three is a good time for him, I think. Connie, yes, and have connie stuart come as well He says any time. Oh, she should. Yes. connie stuart Who, and who, who is, is it Helen Smith? Is that the press girl? Oh, bring her too. Okay. Bring her too. Anybody you want. In other words, that you want. You come over and,
+[00:01:24] UNKNOWN: or he'll come over there. Maybe that's a better touch. I think it's better if he
+[00:01:28] NIXON: comes here because... Yeah, he'll come over there and, and meet where? Where do you want to meet? I think in the yellow oval room. Yellow
+[00:01:34] UNKNOWN: oval. Thank you. betray he will call before he comes. Great. Okay, thanks, Ron.

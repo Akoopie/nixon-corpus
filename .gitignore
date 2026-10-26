@@ -1,0 +1,42 @@
+# secrets and local config
+.secrets/
+*.key
+*.pem
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# models, audio, data (published separately)
+*.nemo
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.db
+*.sqlite
+*.sqlite3
+nixon-data/
+audio/
+corpus_v5/
+explorer.db
+
+# OS / editor / scratch
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+scratch*/
+tmp/
+.vscode/
+.idea/

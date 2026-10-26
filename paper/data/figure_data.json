@@ -1,0 +1,3307 @@
+{
+ "accuracy": {
+  "dev": {
+   "whisper": {
+    "N": 48171,
+    "recall": 0.5717547902264848,
+    "wer": 0.4581179547860746,
+    "sub": 0.1389840360382803,
+    "del": 0.2892611737352349,
+    "ins": 0.029872745012559425,
+    "wrong_content_shown": 0.08263258212804125,
+    "names": 0.4882246376811594,
+    "names_n": 1104,
+    "nixon": 0.4449101452603778,
+    "short": 0.3106404437720625
+   },
+   "parakeet_v5": {
+    "N": 48189,
+    "recall": 0.7244391873664114,
+    "wer": 0.31280997738073,
+    "sub": 0.14233538774409096,
+    "del": 0.1332254248894976,
+    "ins": 0.03724916474714146,
+    "wrong_content_shown": 0.07191717932237628,
+    "names": 0.730072463768116,
+    "names_n": 1104,
+    "nixon": 0.6524659815123156,
+    "short": 0.49924357034795763
+   },
+   "merged": {
+    "N": 48189,
+    "recall": 0.7248334682188882,
+    "wer": 0.3113573637137106,
+    "sub": 0.1411732968104754,
+    "del": 0.13399323497063645,
+    "ins": 0.03619083193259873,
+    "wrong_content_shown": 0.06967062287238937,
+    "names": 0.7309782608695652,
+    "names_n": 1104,
+    "nixon": 0.6527530573577539,
+    "short": 0.5007564296520424
+   },
+   "corrected": {
+    "N": 48190,
+    "recall": 0.7392197551359203,
+    "wer": 0.29626478522515043,
+    "sub": 0.12658227848101267,
+    "del": 0.13419796638306702,
+    "ins": 0.03548454036107076,
+    "wrong_content_shown": 0.05871111827412336,
+    "names": 0.8115942028985508,
+    "names_n": 1104,
+    "nixon": 0.6622265602572199,
+    "short": 0.5083207261724659
+   }
+  },
+  "test": {
+   "whisper": {
+    "N": 351855,
+    "recall": 0.6916997058447372,
+    "wer": 0.41986898011965157,
+    "sub": 0.18129058845262963,
+    "del": 0.12700970570263317,
+    "ins": 0.11156868596438874,
+    "wrong_content_shown": 0.10358037807314341,
+    "names": 0.5996474390363333,
+    "names_n": 10211,
+    "nixon": 0.6355718208899647,
+    "short": 0.35962339867263465
+   },
+   "parakeet_v5": {
+    "N": 351100,
+    "recall": 0.7368043292509256,
+    "wer": 0.3806152093420678,
+    "sub": 0.181572201651951,
+    "del": 0.08162346909712333,
+    "ins": 0.11741953859299345,
+    "wrong_content_shown": 0.09840776592234078,
+    "names": 0.6024771453848422,
+    "names_n": 10173,
+    "nixon": 0.7156822739355501,
+    "short": 0.5080395794681509
+   },
+   "merged": {
+    "N": 351619,
+    "recall": 0.7371018062163877,
+    "wer": 0.37888737525560334,
+    "sub": 0.17935606437649843,
+    "del": 0.08354212940711395,
+    "ins": 0.11598918147199098,
+    "wrong_content_shown": 0.09575482093663912,
+    "names": 0.6027840407803157,
+    "names_n": 10201,
+    "nixon": 0.7163044174415287,
+    "short": 0.5092985569874219
+   },
+   "corrected": {
+    "N": 351883,
+    "recall": 0.7614263832012345,
+    "wer": 0.3508211536220846,
+    "sub": 0.15541529428815828,
+    "del": 0.08315832251060722,
+    "ins": 0.11224753682331912,
+    "wrong_content_shown": 0.07983606376280061,
+    "names": 0.8007246376811594,
+    "names_n": 10212,
+    "nixon": 0.7331665454545454,
+    "short": 0.5152286220988511
+   }
+  },
+  "test_ci": {
+   "whisper": {
+    "recall": [
+     0.6743755862993872,
+     0.7073494191049382
+    ],
+    "wer": [
+     0.3853533141057673,
+     0.46031092896576037
+    ],
+    "names": [
+     0.5697381571705971,
+     0.6279498020467488
+    ],
+    "nixon": [
+     0.6173416948411976,
+     0.6529771021264541
+    ]
+   },
+   "parakeet_v5": {
+    "recall": [
+     0.7201861529297025,
+     0.751452001446047
+    ],
+    "wer": [
+     0.3483530976166451,
+     0.41954682653004227
+    ],
+    "names": [
+     0.5721277586823253,
+     0.6316480702488582
+    ],
+    "nixon": [
+     0.6995565442237038,
+     0.729783391634116
+    ]
+   },
+   "merged": {
+    "recall": [
+     0.7206516812232939,
+     0.7517468464110306
+    ],
+    "wer": [
+     0.3467826138022142,
+     0.4176005679927008
+    ],
+    "names": [
+     0.5723282586473293,
+     0.6322279543117812
+    ],
+    "nixon": [
+     0.7003276191026934,
+     0.7303022994141367
+    ]
+   },
+   "corrected": {
+    "recall": [
+     0.7451024649395018,
+     0.775866045948286
+    ],
+    "wer": [
+     0.31911890469741677,
+     0.3895851491429983
+    ],
+    "names": [
+     0.7725753158681127,
+     0.8245595634669285
+    ],
+    "nixon": [
+     0.7170121599647484,
+     0.7475998708135265
+    ]
+   }
+  },
+  "test_n_convs": 165,
+  "test_ref_words": 351883,
+  "dev_ci_block": {
+   "merged": {
+    "word_recall": [
+     0.7138,
+     0.7357
+    ],
+    "wer": [
+     0.3004,
+     0.3253
+    ],
+    "sub": [
+     0.1356,
+     0.1491
+    ],
+    "del": [
+     0.1232,
+     0.1434
+    ],
+    "ins": [
+     0.0319,
+     0.0437
+    ],
+    "name_recall": [
+     0.6965,
+     0.7636
+    ],
+    "nixon_recall": [
+     0.6335,
+     0.6703
+    ],
+    "short_recall": [
+     0.4453,
+     0.5031
+    ]
+   },
+   "corrected": {
+    "word_recall": [
+     0.7278,
+     0.7504
+    ],
+    "wer": [
+     0.2849,
+     0.3103
+    ],
+    "sub": [
+     0.1211,
+     0.1343
+    ],
+    "del": [
+     0.1234,
+     0.1436
+    ],
+    "ins": [
+     0.0311,
+     0.0433
+    ],
+    "name_recall": [
+     0.7814,
+     0.8411
+    ],
+    "nixon_recall": [
+     0.643,
+     0.6799
+    ],
+    "short_recall": [
+     0.4526,
+     0.5106
+    ]
+   }
+  }
+ },
+ "test_per_conv": [
+  {
+   "conv": "001-079",
+   "date": "1971-04-13",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "304",
+   "whisper_recall": "0.875",
+   "parakeet_v5_recall": "0.868",
+   "merged_recall": "0.868",
+   "corrected_recall": "0.908",
+   "names": "4"
+  },
+  {
+   "conv": "001-101",
+   "date": "1971-04-15",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "505",
+   "whisper_recall": "0.828",
+   "parakeet_v5_recall": "0.836",
+   "merged_recall": "0.836",
+   "corrected_recall": "0.859",
+   "names": "16"
+  },
+  {
+   "conv": "002-095",
+   "date": "1971-05-05",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1119",
+   "whisper_recall": "0.391",
+   "parakeet_v5_recall": "0.577",
+   "merged_recall": "0.521",
+   "corrected_recall": "0.550",
+   "names": "31"
+  },
+  {
+   "conv": "006-153",
+   "date": "1971-07-05",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "196",
+   "whisper_recall": "0.816",
+   "parakeet_v5_recall": "0.872",
+   "merged_recall": "0.872",
+   "corrected_recall": "0.878",
+   "names": "2"
+  },
+  {
+   "conv": "016-014",
+   "date": "1971-12-06",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1056",
+   "whisper_recall": "0.841",
+   "parakeet_v5_recall": "0.860",
+   "merged_recall": "0.859",
+   "corrected_recall": "0.864",
+   "names": "25"
+  },
+  {
+   "conv": "016-064",
+   "date": "1971-12-08",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "1097",
+   "whisper_recall": "0.682",
+   "parakeet_v5_recall": "0.614",
+   "merged_recall": "0.614",
+   "corrected_recall": "0.701",
+   "names": "28"
+  },
+  {
+   "conv": "017-028",
+   "date": "1971-12-24",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "292",
+   "whisper_recall": "0.836",
+   "parakeet_v5_recall": "0.877",
+   "merged_recall": "0.877",
+   "corrected_recall": "0.884",
+   "names": "4"
+  },
+  {
+   "conv": "020-084",
+   "date": "1972-02-09",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "800",
+   "whisper_recall": "0.815",
+   "parakeet_v5_recall": "0.840",
+   "merged_recall": "0.841",
+   "corrected_recall": "0.859",
+   "names": "2"
+  },
+  {
+   "conv": "022-073",
+   "date": "1972-04-04",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "824",
+   "whisper_recall": "0.839",
+   "parakeet_v5_recall": "0.877",
+   "merged_recall": "0.877",
+   "corrected_recall": "0.890",
+   "names": "14"
+  },
+  {
+   "conv": "023-114",
+   "date": "1972-05-02",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "450",
+   "whisper_recall": "0.836",
+   "parakeet_v5_recall": "0.858",
+   "merged_recall": "0.858",
+   "corrected_recall": "0.898",
+   "names": "7"
+  },
+  {
+   "conv": "024-126",
+   "date": "1972-05-15",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "970",
+   "whisper_recall": "0.776",
+   "parakeet_v5_recall": "0.792",
+   "merged_recall": "0.792",
+   "corrected_recall": "0.820",
+   "names": "12"
+  },
+  {
+   "conv": "034-005",
+   "date": "1972-11-29",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "352",
+   "whisper_recall": "0.716",
+   "parakeet_v5_recall": "0.747",
+   "merged_recall": "0.747",
+   "corrected_recall": "0.761",
+   "names": "0"
+  },
+  {
+   "conv": "034-011",
+   "date": "1972-12-04",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "1915",
+   "whisper_recall": "0.880",
+   "parakeet_v5_recall": "0.905",
+   "merged_recall": "0.905",
+   "corrected_recall": "0.911",
+   "names": "21"
+  },
+  {
+   "conv": "034-045",
+   "date": "1972-12-11",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "934",
+   "whisper_recall": "0.737",
+   "parakeet_v5_recall": "0.796",
+   "merged_recall": "0.796",
+   "corrected_recall": "0.808",
+   "names": "5"
+  },
+  {
+   "conv": "034-138",
+   "date": "1972-12-19",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "670",
+   "whisper_recall": "0.824",
+   "parakeet_v5_recall": "0.821",
+   "merged_recall": "0.821",
+   "corrected_recall": "0.863",
+   "names": "13"
+  },
+  {
+   "conv": "035-019",
+   "date": "1972-12-27",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1009",
+   "whisper_recall": "0.836",
+   "parakeet_v5_recall": "0.859",
+   "merged_recall": "0.859",
+   "corrected_recall": "0.872",
+   "names": "4"
+  },
+  {
+   "conv": "035-034",
+   "date": "1972-12-28",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "346",
+   "whisper_recall": "0.740",
+   "parakeet_v5_recall": "0.783",
+   "merged_recall": "0.783",
+   "corrected_recall": "0.789",
+   "names": "2"
+  },
+  {
+   "conv": "035-035",
+   "date": "1972-12-28",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "2623",
+   "whisper_recall": "0.807",
+   "parakeet_v5_recall": "0.838",
+   "merged_recall": "0.838",
+   "corrected_recall": "0.845",
+   "names": "38"
+  },
+  {
+   "conv": "036-030",
+   "date": "1973-01-21",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "548",
+   "whisper_recall": "0.870",
+   "parakeet_v5_recall": "0.883",
+   "merged_recall": "0.883",
+   "corrected_recall": "0.889",
+   "names": "0"
+  },
+  {
+   "conv": "036-113",
+   "date": "1973-01-25",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "537",
+   "whisper_recall": "0.844",
+   "parakeet_v5_recall": "0.890",
+   "merged_recall": "0.890",
+   "corrected_recall": "0.898",
+   "names": "6"
+  },
+  {
+   "conv": "037-170",
+   "date": "1973-03-20",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "1490",
+   "whisper_recall": "0.814",
+   "parakeet_v5_recall": "0.854",
+   "merged_recall": "0.854",
+   "corrected_recall": "0.862",
+   "names": "10"
+  },
+  {
+   "conv": "038-011",
+   "date": "1973-04-13",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "207",
+   "whisper_recall": "0.826",
+   "parakeet_v5_recall": "0.836",
+   "merged_recall": "0.836",
+   "corrected_recall": "0.836",
+   "names": "4"
+  },
+  {
+   "conv": "039-087",
+   "date": "1973-06-04",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "495",
+   "whisper_recall": "0.844",
+   "parakeet_v5_recall": "0.879",
+   "merged_recall": "0.879",
+   "corrected_recall": "0.907",
+   "names": "7"
+  },
+  {
+   "conv": "043-006",
+   "date": "1973-01-31",
+   "location": "WHT",
+   "whisper_mode": "sequential",
+   "ref_words": "940",
+   "whisper_recall": "0.776",
+   "parakeet_v5_recall": "0.834",
+   "merged_recall": "0.834",
+   "corrected_recall": "0.846",
+   "names": "16"
+  },
+  {
+   "conv": "043-127",
+   "date": "1973-02-20",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "462",
+   "whisper_recall": "0.816",
+   "parakeet_v5_recall": "0.848",
+   "merged_recall": "0.848",
+   "corrected_recall": "0.868",
+   "names": "7"
+  },
+  {
+   "conv": "044-092",
+   "date": "1973-03-29",
+   "location": "WHT",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "236",
+   "whisper_recall": "0.886",
+   "parakeet_v5_recall": "0.886",
+   "merged_recall": "0.886",
+   "corrected_recall": "0.903",
+   "names": "4"
+  },
+  {
+   "conv": "053-002",
+   "date": "1971-04-17",
+   "location": "CAB",
+   "whisper_mode": "sequential",
+   "ref_words": "1027",
+   "whisper_recall": "0.681",
+   "parakeet_v5_recall": "0.733",
+   "merged_recall": "0.733",
+   "corrected_recall": "0.759",
+   "names": "19"
+  },
+  {
+   "conv": "068-007",
+   "date": "1971-08-10",
+   "location": "CAB",
+   "whisper_mode": "sequential",
+   "ref_words": "3594",
+   "whisper_recall": "0.755",
+   "parakeet_v5_recall": "0.726",
+   "merged_recall": "0.726",
+   "corrected_recall": "0.767",
+   "names": "124"
+  },
+  {
+   "conv": "089-001",
+   "date": "1972-02-02",
+   "location": "CAB",
+   "whisper_mode": "sequential",
+   "ref_words": "11524",
+   "whisper_recall": "0.734",
+   "parakeet_v5_recall": "0.739",
+   "merged_recall": "0.740",
+   "corrected_recall": "0.770",
+   "names": "282"
+  },
+  {
+   "conv": "102-008",
+   "date": "1972-06-13",
+   "location": "CAB",
+   "whisper_mode": "sequential",
+   "ref_words": "2794",
+   "whisper_recall": "0.657",
+   "parakeet_v5_recall": "0.719",
+   "merged_recall": "0.719",
+   "corrected_recall": "0.727",
+   "names": "66"
+  },
+  {
+   "conv": "122-001",
+   "date": "1973-04-10",
+   "location": "CAB",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1130",
+   "whisper_recall": "0.766",
+   "parakeet_v5_recall": "0.777",
+   "merged_recall": "0.777",
+   "corrected_recall": "0.809",
+   "names": "38"
+  },
+  {
+   "conv": "149-014",
+   "date": "1972-10-15",
+   "location": "CDST",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2591",
+   "whisper_recall": "0.811",
+   "parakeet_v5_recall": "0.861",
+   "merged_recall": "0.861",
+   "corrected_recall": "0.873",
+   "names": "52"
+  },
+  {
+   "conv": "151-007",
+   "date": "1972-10-22",
+   "location": "CDST",
+   "whisper_mode": "sequential",
+   "ref_words": "974",
+   "whisper_recall": "0.795",
+   "parakeet_v5_recall": "0.818",
+   "merged_recall": "0.818",
+   "corrected_recall": "0.836",
+   "names": "16"
+  },
+  {
+   "conv": "151-011",
+   "date": "1972-10-22",
+   "location": "CDST",
+   "whisper_mode": "sequential",
+   "ref_words": "1169",
+   "whisper_recall": "0.832",
+   "parakeet_v5_recall": "0.864",
+   "merged_recall": "0.865",
+   "corrected_recall": "0.876",
+   "names": "19"
+  },
+  {
+   "conv": "162-007",
+   "date": "1973-02-24",
+   "location": "CDST",
+   "whisper_mode": "sequential",
+   "ref_words": "295",
+   "whisper_recall": "0.837",
+   "parakeet_v5_recall": "0.831",
+   "merged_recall": "0.831",
+   "corrected_recall": "0.851",
+   "names": "5"
+  },
+  {
+   "conv": "191-018",
+   "date": "1972-05-18",
+   "location": "CDHW",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2798",
+   "whisper_recall": "0.762",
+   "parakeet_v5_recall": "0.802",
+   "merged_recall": "0.806",
+   "corrected_recall": "0.841",
+   "names": "59"
+  },
+  {
+   "conv": "245-006",
+   "date": "1971-04-06",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "524",
+   "whisper_recall": "0.492",
+   "parakeet_v5_recall": "0.336",
+   "merged_recall": "0.336",
+   "corrected_recall": "0.374",
+   "names": "22"
+  },
+  {
+   "conv": "245-018",
+   "date": "1971-04-06",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "599",
+   "whisper_recall": "0.604",
+   "parakeet_v5_recall": "0.554",
+   "merged_recall": "0.554",
+   "corrected_recall": "0.603",
+   "names": "15"
+  },
+  {
+   "conv": "255-030",
+   "date": "1971-06-09",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "1307",
+   "whisper_recall": "0.357",
+   "parakeet_v5_recall": "0.283",
+   "merged_recall": "0.285",
+   "corrected_recall": "0.285",
+   "names": "28"
+  },
+  {
+   "conv": "262-009",
+   "date": "1971-07-19",
+   "location": "EOB",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2469",
+   "whisper_recall": "0.235",
+   "parakeet_v5_recall": "0.338",
+   "merged_recall": "0.338",
+   "corrected_recall": "0.318",
+   "names": "77"
+  },
+  {
+   "conv": "283-015",
+   "date": "1971-10-06",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "1557",
+   "whisper_recall": "0.622",
+   "parakeet_v5_recall": "0.647",
+   "merged_recall": "0.647",
+   "corrected_recall": "0.673",
+   "names": "43"
+  },
+  {
+   "conv": "302-032",
+   "date": "1971-11-01",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "767",
+   "whisper_recall": "0.561",
+   "parakeet_v5_recall": "0.666",
+   "merged_recall": "0.668",
+   "corrected_recall": "0.696",
+   "names": "14"
+  },
+  {
+   "conv": "307-027",
+   "date": "1971-12-08",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "5022",
+   "whisper_recall": "0.513",
+   "parakeet_v5_recall": "0.431",
+   "merged_recall": "0.457",
+   "corrected_recall": "0.504",
+   "names": "240"
+  },
+  {
+   "conv": "320-028",
+   "date": "1972-02-08",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "403",
+   "whisper_recall": "0.474",
+   "parakeet_v5_recall": "0.447",
+   "merged_recall": "0.447",
+   "corrected_recall": "0.491",
+   "names": "22"
+  },
+  {
+   "conv": "324-022",
+   "date": "1972-03-22",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "969",
+   "whisper_recall": "0.544",
+   "parakeet_v5_recall": "0.626",
+   "merged_recall": "0.626",
+   "corrected_recall": "0.637",
+   "names": "57"
+  },
+  {
+   "conv": "404-006",
+   "date": "1973-01-23",
+   "location": "EOB",
+   "whisper_mode": "sequential",
+   "ref_words": "309",
+   "whisper_recall": "0.693",
+   "parakeet_v5_recall": "0.680",
+   "merged_recall": "0.680",
+   "corrected_recall": "0.718",
+   "names": "14"
+  },
+  {
+   "conv": "449-012",
+   "date": "1971-09-21",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1140",
+   "whisper_recall": "0.632",
+   "parakeet_v5_recall": "0.646",
+   "merged_recall": "0.652",
+   "corrected_recall": "0.669",
+   "names": "36"
+  },
+  {
+   "conv": "459-002",
+   "date": "1971-02-27",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "4092",
+   "whisper_recall": "0.562",
+   "parakeet_v5_recall": "0.628",
+   "merged_recall": "0.628",
+   "corrected_recall": "0.645",
+   "names": "130"
+  },
+  {
+   "conv": "460-027",
+   "date": "1971-02-26",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "834",
+   "whisper_recall": "0.582",
+   "parakeet_v5_recall": "0.625",
+   "merged_recall": "0.625",
+   "corrected_recall": "0.639",
+   "names": "12"
+  },
+  {
+   "conv": "467-011",
+   "date": "1971-03-12",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "909",
+   "whisper_recall": "0.421",
+   "parakeet_v5_recall": "0.466",
+   "merged_recall": "0.466",
+   "corrected_recall": "0.498",
+   "names": "12"
+  },
+  {
+   "conv": "468-005",
+   "date": "1971-03-16",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "964",
+   "whisper_recall": "0.478",
+   "parakeet_v5_recall": "0.587",
+   "merged_recall": "0.587",
+   "corrected_recall": "0.627",
+   "names": "21"
+  },
+  {
+   "conv": "469-013",
+   "date": "1971-03-18",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2233",
+   "whisper_recall": "0.685",
+   "parakeet_v5_recall": "0.698",
+   "merged_recall": "0.698",
+   "corrected_recall": "0.726",
+   "names": "49"
+  },
+  {
+   "conv": "475-023",
+   "date": "1971-04-08",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "3646",
+   "whisper_recall": "0.697",
+   "parakeet_v5_recall": "0.753",
+   "merged_recall": "0.753",
+   "corrected_recall": "0.784",
+   "names": "103"
+  },
+  {
+   "conv": "476-008",
+   "date": "1971-04-09",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "656",
+   "whisper_recall": "0.697",
+   "parakeet_v5_recall": "0.712",
+   "merged_recall": "0.712",
+   "corrected_recall": "0.739",
+   "names": "13"
+  },
+  {
+   "conv": "478-007",
+   "date": "1971-04-13",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2011",
+   "whisper_recall": "0.685",
+   "parakeet_v5_recall": "0.758",
+   "merged_recall": "0.758",
+   "corrected_recall": "0.785",
+   "names": "74"
+  },
+  {
+   "conv": "479-001",
+   "date": "1971-04-14",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2532",
+   "whisper_recall": "0.723",
+   "parakeet_v5_recall": "0.732",
+   "merged_recall": "0.732",
+   "corrected_recall": "0.759",
+   "names": "73"
+  },
+  {
+   "conv": "481-007",
+   "date": "1971-04-17",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "4484",
+   "whisper_recall": "0.680",
+   "parakeet_v5_recall": "0.745",
+   "merged_recall": "0.745",
+   "corrected_recall": "0.757",
+   "names": "119"
+  },
+  {
+   "conv": "483-004",
+   "date": "1971-04-20",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1166",
+   "whisper_recall": "0.625",
+   "parakeet_v5_recall": "0.735",
+   "merged_recall": "0.734",
+   "corrected_recall": "0.746",
+   "names": "51"
+  },
+  {
+   "conv": "483-013",
+   "date": "1971-04-20",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "535",
+   "whisper_recall": "0.564",
+   "parakeet_v5_recall": "0.652",
+   "merged_recall": "0.652",
+   "corrected_recall": "0.675",
+   "names": "14"
+  },
+  {
+   "conv": "487-007",
+   "date": "1971-04-23",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3249",
+   "whisper_recall": "0.725",
+   "parakeet_v5_recall": "0.785",
+   "merged_recall": "0.785",
+   "corrected_recall": "0.807",
+   "names": "46"
+  },
+  {
+   "conv": "487-021",
+   "date": "1971-04-23",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2812",
+   "whisper_recall": "0.677",
+   "parakeet_v5_recall": "0.743",
+   "merged_recall": "0.744",
+   "corrected_recall": "0.763",
+   "names": "54"
+  },
+  {
+   "conv": "489-005",
+   "date": "1971-04-26",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2419",
+   "whisper_recall": "0.625",
+   "parakeet_v5_recall": "0.697",
+   "merged_recall": "0.697",
+   "corrected_recall": "0.715",
+   "names": "39"
+  },
+  {
+   "conv": "489-017",
+   "date": "1971-04-26",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1413",
+   "whisper_recall": "0.756",
+   "parakeet_v5_recall": "0.786",
+   "merged_recall": "0.786",
+   "corrected_recall": "0.801",
+   "names": "21"
+  },
+  {
+   "conv": "496-009",
+   "date": "1971-05-10",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "4723",
+   "whisper_recall": "0.666",
+   "parakeet_v5_recall": "0.732",
+   "merged_recall": "0.733",
+   "corrected_recall": "0.751",
+   "names": "132"
+  },
+  {
+   "conv": "496-016",
+   "date": "1971-05-10",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1497",
+   "whisper_recall": "0.625",
+   "parakeet_v5_recall": "0.705",
+   "merged_recall": "0.705",
+   "corrected_recall": "0.718",
+   "names": "88"
+  },
+  {
+   "conv": "498-002",
+   "date": "1971-05-13",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "564",
+   "whisper_recall": "0.663",
+   "parakeet_v5_recall": "0.722",
+   "merged_recall": "0.722",
+   "corrected_recall": "0.757",
+   "names": "12"
+  },
+  {
+   "conv": "498-011",
+   "date": "1971-05-13",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1405",
+   "whisper_recall": "0.721",
+   "parakeet_v5_recall": "0.799",
+   "merged_recall": "0.799",
+   "corrected_recall": "0.807",
+   "names": "35"
+  },
+  {
+   "conv": "498-018",
+   "date": "1971-05-13",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "618",
+   "whisper_recall": "0.772",
+   "parakeet_v5_recall": "0.791",
+   "merged_recall": "0.793",
+   "corrected_recall": "0.811",
+   "names": "13"
+  },
+  {
+   "conv": "500-010",
+   "date": "1971-05-18",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1967",
+   "whisper_recall": "0.664",
+   "parakeet_v5_recall": "0.742",
+   "merged_recall": "0.742",
+   "corrected_recall": "0.763",
+   "names": "50"
+  },
+  {
+   "conv": "501-018",
+   "date": "1971-05-19",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3223",
+   "whisper_recall": "0.758",
+   "parakeet_v5_recall": "0.763",
+   "merged_recall": "0.763",
+   "corrected_recall": "0.794",
+   "names": "95"
+  },
+  {
+   "conv": "501-019",
+   "date": "1971-05-19",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1509",
+   "whisper_recall": "0.596",
+   "parakeet_v5_recall": "0.610",
+   "merged_recall": "0.610",
+   "corrected_recall": "0.627",
+   "names": "20"
+  },
+  {
+   "conv": "504-002",
+   "date": "1971-05-27",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "537",
+   "whisper_recall": "0.482",
+   "parakeet_v5_recall": "0.598",
+   "merged_recall": "0.598",
+   "corrected_recall": "0.616",
+   "names": "14"
+  },
+  {
+   "conv": "504-013",
+   "date": "1971-05-27",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "3841",
+   "whisper_recall": "0.653",
+   "parakeet_v5_recall": "0.692",
+   "merged_recall": "0.693",
+   "corrected_recall": "0.717",
+   "names": "86"
+  },
+  {
+   "conv": "505-004",
+   "date": "1971-05-26",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "277",
+   "whisper_recall": "0.758",
+   "parakeet_v5_recall": "0.762",
+   "merged_recall": "0.762",
+   "corrected_recall": "0.827",
+   "names": "14"
+  },
+  {
+   "conv": "512-004",
+   "date": "1971-06-04",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1088",
+   "whisper_recall": "0.793",
+   "parakeet_v5_recall": "0.812",
+   "merged_recall": "0.812",
+   "corrected_recall": "0.838",
+   "names": "36"
+  },
+  {
+   "conv": "517-004",
+   "date": "1971-06-11",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2786",
+   "whisper_recall": "0.603",
+   "parakeet_v5_recall": "0.686",
+   "merged_recall": "0.686",
+   "corrected_recall": "0.711",
+   "names": "82"
+  },
+  {
+   "conv": "517-020",
+   "date": "1971-06-11",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "4842",
+   "whisper_recall": "0.583",
+   "parakeet_v5_recall": "0.593",
+   "merged_recall": "0.593",
+   "corrected_recall": "0.644",
+   "names": "191"
+  },
+  {
+   "conv": "518-003",
+   "date": "1971-06-12",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "4208",
+   "whisper_recall": "0.701",
+   "parakeet_v5_recall": "0.770",
+   "merged_recall": "0.770",
+   "corrected_recall": "0.796",
+   "names": "164"
+  },
+  {
+   "conv": "520-006",
+   "date": "1971-06-15",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3740",
+   "whisper_recall": "0.726",
+   "parakeet_v5_recall": "0.719",
+   "merged_recall": "0.719",
+   "corrected_recall": "0.775",
+   "names": "132"
+  },
+  {
+   "conv": "521-005",
+   "date": "1971-06-15",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1528",
+   "whisper_recall": "0.622",
+   "parakeet_v5_recall": "0.647",
+   "merged_recall": "0.661",
+   "corrected_recall": "0.684",
+   "names": "28"
+  },
+  {
+   "conv": "521-013",
+   "date": "1971-06-15",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3268",
+   "whisper_recall": "0.778",
+   "parakeet_v5_recall": "0.789",
+   "merged_recall": "0.789",
+   "corrected_recall": "0.817",
+   "names": "139"
+  },
+  {
+   "conv": "522-002",
+   "date": "1971-06-16",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3507",
+   "whisper_recall": "0.633",
+   "parakeet_v5_recall": "0.660",
+   "merged_recall": "0.660",
+   "corrected_recall": "0.687",
+   "names": "96"
+  },
+  {
+   "conv": "523-004",
+   "date": "1971-06-16",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "6540",
+   "whisper_recall": "0.796",
+   "parakeet_v5_recall": "0.815",
+   "merged_recall": "0.814",
+   "corrected_recall": "0.847",
+   "names": "309"
+  },
+  {
+   "conv": "527-004",
+   "date": "1971-06-22",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "685",
+   "whisper_recall": "0.756",
+   "parakeet_v5_recall": "0.813",
+   "merged_recall": "0.813",
+   "corrected_recall": "0.819",
+   "names": "14"
+  },
+  {
+   "conv": "531-027",
+   "date": "1971-06-29",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1300",
+   "whisper_recall": "0.644",
+   "parakeet_v5_recall": "0.715",
+   "merged_recall": "0.718",
+   "corrected_recall": "0.724",
+   "names": "29"
+  },
+  {
+   "conv": "531-031",
+   "date": "1971-06-29",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "438",
+   "whisper_recall": "0.701",
+   "parakeet_v5_recall": "0.733",
+   "merged_recall": "0.733",
+   "corrected_recall": "0.756",
+   "names": "2"
+  },
+  {
+   "conv": "532-017",
+   "date": "1971-06-30",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2254",
+   "whisper_recall": "0.726",
+   "parakeet_v5_recall": "0.757",
+   "merged_recall": "0.757",
+   "corrected_recall": "0.788",
+   "names": "55"
+  },
+  {
+   "conv": "534-003",
+   "date": "1971-07-01",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1438",
+   "whisper_recall": "0.682",
+   "parakeet_v5_recall": "0.775",
+   "merged_recall": "0.775",
+   "corrected_recall": "0.791",
+   "names": "43"
+  },
+  {
+   "conv": "536-014",
+   "date": "1971-07-03",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "805",
+   "whisper_recall": "0.625",
+   "parakeet_v5_recall": "0.667",
+   "merged_recall": "0.675",
+   "corrected_recall": "0.711",
+   "names": "20"
+  },
+  {
+   "conv": "538-004",
+   "date": "1971-07-06",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1954",
+   "whisper_recall": "0.536",
+   "parakeet_v5_recall": "0.643",
+   "merged_recall": "0.644",
+   "corrected_recall": "0.643",
+   "names": "31"
+  },
+  {
+   "conv": "538-013",
+   "date": "1971-07-06",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "982",
+   "whisper_recall": "0.560",
+   "parakeet_v5_recall": "0.683",
+   "merged_recall": "0.683",
+   "corrected_recall": "0.700",
+   "names": "22"
+  },
+  {
+   "conv": "543-006",
+   "date": "1971-07-22",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "686",
+   "whisper_recall": "0.611",
+   "parakeet_v5_recall": "0.749",
+   "merged_recall": "0.751",
+   "corrected_recall": "0.764",
+   "names": "20"
+  },
+  {
+   "conv": "544-008",
+   "date": "1971-07-23",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2510",
+   "whisper_recall": "0.739",
+   "parakeet_v5_recall": "0.747",
+   "merged_recall": "0.747",
+   "corrected_recall": "0.781",
+   "names": "55"
+  },
+  {
+   "conv": "549-025",
+   "date": "1971-07-28",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1245",
+   "whisper_recall": "0.713",
+   "parakeet_v5_recall": "0.694",
+   "merged_recall": "0.692",
+   "corrected_recall": "0.724",
+   "names": "49"
+  },
+  {
+   "conv": "557-001",
+   "date": "1971-08-09",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2082",
+   "whisper_recall": "0.700",
+   "parakeet_v5_recall": "0.783",
+   "merged_recall": "0.784",
+   "corrected_recall": "0.801",
+   "names": "97"
+  },
+  {
+   "conv": "561-004",
+   "date": "1971-08-11",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "3673",
+   "whisper_recall": "0.586",
+   "parakeet_v5_recall": "0.720",
+   "merged_recall": "0.721",
+   "corrected_recall": "0.732",
+   "names": "112"
+  },
+  {
+   "conv": "581-002",
+   "date": "1971-09-30",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2073",
+   "whisper_recall": "0.759",
+   "parakeet_v5_recall": "0.789",
+   "merged_recall": "0.789",
+   "corrected_recall": "0.802",
+   "names": "53"
+  },
+  {
+   "conv": "581-004",
+   "date": "1971-09-30",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1255",
+   "whisper_recall": "0.641",
+   "parakeet_v5_recall": "0.731",
+   "merged_recall": "0.731",
+   "corrected_recall": "0.739",
+   "names": "39"
+  },
+  {
+   "conv": "581-006",
+   "date": "1971-09-30",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1046",
+   "whisper_recall": "0.619",
+   "parakeet_v5_recall": "0.642",
+   "merged_recall": "0.635",
+   "corrected_recall": "0.646",
+   "names": "15"
+  },
+  {
+   "conv": "582-009",
+   "date": "1971-09-30",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2077",
+   "whisper_recall": "0.624",
+   "parakeet_v5_recall": "0.575",
+   "merged_recall": "0.575",
+   "corrected_recall": "0.618",
+   "names": "70"
+  },
+  {
+   "conv": "584-003",
+   "date": "1971-10-05",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "597",
+   "whisper_recall": "0.553",
+   "parakeet_v5_recall": "0.549",
+   "merged_recall": "0.549",
+   "corrected_recall": "0.571",
+   "names": "20"
+  },
+  {
+   "conv": "615-004",
+   "date": "1971-11-05",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1102",
+   "whisper_recall": "0.744",
+   "parakeet_v5_recall": "0.775",
+   "merged_recall": "0.774",
+   "corrected_recall": "0.792",
+   "names": "22"
+  },
+  {
+   "conv": "624-021",
+   "date": "1971-11-24",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "5777",
+   "whisper_recall": "0.650",
+   "parakeet_v5_recall": "0.689",
+   "merged_recall": "0.690",
+   "corrected_recall": "0.735",
+   "names": "252"
+  },
+  {
+   "conv": "628-018",
+   "date": "1971-12-02",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1369",
+   "whisper_recall": "0.497",
+   "parakeet_v5_recall": "0.507",
+   "merged_recall": "0.513",
+   "corrected_recall": "0.562",
+   "names": "61"
+  },
+  {
+   "conv": "630-020",
+   "date": "1971-12-06",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2267",
+   "whisper_recall": "0.646",
+   "parakeet_v5_recall": "0.648",
+   "merged_recall": "0.648",
+   "corrected_recall": "0.674",
+   "names": "72"
+  },
+  {
+   "conv": "631-004",
+   "date": "1971-12-07",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1227",
+   "whisper_recall": "0.710",
+   "parakeet_v5_recall": "0.774",
+   "merged_recall": "0.774",
+   "corrected_recall": "0.800",
+   "names": "44"
+  },
+  {
+   "conv": "633-004",
+   "date": "1971-12-09",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "396",
+   "whisper_recall": "0.586",
+   "parakeet_v5_recall": "0.636",
+   "merged_recall": "0.636",
+   "corrected_recall": "0.652",
+   "names": "8"
+  },
+  {
+   "conv": "634-012",
+   "date": "1971-12-09",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2558",
+   "whisper_recall": "0.719",
+   "parakeet_v5_recall": "0.785",
+   "merged_recall": "0.785",
+   "corrected_recall": "0.818",
+   "names": "167"
+  },
+  {
+   "conv": "634-019",
+   "date": "1971-12-09",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3073",
+   "whisper_recall": "0.788",
+   "parakeet_v5_recall": "0.813",
+   "merged_recall": "0.813",
+   "corrected_recall": "0.841",
+   "names": "120"
+  },
+  {
+   "conv": "635-008",
+   "date": "1971-12-10",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2328",
+   "whisper_recall": "0.765",
+   "parakeet_v5_recall": "0.821",
+   "merged_recall": "0.821",
+   "corrected_recall": "0.844",
+   "names": "109"
+  },
+  {
+   "conv": "635-017",
+   "date": "1971-12-10",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1139",
+   "whisper_recall": "0.788",
+   "parakeet_v5_recall": "0.822",
+   "merged_recall": "0.822",
+   "corrected_recall": "0.844",
+   "names": "45"
+  },
+  {
+   "conv": "637-003",
+   "date": "1971-12-10",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "7797",
+   "whisper_recall": "0.660",
+   "parakeet_v5_recall": "0.758",
+   "merged_recall": "0.758",
+   "corrected_recall": "0.781",
+   "names": "376"
+  },
+  {
+   "conv": "638-004",
+   "date": "1971-12-15",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1670",
+   "whisper_recall": "0.747",
+   "parakeet_v5_recall": "0.805",
+   "merged_recall": "0.805",
+   "corrected_recall": "0.825",
+   "names": "75"
+  },
+  {
+   "conv": "650-012",
+   "date": "1972-01-18",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1096",
+   "whisper_recall": "0.809",
+   "parakeet_v5_recall": "0.846",
+   "merged_recall": "0.846",
+   "corrected_recall": "0.861",
+   "names": "41"
+  },
+  {
+   "conv": "652-017",
+   "date": "1972-01-20",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3418",
+   "whisper_recall": "0.666",
+   "parakeet_v5_recall": "0.709",
+   "merged_recall": "0.708",
+   "corrected_recall": "0.743",
+   "names": "108"
+  },
+  {
+   "conv": "654-001",
+   "date": "1972-01-24",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "731",
+   "whisper_recall": "0.676",
+   "parakeet_v5_recall": "0.700",
+   "merged_recall": "0.702",
+   "corrected_recall": "0.714",
+   "names": "42"
+  },
+  {
+   "conv": "665-003",
+   "date": "1972-02-03",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2093",
+   "whisper_recall": "0.623",
+   "parakeet_v5_recall": "0.689",
+   "merged_recall": "0.690",
+   "corrected_recall": "0.728",
+   "names": "49"
+  },
+  {
+   "conv": "681-002",
+   "date": "1972-03-09",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1143",
+   "whisper_recall": "0.651",
+   "parakeet_v5_recall": "0.675",
+   "merged_recall": "0.675",
+   "corrected_recall": "0.689",
+   "names": "31"
+  },
+  {
+   "conv": "699-001",
+   "date": "1972-03-31",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "367",
+   "whisper_recall": "0.717",
+   "parakeet_v5_recall": "0.774",
+   "merged_recall": "0.774",
+   "corrected_recall": "0.804",
+   "names": "20"
+  },
+  {
+   "conv": "701-014",
+   "date": "1972-04-04",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2948",
+   "whisper_recall": "0.713",
+   "parakeet_v5_recall": "0.768",
+   "merged_recall": "0.768",
+   "corrected_recall": "0.787",
+   "names": "81"
+  },
+  {
+   "conv": "701-017",
+   "date": "1972-04-04",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1842",
+   "whisper_recall": "0.689",
+   "parakeet_v5_recall": "0.756",
+   "merged_recall": "0.756",
+   "corrected_recall": "0.790",
+   "names": "47"
+  },
+  {
+   "conv": "709-008",
+   "date": "1972-04-17",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3219",
+   "whisper_recall": "0.774",
+   "parakeet_v5_recall": "0.809",
+   "merged_recall": "0.811",
+   "corrected_recall": "0.840",
+   "names": "123"
+  },
+  {
+   "conv": "709-010",
+   "date": "1972-04-17",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "733",
+   "whisper_recall": "0.761",
+   "parakeet_v5_recall": "0.723",
+   "merged_recall": "0.735",
+   "corrected_recall": "0.793",
+   "names": "26"
+  },
+  {
+   "conv": "709-013",
+   "date": "1972-04-17",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1152",
+   "whisper_recall": "0.794",
+   "parakeet_v5_recall": "0.817",
+   "merged_recall": "0.821",
+   "corrected_recall": "0.849",
+   "names": "30"
+  },
+  {
+   "conv": "709-019",
+   "date": "1972-04-17",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1743",
+   "whisper_recall": "0.779",
+   "parakeet_v5_recall": "0.810",
+   "merged_recall": "0.810",
+   "corrected_recall": "0.824",
+   "names": "43"
+  },
+  {
+   "conv": "711-003",
+   "date": "1972-04-18",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1869",
+   "whisper_recall": "0.741",
+   "parakeet_v5_recall": "0.795",
+   "merged_recall": "0.795",
+   "corrected_recall": "0.819",
+   "names": "48"
+  },
+  {
+   "conv": "713-001",
+   "date": "1972-04-19",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "7760",
+   "whisper_recall": "0.712",
+   "parakeet_v5_recall": "0.756",
+   "merged_recall": "0.756",
+   "corrected_recall": "0.777",
+   "names": "248"
+  },
+  {
+   "conv": "717-019",
+   "date": "1972-05-02",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2380",
+   "whisper_recall": "0.674",
+   "parakeet_v5_recall": "0.759",
+   "merged_recall": "0.759",
+   "corrected_recall": "0.782",
+   "names": "70"
+  },
+  {
+   "conv": "717-020",
+   "date": "1972-05-02",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2959",
+   "whisper_recall": "0.721",
+   "parakeet_v5_recall": "0.749",
+   "merged_recall": "0.752",
+   "corrected_recall": "0.789",
+   "names": "74"
+  },
+  {
+   "conv": "722-014",
+   "date": "1972-05-09",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1108",
+   "whisper_recall": "0.709",
+   "parakeet_v5_recall": "0.698",
+   "merged_recall": "0.709",
+   "corrected_recall": "0.773",
+   "names": "35"
+  },
+  {
+   "conv": "735-001",
+   "date": "1972-06-15",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "3853",
+   "whisper_recall": "0.538",
+   "parakeet_v5_recall": "0.586",
+   "merged_recall": "0.587",
+   "corrected_recall": "0.599",
+   "names": "158"
+  },
+  {
+   "conv": "752-006",
+   "date": "1972-07-25",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2046",
+   "whisper_recall": "0.465",
+   "parakeet_v5_recall": "0.818",
+   "merged_recall": "0.818",
+   "corrected_recall": "0.840",
+   "names": "69"
+  },
+  {
+   "conv": "759-005",
+   "date": "1972-08-02",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "6146",
+   "whisper_recall": "0.734",
+   "parakeet_v5_recall": "0.789",
+   "merged_recall": "0.790",
+   "corrected_recall": "0.820",
+   "names": "152"
+  },
+  {
+   "conv": "771-002",
+   "date": "1972-09-06",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1742",
+   "whisper_recall": "0.755",
+   "parakeet_v5_recall": "0.792",
+   "merged_recall": "0.792",
+   "corrected_recall": "0.825",
+   "names": "62"
+  },
+  {
+   "conv": "771-005",
+   "date": "1972-09-06",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1568",
+   "whisper_recall": "0.696",
+   "parakeet_v5_recall": "0.762",
+   "merged_recall": "0.761",
+   "corrected_recall": "0.793",
+   "names": "40"
+  },
+  {
+   "conv": "780-001",
+   "date": "1972-09-15",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1687",
+   "whisper_recall": "0.794",
+   "parakeet_v5_recall": "0.822",
+   "merged_recall": "0.822",
+   "corrected_recall": "0.855",
+   "names": "29"
+  },
+  {
+   "conv": "788-011",
+   "date": "1972-09-29",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "1908",
+   "whisper_recall": "0.568",
+   "parakeet_v5_recall": "0.699",
+   "merged_recall": "0.699",
+   "corrected_recall": "0.731",
+   "names": "45"
+  },
+  {
+   "conv": "788-018",
+   "date": "1972-09-29",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2359",
+   "whisper_recall": "0.629",
+   "parakeet_v5_recall": "0.697",
+   "merged_recall": "0.697",
+   "corrected_recall": "0.712",
+   "names": "27"
+  },
+  {
+   "conv": "820-005",
+   "date": "1972-12-12",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "3353",
+   "whisper_recall": "0.679",
+   "parakeet_v5_recall": "0.755",
+   "merged_recall": "0.756",
+   "corrected_recall": "0.766",
+   "names": "66"
+  },
+  {
+   "conv": "820-016",
+   "date": "1972-12-12",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3250",
+   "whisper_recall": "0.703",
+   "parakeet_v5_recall": "0.737",
+   "merged_recall": "0.738",
+   "corrected_recall": "0.754",
+   "names": "51"
+  },
+  {
+   "conv": "821-001",
+   "date": "1972-12-12",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2735",
+   "whisper_recall": "0.715",
+   "parakeet_v5_recall": "0.762",
+   "merged_recall": "0.762",
+   "corrected_recall": "0.780",
+   "names": "48"
+  },
+  {
+   "conv": "823-001",
+   "date": "1972-12-14",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "15152",
+   "whisper_recall": "0.744",
+   "parakeet_v5_recall": "0.790",
+   "merged_recall": "0.791",
+   "corrected_recall": "0.807",
+   "names": "395"
+  },
+  {
+   "conv": "825-006",
+   "date": "1972-12-16",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "6229",
+   "whisper_recall": "0.723",
+   "parakeet_v5_recall": "0.765",
+   "merged_recall": "0.765",
+   "corrected_recall": "0.793",
+   "names": "250"
+  },
+  {
+   "conv": "827-010",
+   "date": "1972-12-20",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "5943",
+   "whisper_recall": "0.688",
+   "parakeet_v5_recall": "0.718",
+   "merged_recall": "0.722",
+   "corrected_recall": "0.768",
+   "names": "200"
+  },
+  {
+   "conv": "828-005",
+   "date": "1972-12-27",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "2408",
+   "whisper_recall": "0.714",
+   "parakeet_v5_recall": "0.778",
+   "merged_recall": "0.778",
+   "corrected_recall": "0.792",
+   "names": "52"
+  },
+  {
+   "conv": "840-012",
+   "date": "1973-02-03",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3925",
+   "whisper_recall": "0.724",
+   "parakeet_v5_recall": "0.759",
+   "merged_recall": "0.759",
+   "corrected_recall": "0.777",
+   "names": "152"
+  },
+  {
+   "conv": "845-011",
+   "date": "1973-01-31",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "401",
+   "whisper_recall": "0.633",
+   "parakeet_v5_recall": "0.648",
+   "merged_recall": "0.648",
+   "corrected_recall": "0.693",
+   "names": "8"
+  },
+  {
+   "conv": "846-002",
+   "date": "1973-02-01",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1046",
+   "whisper_recall": "0.760",
+   "parakeet_v5_recall": "0.795",
+   "merged_recall": "0.795",
+   "corrected_recall": "0.815",
+   "names": "44"
+  },
+  {
+   "conv": "851-004",
+   "date": "1973-02-06",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "5835",
+   "whisper_recall": "0.734",
+   "parakeet_v5_recall": "0.766",
+   "merged_recall": "0.766",
+   "corrected_recall": "0.785",
+   "names": "119"
+  },
+  {
+   "conv": "859-032",
+   "date": "1973-02-21",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "366",
+   "whisper_recall": "0.721",
+   "parakeet_v5_recall": "0.801",
+   "merged_recall": "0.801",
+   "corrected_recall": "0.811",
+   "names": "18"
+  },
+  {
+   "conv": "860-015",
+   "date": "1973-02-21",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1298",
+   "whisper_recall": "0.731",
+   "parakeet_v5_recall": "0.757",
+   "merged_recall": "0.757",
+   "corrected_recall": "0.776",
+   "names": "40"
+  },
+  {
+   "conv": "862-009",
+   "date": "1973-02-23",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "627",
+   "whisper_recall": "0.657",
+   "parakeet_v5_recall": "0.781",
+   "merged_recall": "0.781",
+   "corrected_recall": "0.791",
+   "names": "13"
+  },
+  {
+   "conv": "865-022",
+   "date": "1973-02-28",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "745",
+   "whisper_recall": "0.675",
+   "parakeet_v5_recall": "0.736",
+   "merged_recall": "0.736",
+   "corrected_recall": "0.758",
+   "names": "10"
+  },
+  {
+   "conv": "868-008",
+   "date": "1973-03-03",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "8725",
+   "whisper_recall": "0.765",
+   "parakeet_v5_recall": "0.770",
+   "merged_recall": "0.770",
+   "corrected_recall": "0.794",
+   "names": "196"
+  },
+  {
+   "conv": "868-015",
+   "date": "1973-03-03",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "7887",
+   "whisper_recall": "0.806",
+   "parakeet_v5_recall": "0.832",
+   "merged_recall": "0.832",
+   "corrected_recall": "0.853",
+   "names": "194"
+  },
+  {
+   "conv": "871-005",
+   "date": "1973-03-07",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2910",
+   "whisper_recall": "0.762",
+   "parakeet_v5_recall": "0.812",
+   "merged_recall": "0.812",
+   "corrected_recall": "0.824",
+   "names": "84"
+  },
+  {
+   "conv": "876-004",
+   "date": "1973-03-12",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "598",
+   "whisper_recall": "0.796",
+   "parakeet_v5_recall": "0.806",
+   "merged_recall": "0.806",
+   "corrected_recall": "0.829",
+   "names": "30"
+  },
+  {
+   "conv": "881-002",
+   "date": "1973-03-16",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "870",
+   "whisper_recall": "0.556",
+   "parakeet_v5_recall": "0.666",
+   "merged_recall": "0.666",
+   "corrected_recall": "0.718",
+   "names": "39"
+  },
+  {
+   "conv": "885-006",
+   "date": "1973-03-20",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1562",
+   "whisper_recall": "0.522",
+   "parakeet_v5_recall": "0.710",
+   "merged_recall": "0.710",
+   "corrected_recall": "0.727",
+   "names": "35"
+  },
+  {
+   "conv": "895-024",
+   "date": "1973-04-13",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1542",
+   "whisper_recall": "0.688",
+   "parakeet_v5_recall": "0.766",
+   "merged_recall": "0.766",
+   "corrected_recall": "0.781",
+   "names": "40"
+  },
+  {
+   "conv": "911-009",
+   "date": "1973-05-03",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "2551",
+   "whisper_recall": "0.591",
+   "parakeet_v5_recall": "0.669",
+   "merged_recall": "0.669",
+   "corrected_recall": "0.694",
+   "names": "79"
+  },
+  {
+   "conv": "916-014",
+   "date": "1973-05-11",
+   "location": "OVAL",
+   "whisper_mode": "batched (trial fifth)",
+   "ref_words": "949",
+   "whisper_recall": "0.524",
+   "parakeet_v5_recall": "0.773",
+   "merged_recall": "0.774",
+   "corrected_recall": "0.798",
+   "names": "38"
+  },
+  {
+   "conv": "919-003",
+   "date": "1973-05-16",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "567",
+   "whisper_recall": "0.690",
+   "parakeet_v5_recall": "0.734",
+   "merged_recall": "0.734",
+   "corrected_recall": "0.764",
+   "names": "15"
+  },
+  {
+   "conv": "937-015",
+   "date": "1973-06-12",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "1874",
+   "whisper_recall": "0.593",
+   "parakeet_v5_recall": "0.703",
+   "merged_recall": "0.705",
+   "corrected_recall": "0.729",
+   "names": "27"
+  },
+  {
+   "conv": "943-008",
+   "date": "1973-06-18",
+   "location": "OVAL",
+   "whisper_mode": "sequential",
+   "ref_words": "3900",
+   "whisper_recall": "0.644",
+   "parakeet_v5_recall": "0.737",
+   "merged_recall": "0.737",
+   "corrected_recall": "0.765",
+   "names": "77"
+  }
+ ],
+ "test_by_location": {
+  "Oval Office": {
+   "whisper": {
+    "recall": 0.6902652422813185,
+    "names": 0.6105565117613311
+   },
+   "parakeet_v5": {
+    "recall": 0.7409255052510202,
+    "names": 0.6173264486517499
+   },
+   "merged": {
+    "recall": 0.7414458513414617,
+    "names": 0.6183757742601514
+   },
+   "corrected": {
+    "recall": 0.7661969594454647,
+    "names": 0.8156687313604037
+   },
+   "n": 119,
+   "N": 289684
+  },
+  "White House telephone": {
+   "whisper": {
+    "recall": 0.788928694115915,
+    "names": 0.7092198581560284
+   },
+   "parakeet_v5": {
+    "recall": 0.8234421364985163,
+    "names": 0.6739130434782609
+   },
+   "merged": {
+    "recall": 0.8184718064484467,
+    "names": 0.6595744680851063
+   },
+   "corrected": {
+    "recall": 0.8370221327967806,
+    "names": 0.9042553191489362
+   },
+   "n": 26,
+   "N": 20377
+  },
+  "Executive Office Building": {
+   "whisper": {
+    "recall": 0.47206303724928367,
+    "names": 0.352059925093633
+   },
+   "parakeet_v5": {
+    "recall": 0.46022812546900793,
+    "names": 0.3645418326693227
+   },
+   "merged": {
+    "recall": 0.46874542526716445,
+    "names": 0.3685220729366603
+   },
+   "corrected": {
+    "recall": 0.49281918713198336,
+    "names": 0.4924812030075188
+   },
+   "n": 10,
+   "N": 13926
+  },
+  "Cabinet Room": {
+   "whisper": {
+    "recall": 0.7259454880661718,
+    "names": 0.6011342155009451
+   },
+   "parakeet_v5": {
+    "recall": 0.7357616224027106,
+    "names": 0.5349716446124764
+   },
+   "merged": {
+    "recall": 0.7360605909611839,
+    "names": 0.5349716446124764
+   },
+   "corrected": {
+    "recall": 0.7652100254123275,
+    "names": 0.7674858223062382
+   },
+   "n": 5,
+   "N": 20069
+  },
+  "Camp David": {
+   "whisper": {
+    "recall": 0.795579404625016,
+    "names": 0.6357615894039735
+   },
+   "parakeet_v5": {
+    "recall": 0.8340360291299349,
+    "names": 0.6423841059602649
+   },
+   "merged": {
+    "recall": 0.8355691835952472,
+    "names": 0.6423841059602649
+   },
+   "corrected": {
+    "recall": 0.8562667688769643,
+    "names": 0.9470198675496688
+   },
+   "n": 5,
+   "N": 7827
+  }
+ },
+ "name_fix_reasons": {
+  "context": 234,
+  "day": 1,
+  "diary": 41,
+  "diary (free text)": 1,
+  "knowledge": 122,
+  "nara": 858,
+  "nara (free text)": 59,
+  "none": 0,
+  "other free text": 130,
+  "sound": 60,
+  "whisper": 1014,
+  "whisper (free text)": 112
+ },
+ "test_speakers": {
+  "Nixon": {
+   "words": 105169,
+   "named": 78305,
+   "named_right": 74304
+  },
+  "Kissinger": {
+   "words": 60074,
+   "named": 50743,
+   "named_right": 49451
+  },
+  "Haig": {
+   "words": 7449,
+   "named": 6597,
+   "named_right": 6384
+  },
+  "Shultz": {
+   "words": 7644,
+   "named": 4604,
+   "named_right": 4469
+  },
+  "Rogers": {
+   "words": 3623,
+   "named": 2742,
+   "named_right": 2597
+  },
+  "Laird": {
+   "words": 4179,
+   "named": 196,
+   "named_right": 0
+  },
+  "Moorer": {
+   "words": 3340,
+   "named": 83,
+   "named_right": 0
+  },
+  "Bluhdorn": {
+   "words": 3318,
+   "named": 220,
+   "named_right": 0
+  },
+  "Connally": {
+   "words": 1615,
+   "named": 1072,
+   "named_right": 1015
+  },
+  "Haldeman": {
+   "words": 1697,
+   "named": 961,
+   "named_right": 859
+  },
+  "Brezhnev": {
+   "words": 2545,
+   "named": 217,
+   "named_right": 0
+  },
+  "Burns": {
+   "words": 2248,
+   "named": 83,
+   "named_right": 0
+  },
+  "Kennedy": {
+   "words": 1885,
+   "named": 887,
+   "named_right": 0
+  },
+  "Keating": {
+   "words": 1809,
+   "named": 1479,
+   "named_right": 0
+  },
+  "Agnew": {
+   "words": 1705,
+   "named": 223,
+   "named_right": 0
+  },
+  "Bunker": {
+   "words": 1542,
+   "named": 35,
+   "named_right": 0
+  },
+  "Scowcroft": {
+   "words": 1349,
+   "named": 63,
+   "named_right": 0
+  },
+  "Volcker": {
+   "words": 1224,
+   "named": 50,
+   "named_right": 0
+  },
+  "MacArthur": {
+   "words": 1213,
+   "named": 563,
+   "named_right": 0
+  },
+  "Zumwalt": {
+   "words": 938,
+   "named": 590,
+   "named_right": 0
+  },
+  "Brandt": {
+   "words": 827,
+   "named": 204,
+   "named_right": 0
+  },
+  "McConaughy": {
+   "words": 825,
+   "named": 81,
+   "named_right": 0
+  },
+  "Farland": {
+   "words": 495,
+   "named": 33,
+   "named_right": 0
+  },
+  "Bruce": {
+   "words": 345,
+   "named": 34,
+   "named_right": 0
+  },
+  "Stein": {
+   "words": 307,
+   "named": 42,
+   "named_right": 0
+  }
+ },
+ "round_per_ref": {
+  "Base": {
+   "886-008_wspf": 0.6959,
+   "741-002_trial": 0.5526,
+   "779-002_wspf": 0.6096,
+   "488-015_nara": 0.7476,
+   "421-018_wspf": 0.5093,
+   "051-001_wspf": 0.5214
+  },
+  "v1": {
+   "886-008_wspf": 0.7772,
+   "741-002_trial": 0.6128,
+   "779-002_wspf": 0.6503,
+   "488-015_nara": 0.7805,
+   "421-018_wspf": 0.5005,
+   "051-001_wspf": 0.5406
+  },
+  "v5": {
+   "886-008_wspf": 0.8071,
+   "741-002_trial": 0.6375,
+   "779-002_wspf": 0.7117,
+   "488-015_nara": 0.7901,
+   "421-018_wspf": 0.6085,
+   "051-001_wspf": 0.5593
+  },
+  "WhisperX": {
+   "886-008_wspf": 0.6782,
+   "741-002_trial": 0.5414,
+   "779-002_wspf": 0.546,
+   "488-015_nara": 0.5165,
+   "421-018_wspf": 0.4188,
+   "051-001_wspf": 0.4942
+  },
+  "Whisper seq.": {
+   "886-008_wspf": 0.7041,
+   "741-002_trial": 0.5982,
+   "779-002_wspf": 0.6214,
+   "488-015_nara": 0.7439,
+   "421-018_wspf": 0.5029,
+   "051-001_wspf": 0.5397
+  },
+  "v3": {
+   "886-008_wspf": 0.7829999999999999,
+   "741-002_trial": 0.62,
+   "779-002_wspf": 0.6709999999999999,
+   "488-015_nara": 0.784,
+   "421-018_wspf": 0.557,
+   "051-001_wspf": 0.556
+  },
+  "v4": {
+   "886-008_wspf": 0.792,
+   "741-002_trial": 0.62,
+   "779-002_wspf": 0.6829999999999999,
+   "488-015_nara": 0.7809999999999999,
+   "421-018_wspf": 0.5670000000000001,
+   "051-001_wspf": 0.562
+  }
+ },
+ "error_parts_dev": {
+  "Base": {
+   "sub": 0.1531,
+   "del": 0.2088,
+   "ins": 0.0284
+  },
+  "v5": {
+   "sub": 0.1393,
+   "del": 0.1378,
+   "ins": 0.0359
+  },
+  "Whisper seq.": {
+   "sub": 0.1824,
+   "del": 0.1717,
+   "ins": 0.0485
+  },
+  "WhisperX": {
+   "sub": 0.1367,
+   "del": 0.2929,
+   "ins": 0.0283
+  }
+ },
+ "artifacts": {
+  "examples": [
+   {
+    "panel": "a",
+    "kind": "repetition loop",
+    "conv": "421-018",
+    "date": "March 21, 1973",
+    "place": "Executive Office Building",
+    "speakers": "Nixon, Ehrlichman, Dean, Haldeman",
+    "t0": 3925.0,
+    "t1": 3990.0,
+    "focus": [
+     3935.7,
+     3959.3
+    ],
+    "reference_source": "WSPF transcript (421-018_wspf)",
+    "reference": "Nixon: Well, John, you, uh, you, uh, you must feel that's, uh, is enough. Dean: No [unintelligible] Ehrlichman: Now, let's, let's try another, let's try another concommitant to that. Supposing Mitchell were to step out on that same day",
+    "whisper": "As for that concept, John, you were, you were, you were, you were, you were, you were, … ('you were' 16 times in all) … I don't know what he would say",
+    "ours": "but john you you want to do that well i do not think it is good now let us let us try another let us try another comment for that supposing mitchell were to step out on that same day",
+    "note": "Whisper (batched) repeats 'you were' 16 times over 24 s (3,935.7-3,959.3 s) and loses Ehrlichman's turn.",
+    "series": {
+     "step_s": 5.0,
+     "t0": 3925.0,
+     "whisper": [
+      13,
+      0,
+      7,
+      3,
+      11,
+      8,
+      4,
+      0,
+      0,
+      11,
+      9,
+      18,
+      18,
+      0
+     ],
+     "parakeet_v5": [
+      16,
+      6,
+      10,
+      9,
+      10,
+      12,
+      6,
+      5,
+      3,
+      14,
+      12,
+      5,
+      14,
+      0
+     ],
+     "released": [
+      18,
+      8,
+      8,
+      13,
+      11,
+      12,
+      7,
+      5,
+      3,
+      16,
+      12,
+      5,
+      17,
+      0
+     ]
+    },
+    "focus_counts": {
+     "whisper_words": 32,
+     "parakeet_words": 46,
+     "released_words": 50
+    },
+    "tones": [],
+    "reference_words": 39,
+    "whisper_words": 32,
+    "ours_words": 40
+   },
+   {
+    "panel": "b",
+    "kind": "dropped speech",
+    "conv": "886-008",
+    "date": "March 21, 1973",
+    "place": "Oval Office",
+    "speakers": "Nixon, Dean (Haldeman, Ehrlichman)",
+    "t0": 1030.0,
+    "t1": 1095.0,
+    "focus": [
+     1058.25,
+     1078.4
+    ],
+    "reference_source": "WSPF transcript (886-008_wspf); HJC has the same words",
+    "reference": "Nixon: Why [unintelligible] I wonder? I am just trying to think as to why then. We'd just finished the Moscow trip. I mean, we were Dean: That's right. Nixon: The Democrats had just nominated McG-- McGovern.",
+    "whisper": "… on other occasions where things have been [no words for this passage] I don't know, other than the fact that they might have been looking for information about the conventions.",
+    "ours": "wonder i am just trying to think as to why that we just finished the moscow trip i mean we were . that is right democrats were not doing that magruder",
+    "note": "Whisper (batched) has no words for about 20 s (1,058.3-1,078.4 s on its timeline) where Parakeet heard 62; the passage (about 60 reference words) is missing from its text, and the words around it are misplaced in time by about 20 s.",
+    "series": {
+     "step_s": 5.0,
+     "t0": 1030.0,
+     "whisper": [
+      17,
+      10,
+      7,
+      13,
+      10,
+      5,
+      0,
+      0,
+      0,
+      7,
+      13,
+      12,
+      9,
+      0
+     ],
+     "parakeet_v5": [
+      19,
+      14,
+      7,
+      18,
+      17,
+      16,
+      16,
+      17,
+      19,
+      13,
+      14,
+      15,
+      19,
+      0
+     ],
+     "released": [
+      20,
+      13,
+      7,
+      19,
+      19,
+      17,
+      18,
+      19,
+      19,
+      14,
+      15,
+      12,
+      21,
+      0
+     ]
+    },
+    "focus_counts": {
+     "whisper_words": 0,
+     "parakeet_words": 62,
+     "released_words": 67
+    },
+    "tones": [],
+    "reference_words": 36,
+    "whisper_words": 31,
+    "ours_words": 31
+   },
+   {
+    "panel": "c",
+    "kind": "invented text on silence",
+    "conv": "099-010",
+    "date": "May 1, 1972",
+    "place": "Cabinet Room",
+    "speakers": "Nixon, Smith, Rogers, Laird, Moorer, Helms, Allison, Kissinger, Ziegler",
+    "t0": 0.0,
+    "t1": 3516.28,
+    "focus": [
+     0.0,
+     3342.0
+    ],
+    "reference_source": "NARA withdrawal tone (0:00-55:42), muted to silence before transcription; FRUS 1969-76 vol. 32 doc. 270 notes the recording of this meeting and transcribes the Oval Office conversation that followed (716-002)",
+    "reference": "[withdrawn by NARA: tone for the first 55 min 42 s; nothing audible after muting]",
+    "whisper": "you … you … you … (one word every 30 s, 111 times, from 0:00 to 55:00)",
+    "ours": "(no words)",
+    "note": "Sequential Whisper (no VAD) emits 'you' at the start of each 30-s window of silence; Parakeet v5 writes nothing there.",
+    "series": {
+     "step_s": 60.0,
+     "t0": 0.0,
+     "whisper": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      20,
+      65,
+      119,
+      90
+     ],
+     "parakeet_v5": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      43,
+      32
+     ],
+     "released": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      71,
+      46
+     ]
+    },
+    "focus_counts": {
+     "whisper_words": 111,
+     "parakeet_words": 0,
+     "released_words": 0
+    },
+    "tones": [
+     [
+      0.0,
+      3342.0
+     ]
+    ],
+    "reference_words": 15,
+    "whisper_words": 17,
+    "ours_words": 2
+   }
+  ],
+  "loops": {
+   "whisper": 2613,
+   "whisper_words": 55140,
+   "per_1000_batched": 8.1,
+   "per_1000_sequential": 2.0,
+   "parakeet": 105,
+   "parakeet_words": 965
+  },
+  "dropped": {
+   "batched_share": 0.052,
+   "sequential_share": 0.0122
+  },
+  "parakeet_all": {
+   "loop_per_1000": 0.053,
+   "silent_share": 0.020482589933287578,
+   "tone_words_per_hour": 7.1
+  },
+  "by_mode": {
+   "batched": {
+    "loop_per_1000": 8.1,
+    "parakeet_loop_per_1000": 0.053,
+    "dropped_share": 0.052,
+    "parakeet_silent_share": 0.0179,
+    "tone_words_per_hour": 2.0,
+    "parakeet_tone_words_per_hour": 6.6
+   },
+   "sequential": {
+    "loop_per_1000": 2.0,
+    "parakeet_loop_per_1000": 0.053,
+    "dropped_share": 0.0122,
+    "parakeet_silent_share": 0.0211,
+    "tone_words_per_hour": 121.7,
+    "parakeet_tone_words_per_hour": 7.2
+   }
+  },
+  "silence": {
+   "whisper_words_in_tones": 1882,
+   "whisper_convs_in_tones": 422,
+   "parakeet_words_in_tones": 131,
+   "whisper_stock": 987,
+   "parakeet_stock": 12
+  }
+ },
+ "by_month_location": {
+  "1971-02": {
+   "Cabinet Room": 4.884980555555556,
+   "Oval Office": 28.196733333333324
+  },
+  "1971-03": {
+   "Oval Office": 22.896852777777763,
+   "Cabinet Room": 12.938799999999997
+  },
+  "1971-04": {
+   "Oval Office": 66.77421944444448,
+   "Executive Office Building": 22.123341666666686,
+   "Cabinet Room": 11.280022222222224,
+   "White House telephone": 10.388180555555568
+  },
+  "1971-05": {
+   "Oval Office": 59.122108333333365,
+   "Executive Office Building": 4.665399999999999,
+   "Cabinet Room": 6.114308333333332,
+   "White House telephone": 8.405569444444446
+  },
+  "1971-06": {
+   "Cabinet Room": 11.20177777777778,
+   "Oval Office": 91.74546388888898,
+   "Executive Office Building": 6.221194444444443,
+   "White House telephone": 10.446330555555557
+  },
+  "1971-07": {
+   "Executive Office Building": 10.992313888888885,
+   "Cabinet Room": 9.384425000000002,
+   "Oval Office": 54.5346666666666,
+   "White House telephone": 5.75433888888889
+  },
+  "1971-08": {
+   "Oval Office": 27.17999722222223,
+   "Cabinet Room": 12.703930555555553,
+   "Executive Office Building": 9.030449999999998,
+   "White House telephone": 4.8843250000000005
+  },
+  "1971-09": {
+   "Cabinet Room": 13.946630555555554,
+   "Oval Office": 36.025605555555565,
+   "Executive Office Building": 12.358722222222228,
+   "White House telephone": 9.486038888888888
+  },
+  "1971-10": {
+   "Executive Office Building": 25.214697222222235,
+   "Cabinet Room": 4.140252777777778,
+   "Oval Office": 40.16024166666669,
+   "White House telephone": 13.840100000000003
+  },
+  "1971-11": {
+   "Oval Office": 62.55454166666663,
+   "Cabinet Room": 8.048019444444446,
+   "Executive Office Building": 20.14831944444444,
+   "White House telephone": 12.651077777777786
+  },
+  "1971-12": {
+   "Oval Office": 44.79951944444443,
+   "Executive Office Building": 6.475969444444442,
+   "Cabinet Room": 0.9896416666666666,
+   "White House telephone": 10.441677777777768
+  },
+  "1972-01": {
+   "Oval Office": 41.02503611111111,
+   "Executive Office Building": 8.428619444444443,
+   "White House telephone": 14.061580555555555
+  },
+  "1972-02": {
+   "Executive Office Building": 12.038044444444438,
+   "Oval Office": 27.761127777777787,
+   "Cabinet Room": 2.226538888888889,
+   "White House telephone": 4.2310083333333335
+  },
+  "1972-03": {
+   "Executive Office Building": 13.752630555555559,
+   "Oval Office": 40.358905555555545,
+   "Cabinet Room": 4.711683333333332,
+   "White House telephone": 8.259588888888887
+  },
+  "1972-04": {
+   "Executive Office Building": 15.300000000000004,
+   "Oval Office": 22.629391666666667,
+   "Cabinet Room": 1.4186583333333334,
+   "White House telephone": 7.196897222222221
+  },
+  "1972-05": {
+   "Executive Office Building": 4.8473861111111125,
+   "Oval Office": 6.801750000000002,
+   "Cabinet Room": 7.714691666666668,
+   "Camp David": 7.526852777777776,
+   "White House telephone": 6.033136111111108
+  },
+  "1972-06": {
+   "Executive Office Building": 6.071477777777776,
+   "Cabinet Room": 3.870366666666667,
+   "Oval Office": 8.097091666666664,
+   "Camp David": 9.284363888888892,
+   "White House telephone": 8.938261111111109
+  },
+  "1972-07": {
+   "Camp David": 9.760177777777786,
+   "Oval Office": 23.648283333333342,
+   "White House telephone": 2.7716305555555563,
+   "Cabinet Room": 0.5384944444444444,
+   "Executive Office Building": 7.361605555555557
+  },
+  "1972-08": {
+   "Oval Office": 23.79192222222222,
+   "Camp David": 13.076158333333327,
+   "Cabinet Room": 3.5259388888888887,
+   "White House telephone": 1.0529916666666665,
+   "Executive Office Building": 5.903344444444447
+  },
+  "1972-09": {
+   "Oval Office": 50.07010277777774,
+   "Camp David": 11.020991666666674,
+   "White House telephone": 0.7293805555555554,
+   "Executive Office Building": 8.902269444444446
+  },
+  "1972-10": {
+   "Camp David": 12.935936111111111,
+   "Executive Office Building": 30.2739611111111,
+   "Oval Office": 53.86243055555554,
+   "White House telephone": 6.818402777777777
+  },
+  "1972-11": {
+   "Oval Office": 15.209186111111114,
+   "Camp David": 21.424869444444454,
+   "White House telephone": 6.842916666666665,
+   "Executive Office Building": 16.832725000000007
+  },
+  "1972-12": {
+   "Camp David": 18.778902777777784,
+   "Executive Office Building": 34.00389166666668,
+   "Oval Office": 36.17877499999998,
+   "White House telephone": 7.006861111111113,
+   "Cabinet Room": 0.24898611111111113
+  },
+  "1973-01": {
+   "Oval Office": 55.32186666666665,
+   "Executive Office Building": 49.45935000000005,
+   "Cabinet Room": 3.3259833333333333,
+   "White House telephone": 8.70858611111111,
+   "Camp David": 1.5557583333333327
+  },
+  "1973-02": {
+   "Executive Office Building": 20.56401944444445,
+   "Cabinet Room": 4.956755555555556,
+   "Oval Office": 64.29801666666673,
+   "Camp David": 2.4180055555555566,
+   "White House telephone": 5.354536111111111
+  },
+  "1973-03": {
+   "Oval Office": 79.12935555555546,
+   "Executive Office Building": 45.264563888888894,
+   "Cabinet Room": 5.428652777777779,
+   "White House telephone": 10.367208333333336,
+   "Camp David": 0.07962777777777777
+  },
+  "1973-04": {
+   "Cabinet Room": 7.8160694444444445,
+   "Executive Office Building": 21.545227777777782,
+   "White House telephone": 10.194722222222227,
+   "Camp David": 2.795058333333334,
+   "Oval Office": 50.823163888888914
+  },
+  "1973-05": {
+   "Cabinet Room": 8.359308333333333,
+   "White House telephone": 10.416561111111111,
+   "Camp David": 6.217694444444443,
+   "Executive Office Building": 28.93611666666667,
+   "Oval Office": 59.448530555555614
+  },
+  "1973-06": {
+   "Cabinet Room": 9.318591666666668,
+   "White House telephone": 9.592327777777783,
+   "Camp David": 4.39459722222222,
+   "Executive Office Building": 17.555002777777787,
+   "Oval Office": 35.034733333333335
+  },
+  "1973-07": {
+   "Cabinet Room": 6.071319444444445,
+   "White House telephone": 0.7379555555555557,
+   "Executive Office Building": 0.5852222222222223,
+   "Oval Office": 11.574808333333339
+  }
+ },
+ "finetune": {
+  "WhisperX large-v3, batched": [
+   57.0,
+   44.2,
+   28.6,
+   79.6
+  ],
+  "Whisper large-v3, sequential": [
+   64.6,
+   52.1,
+   32.8,
+   80.4
+  ],
+  "Parakeet v3, stock": [
+   63.8,
+   49.3,
+   32.2,
+   82.0
+  ],
+  "v1": [
+   68.5,
+   58.7,
+   41.3,
+   86.6
+  ],
+  "v3": [
+   70.0,
+   61.2,
+   43.8,
+   86.6
+  ],
+  "v4": [
+   70.7,
+   61.9,
+   44.8,
+   86.7
+  ],
+  "v5": [
+   72.3,
+   64.9,
+   46.7,
+   87.3
+  ]
+ },
+ "speakers": {
+  "version": "v4",
+  "per_clip": {
+   "Butterfield": 66,
+   "Colson": 91,
+   "Connally": 74,
+   "Dean": 83,
+   "Ehrlichman": 87,
+   "Haig": 92,
+   "Haldeman": 84,
+   "Kissinger": 94,
+   "Mitchell": 93,
+   "Nixon": 89,
+   "Rogers": 90,
+   "Shultz": 91,
+   "Woods": 94,
+   "Ziegler": 94
+  },
+  "balanced_acc": 87.2,
+  "piles": "881/896",
+  "clips_by_class": {
+   "Butterfield": 111,
+   "Colson": 1673,
+   "Connally": 147,
+   "Dean": 904,
+   "Ehrlichman": 3264,
+   "Haig": 340,
+   "Haldeman": 3898,
+   "Kissinger": 4452,
+   "Mitchell": 501,
+   "Nixon": 7303,
+   "Rogers": 410,
+   "Shultz": 346,
+   "Woods": 290,
+   "Ziegler": 643
+  },
+  "clips": 24656,
+  "convs": 902,
+  "validation_named_share": 64,
+  "validation_correct": 95.7
+ },
+ "correction": {
+  "arms": {
+   "Parakeet words only": {
+    "gained": 405,
+    "helped": 258,
+    "hurt": 20
+   },
+   "+ Whisper alternatives": {
+    "gained": 564,
+    "helped": 318,
+    "hurt": 23
+   },
+   "+ confidence marks": {
+    "gained": 712,
+    "helped": 387,
+    "hurt": 29
+   }
+  },
+  "names_by_tape": {
+   "886-008": [
+    85.4,
+    88.7
+   ],
+   "488-015": [
+    61.8,
+    85.4
+   ],
+   "779-002": [
+    58.9,
+    78.5
+   ],
+   "421-018": [
+    55.9,
+    56.8
+   ],
+   "051-001": [
+    30.0,
+    41.4
+   ]
+  },
+  "whisper_edits": {
+   "helped": 179,
+   "hurt": 10
+  }
+ }
+}

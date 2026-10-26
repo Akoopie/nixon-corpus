@@ -1,0 +1,262 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Baevski et~al.(2020)Baevski, Zhou, Mohamed, and
+  Auli]{baevski2020wav2vec2}
+Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, and Michael Auli.
+\newblock wav2vec 2.0: A framework for self-supervised learning of speech
+  representations.
+\newblock In \emph{Advances in Neural Information Processing Systems 33}, 2020.
+\newblock URL \url{https://arxiv.org/abs/2006.11477}.
+
+\bibitem[Bain et~al.(2023)Bain, Huh, Han, and Zisserman]{bain2023whisperx}
+Max Bain, Jaesung Huh, Tengda Han, and Andrew Zisserman.
+\newblock {WhisperX}: Time-accurate speech transcription of long-form audio.
+\newblock In \emph{Proceedings of Interspeech 2023}, pages 4489--4493, 2023.
+\newblock \doi{10.21437/Interspeech.2023-78}.
+
+\bibitem[Bara{\'n}ski et~al.(2025)Bara{\'n}ski, Jasi{\'n}ski, Bartolewska,
+  Kacprzak, Witkowski, and Kowalczyk]{baranski2025hallucination}
+Mateusz Bara{\'n}ski, Jan Jasi{\'n}ski, Julitta Bartolewska, Stanis{\l}aw
+  Kacprzak, Marcin Witkowski, and Konrad Kowalczyk.
+\newblock Investigation of {Whisper} {ASR} hallucinations induced by non-speech
+  audio.
+\newblock In \emph{ICASSP 2025 -- IEEE International Conference on Acoustics,
+  Speech and Signal Processing}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2501.11378}.
+
+\bibitem[Bredin(2023)]{bredin2023pyannote}
+Herv{\'e} Bredin.
+\newblock pyannote.audio 2.1 speaker diarization pipeline: Principle,
+  benchmark, and recipe.
+\newblock In \emph{Proceedings of Interspeech 2023}, pages 1983--1987, 2023.
+\newblock \doi{10.21437/Interspeech.2023-105}.
+
+\bibitem[Brinkley and Nichter(2014)]{brinkley2014nixontapes}
+Douglas Brinkley and Luke~A. Nichter.
+\newblock \emph{The {Nixon} Tapes: 1971--1972}.
+\newblock Houghton Mifflin Harcourt, Boston, 2014.
+
+\bibitem[Brinkley and Nichter(2015)]{brinkley2015nixontapes1973}
+Douglas Brinkley and Luke~A. Nichter.
+\newblock \emph{The {Nixon} Tapes: 1973}.
+\newblock Houghton Mifflin Harcourt, Boston, 2015.
+
+\bibitem[Chen et~al.(2023)Chen, Hu, Yang, Siniscalchi, Chen, and
+  Chng]{chen2023hyporadise}
+Chen Chen, Yuchen Hu, Chao-Han~Huck Yang, Sabato~Marco Siniscalchi, Pin-Yu
+  Chen, and Eng~Siong Chng.
+\newblock {HyPoradise}: An open baseline for generative speech recognition with
+  large language models.
+\newblock In \emph{Advances in Neural Information Processing Systems 36,
+  Datasets and Benchmarks Track}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2309.15701}.
+
+\bibitem[{Congressional Research Service}(2018)]{crs2018fbi}
+{Congressional Research Service}.
+\newblock {FBI} director nominations, 1973--2017.
+\newblock Report R44842. \url{https://www.congress.gov/crs-product/R44842},
+  2018.
+
+\bibitem[Dean(2001)]{dean2001rehnquist}
+John~W. Dean.
+\newblock \emph{The {Rehnquist} Choice: The Untold Story of the {Nixon}
+  Appointment That Redefined the {Supreme Court}}.
+\newblock Free Press, New York, 2001.
+
+\bibitem[Dean(2014)]{dean2014defense}
+John~W. Dean.
+\newblock \emph{The {Nixon} Defense: What He Knew and When He Knew It}.
+\newblock Viking, New York, 2014.
+
+\bibitem[Ferguson and Nichter(2026)]{ferguson2026unlocked}
+Niall Ferguson and Luke Nichter.
+\newblock The {Nixon} tapes, unlocked.
+\newblock \textit{The Free Press}, September 30.
+  \url{https://www.thefp.com/p/the-nixon-tapes-unlocked-niall-ferguson-luke-nichter},
+  2026.
+
+\bibitem[Fine(2026)]{fine2026easynixon}
+Todd Fine.
+\newblock Easy {Nixon}: Accessible archive of the {Richard M. Nixon} white
+  house tapes.
+\newblock \url{https://www.easynixon.org/}, 2026.
+\newblock Accessed October 21, 2026.
+
+\bibitem[Fiscus(1997)]{fiscus1997rover}
+Jonathan~G. Fiscus.
+\newblock A post-processing system to yield reduced word error rates:
+  Recognizer output voting error reduction ({ROVER}).
+\newblock In \emph{1997 IEEE Workshop on Automatic Speech Recognition and
+  Understanding Proceedings}, pages 347--354, 1997.
+\newblock \doi{10.1109/ASRU.1997.659110}.
+
+\bibitem[Germany et~al.(2014)Germany, Hemmer, and Hughes]{johnson1968deloach}
+Kent~B. Germany, Nicole Hemmer, and Ken Hughes.
+\newblock {Lyndon B. Johnson} and {Cartha D. ``Deke'' DeLoach} on 13 november
+  1968, conversation {WH6811-04-13733}.
+\newblock In \emph{Presidential Recordings Digital Edition: {Johnson} Telephone
+  Tapes, 1968}. University of Virginia Press, Charlottesville, 2014.
+\newblock URL \url{https://prde.upress.virginia.edu/conversations/4006140}.
+
+\bibitem[{Google DeepMind}(2026)]{google2026argon}
+{Google DeepMind}.
+\newblock Gemini 4 argon: Model card.
+\newblock \url{https://deepmind.google/models/model-cards/gemini-4-argon/},
+  2026.
+\newblock Published October 13, 2026.
+
+\bibitem[Haldeman(1994)]{haldeman1994diaries}
+H.~R. Haldeman.
+\newblock \emph{The {Haldeman} Diaries: Inside the {Nixon} White House}.
+\newblock G. P. Putnam's Sons, New York, 1994.
+
+\bibitem[{Hoover Institution}(2026)]{hoover2026nixon}
+{Hoover Institution}.
+\newblock Hoover applied history working group announces landmark transcription
+  of {Nixon} white house tapes.
+\newblock Press release, September 30.
+  \url{https://www.hoover.org/news/hoover-applied-history-working-group-announces-landmark-transcription-nixon-white-house-tapes},
+  2026.
+
+\bibitem[Hughes(2014)]{hughes2014chasing}
+Ken Hughes.
+\newblock \emph{Chasing Shadows: The {Nixon} Tapes, the {Chennault} Affair, and
+  the Origins of {Watergate}}.
+\newblock University of Virginia Press, Charlottesville, 2014.
+
+\bibitem[Koenecke et~al.(2024)Koenecke, Choi, Mei, Schellmann, and
+  Sloane]{koenecke2024careless}
+Allison Koenecke, Anna Seo~Gyeong Choi, Katelyn~X. Mei, Hilke Schellmann, and
+  Mona Sloane.
+\newblock Careless {Whisper}: Speech-to-text hallucination harms.
+\newblock In \emph{Proceedings of the 2024 ACM Conference on Fairness,
+  Accountability, and Transparency}, pages 1672--1681, 2024.
+\newblock \doi{10.1145/3630106.3658996}.
+
+\bibitem[Kuchaiev et~al.(2019)Kuchaiev, Li, Nguyen, Hrinchuk, Leary, Ginsburg,
+  Kriman, Beliaev, Lavrukhin, Cook, Castonguay, Popova, Huang, and
+  Cohen]{kuchaiev2019nemo}
+Oleksii Kuchaiev, Jason Li, Huyen Nguyen, Oleksii Hrinchuk, Ryan Leary, Boris
+  Ginsburg, Samuel Kriman, Stanislav Beliaev, Vitaly Lavrukhin, Jack Cook,
+  Patrice Castonguay, Mariya Popova, Jocelyn Huang, and Jonathan~M. Cohen.
+\newblock {NeMo}: A toolkit for building {AI} applications using neural
+  modules.
+\newblock arXiv:1909.09577, 2019.
+\newblock URL \url{https://arxiv.org/abs/1909.09577}.
+
+\bibitem[Kutler(1997)]{kutler1997abuse}
+Stanley~I. Kutler, editor.
+\newblock \emph{Abuse of Power: The New {Nixon} Tapes}.
+\newblock Free Press, New York, 1997.
+
+\bibitem[{NARA}(n.d.)]{nara2024conversations}
+{NARA}.
+\newblock White house tapes of the {Nixon} administration, 1971 to 1973.
+\newblock Conversation-level dataset, Data.gov.
+  \url{https://catalog.data.gov/dataset/white-house-tapes-of-the-nixon-administration-1971-to-1973},
+  n.d.
+\newblock CC0; 22,723 conversations.
+
+\bibitem[{Nixon Library}(2018)]{nixonlib2018haldemandiaries}
+{Nixon Library}.
+\newblock {H. R. Haldeman} diaries collection finding aid ({RN-HRHD}; {NARA}
+  identifier 7787364).
+\newblock
+  \url{https://www.nixonlibrary.gov/sites/default/files/2019-03/HRHaldemanDiariesCollectionFindingAid03212018.pdf},
+  2018.
+
+\bibitem[{Nixon Library}(2019)]{nixonlib2019findingaid}
+{Nixon Library}.
+\newblock White house tapes: Sound recordings of meetings and telephone
+  conversations of the {Nixon} administration, 2/16/1971--7/18/1973 ({RN-WHT};
+  {NARA} {ID} 597542), complete finding aid.
+\newblock
+  \url{https://nixonlibrary.gov/sites/default/files/2019-08/White\%20House\%20Tapes\%20Complete\%20Finding\%20Aid.pdf},
+  2019.
+
+\bibitem[{Nixon Library}(n.d.)]{nixonlib2010subjectlogs}
+{Nixon Library}.
+\newblock White house tapes: Tape subject logs.
+\newblock \url{https://www.nixonlibrary.gov/white-house-tapes}, n.d.
+
+\bibitem[{NVIDIA}(2025)]{nvidia2025parakeetv3}
+{NVIDIA}.
+\newblock parakeet-tdt-0.6b-v3.
+\newblock Model card, Hugging Face.
+  \url{https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3}, 2025.
+\newblock Released August 14, 2025; CC BY 4.0.
+
+\bibitem[{Presidential Recordings Digital Edition}(n.d.)]{prde2014nixon}
+{Presidential Recordings Digital Edition}.
+\newblock The presidential recordings of {Richard M. Nixon}.
+\newblock Presidential Recordings Digital Edition. Charlottesville: University
+  of Virginia Press. \url{https://prde.upress.virginia.edu/content/nixon}, n.d.
+
+\bibitem[Radford et~al.(2023)Radford, Kim, Xu, Brockman, McLeavey, and
+  Sutskever]{radford2023whisper}
+Alec Radford, Jong~Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, and
+  Ilya Sutskever.
+\newblock Robust speech recognition via large-scale weak supervision.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, volume 202 of \emph{Proceedings of Machine Learning Research},
+  pages 28492--28518, 2023.
+\newblock URL \url{https://proceedings.mlr.press/v202/radford23a.html}.
+
+\bibitem[{U.S. Department of State}(n.d.)]{frus1969}
+{U.S. Department of State}.
+\newblock Foreign relations of the {United States}, 1969--1976.
+\newblock Washington, DC: Government Publishing Office. Digital edition,
+  \url{https://history.state.gov/historicaldocuments}; TEI source,
+  \url{https://github.com/HistoryAtState/frus}, n.d.
+\newblock Office of the Historian.
+
+\bibitem[{U.S. House of Representatives, Committee on the
+  Judiciary}(1974)]{hjc1974eight}
+{U.S. House of Representatives, Committee on the Judiciary}.
+\newblock \emph{Transcripts of Eight Recorded Presidential Conversations}.
+\newblock U.S. Government Printing Office, Washington, DC, 1974.
+\newblock 93rd Congress, 2nd session.
+
+\bibitem[Wang et~al.(2023)Wang, Liang, Wang, Chen, Zhang, Xiang, Deng, and
+  Qian]{wang2023wespeaker}
+Hongji Wang, Chengdong Liang, Shuai Wang, Zhengyang Chen, Binbin Zhang,
+  Xu~Xiang, Yanlei Deng, and Yanmin Qian.
+\newblock Wespeaker: A research and production oriented speaker embedding
+  learning toolkit.
+\newblock In \emph{ICASSP 2023 -- IEEE International Conference on Acoustics,
+  Speech and Signal Processing}, pages 1--5, 2023.
+\newblock \doi{10.1109/ICASSP49357.2023.10096626}.
+
+\bibitem[{Watergate Special Prosecution Force}(1973--1975)]{wspf}
+{Watergate Special Prosecution Force}.
+\newblock Transcripts of {Nixon} white house tape recordings.
+\newblock Records of the Watergate Special Prosecution Force, Record Group 460,
+  National Archives and Records Administration; per-conversation copies at
+  \url{https://www.nixonlibrary.gov/white-house-tapes}, 1973--1975.
+
+\bibitem[{Watergate Special Prosecution Force}(1974)]{wspf1974exhibit1}
+{Watergate Special Prosecution Force}.
+\newblock Transcript of the conversation of {June 23, 1972} between {President
+  Nixon} and {H. R. Haldeman} (conversation 741-002), trial exhibit 1,
+  \textit{United States v. Mitchell et al.}
+\newblock
+  \url{https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/tapes/watergate/trial/exhibit_01.pdf},
+  1974.
+
+\bibitem[Xu et~al.(2023)Xu, Jia, Majumdar, Huang, Watanabe, and
+  Ginsburg]{xu2023tdt}
+Hainan Xu, Fei Jia, Somshubra Majumdar, He~Huang, Shinji Watanabe, and Boris
+  Ginsburg.
+\newblock Efficient sequence transduction by jointly predicting tokens and
+  durations.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, volume 202 of \emph{Proceedings of Machine Learning Research},
+  2023.
+\newblock URL \url{https://proceedings.mlr.press/v202/xu23g.html}.
+
+\end{thebibliography}

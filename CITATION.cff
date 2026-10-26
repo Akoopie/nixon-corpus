@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this corpus, model or code, please cite the paper below."
+title: "The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model"
+type: dataset
+authors:
+  - family-names: "Akoopie"
+    given-names: "Arvin"
+    orcid: "https://orcid.org/0000-0001-7833-4172"
+version: "1.1"
+date-released: "2026-10-25"
+license:
+  - CC-BY-4.0
+  - MIT
+abstract: "Word-timed, speaker-annotated machine transcripts of every Nixon White House conversation released as an individual recording (19,426 conversations, 2,206 hours), produced with a speech recognizer fine-tuned on the tapes, a second independent recognizer and archive-informed correction. Transcripts and model weights are CC BY 4.0; code is MIT."
+keywords:
+  - speech recognition
+  - Nixon tapes
+  - Watergate
+  - presidential recordings
+  - digital humanities
+preferred-citation:
+  type: article
+  title: "The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model"
+  authors:
+    - family-names: "Akoopie"
+      given-names: "Arvin"
+      orcid: "https://orcid.org/0000-0001-7833-4172"
+  year: 2026
+  journal: "arXiv preprint"

@@ -1,0 +1,5 @@
+# Nixon Corpus v1.1 | conversation 001-112 | 1971-04-16 | 11:01 PM - 11:03 PM | White House Telephone (WHT)
+# NARA participants: Nixon, Richard M. (President); Eisenhower, Julie Nixon
+# Machine transcript, not an official record. Text layer: merged; LLM correction: no-words. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+(no speech recognized)

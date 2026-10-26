@@ -1,0 +1,61 @@
+{
+ "total_segment_hours": 1461.4,
+ "named": {
+  "Nixon": {
+   "hours": 637.2,
+   "conversations": 12917
+  },
+  "Haldeman": {
+   "hours": 99.4,
+   "conversations": 1411
+  },
+  "Kissinger": {
+   "hours": 79.2,
+   "conversations": 971
+  },
+  "Ehrlichman": {
+   "hours": 41.5,
+   "conversations": 490
+  },
+  "Colson": {
+   "hours": 40.1,
+   "conversations": 541
+  },
+  "Ziegler": {
+   "hours": 29.0,
+   "conversations": 803
+  },
+  "Haig": {
+   "hours": 21.4,
+   "conversations": 451
+  },
+  "Connally": {
+   "hours": 19.9,
+   "conversations": 209
+  },
+  "Shultz": {
+   "hours": 18.1,
+   "conversations": 231
+  },
+  "Rogers": {
+   "hours": 12.6,
+   "conversations": 176
+  },
+  "Woods": {
+   "hours": 11.5,
+   "conversations": 381
+  },
+  "Mitchell": {
+   "hours": 6.8,
+   "conversations": 116
+  },
+  "Dean": {
+   "hours": 4.0,
+   "conversations": 48
+  },
+  "Butterfield": {
+   "hours": 2.6,
+   "conversations": 466
+  }
+ }
+}

@@ -1,0 +1,7 @@
+# Nixon Corpus v1.1 | conversation 395-006 | 1973-01-10 | 3:34 PM - 3:35 PM | Old Executive Office Building (EOB)
+# NARA participants: Nixon, Richard M. (President); Kennedy, Richard T. (Col.)
+# Machine transcript, not an official record. Text layer: parakeet-v5-only; LLM correction: not-run. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:00] UNKNOWN: Hello. Hi, you got your report today yet?
+[00:00:18] UNKNOWN: Well, they could clean them to a half-hour program.
+[00:00:29] UNKNOWN: We could bring it over if we hit the, uh, meeting. I know there's no indication at all. Expect meetings. Expect meetings about two years.

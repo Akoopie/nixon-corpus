@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nixon Tapes Correction Session</title>
+<style>
+:root {
+  --bg: #f3f1ec; --surface: #fffdf8; --ink: #1d1b18; --ink-2: #5c574f; --rule: #ddd6c8;
+  --accent: #8a3b12; --doubt: #c98a1a; --good: #3d7a4a;
+  --font: "Segoe UI", system-ui, -apple-system, sans-serif; --mono: "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #17150f; --surface: #221f18; --ink: #efe9dd; --ink-2: #b3ab9b; --rule: #3a352b;
+          --accent: #e0915f; --doubt: #e5b453; --good: #7cc48c; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--font); }
+main { max-width: 860px; margin: 0 auto; padding: 24px 18px 60px; display: grid; gap: 16px; }
+header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+h1 { font-size: 21px; margin: 0; }
+.muted { color: var(--ink-2); font-size: 14px; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 18px; display: grid; gap: 14px; }
+.meta { font-size: 14px; color: var(--ink-2); }
+.meta b { color: var(--ink); }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+button, select { font: inherit; font-size: 14px; padding: 7px 13px; border-radius: 7px; border: 1px solid var(--rule); background: var(--bg); color: var(--ink); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button:focus-visible, textarea:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+button.on { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.lab { font: 12px var(--mono); color: var(--ink-2); text-transform: uppercase; letter-spacing: .05em; }
+.ctx { font-size: 14px; color: var(--ink-2); display: grid; gap: 4px; }
+.draft { font-size: 17px; line-height: 1.7; }
+.draft .u { background: color-mix(in srgb, var(--doubt) 28%, transparent); border-bottom: 2px dotted var(--doubt); border-radius: 2px; }
+textarea { width: 100%; min-height: 96px; font: 18px/1.55 var(--font); padding: 10px; border-radius: 8px; border: 1px solid var(--rule); background: var(--bg); color: var(--ink); }
+.bar { height: 6px; background: var(--rule); border-radius: 3px; overflow: hidden; }
+.bar div { height: 100%; background: var(--accent); }
+.dots { display: flex; flex-wrap: wrap; gap: 3px; }
+.dots span { width: 12px; height: 12px; border-radius: 3px; background: var(--rule); cursor: pointer; }
+.dots span.done { background: var(--good); }
+.dots span.cur { outline: 2px solid var(--accent); }
+.keys { font-size: 13px; color: var(--ink-2); }
+kbd { font: 12px var(--mono); border: 1px solid var(--rule); border-radius: 4px; padding: 0 4px; }
+.saved { color: var(--good); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Nixon Tapes Correction Session</h1>
+    <span class="muted" id="progress">loading…</span>
+  </header>
+  <div class="bar"><div id="bar" style="width:0%"></div></div>
+  <div class="row">
+    <label class="muted" for="winsel">Window</label>
+    <select id="winsel"></select>
+    <span class="muted" id="wininfo"></span>
+  </div>
+  <div class="dots" id="dots" aria-label="Chunks in this window"></div>
+  <section class="card" aria-live="polite">
+    <div class="meta" id="meta"></div>
+    <div class="row">
+      <button class="primary" id="play">▶ Play</button>
+      <button id="slow">Play at 0.75×</button>
+      <button id="back3">↺ Last 3 s</button>
+      <button id="clean" class="on">Cleaned audio: on</button>
+      <span class="muted" id="when"></span>
+      <audio id="audio" preload="auto"></audio>
+    </div>
+    <div class="ctx">
+      <div><span class="lab">before</span> <span id="before"></span></div>
+    </div>
+    <div>
+      <div class="lab" style="margin-bottom:4px">Model's draft · <span style="text-transform:none">highlighted words are ones it doubted</span></div>
+      <div class="draft" id="draft"></div>
+    </div>
+    <label for="text"><b>Corrected text</b> <span class="muted">(fix what's wrong, add what it missed; numbers as spoken words, e.g. "fifty thousand"; keep uh / um; type <kbd>[?]</kbd> for a stretch you can't make out)</span></label>
+    <textarea id="text" spellcheck="false"></textarea>
+    <div class="row">
+      <button id="unk">Insert [?]</button>
+      <button id="reset">Reset to draft</button>
+      <button id="nospeech">No speech here</button>
+      <button id="guess">Some of this is a guess</button>
+    </div>
+    <div class="ctx"><div><span class="lab">after</span> <span id="after"></span></div></div>
+    <div class="row" style="justify-content:space-between">
+      <button id="prev">← Back</button>
+      <span class="saved" id="savedmsg"></span>
+      <button class="primary" id="save">Save &amp; next →</button>
+    </div>
+    <div class="keys"><kbd>Ctrl</kbd>+<kbd>Space</kbd> play from start · <kbd>Ctrl</kbd>+<kbd>←</kbd> last 3 s · <kbd>Ctrl</kbd>+<kbd>Enter</kbd> save &amp; next · <kbd>Ctrl</kbd>+<kbd>/</kbd> insert [?]</div>
+  </section>
+</main>
+<script>
+let S = [], labels = {}, w = 0, c = 0, guess = false, nospeech = false, shownAt = 0;
+let clean = true; try { clean = localStorage.getItem("clean") !== "0"; } catch (e) {}
+const $ = id => document.getElementById(id), audio = $("audio");
+const draftText = ch => ch.draft.map(x => x.w).join(" ");
+const textOf = ch => labels[ch.id] ? (labels[ch.id].no_speech ? "(no speech)" : labels[ch.id].text) : draftText(ch);
+const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+
+async function load() {
+  S = await (await fetch("/session.json")).json();
+  labels = await (await fetch("/labels.json")).json();
+  $("winsel").innerHTML = S.map((x, k) => `<option value="${k}">${k + 1}. ${x.conv} · ${x.place}</option>`).join("");
+  // resume at the first unsaved chunk
+  outer: for (w = 0; w < S.length; w++) for (c = 0; c < S[w].chunks.length; c++) if (!labels[S[w].chunks[c].id]) break outer;
+  if (w >= S.length) { w = 0; c = 0; }
+  show();
+}
+function show() {
+  const W = S[w], ch = W.chunks[c], prev = labels[ch.id];
+  const total = S.reduce((a, x) => a + x.chunks.length, 0), done = Object.keys(labels).length;
+  const winsDone = S.filter(x => x.chunks.every(k => labels[k.id])).length;
+  $("progress").textContent = `${done} of ${total} chunks saved · ${winsDone} of ${S.length} windows complete`;
+  $("bar").style.width = (100 * done / total) + "%";
+  $("winsel").value = w;
+  $("wininfo").textContent = `chunk ${c + 1} of ${W.chunks.length}`;
+  $("dots").innerHTML = W.chunks.map((k, i) => `<span class="${labels[k.id] ? "done" : ""} ${i === c ? "cur" : ""}" data-i="${i}" title="chunk ${i + 1}"></span>`).join("");
+  $("meta").innerHTML = `<b>${W.conv}</b> · ${W.date} · ${W.place} · present: ${W.participants.join(", ") || "not listed"}`;
+  const t0 = W.tape_start + ch.start, mmss = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
+  $("when").textContent = `${mmss(t0)}–${mmss(W.tape_start + ch.end)} into the tape · ${(ch.end - ch.start).toFixed(1)} s`;
+  $("before").textContent = c > 0 ? "…" + textOf(W.chunks[c - 1]).split(" ").slice(-14).join(" ") : "(start of window)";
+  $("after").textContent = c < W.chunks.length - 1 ? draftText(W.chunks[c + 1]).split(" ").slice(0, 14).join(" ") + "…" : "(end of window)";
+  $("draft").innerHTML = ch.draft.length ? ch.draft.map(x => x.unsure ? `<span class="u">${esc(x.w)}</span>` : esc(x.w)).join(" ")
+    : `<span class="muted">(the model heard nothing here; type anything you hear)</span>`;
+  $("text").value = prev ? prev.text : draftText(ch);
+  guess = prev ? !!prev.guess : false; nospeech = prev ? !!prev.no_speech : false;
+  $("savedmsg").textContent = prev ? "saved earlier" : "";
+  sync(); shownAt = Date.now();
+  audio.src = url(ch.id); audio.playbackRate = 1; audio.play().catch(() => {});
+  $("text").focus(); $("text").setSelectionRange($("text").value.length, $("text").value.length);
+}
+const url = id => `/${clean ? "audio_clean" : "audio"}/${id}.wav`;
+function sync() {
+  $("guess").classList.toggle("on", guess); $("nospeech").classList.toggle("on", nospeech);
+  $("clean").classList.toggle("on", clean); $("clean").textContent = `Cleaned audio: ${clean ? "on" : "off"}`;
+}
+function insertUnk() {
+  const t = $("text"), a = t.selectionStart, b = t.selectionEnd, v = t.value;
+  const ins = (a > 0 && v[a - 1] !== " " ? " " : "") + "[?]" + (b < v.length && v[b] !== " " ? " " : "");
+  t.value = v.slice(0, a) + ins + v.slice(b); t.focus(); t.setSelectionRange(a + ins.length, a + ins.length);
+}
+async function save() {
+  const W = S[w], ch = W.chunks[c], text = $("text").value.trim().replace(/\s+/g, " ");
+  const x = { id: ch.id, window: W.window, conv: W.conv, band: W.band, tape_start: W.tape_start, start: ch.start, end: ch.end,
+              text: nospeech ? "" : text, no_speech: nospeech, guess, has_unknown: !nospeech && text.includes("[?]"),
+              draft: draftText(ch), edited: text !== draftText(ch), audio: clean ? "cleaned" : "original",
+              seconds_spent: Math.round((Date.now() - shownAt) / 1000) };
+  await fetch("/label", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(x) });
+  labels[ch.id] = x;
+  if (c < W.chunks.length - 1) c++; else if (w < S.length - 1) { w++; c = 0; }
+  show();
+}
+$("play").onclick = () => { audio.playbackRate = 1; audio.currentTime = 0; audio.play(); };
+$("slow").onclick = () => { audio.playbackRate = 0.75; audio.currentTime = 0; audio.play(); };
+$("back3").onclick = () => { audio.currentTime = Math.max(0, audio.currentTime - 3); audio.play(); };
+$("clean").onclick = () => { clean = !clean; try { localStorage.setItem("clean", clean ? "1" : "0"); } catch (e) {}
+  const t = audio.currentTime; audio.src = url(S[w].chunks[c].id); audio.currentTime = t; audio.play(); sync(); };
+$("unk").onclick = insertUnk;
+$("reset").onclick = () => { $("text").value = draftText(S[w].chunks[c]); nospeech = false; sync(); };
+$("nospeech").onclick = () => { nospeech = !nospeech; sync(); };
+$("guess").onclick = () => { guess = !guess; sync(); };
+$("save").onclick = save;
+$("prev").onclick = () => { if (c > 0) c--; else if (w > 0) { w--; c = S[w].chunks.length - 1; } show(); };
+$("winsel").onchange = e => { w = +e.target.value; c = S[w].chunks.findIndex(k => !labels[k.id]); if (c < 0) c = 0; show(); };
+$("dots").onclick = e => { if (e.target.dataset.i !== undefined) { c = +e.target.dataset.i; show(); } };
+document.addEventListener("keydown", e => {
+  if (!e.ctrlKey) return;
+  if (e.key === "Enter") { e.preventDefault(); save(); }
+  else if (e.key === " ") { e.preventDefault(); $("play").click(); }
+  else if (e.key === "ArrowLeft") { e.preventDefault(); $("back3").click(); }
+  else if (e.key === "/") { e.preventDefault(); insertUnk(); }
+});
+load();
+</script>
+</body>
+</html>

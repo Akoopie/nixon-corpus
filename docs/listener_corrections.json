@@ -1,0 +1,17 @@
+{
+ "about": "Corrections confirmed by the author's listening, applied by src/listener_fixes.py from release v1.1 on. Human-readable log: docs/corrections_v1.1.md. Times are seconds on the conversation's own timeline (multi-part tapes joined in order). A word fix replaces the token `old` whose start lies within 1 s of `at` (an empty `new` deletes it); a speaker span names every word whose midpoint lies in [start, end].",
+ "words": [
+  {"conv": "916-019", "at": 782.32, "old": "faint", "new": "paint a", "release": "1.1",
+   "reason": "author's listening, 2026-10-24: Nixon says \"i do not need to paint a picture\""},
+  {"conv": "871-004", "at": 336.08, "old": "hum", "new": "", "release": "1.1",
+   "reason": "author's listening, 2026-10-25: no \"hum\" between \"handling himself well\" and \"what he said yesterday\""}
+ ],
+ "speakers": [
+  {"conv": "916-019", "start": 589.25, "end": 675.3, "speaker": "Nixon", "release": "1.1",
+   "reason": "author's listening, 2026-10-24: 9:50-11:15 is all Nixon (\"the problem with the memcon does not involve you\" through \"at some point\")"},
+  {"conv": "916-019", "start": 780.0, "end": 797.35, "speaker": "Nixon", "release": "1.1",
+   "reason": "author's listening, 2026-10-24: \"i i do not need to paint a picture ... set up a phony story\""},
+  {"conv": "916-019", "start": 797.35, "end": 820.0, "speaker": "Haldeman", "release": "1.1",
+   "reason": "author's listening, 2026-10-24: \"john would never indicate that ... public consumption\""}
+ ]
+}

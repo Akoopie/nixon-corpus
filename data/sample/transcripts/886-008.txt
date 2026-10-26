@@ -1,0 +1,772 @@
+# Nixon Corpus v1.1 | conversation 886-008 | 1973-03-21 | 9:15 AM - 11:55 AM | Oval Office (OVAL)
+# NARA participants: Nixon, Richard M. (President); Bull, Stephen B.; Ehrlichman, John D.; Dean, John W., III; Haldeman, H. R. ("Bob")
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:00] NIXON: He is working against Dean
+[00:00:03] UNKNOWN: that shultz is the possibility of keeping shultz back an hour.
+[00:00:19] UNKNOWN: 3:30. Sorry. Yeah. And, he will,
+[00:00:30] NIXON: find it John. we will leave at a quarter of five. So we need an hour for the little bit of slippage. All right.
+[00:00:42] UNKNOWN: You could see Check Ehrlichman's
+[00:00:44] NIXON: office now at 3:30.
+[00:00:50] UNKNOWN: If, this is, if this gets out of John, can we go ahead and implement this sir? This name kind of
+[00:00:56] NIXON: sees me to Florida. Let's go ahead and it. Yeah, you can implement it, but I do not need any staff down there at this point.
+[00:01:03] UNKNOWN: I did
+[00:01:03] NIXON: not need what I had is I don't need people to John.
+[00:01:15] UNKNOWN: See, Haldeman obviously keep him up with him. Somebody of that category
+[00:01:26] NIXON: had, what stenographer, but it doesn't mean rose
+[00:01:32] UNKNOWN: because I'm not going to have anything of that sort. She's going to get in to see what
+[00:01:38] NIXON: law firm [unclear] That's right. See if you could get this one to go. This was, this hell she's probably the next step unless she's got time. Or the Lord will, which is all right, too. I don't think we can. Just so they're trying to just want to call off this. Okay. All right. no cabinet members But they will be pushed camp david for sure All right.
+[00:02:10] NIXON: Oh, hell no.
+[00:02:16] NIXON: Thursday or that half-third tomorrow announced it. I don't know. but till then I don't want to wait till shultz until the shultz meeting is announced. As soon as the shultz meeting is announced probably tomorrow. I'll be with that or
+[00:02:32] UNKNOWN: see. Yes, Dean told him. Yeah. And they can, they should get some time to go ahead and, get the reservations on back forward and whatever you see. Find some back. Well, sit down.
+[00:02:55] UNKNOWN: Well, that
+[00:02:56] DEAN: was the Dean today about it. john caught me on the way out and asked me about why Gray was holding back on information. That was under instruction from us and that, it
+[00:03:09] UNKNOWN: wasn't, it wasn't. Now,
+[00:03:11] DEAN: it was instructed or told by the Attorney General and consistent with your press conference statement that no further raw data was to be turned over to the full committee. Full Committee. Right. And that was the extent of it. Then Gray himself is the one who reached the conclusion that no more information be turned over. He turned over enough. so this is again Pat Gray making decisions on his own as to how to handle his hearings. He has been totally unwilling all along to take any guidance any instruction. We don't know what he's going to do. He's not going to talk about it. He won't review it,
+[00:03:45] UNKNOWN: And I don't think he does it to harm you in any way sir he is just quite stubborn and he is quite Also, he isn't very smart. You know, yeah. He is is... Smart in his own way. Got that typical, well, five now business right and that's not going to do it.
+[00:04:02] DEAN: That's why he thinks he'll be confirmed because he thinks he's being, he's being his own man, he's being forthright, honest. He feels he's turned over too much, and so it's a conscious decision that he is harming the
+[00:04:13] UNKNOWN: Bureau
+[00:04:14] DEAN: by doing this, and so he's not going to... God will get
+[00:04:18] NIXON: off his paper off of it today. This is because the White House told me to do this or that other day. And also, that's a very good thing. I don't see why our lawyers can't
+[00:04:29] UNKNOWN: make something out of the fact that Terry, this is the only responsible decision you could possibly. The FBI cannot turn over the raw files has anybody made that point? I tried to
+[00:04:41] DEAN: say that. Sam Ervin has made that point himself. in fact, in reading the transcript of Gray's hearings, Ervin tried to hold Gray back from doing what he was doing at the time he did it.
+[00:04:52] UNKNOWN: I thought it was very unwise.
+[00:04:54] DEAN: I don't think that anyone is criticizing. Well, your position...
+[00:04:57] UNKNOWN: Let's make the point that let's make the point that the raw files I mean that much. we are standing
+[00:05:06] NIXON: for the rights of innocent individuals.
+[00:05:08] UNKNOWN: The Americans against it. We were against
+[00:05:11] NIXON: it.
+[00:05:17] UNKNOWN: I [unclear] get a chance to expire and put it out with me. Let
+[00:05:23] NIXON: him see what is he in one.
+[00:05:26] DEAN: How damaging.
+[00:05:28] UNKNOWN: Any further word on Sullivan
+[00:05:31] DEAN: still? Yeah, he's. Well, he's going to be over to see me today this morning, hopefully sometime. you get that out, you will
+[00:05:39] UNKNOWN: talk to him. All right, sir. I'm busy until about one o'clock.
+[00:05:44] NIXON: and then i will be back you, I'd like to see whether he has. We've
+[00:05:48] DEAN: got something that I want to see what it is. the reason I thought we ought to talk this morning is because in, in our conversations, I have, I have the impression that you don't know everything I know and it makes it very difficult for you to make judgments that, that only you can make... That's right....on some of these things.
+[00:06:08] NIXON: And I thought that You guys, in other words, I've got to know why you view our something. Well, let me... Let me, that we shouldn't unravel something. Let me
+[00:06:16] UNKNOWN: give you my overall first. I would hear your judgment as to where it stands and where we would go. I think,
+[00:06:22] DEAN: I think that, there's no doubt about the seriousness of the problem we're, we've got. We have a cancer within,
+[00:06:31] UNKNOWN: close to the Presidency that's growing. It's growing daily. It's compounding,
+[00:06:36] DEAN: it grows geometrically now because it compounds itself. that'll be clear as I explain, you know, some of the details, of why it is, and it basically is because, one, we're being blackmailed, two, people are going to start perjuring themselves very quickly but have not had to perjure themselves to protect other people and the like, and that
+[00:07:01] UNKNOWN: is
+[00:07:01] DEAN: just, and there's no assurance. That would bust. That won't bust. So let me give you the sort of basic facts talking first about the Watergate and then about Segretti and about some of the peripheral items that, have come up. First of all, on the, on the Watergate, how did it all start? Where did
+[00:07:19] UNKNOWN: it start?
+[00:07:20] DEAN: It started with instruction to me from Bob Haldeman to see if we could set up a perfectly legitimate campaign intelligence operation over at the re-election committee. Not being in this business, I turned to somebody who had been in this business, Jack Caulfield, who was, I don't know if you remember Jack or not, he was your original bodyguard before they had candidate protection and old New York City policeman. Right. Jack had worked for John and then was transferred to my office. And I said, Jack, come up with a plan that, you know, the normal infiltration, you know, buying information from secretaries and all that sort of thing.
+[00:08:00] UNKNOWN: He
+[00:08:00] DEAN: did. He put together a plan, was kicked around, and, I went to Ehrlichman with it and went to Mitchell with it, and the consensus was that Caulfield wasn't the man to do this. in retrospect, that might have been a bad call because he is an incredibly cautious person and wouldn't have put the situation where it is today. Right. After rejecting that, they said we still need something. So I was told to look around for somebody that could go over to 1701 and do this. That's when I came up with Gordon Liddy, who, they needed a lawyer. Gordon had an intelligence background from his FBI service. I was aware of the fact that he had done some extremely sensitive things for the White House while he'd been at the White House and he had apparently done them well. going out into Ellsberg's doctor's office and things like this.
+[00:08:52] UNKNOWN: He worked with leaks,
+[00:08:53] DEAN: he, you know, tracked these things down and, and so the report that I got from krogh was that he was a hell of a good man and not only that a good lawyer, and could set up a proper operation.
+[00:09:07] UNKNOWN: So we talked to Liddy. Liddy was interested in doing it,
+[00:09:11] DEAN: took, Liddy over to meet Mitchell. Mitchell thought highly of him because apparently Mitchell was partially involved in his coming to the White House to work for Krogh. Liddy
+[00:09:23] UNKNOWN: had been at Treasury before that.
+[00:09:27] DEAN: Then Liddy was told to put together his plan, you know, how he would run an intelligence operation. And this was after he was hired over there at the, the Committee. Magruder called me in January and said, I'd like to have you come over and see liddy in january of 72 Like you come over to Mitchell's office and sit in on a meeting where Liddy's going to lay his plan out. I said, Well, I don't really know as I'm the man, but if you want me there, I'll be happy to. So
+[00:09:56] UNKNOWN: I came over
+[00:09:57] DEAN: and Liddy laid out a million dollar plan. All in codes and involved black bag operations and kidnapping, providing prostitutes, to weaken the opposition, bugging, mugging teams. It was just an incredible thing. And,
+[00:10:18] UNKNOWN: and that was nothing discussed. No. No, no.
+[00:10:23] DEAN: And I, and Mitchell, Mitchell just virtually sat there puffing and laughing. I could tell because after he, after Liddy left the office, I said, That's the most incredible thing I've ever seen. He said,
+[00:10:31] UNKNOWN: I agree.
+[00:10:33] DEAN: And so they were told to go back to the drawing boards and come up with something realistic. So
+[00:10:37] UNKNOWN: there was a second meeting. they asked me to come
+[00:10:40] DEAN: over to that. I came into the tail end of the meeting. I wasn't
+[00:10:42] UNKNOWN: there for the first part of it. I don't know how long the meeting lasted.
+[00:10:46] DEAN: at this point, they were discussing again bugging, kidnapping and the like. And at this point i said right in front of everybody very clearly. I said, These are not the sort of things one that are ever to be discussed in the office of the Attorney General of the United States where he still was. And
+[00:11:02] UNKNOWN: I am personally incensed
+[00:11:03] DEAN: I'm trying to get Mitchell off the hook. because I know he's a, he's a nice person that doesn't like to say no under when people he's going to have to work with. That's right. So I let, I let it be known. I said, You all pack that stuff up and get it the hell out of here because we just, you just can't talk this way in this office and you shouldn't, you should re-examine your whole thinking. who else was present besides you It was Magruder's, Magruder, Magruder, Mitchell, Liddy, and myself. I came back right after the meeting and told Bob, I said, Bob, we got a growing disaster on our hands if they're thinking this way. And I said, The White House has got to stay out of this and I, frankly, am not going to be involved in it.
+[00:11:41] UNKNOWN: He said, I agree, John.
+[00:11:43] DEAN: And I thought at that point the thing was turned off.
+[00:11:47] UNKNOWN: That's the last I heard of it
+[00:11:50] DEAN: when I thought it was turned off because it was an absurd proposal. Yeah. Liddy, I did have dealings with him afterwards. We never
+[00:11:58] UNKNOWN: talked
+[00:11:58] DEAN: about it. Now that would be hard to believe for some people, but we never did. It's just a
+[00:12:02] UNKNOWN: fact of the matter. Well, you were talking about other things. Others, we had so many other things. He has legal problems. Now, you were his advisor. I, I understand. I've got to read some what can't, what are the campaign laws?
+[00:12:14] NIXON: I did that because you had Haldeman told me because you were going to call it up to us.
+[00:12:19] UNKNOWN: Go ahead. Now,
+[00:12:20] DEAN: so Liddy went back after that and was over, over, to 1701, the Committee, and I, this is where I come into having put the pieces together after the fact as what I can put together what happened. Liddy sat over there and tried to come up with another plan that he could sell. One, they were talking, saying he was asking for too much money and I don't think they were discounting the illegal points at this, after, you know, Jeb
+[00:12:46] UNKNOWN: is not
+[00:12:46] DEAN: a lawyer and he didn't know whether this was the way the game was played or not and what it was all about. So they came up with apparently another plan, but they couldn't get it approved by anybody over there. So Liddy and Hunt apparently came to see Chuck Colson. And Chuck Colson picked up the telephone and called Magruder and said, You all either fish or cut bait. this is absurd to have these guys over there and not using them. And if you're not going to use them, I may use them. Things of this nature.
+[00:13:15] UNKNOWN: What was this?
+[00:13:16] DEAN: This was apparently in February of 72. But could Colson know what they were talking
+[00:13:26] UNKNOWN: about.
+[00:13:26] DEAN: I can only assume because of his close relationship with Hunt, he had a damn good idea of what they were talking about.
+[00:13:33] UNKNOWN: A damn good
+[00:13:34] DEAN: idea. He would probably deny it today and probably get away with denying it. But I, I still... Unless Hunt, blows on him. But then hunt is not enough he is too
+[00:13:45] UNKNOWN: Probably. Probably.
+[00:13:47] DEAN: But Liddy was there also, and if, if Liddy were to blow. You got
+[00:13:51] UNKNOWN: obviously a criminal. Yeah. Okay. I'll go back over that.
+[00:13:58] NIXON: The soft spots are. That Colson you think was the, was the person? I think he... I think he helped to get
+[00:14:06] UNKNOWN: the push, get the thing off the dime. Now, if something else occurs, though. Colson, had he talked to anybody here? No. I think this is an individual. No, I don't think so.
+[00:14:15] DEAN: Now, but here's the other thing where the next thing comes in the chain. I think that Bob was assuming that they had something that was proper over there, some intelligence gathering operation that Liddy was operating. And through Strachan, who was his tickler, he started pushing them to get something to get some information. And
+[00:14:35] UNKNOWN: they took that as a signal.
+[00:14:36] DEAN: Magruder took that as a signal to probably go to Mitchell and say, They're pushing us like crazy for this from the White House. And so Mitchell probably puffed on his pipe and said, Go ahead, and never really reflected on what it was all about. So, they had some plan that obviously had, I gathered different targets they were going to go after. They were going to infiltrate and bug. and do all
+[00:15:02] UNKNOWN: This is knowledge I have after the fact.
+[00:15:06] DEAN: And it, apparently they, they, they
+[00:15:09] UNKNOWN: had, they
+[00:15:10] DEAN: had, after, they had initially broken in and bugged the Democratic National Committee. They were getting information. The information was coming over here to Strachan. Some of it was given to Haldeman.
+[00:15:23] UNKNOWN: there's no doubt about it. Did he know what it was from?
+[00:15:29] DEAN: I don't really know if he was... Yes, sir. Not
+[00:15:31] UNKNOWN: necessarily. That's not necessarily. Uh...
+[00:15:34] DEAN: Strachan knew it was. Strachan knew it was Strachan, no doubt about it, and whether Strachan, I've never wanted to press these people on these points because it, it hurts them to, to give up that next inch. So
+[00:15:45] UNKNOWN: I had to piece things together.
+[00:15:47] DEAN: All right, so Strachan was aware of receiving information reporting to Bob. At one point, Bob even gave instructions to change their capabilities from Muskie to McGovern. And it passed this back through Strachan to Magruder and, and apparently to Liddy, and Liddy was starting to make arrangements to go in and bug the, McGovern operation. They'd have done preliminary. They had never bugged Muskie over there. No, they hadn't, but they had to stay at the, they had infiltrated it by, they had a secretary and a chauffeur.
+[00:16:19] UNKNOWN: Nothing illegal about that.
+[00:16:22] DEAN: Now, so the information was coming over here and then, I finally, after the, the next point in time where I became aware of anything was on June 17th, when I got the word that there had been this break-in at the Democratic National Committee and somebody from the Committee had been caught, from our Committee had been caught in the DNC. And I said, Oh my God, that I can only, you know, he essentially putting the pieces together. I knew what it was. I knew what it was. So I called Liddy, on that Monday morning. I said, Gordon, I said, First I want to know if anybody in the White House was involved in this. He said,
+[00:16:57] UNKNOWN: No. They weren't.
+[00:16:58] DEAN: he said well i want to know how in god is name this happened. And he said, Well, I was pushed without mercy by Magruder to get in there, get more information, that the information was not satisfactory. Magruder said the White House is not happy with what we're getting. The White
+[00:17:14] UNKNOWN: House.
+[00:17:14] DEAN: The White House, yeah. you think it was pushing? Well, I think it was probably Strachan thinking that Bob wanted things and 'cause I've seen that happen on other occasions where things have been
+[00:17:28] UNKNOWN: said to be of very prime importance. I didn't really want to... I wonder. I'm just trying to think as to why that we just finished the Moscow trip. I mean we were... That's right. Democrats were not doing that, Magruder. I mean, for Christ's sakes, I, what the hell? I mean, I didn't see Going from Ehrlichman, let's say I can see the pressure, but I don't see why all the pressure would went on then. I don't know, other than the fact that, they might have been looking for information about conventions. Well,
+[00:17:57] DEAN: that's right. Because I understand also after the fact that there was a plan to bug Larry 0 brien is suite down in florida Yeah. so, Liddy told me that, you know, this is what had happened and this is why it happened liddy told me he was planning
+[00:18:12] NIXON: Where did he learn about something by that problem? Begging pardon? Where did he learn of the plans to bug larry 0 brien is suite From Magruder
+[00:18:20] DEAN: after the, long after the time. Yeah, Magruder's totally knowledgeable on the whole thing.
+[00:18:26] UNKNOWN: Yeah. All
+[00:18:27] DEAN: right. Now, we've gone through the trial. We, I don't know if Mitchell had perjured himself in the Grand Jury or not. I remember
+[00:18:34] UNKNOWN: Mitchell.
+[00:18:35] DEAN: I don't know how much knowledge he actually had. I know that Magruder has perjured himself in the Grand Jury. I know that Porter has perjured himself, in the Grand Jury. Porter knows. He's one of Magruder's deputies. Yeah. that they set up this scenario which they ran by me. They said,
+[00:18:52] UNKNOWN: How about this? I said, Well, I don't know. I, you know, it, if
+[00:18:55] DEAN: this is what you're going to hang on, fine. but except What did they say before the Grand Jury? They said that they said that, as they said before the trial and the Grand Jury that, that, Liddy had come over as, as a counsel and we knew he had these capacities to, you know, to do legitimate intelligence. We had no idea what he was doing. He was given an authorization of $250,000 to collect information because our surrogates were out on the road, they had
+[00:19:22] UNKNOWN: no
+[00:19:23] DEAN: protection, we had information that there were going to be demonstrations against them, that, we had to have a plan to get information as to what liabilities they were going to be confronted with, and Liddy was charged with doing this. We had no knowledge that he was going to bug the DNC.
+[00:19:38] UNKNOWN: the point is that's not true. That's right. Magruder did know that.
+[00:19:42] DEAN: Magruder specifically instructed him to go back in the DNC. He did?
+[00:19:46] NIXON: yes he did know that Yeah. I said, okay.
+[00:19:54] UNKNOWN: I honestly believe that no one over here knew that. I
+[00:19:59] DEAN: know, as God is my maker, I had no knowledge that they were going to do this. but you know... You're not teaching Bob Bob. Bob, I don't believe specifically knew they were going in there.
+[00:20:12] UNKNOWN: I don't
+[00:20:12] DEAN: think he did. I think he knew there was a capacity to do this, but he wasn't, wasn't giving it specific directions. Strachan?
+[00:20:18] UNKNOWN: I think Strachan did know. They were going back into the dnc All right.
+[00:20:26] DEAN: So, those people are in trouble as a result of the grand jury and the trial Mitchell, of course, was never called during the trial.
+[00:20:35] UNKNOWN: Now... Mitchell has given the sworn statement. Yes, sir. To the Bureau? To the Grand Jury. Did he go for it?
+[00:20:44] DEAN: He had, we had an arrangement whereby he went down to, with several of the, because it was, you know, the heat of this thing and the implications on the election, we made an arrangement where they could quietly go into the Department of Justice and have one of the assistant U.S. Attorneys come over and take their testimony and then read it before the Grand Jury.
+[00:21:01] UNKNOWN: That was,
+[00:21:02] DEAN: Although I, that's right. Mitchell was actually called before the Grand Jury. The Grand Jury would not settle for less, that the jurors wanted him. He went. And he went. I don't know what he says. so I've never seen a transcript of the grand jury Now, what, what has happened post June 17th? Well, it was, I was under pretty clear instructions not really to investigate this, that this is something that just could have been disastrous on the election if it had all hell had broken loose and I worked on a theory of containment. Sure. To try to hold it right where it was. Right. There's no doubt, I, I, that, I was totally aware what the Bureau was doing at all times. I was totally aware what the Grand Jury was doing. I knew what witnesses were going to be called. I knew what they
+[00:21:50] UNKNOWN: were going to be asked. I had to. why did petersen play the game so straight with us
+[00:21:56] DEAN: Because Petersen's a soldier. He played,
+[00:21:58] UNKNOWN: he kept me
+[00:21:58] DEAN: informed. He told me when we had problems, where we had problems and the like.
+[00:22:03] UNKNOWN: he believes in, in, in you, he believes in this
+[00:22:06] DEAN: administration. this administration has made him I don't think he's done anything improper, but he did make sure the investigation was narrowed down to the very, very fine criminal things, which was a break for us.
+[00:22:19] UNKNOWN: There's no doubt about it. Be honest with the legals that he did an adequate job. He, they
+[00:22:24] DEAN: ran that investigation out to the fullest extent they could follow a
+[00:22:27] UNKNOWN: lead and that
+[00:22:30] NIXON: was it. But why is it where I suppose he would be criticized for not doing that job? Why didn't he call Haldeman? Why
+[00:22:37] UNKNOWN: didn't he get in a
+[00:22:38] DEAN: statement to Colson? Oh, they didn't get Colson? That's right, but see the thing is, as based on their
+[00:22:42] UNKNOWN: FBI interviews, there was no reason to follow up. There were no leads there. Colson said, I have no knowledge of this to the FBI.
+[00:22:49] DEAN: Strachan said, I have no knowledge of, you know, they didn't ask Strachan any Watergate questions. They asked him about
+[00:22:54] UNKNOWN: Segretti. just said, What's your connection
+[00:22:57] DEAN: with Liddy? And he just said, Well, you know, I just met him over there and they never really
+[00:23:01] UNKNOWN: pressed him. They didn't, you know, they
+[00:23:02] DEAN: looked, Strachan appeared, as a result of coaching to be the dumbest paper pusher in the bowels of the, of the White House. All right, now, post-June 17th, these guys immediately, it was very, very interesting. Liddy, for example, the Friday before, on, I guess it was the, on the 15th, 16th, of, June, had been in Henry Petersen's office with another member of my staff on campaign compliance problems, joking. After the incident, he went, he ran, Kleindienst down at Burning Tree Country Club and told him that you've got to get my men out of jail, which was kind of what Kleindienst says I can get the hell out of here, whatever you've got to say, just say to somebody else, don't bother me and that this has never come up. Yeah. Liddy said, said that, you know, they all got counsel instantly and said that, you know, we'll, we'll ride this thing out. All right. Then they started making demands. We've got to have
+[00:24:07] UNKNOWN: attorneys fees.
+[00:24:09] DEAN: we don't have any money ourselves and this, you're asking us to take this through the election. All right, so arrangements were made through Mitchell, initiating it in discussions that i was present that these guys had to be taken care of. Their attorney fees had to be done.
+[00:24:26] UNKNOWN: Kalmbach was brought in. Kalmbach raised some cash.
+[00:24:31] DEAN: they were off, you know, they put that up at the cover of the Cuban Committee or... Yeah, they, they had a Cuban committee and they had, some of it was given to Hunt's lawyer who in turn passed it out. This, you know, when Hunt's wife was flying to Chicago with 10,000, she was actually, I understand after the fact now, was going to pass that money to one of the Cubans to meet him in Chicago and pass it to somebody there. Boy, that changes that the,
+[00:25:00] DEAN: I would sort of keep that,
+[00:25:01] NIXON: that cover of whatever it's worried about.
+[00:25:05] DEAN: Well, that, that's, that's the most troublesome
+[00:25:08] UNKNOWN: post thing, because one, Bob is involved in that, John is involved in that, I'm involved in that, Mitchell is involved in that, and that's an obstruction of justice.
+[00:25:18] NIXON: In other words, the fact that we are taking care of their witnesses That's right.
+[00:25:26] UNKNOWN: How was Bob?
+[00:25:28] DEAN: Well, they ran out of money over there. Bob had $350,000 in a safe over here. It was really set aside for polling purposes. and there was no other source of money, so they came over here and said, You all got to give us some money. Yeah. I had to go to Bob and say, Bob, you know, you've got to have some money with A, I need some money over there. He
+[00:25:50] UNKNOWN: said,
+[00:25:50] DEAN: What for? And so I had to tell him what it was for, because he wasn't about to just send money over there willy-nilly. And, John was involved in those discussions and we decided, you know, that, you know, that there was no price too high to pay to let this thing blow up in front of the election. I think he should handle that
+[00:26:05] UNKNOWN: pretty well. Oh, I think... That's an issue. I think we can. That's right. I think we can too. Who else?
+[00:26:12] DEAN: But, now, here's, here's what's happening right now. Right. What sort of brings matters to the, this is one, this is going to be a continual blackmail operation by Hunt and Liddy and the Cubans, no doubt about it and mccord who, who was another one involved. McCord has asked for nothing. McCord did ask to meet with somebody, and it was Jack Caulfield, who is his old friend who got him hired over there. And when, when Caulfield had him hired, he was a perfectly legitimate security man. And he wanted to know, well, you know, they want to talk about commutation and things like that. And as you know, Colson has talked to indirectly to Hunt about commutation. All these things are bad in, in, in that they are problems they are promises they are commitments they're the very sort of thing that the Senate's going to be looking most for. I don't
+[00:27:02] UNKNOWN: think they can find it, frankly. It's pretty hard. Pretty hard, damn hard. It's all cash. well, I mean pretty hard as far as the witnesses are inside. That's
+[00:27:11] DEAN: right. Now, the blackmail is continuing. Hunt called one of the lawyers from the re-election committee on last Friday to meet with him on, over the weekend. The guy came in to me to see me because he had a message directly from Hunt to me for the first time. Pardon?
+[00:27:28] UNKNOWN: Someone on bail. Hunt is on bail. Correct.
+[00:27:32] DEAN: Hunt now is demanding another $72,000 for his own personal expenses, another $50,000 to pay his attorneys fees, $120,000 once wanted by the close of business yesterday because he says I'm going to be sentenced on Friday and I've got to be able to get my financial affairs in order. I
+[00:27:48] UNKNOWN: told this fellow O'Brien if you were right that you came to the wrong man, fellow, I'm not involved in money. don't know what thing about I
+[00:27:54] DEAN: can't help you. He said you better scramble around elsewhere.
+[00:27:57] UNKNOWN: Now, O'Brien is,
+[00:27:59] DEAN: O'Brien is, is a ball player. He's been, he carried tremendous water for us. He
+[00:28:05] UNKNOWN: is in Hunt's
+[00:28:05] DEAN: lawyer. No, he is, he is our lawyer at the re-election committee. I see.
+[00:28:10] UNKNOWN: So he's safe. There's no problem there.
+[00:28:12] DEAN: But it raises the whole question of Hunt now has made a direct threat against Ehrlichman as a result of this. This is his blackmail. He says, I will bring John Ehrlichman down to his knees and put him in jail. I have done enough seamy things for Ehrlichman Krogh,
+[00:28:28] UNKNOWN: that they'll never survive it. What's that on Ellsberg? Ellsberg and apparently some other things. I don't know the full extent of it. what anything else?
+[00:28:38] DEAN: I don't either, and I would hate to learn so much of these things. So that's, that's our situation. Now, where are the soft points How many
+[00:28:46] UNKNOWN: people know about
+[00:28:47] DEAN: this? Well, well, let me go one step further in this, this whole thing. The Cubans that were used in the Watergate were also the same Cubans that Hunt and Liddy used for this California Ellsberg thing for the break-in out there. Yeah. So they're, they're aware of that. How high their knowledge is something else. Hunt and Liddy, of course, are totally aware of, of it and the fact that, it was right out of the White House. I don't know what the
+[00:29:14] UNKNOWN: hell we get it in for.
+[00:29:15] DEAN: I don't either. What? Mr. President, there have been a couple things around here that I've gotten wind of. there was a one time a desire to do a second story job in the Brookings Institute where they had
+[00:29:26] UNKNOWN: Pentagon papers.
+[00:29:28] DEAN: And I flew to California because I was told that John had obstructed it and he said I'd really had this misimpression that for Christ's sake turn it off.
+[00:29:37] UNKNOWN: And
+[00:29:38] DEAN: I did. I came back and turned it off because, you know, the, when you, you know, the risk isn't minimal and the, the pain is fantastic it's something else. There was a low risk and, no gain, just, it's not worth it. Well, who knows about this all now?
+[00:29:53] UNKNOWN: Right. You've got
+[00:29:55] DEAN: the Cuban lawyers, a man by the name of rothblatt who is a no good publicity seeking son of a bitch
+[00:30:03] DEAN: He's had to be turned down and tuned off. He was canned by his own people because they didn't trust him. They were trying to run a different route than he wanted to run he did not want them
+[00:30:12] UNKNOWN: to plead
+[00:30:12] DEAN: guilty. He wants to represent them before the Senate. so f lee bailey who was the partner of one of the, one of the men representing McCord, got in and cooled rothblatt down so f lee bailey has got knowledge. Hunt's lawyer, a man by the name of bittman who's an excellent criminal lawyer from the democratic era of bobby kennedy he is got knowledge
+[00:30:38] UNKNOWN: Uh... You need, you think he's got some knowledge Well, every, not
+[00:30:43] DEAN: only all the, all the direct knowledge that Hunt and Liddy have, as well as all the hearsay they have. I
+[00:30:48] UNKNOWN: could,
+[00:30:50] DEAN: you've got the two lawyers over at the re-election committee who did an investigation to find out the facts, slowly
+[00:30:56] UNKNOWN: they got the whole picture. They're, they're solid, but they're... But they know.
+[00:30:59] DEAN: But they know. you've got then an awful lot of, all the principals involved know.
+[00:31:08] UNKNOWN: how some people's wives know. Sure. there's no doubt
+[00:31:12] DEAN: about that. Mrs. Hunt was the savviest woman in the world. She had the
+[00:31:16] UNKNOWN: whole picture together. Is she? Yeah, it's,
+[00:31:19] DEAN: apparently she was the pillar of strength in that family before the death
+[00:31:22] NIXON: and, uh... Greatest sadness. The basis of the matter is that even that there was a discussion with Dean somewhat about the problem after his wife, of course commutation could be considered on the basis of his wife.
+[00:31:36] UNKNOWN: That's the only discussion I ever got with anybody. Right. so that's, that's
+[00:31:42] DEAN: it, and that's the extent of the knowledge. Now, where, where are the soft spots on this? Well,
+[00:31:47] UNKNOWN: first of all,
+[00:31:48] DEAN: there's a, there's the problem of the continued blackmail, which will not only go on now, it'll go on when these people are in prison and it will compound the obstruction of justice situation.
+[00:32:00] UNKNOWN: It'll cost money, it's dangerous. Nobody,
+[00:32:02] DEAN: the people around here are not pros to this thing.
+[00:32:05] UNKNOWN: This sort of thing mafia people can do.
+[00:32:07] DEAN: Washing money, getting clean money and things like that, where we just don't know about those things and we're not used, you know, we're not criminals, not used to dealing in that business It's a, it's a... That's right. It's a tough thing to know how to do. Maybe we can't do that. That's right, it's a real problem as to whether we can even do it. Plus, there's a real problem in raising money. Mitchell has been working on raising some money, feeling he's got, you know, he's got one, he's one of the ones the most to lose. but there's no denying the fact that the White House and, Ehrlichman Haldeman and Dean are involved in some of the early money decisions. I would say these people are going to cost, a million dollars over the next, two years.
+[00:32:55] NIXON: You, on the money, if you need the money, I mean, you would get the money. Well,
+[00:33:01] UNKNOWN: I think that we're What I mean is that you could, you could get a 1000000 dollars and you could get it in cash I, I
+[00:33:07] NIXON: know where it could be gotten. hum. I think it's not easy but it could be done.
+[00:33:11] UNKNOWN: But, the question is
+[00:33:13] DEAN: that nobody handles. That's right. Uh... The idea about that. Well, I would think that would be something that Mitchell ought to be charged with. I would think so too.
+[00:33:22] UNKNOWN: And get some, get some pros to help him. Let me say there shouldn't be a
+[00:33:27] DEAN: lot of people running around to get money. Well, he's got one person doing it who I'm not sure is... He's set up.
+[00:33:33] UNKNOWN: He's got Fred LaRue, doing
+[00:33:36] DEAN: it. Now, Fred started out going out trying to solicit money from all kinds of people, and I'd learned about that and I said, Oh my God, it's just awful. Don't do it. No. people are going to ask what the money's for. He's worked, he's apparently talked to Tom Pappas.
+[00:33:51] UNKNOWN: I know.
+[00:33:52] DEAN: and pappas has agreed to come up with side of what I can gather from from this.
+[00:33:59] NIXON: Well, what do you do? You need, you don't need to be in right away, but you need to
+[00:34:03] UNKNOWN: do that. That's right. He moved in cash.
+[00:34:08] NIXON: You want to put that through, would you look at through a, just thinking out loud your points, would you put that through the Cuban Committee? No. It's going to be, it's cash money. So how better comes out are you going to handle it? The cuban committee obstruction of justice Well, they've
+[00:34:28] DEAN: got a pretty, they got a pretty stand.
+[00:34:30] NIXON: Would you like to put, I mean, would that, would that give a little bit of a cover?
+[00:34:34] UNKNOWN: That would give some for the Cubans and possibly Hunt. Yeah.
+[00:34:38] DEAN: then you've got Liddy, and McCord is not, not accepting any money, so he's, he's not a bought man right now.
+[00:34:49] UNKNOWN: Okay.
+[00:34:50] DEAN: All right, let, let me, go ahead. Continue a little bit here now. The, I, when I say this is a, a growing cancer. I say it for reasons like this. bud krogh in his testimony before the Grand Jury
+[00:35:07] UNKNOWN: was
+[00:35:07] DEAN: forced to perjure himself. is haunted by it. Bud said, I haven't had a pleasant day on the job Huh? He said, I have not had a pleasant day on my job. he talked to Karen
+[00:35:20] UNKNOWN: and said, Do these days,
+[00:35:21] DEAN: I told my wife all about this, the, the, the curtain may ring down one of these days. And, I may have to face the music, which I'm perfectly willing to do. Uh...
+[00:35:32] UNKNOWN: Well, do you hear himself on, John? His, did, did he know the Cubans?
+[00:35:38] DEAN: He did.
+[00:35:44] UNKNOWN: He said he didn't. That's right. They didn't press him hard. He might be a little bit of it. I'm just trying to bent the perjury self a lawyer after you could say hi.
+[00:35:59] DEAN: Well, so that's, that's the first, that's one perjury. Now, Mitchell and, and, Magruder are potential perjury. There's always the possibility of any one of these individuals blowing. Hunt, Liddy. Liddy's in jail right now. He's serving his, trying to get good time right now. I think Liddy is probably in his, in his own bizarre way, the strongest of all of them.
+[00:36:29] UNKNOWN: so there's, there's that possibility.
+[00:36:31] NIXON: Well, you're, you're a major, your major guy
+[00:36:34] UNKNOWN: controls Hunt. That's right. I think. Because he knows, he knows so much. He knows so much, right. he could sink Chuck Colson.
+[00:36:46] DEAN: Apparently, apparently he is quite distressed with Colson. He thinks Colson's abandon him. Colson was to meet with him when he was out there after now he had left the White House. He met with him through his lawyer.
+[00:36:57] UNKNOWN: Hunt raised the question he wanted
+[00:36:59] DEAN: money. Colson's lawyer told him that Colson wasn't doing anything with money and hunt took offense immediately that, that Colson had abandoned him.
+[00:37:11] UNKNOWN: but you're just looking at the immediate problem that you have to have handle Hunt's financial
+[00:37:17] DEAN: situation. I, I think that's, that is, I talked to Mitchell about that last night. And, and,
+[00:37:25] NIXON: maybe you've got to keep the cap on the bottle that
+[00:37:28] UNKNOWN: much of this. That's right, that's right. You already have any options. That's right. Either that or let it all blow right now. Well, that's, you know, that's the, that's the question. Uh... I'll go ahead and the other thing, huh? All right, now we've got
+[00:37:41] DEAN: now we've got Kalmbach. Yeah, that's a tough. Kalmbach received Totally water at the close of the 68 campaign in January of '69. He got a million seven dollars, million seven hundred thousand dollars to be custodian for. They came down from New York and was placed in safe deposit boxes here. some other people were on the boxes and ultimately the money was taken out to California.
+[00:38:14] UNKNOWN: All right.
+[00:38:15] DEAN: There is knowledge of the fact that he did start with a million seven. Several
+[00:38:19] UNKNOWN: people know this.
+[00:38:20] DEAN: Now, since '69, he's spent a good deal of this money and, and, accounting for it is going to be very difficult for Herb. For example, he spent all close to $500,000 on private polling. Now that just opens up a whole new thing. It's not illegal, but, it's more of the same sort of
+[00:38:39] UNKNOWN: thing. No, I don't think so. Uh... Maybe everybody does a poll.
+[00:38:45] DEAN: That's right. That's not, there's nothing criminal about it. It was
+[00:38:47] UNKNOWN: private polls. It was not a proper home. That's right.
+[00:38:54] DEAN: he sent $400,000 as he described it to me somewhere in the South for another candidate. I assume this was 400, that went to Wallace. Right.
+[00:39:07] UNKNOWN: he has
+[00:39:10] DEAN: maintained, a, a man who I only know by the name of Tony, who is a fellow who did the, the Chappaquiddick study and I heard about that. Other, other odd jobs like that, nothing illegal, but explosive. I don't know of anything that Herb has done that is illegal other than the fact that he doesn't want to blow the whistle on a lot of people and may find himself in a perjury situation.
+[00:39:39] UNKNOWN: Well, if he, he could, because he will be asked about that. He will.
+[00:39:44] DEAN: What'll happen is when they call him up there, and he, of course, has no immunity. they'll say, How did you have, how did you pay Mr. Segretti? Well, I had cash on hand. Well, how much
+[00:39:53] UNKNOWN: cash did you have on hand? Right. where does he go from there? Where did you get the cash?
+[00:40:00] DEAN: His bank records indicate he had cash on hand because some of these were set up in trustee accounts
+[00:40:05] NIXON: How would you handle anything, John, for example, would you just have you put the whole thing out? I don't think, I mean, I don't mind the
+[00:40:14] UNKNOWN: $500,000 and I don't mind the $400,000. No, that was correct. That's that,
+[00:40:19] DEAN: that doesn't bother me either. There's, as I say, Herb's problems are politically embarrassing but not, not
+[00:40:25] NIXON: criminal. Well, they were embarrassing, sure. He, he just handled matters that were between the campaigns before anything.
+[00:40:32] UNKNOWN: We were surveys, etc., etc., etc., etc. There's no need to account for that. No law requires you to account for that. Right.
+[00:40:43] NIXON: now... The source of the money there's no illegality in having the surpluses and cash afterwards.
+[00:40:48] DEAN: No, the money has always been argued by Stans came from pre-convention. Pre-convention. For the, in pre-primary for the, for the, uh, '68 race. That's right. Was just set aside.
+[00:41:01] UNKNOWN: That's right. that, that all can be explained.
+[00:41:04] DEAN: I think that the other vulnerabilities go ahead. The other vulnerabilities. We've got a, a runaway Grand Jury up in the Southern District. Yeah, I heard. thereafter Mitchell and Stans on some sort of bribe or influence peddling with vesco yeah they're also going to try to drag Ehrlichman into that. Apparently Ehrlichman had some meetings with vesco also Don Nixon, Jr. came in to see John a couple of times, about the problem. Not about
+[00:41:38] UNKNOWN: it. But, there's a fact. I could have met him out of John. That's right. And, and, and, is that Ehrlichman is totally blown. Yeah. Well, I think
+[00:41:46] DEAN: it's turned out. No one has done anything for vesco none of the prosecutors No.
+[00:41:53] UNKNOWN: The,
+[00:41:53] NIXON: Would Ehrlichman's definitely have to appear there? For that Grand
+[00:41:57] UNKNOWN: Jury. Yes, you could very well. we
+[00:42:00] DEAN: could, there's only going to be better. Not really. criminal
+[00:42:04] UNKNOWN: charge. Criminal charge. Yeah. Both charges in my agreement. Right. That's a little
+[00:42:08] DEAN: different. I think I would be dynamite to defend, against that.
+[00:42:14] UNKNOWN: Also he extinguishes it. He says the criminal charge is that quote. Use the planned. Right. An analogy. Right.
+[00:42:25] DEAN: well, that's, that's pretty much the overall picture and probably the most troublesome thing. Well, the Segretti thing, let's get down to that. I knew Bob has indicated to me, he told you a lot of it, that he indeed did authorize it. He didn't authorize anything like ultimately involved. Yeah.
+[00:42:42] UNKNOWN: He was aware
+[00:42:42] DEAN: of it. He was aware that Chapin and Strachan were looking for somebody. Right. Now, again, this is one that, it is potential that Dwight Chapin should have a felony charge against him in this because he's a felony because he has to, he has to disprove a negative. The negative is that he didn't control and direct Segretti. When the felony being perjury again. no, the felony, this in essence is being a potential use of the, one of the civil rights statutes for anybody who interferes with a candidate for, national office and often interferes with their campaign in any way.
+[00:43:22] NIXON: Why isn't it on the civil rights statute to pick up any of these clowns that were demonstrating against us? Well, I,
+[00:43:29] DEAN: I, I've argued that they use that for that very purpose. Really?
+[00:43:33] UNKNOWN: Yes, I have. And, uh... We were interfering with the campaign That's exactly right. That's exactly right.
+[00:43:43] NIXON: I think, I'm not as concerned about that because it's so bad the way it's been put out on the PR side that I think it would actually end up on the PR side and very confused.
+[00:43:52] DEAN: It's a little bad in that period that I don't think we can't see it all down. Well, here what really, what really bothers me is if this, this growing situation, as I say it is growing because of the, the continued need to provide support for the Watergate people who are going to hold us up for everything they've got. That's right. And the need for some people to perjure themselves as they get down the road here.
+[00:44:20] UNKNOWN: if this thing ever blows and we're in a cover-up situation,
+[00:44:24] DEAN: I think it'll be extremely damaging to you, and that the, Sure.
+[00:44:30] UNKNOWN: the whole concept of administration of justice. That's right. Cannot have. That's what really
+[00:44:35] DEAN: troubles me. For example, what happens if it starts breaking and they do find a criminal case against a Haldeman, a Dean, a Mitchell, an Ehrlichman.
+[00:44:46] UNKNOWN: that is really comes down to the fact that we cannot maybe, we have to shave what they contain. That's
+[00:44:53] DEAN: right. I'm coming down to what I really think is that Bob and John and John Mitchell and I should sit down. one, how this could be carved away from you so that it does not damage you or the Presidency.
+[00:45:10] UNKNOWN: Because it just
+[00:45:10] DEAN: can't, and it's not something you, you're not involved in it, and it's something you should. That is true. I know,
+[00:45:16] UNKNOWN: sir,
+[00:45:16] DEAN: it is. Well, I just tell from our conversations that, you know, these are things that you have no knowledge of. The absurdity of the whole
+[00:45:22] NIXON: thing. But it... Bugging and so forth. Ah. Well, let me say I'm keenly aware of the fact that, Colson and all and so forth were doing their investigative information and so forth and so on, but they all knew very well they were supposed to comply with the law.
+[00:45:35] DEAN: That's right. No question. Uh... Well, it's interesting that you say really that the trigger man was colson on this thing Well, no, he was one of, he was just in the chain. He was, he helped
+[00:45:46] UNKNOWN: push the thing. Called Bob and said we gotta, we've got to have the press with the press.
+[00:45:51] NIXON: He would be doing it. Oh, I'll bet you I know why. That was at the time of ITT. He was trying to get something going there because ID everybody on us. I mean, they were giving us a lot.
+[00:46:01] UNKNOWN: Well, I know he used, Hunt to go out. Hunt. I knew about that. Yeah. I didn't know about it.
+[00:46:07] NIXON: I knew that there was, there was something going on there. I didn't know it was Hunt. Right. that's what really,
+[00:46:15] DEAN: what really troubles me is, you know, one will this thing not break someday and the whole thing It's a domino situation. Yeah. Just, I think if it starts crumbling fingers will be pointing and... That's right. that's right. Bob will be accused of things he's never heard of, and he will have to disprove it and it'll just get nasty and it'll be a real, real bad situation. And the person that will be hurt by it most will be you and the Presidency. And I just don't think. Of course, because I have said that in
+[00:46:42] UNKNOWN: all this and I'm supposed to, supposed to check these things. That's right. And so on. But let's, let's, let's come back and go further. Sure. You
+[00:46:50] NIXON: have a meeting. But what if you're meeting yourself, John Scoop, because you know pretty well what they'll all say. What did your feelings wrote the outfit?
+[00:46:58] DEAN: I am not confident that, we can ride through this. I think there are too,
+[00:47:03] UNKNOWN: I think there are soft spots. You used to be... I felt, I felt comfortable for this reason.
+[00:47:08] DEAN: I've noticed of recent, since the publicity has increased on this thing again with the Gray hearings, that everybody is now starting to watch after their own behind.
+[00:47:20] UNKNOWN: That's right. Everyone's pulling in, they're getting their own
+[00:47:22] DEAN: counsel, more counsel are getting involved Right. you know, how do I protect my ass? They're scared.
+[00:47:28] UNKNOWN: They're
+[00:47:28] DEAN: scared, and that's just, you know, that's bad. You were able to hold it for a long time. I
+[00:47:33] UNKNOWN: know.
+[00:47:34] DEAN: another thing is, you know, my facility now to deal with the multitude of people I've been dealing with has been hampered because of Gray blowing me up into the front page.
+[00:47:43] UNKNOWN: You covered early. That's right. And it's, it was
+[00:47:47] NIXON: covered. So on and so forth. So what you really come down to is what you know
+[00:47:52] UNKNOWN: you do.
+[00:47:53] NIXON: Let's, let's suppose that you and Haldeman and Ehrlichman Mitchell say, we can't hold this. What, what does he want to say put out clean disclosure isn't that?
+[00:48:02] DEAN: Well, one way to do it is to... That would be my viewpoint. One way to do it is for you to tell the Attorney General that you, finally, you know, really, this is the first time you're getting all the pieces together.
+[00:48:14] UNKNOWN: Ask for another Grand Jury. Ask another Grand Jury.
+[00:48:19] DEAN: The way it should be done, though, is a way that, for example, I think that we could avoid, criminal liability for countless people and the ones that did get it, it could be minimal. Well, I think just by thinking it all through first as to how, you know, some people could be granted immunity,
+[00:48:44] UNKNOWN: like Magruder.
+[00:48:47] DEAN: Yeah. Come forward.
+[00:48:52] UNKNOWN: but some people are going to have to go to jail. That's the long short of it also. Who? Let's talk about that. All right. I think I could. For what? You go to jail? That's right. They all know. I can't see how you could be here. Well, because I can't see how they can, let me say I can't see how the legal case would be made against you, which I have, John. It'd be, it'll be tough, but you know,
+[00:49:15] DEAN: I can see people pointing fingers, you know, to get it out of their own,
+[00:49:19] UNKNOWN: put me in the impossible position of disproving too many negatives. Oh, let me say I'm not discussing here, but
+[00:49:25] NIXON: just looking at it from a cold legal standpoint You are the lawyer to counsel who were doing what you were doing this to
+[00:49:30] UNKNOWN: counsel and you were not, doing anything like that. You mean what you go to jail and what they did. The obstruction of the obstruction of justice... Justice. That's the only one that bothers me.
+[00:49:41] NIXON: Well, I don't know. I think that one, I think that, I feel could be cut off in the past. Maybe the obstruction of
+[00:49:48] DEAN: justice. It could be a, you know what one of the, that's, that's why.
+[00:49:53] NIXON: Yeah. Sometimes it's well to give them something that I don't want the bigger politics of
+[00:49:58] UNKNOWN: that.
+[00:50:00] DEAN: That's right. I think that, I think that with proper coordination with the Department of Justice. Henry Petersen is the only man I know that's bright enough and knowledgeable enough in the criminal laws and the process that could really tell us how this could be put together so it did the maximum to carve it away with the minimum damage to individuals involved. Petersen already know the whole story.
+[00:50:25] UNKNOWN: No, I know he doesn't now. I know he doesn't know.
+[00:50:30] DEAN: I'm just, I'm talking about somebody who I have over the years grown to have enough faith in.
+[00:50:38] UNKNOWN: Right. It's possible. You have to,
+[00:50:42] DEAN: you have to, put it in a very difficult situation as the head of the criminal division of the United States Department of Justice and the Oath of Office. Well, we're going to
+[00:50:49] UNKNOWN: talk about your obstruction of justice role
+[00:50:51] NIXON: I don't see it. I don't see your... Well,
+[00:50:53] DEAN: i have been a con i have been a conduit for information
+[00:50:56] UNKNOWN: on, on taking care of people out there who are guilty of crimes. Oh, would you like the, oh, the blackmail? The blackmail. Right. Well, I wonder if that department can't be.
+[00:51:13] NIXON: I wonder if that doesn't, let me put it, frankly wonder that doesn't have to continue. Let me put it this way. Let us suppose that you get, you, you get the 50 bucks. And you get the proper way to handle it. And you can hold that side. It would seem to
+[00:51:32] UNKNOWN: me that would be worthwhile. Hell yeah. Well, then that, you know, that's... Here you have the problem of Hunt and, the clemency.
+[00:51:47] DEAN: That's right. And you can have the clemency problem for the others.
+[00:51:49] UNKNOWN: They all sort of expect to be out,
+[00:51:51] DEAN: and that may put you in a position that's just untenable at some point. You know, the Watergate hearing is just over, Hunt now demanding clemency or he's going to blow, and politically it'll be impossible for you to do it, you know, after everybody. I'm not sure that you'll ever be able to deliver on the clemency. It may be
+[00:52:11] UNKNOWN: just
+[00:52:11] NIXON: too hot. You can't do it until after the 74 elections, that's for sure. But you may, your point isn't that you
+[00:52:18] UNKNOWN: then you couldn't do it.
+[00:52:19] DEAN: That's right. It may further involve you in a way you shouldn't be involved in.
+[00:52:25] UNKNOWN: No, it's wrong, that's for sure. Well, what, you know,
+[00:52:29] DEAN: there have been some bad judgments made. There have been some necessary judgments made
+[00:52:34] UNKNOWN: before the election. Before the
+[00:52:35] DEAN: election and in way, unnecessary ones, you know, before the election. There, you know, we, this was, to me, there was no way
+[00:52:43] UNKNOWN: that to,
+[00:52:44] DEAN: but to burden this second administration with something that, that something that's not going to go
+[00:52:49] UNKNOWN: away. No, it isn't. It is not
+[00:52:52] NIXON: going to go away, sir. Not going to go away. There's the idea
+[00:52:56] UNKNOWN: that, that,
+[00:52:58] NIXON: well, that people are going to get tired of it and all that sort of
+[00:53:04] DEAN: anything will spark it back into life.
+[00:53:07] UNKNOWN: It's got to be, it's
+[00:53:10] NIXON: got to be. Well, it's too much of the partisan interest about this to
+[00:53:15] UNKNOWN: spark it
+[00:53:15] DEAN: back. And it seems to me the only way that Who else, though, let's, let's leave
+[00:53:19] UNKNOWN: you,
+[00:53:19] NIXON: I don't, I don't, I don't think on the, on the on the obstruction of justice thing I think that
+[00:53:24] UNKNOWN: we can have it. I don't know
+[00:53:26] DEAN: why I'm not going to do that. Well, I think it's possible. I, I... I think it
+[00:53:29] NIXON: may be over that. Who else can, who else, who else can think
+[00:53:33] UNKNOWN: has to do with potential criminal liability? Yeah. I think Ehrlichman does.
+[00:53:36] DEAN: I think that, because of this conspiracy to
+[00:53:41] UNKNOWN: burglarize the ellsberg office What do you mean that, that isn't provided Hunt breaks?
+[00:53:50] DEAN: Well, the funny, let me tell you something about that. Within the file. Oh, I saw that in the picture. Yeah, the picture of that. See, that's not all that buried and while we can, we, I think we've got to break it. No, tell me when it's going to pop up. the Cubans, could start this whole thing. when the Ervin Committee starts running down why this mysterious telephone was here at the White House, listed in the name of a secretary. Well, these, some of these secretaries have a little idea about this and they can be broken down just so fast. That's another thing I missed, missed in the cycle in the circle. Liddy's secretary, for example, is knowledgeable.
+[00:54:27] UNKNOWN: Magruder's secretary is knowledgeable. Sure. so Ehrlichman than that may, yeah.
+[00:54:36] DEAN: But what I'm coming to you today with is I don't have a plan on how to solve it right now, but I think it's at the juncture that we should begin to think in terms of how to cut the losses, how to minimize the further growth of this thing rather than further compound it by, you know, ultimately paying these guys forever. I think
+[00:54:58] UNKNOWN: we've got
+[00:54:58] NIXON: to look.
+[00:55:02] UNKNOWN: I mean, that's where the, that's worth buying time on. Yes, buying time, I agree.
+[00:55:07] DEAN: that the Grand Jury is going to reconvene next week after Sirica sentences. but that's why I think that, you know, that John and Bob have met with me. They've never met with Mitchell on this. We've never had a real down and out with everybody that, has the most to lose. And the most, and it's the most dangerous for you to have them have criminal liability. I
+[00:55:34] UNKNOWN: think Bob has a potential criminal liability, frankly. I think, in other words, a lot of these people could be indicted.
+[00:55:41] DEAN: They might never, might never, be convicted.
+[00:55:46] UNKNOWN: But just the blackmail. I suppose... I mean, suppose that they are...
+[00:55:50] NIXON: I think that'd be devastating. Suppose it's worse than Bob is
+[00:55:53] UNKNOWN: about Ehrlichman. And that must say, we just better then try to cut it through. Get the point. That's right. That's right. If, if, if, for example, our, our say,
+[00:56:03] NIXON: Well, let's cut our losses, and he said we're going to go down the road, so we'll cut our losses and no more blackmail and all the rest of the thing flows and guy Bob and that's the pieces
+[00:56:12] UNKNOWN: you've never recovered from that John. That's right. It's better to fight it out with that. You see, that's the other thing, the other thing. It's better just
+[00:56:18] NIXON: to fight it out and not let people testify and so forth and so on. Now, on the other hand, we realize that we have these weaknesses.
+[00:56:26] UNKNOWN: But, this weakness in terms of blackmail. It's what, if we, you know, there, there are two routes, you know,
+[00:56:37] DEAN: one is to figure out how to cut the losses and, and, and minimize the, the human impact and get you up and out and away from it in any way, in, in a way that would never come back to haunt. that's one, one general alternative. The other is to go down the road, just hunker down, fight it at every corner, every turn, don't let
+[00:57:03] UNKNOWN: people testify.
+[00:57:04] DEAN: Cover it up is what we're really talking about. Just keep it buried and just hope that we can do it. Hope that we make good decisions at the right time and keep our heads cool we make the right moves, And just take the And
+[00:57:18] UNKNOWN: just take the heat. The second line of attack you can discuss this in the way we want you to still
+[00:57:27] NIXON: consider my scheme
+[00:57:29] UNKNOWN: of everything you agree to get just
+[00:57:31] NIXON: at very general terms and the leaders, very general
+[00:57:34] UNKNOWN: terms. And maybe some
+[00:57:39] NIXON: very general statement with regard to my
+[00:57:41] UNKNOWN: investigation after question basically on the question of what they told you and not what you talked about. Right. Haldeman was not involved. Well, I can,
+[00:57:50] DEAN: you know, if we go that route, sir, I can, I can give a show that, you know, there's, we can sell, you know, we've been out there selling leads on our position. There's no, The problem that you have for these, mine fields down the
+[00:58:02] UNKNOWN: road.
+[00:58:02] NIXON: I think the most difficult problem is are the guys that are going to jail. I
+[00:58:08] UNKNOWN: think you're right about that. I agree. Now, and also the fact that we're not going to be able to do it. You have to clemency. That's right.
+[00:58:22] DEAN: How long will they take? How long will they sit there? I
+[00:58:25] UNKNOWN: don't know. We don't know what they'll be sentenced to. There's always the chance.
+[00:58:30] DEAN: It could be, you know, they haven't announced yet, but not with the potential. it's even
+[00:58:36] UNKNOWN: higher than
+[00:58:37] NIXON: that, it's about 50 years. So ridiculous.
+[00:58:41] DEAN: Oh, well, you know what's so incredible is the...
+[00:58:44] UNKNOWN: People
+[00:58:45] DEAN: break and after and so forth and get two years. Well, the other people. No, if no weapons, no results. What the hell are they talking about? The, the individuals who are charged with shooting John Stennis are on the street. They were given, you know, one was put out on his personal recognizance without a bond They've got these fellows all stuck with $100,000 bonds. The same judge, Sirica, that one guy who charged with shooting the United States Senator out on the street. That's right.
+[00:59:15] UNKNOWN: Yeah. It's just, it's phenomenal. I thought he was the hard way to judge. He's a, he,
+[00:59:21] DEAN: he is just, a peculiar animal. And how he said, set the bond to one or the other. I don't have all the facts. I mean he set the bond to one or the other somewhere around 50 or 60,000. But still, that guy's in but didn't make bond, but, you know, $60,000 as opposed to $100,000 for these guys is phenomenal. But
+[00:59:40] NIXON: if you have this meeting with these fellows, I think
+[00:59:43] UNKNOWN: it's time is the essence I would have to say.
+[00:59:51] UNKNOWN: No, Mitchell isn't here.
+[00:59:54] DEAN: Might be, might be worth it to have him come down. I know I think that bob and john do not want to talk to john about this
+[01:00:02] UNKNOWN: John Mitchell,
+[01:00:03] DEAN: and I do not believe they have had any conversation with him about it. Bob and I have talked about this what we are talking about this morning.
+[01:00:12] UNKNOWN: I thought that you should have the facts and he agrees. Because we've got some tough calls down the road if we let me say our left. Come back to the convincing Bob's on the office. We can always, you know, put on the other side you know he's charging with blackmailing us and, you know, Sergeant's out there saying and
+[01:00:46] UNKNOWN: see in the way you put it on your course at all.
+[01:00:54] NIXON: I was talking to John once this, this whole situation
+[01:01:00] UNKNOWN: so that we can get away from the
+[01:01:02] NIXON: bits of the pieces of court, he is right in having recommended that, there be a meeting earlier first possible or, and our thing that's going on in California, but, is the day tomorrow Thursday.
+[01:01:22] UNKNOWN: John is known right. Well, in any event, could we
+[01:01:26] NIXON: do it Thursday this meeting? You can do it today. I don't
+[01:01:29] UNKNOWN: think so. I was just in a meeting with Mitchell.
+[01:01:31] NIXON: Mitchell Ehrlichman yourself was John, that's all. Now Mitchell has to be there because, he's seriously involved and, we're trying to keep, we've got to see how we, how we handle it
+[01:01:46] UNKNOWN: from here
+[01:01:46] NIXON: on. We were at a crossroads where we've got to determine which way to go
+[01:01:50] UNKNOWN: and, John has thought it through as well as
+[01:01:53] NIXON: he can. I do, I don't want Moore there on this occasion. Moore's
+[01:01:58] UNKNOWN: got,
+[01:01:58] DEAN: by being with me has more bits and pieces. I've had to give him Right. I guess he's making judgments. Well,
+[01:02:03] NIXON: the point is that when you get down to the PR, once you decide what we're going to do, then we can let him know and so forth and so on. But, but it isn't the kind of a thing. I think what really has to happen is for you to sit down with those three and for you to tell them exactly what you've told me. It'll take him about 35, 45 minutes. In other words, he knows John, knows about everything and also what all the, what all the potential criminal liabilities are, you know,
+[01:02:33] UNKNOWN: whether it's, what's the one you've got to do? Obstruction of justice. Right. And so forth and so on. And, the,
+[01:02:44] NIXON: I think, I think that's, and then we've got to, see what the line is, whether the line is one of, and, continuing to, try to try to run trouble with Stonewall and take Dean, having in mind
+[01:03:01] UNKNOWN: the fact that
+[01:03:03] NIXON: there are vulnerable points there, the vulnerable points being that, well, first vulnerable points would be the obvious one of
+[01:03:10] UNKNOWN: which would be that, one of the, defendants, particularly Hunt to go's the most vulnerable point, might,
+[01:03:19] NIXON: blow the whistle. His price is pretty high, but at least, you should believe it by the time I'll have it by, as I thought about John.
+[01:03:34] NIXON: Colson's Well, Mitchell's lawyer and, Colson's lawyer supposedly out of the least has got to know before
+[01:03:43] UNKNOWN: he said he's. Who's Colson's
+[01:03:45] DEAN: on here that you and his law firm? Right. Who I did, you know, who just the other day came up and did Colson. Colson slowly had everything, hasn't he? Yeah, I gathered himself. the other thing that bothered me about that is he is a chatterer He came up with Fred Fielding in my office at the Colson's going away party. I didn't go over there so was the Blair House the other night and said to, Fred, he said, Well, Chuck has had some mighty serious words with, his, his friend Howard and had some mighty serious messages back. Now, you know, what's a lawyer? How does he know what Fielding knows? Because Dean knows virtually nothing.
+[01:04:23] HALDEMAN: That's, that's where your dangers lie in all these stupid human errors that we
+[01:04:27] NIXON: have. Well, that is Bob, let's face it. Secretaries and all the assistants. Oh, there's a lot of them, many of them principals might be harder to rock, but you never know that
+[01:04:37] UNKNOWN: right. But we'll see, we'll see. First, we've got the one problem with that ought to be handled. Yeah.
+[01:04:44] NIXON: incidentally, I did not think Colson should sit in this meeting. No. I would agree. Okay.
+[01:04:52] UNKNOWN: how then, who does sit and talk with Colson because somebody has to change or something. No. Chuck, talks too much. I, I, you know,
+[01:05:02] DEAN: I, I like Chuck, but, I don't want Chuck to know anything that I'm doing, frankly.
+[01:05:07] UNKNOWN: All right. Well, I think that's
+[01:05:10] HALDEMAN: right. I think you want to be careful not to give Chuck any more knowledge
+[01:05:13] UNKNOWN: than he is already got That's right. I don't want Chuck to know of the meeting, frankly. Of course, unfortunately with Chuck, it's very easy. I, I talked to him many, many politically never talked about this sort of thing. Very cockroach, I don't think. I don't know.
+[01:05:33] NIXON: I don't. But I'm rather surprised what you told me today. I gathered the impressions. And of course, your, your, your analysis does not for sure, indicate that Chuck knew that it was a bugging operation. That's correct.
+[01:05:58] UNKNOWN: I don't have to... On the other hand. Chuck denies. The other side of that is that Hunt had conversations
+[01:06:04] NIXON: with Chuck and it may be that Hunt told Chuck that it was bugging
+[01:06:11] UNKNOWN: and so forth and so on, exactly. They were very close. They, they talked too much, about too many things. They were intimate on this sort of Well, Chuck is another thing. Chuck has a problem. Chuck loves him. He loves what he does and he likes to talk to that. He also is a name dropper chuck might have gone around and talked around and said, Well, I was talking to the President. The President feels we ought to get information about this or about the other thing and so forth. Well, Liddy is the same way, and I've talked, I've talked to this and that and the other thing.
+[01:06:41] NIXON: I, I have never talked to anybody, but I have talked to Chuck the rest. And I'm sure that Chuck may have, Chuck might have been talked to him along those lines. I
+[01:06:50] HALDEMAN: would, well, anything could happen. I would doubt that. I would
+[01:06:53] UNKNOWN: doubt that too. I don't think he would.
+[01:06:54] HALDEMAN: I, Chuck is a name dropper in one sense, but not in that sense. Well, that means I think he very carefully keeps the president out except when he's doing it, when he's very intentionally bringing the President in for, for
+[01:07:07] NIXON: the President's purpose. He had the impression apparently that he, he was, as it turns out really is the trigger man, but maybe a well meant trigger man where he just called up and said, You're two going and get that information and I went up and I think God wasn't insisting on it at that time. This is February. This, I figure it was somewhere. This is the call to
+[01:07:26] UNKNOWN: Magruder from Colson saying fish or cut bait Hunt and Liddy were in his office. In Colson's
+[01:07:32] DEAN: office. In Colson's office and he called Magruder and said, let us fish or cut bait on this operation. Let's get
+[01:07:38] UNKNOWN: it going. Oh, really? Yeah. This is Magruder tells me this. Of course, that Magruder has... Haldeman was about it.
+[01:07:47] DEAN: Chuck, Chuck also told me that, Hunt and
+[01:07:49] UNKNOWN: Liddy were in his office and he made a call. Oh, okay. So
+[01:07:52] DEAN: it did, it was cooperated by the principal. Hunt and Liddy haven't told you that.
+[01:07:57] UNKNOWN: No. You haven't talked to him to Liddy. I've talked to Liddy once right after the incident. Sorry about that. All right. The point is,
+[01:08:04] NIXON: the point is that, it's now time to Mitchell has got to sit down and know where the hell this thing stands too. You see, John is concerned as you know about Bob, Ehrlichman sure worries me a great deal because it's, yeah, and this is why the Hunt problem is so serious. because, it has nothing to do with the campaign or
+[01:08:28] DEAN: whatever. It has to do with the
+[01:08:29] NIXON: Ellsberg thing. Now, I don't know what the hell,
+[01:08:33] UNKNOWN: But why? Why, I don't know. Well, I was going to say, this is the answer on that. How do you keep that out? I don't know. Well, if you can't
+[01:08:40] NIXON: keep it out of Hunt. You see, the
+[01:08:42] DEAN: point is it is here. Well, what does this cause in this? You might, you might put it on a national security ground basis. Would you... And just say that, that this is not, you know, this was.
+[01:08:54] UNKNOWN: Let him think of the CIA funds. Uh... Well, seriously. National security.
+[01:09:00] NIXON: We had to get information for national security grounds.
+[01:09:04] DEAN: Well, then the question is, why didn't the CIA do it or why didn't the FBI do it? Because
+[01:09:08] UNKNOWN: they were to do it, we had to do it on that basis. Because we were checking them. Neither could we trust them. I think that's the way I do it. And I just have to know that it was... The question there. Yeah. Decision here with the funding thing and everything coming out, the whole thing was up. I think we could probably get by on that. I think on that one, I think you'd simply say
+[01:09:31] NIXON: this is a national security investigation that was conducted in the same way the drug
+[01:09:34] UNKNOWN: dealing with krogh krogh said he's a bigger deals in the first place. Well, it's, it was a national security matter. That's why I think that's right. But rest easy because he's, he's, he's convinced that he was doing it. He said there was treason about the country.
+[01:09:50] DEAN: could have threatened the way the war was handled. Yeah.
+[01:09:53] UNKNOWN: and by God. But this is
+[01:09:55] NIXON: Yes. But Bud would say that was because of Bob in the national security.
+[01:10:02] UNKNOWN: Anyway, let's don't go beyond it. We're going to get it. But I do think now we, I mean, there isn't, there is a time I don't
+[01:10:07] NIXON: think I want to talk to Mitchell. He doesn't want to talk and arrest him.
+[01:10:10] UNKNOWN: But John's right. There must
+[01:10:12] NIXON: be a, must be a four-way talk. You were particularly ones that you can trust here. we've got to get a decision on it. It's not something that, you see, got two ways, basically. We're going to have two ways you can go. You even decide that the whole God damn thing is so full of problems with potential criminal liability, which other things are we not gonna damn about publicity if we can rock that through. We have to let the whole thing hang out and get a lousy story for a month fine. But the point is, I don't want to be criminal liability.
+[01:10:46] UNKNOWN: That's the thing that I'm concerned about for members of the White House staff. And I would trust for members of the meeting. And that means Magruder. That's right. Let's face it, he's the one that's, I think Magruder is the
+[01:10:57] DEAN: major guy over there. I think he's got the most
+[01:10:59] UNKNOWN: serious problem. Yeah. Well, then we talked about yesterday you've got to, you've got to question where your cut-off point
+[01:11:06] HALDEMAN: is. There's a possibility of cutting the bleeding where you are now Yep.
+[01:11:14] UNKNOWN: That requires requires... It requires continued perjury by Magruder. Yeah. And it requires total commitment......the control, but control is total control over all of the defendants,
+[01:11:26] NIXON: which, in other words,
+[01:11:28] UNKNOWN: I don't know anything beyond Liddy. no, out of the fact that Liddy's saying we don't know about
+[01:11:35] HALDEMAN: Hunt. maybe hunt has a tie to colson We don't know that
+[01:11:38] UNKNOWN: though, really. No. I think Hunt knows a hell of a lot more than... I do too. And now what McCord. Of course he does. I'm afraid you're right, but if we don't know that. Well, I think we better assume I think
+[01:11:50] DEAN: Colson. Yeah. He's playing hard ball and he wouldn't play...... Yeah, he wouldn't play hard ball unless he was pretty confident that he could cause an awful lot of grief.
+[01:11:57] UNKNOWN: Really? Yeah.
+[01:11:59] NIXON: He's playing hardball with regard to Ehrlichman, for example,
+[01:12:03] UNKNOWN: that sort of thing. He knows what he's got. Unless he planted all money. Yeah, money and will. Oh, yeah. He's, uh...
+[01:12:09] NIXON: It's $120,000 about how much, which is easy. I mean, it's not easy to deliver, but it's easy to get.
+[01:12:18] UNKNOWN: now,
+[01:12:27] UNKNOWN: the
+[01:12:27] NIXON: depth, then, and what, and then if that is the case, it was just that way, then the things moved, that if, if the thing all, cracks up, if, if, if, for example, you say, Look, we're not, we're not going to continue to try to, let's say, frankly, cut our losses.
+[01:12:43] UNKNOWN: That's what's one way you could
+[01:12:44] NIXON: go. On the assumption that we're, we, by continuing to cut our losses, we're not going to win,
+[01:12:50] UNKNOWN: that in the end we're going to be bled to
+[01:12:52] NIXON: death and it's all going to come out anyway, and then you get the worst of both worlds. We're going
+[01:12:56] UNKNOWN: to lose and people are going to look back both. And we're going to look like we're covered up. So that we can't do. Now, the other,
+[01:13:02] NIXON: the other, the other line, however, is if you, if you take that line that we're not going to continue to cut our losses and payments, then we have to look square in the eye as to what the hell those losses are and see which people can so we can avoid criminal liability. Right.
+[01:13:23] UNKNOWN: Right. And that means we've got to keep it off of you, which I, which I, I said, I think that could
+[01:13:32] NIXON: heard the obstruction of justice thing. We've got to keep it off perfectly. We've
+[01:13:35] UNKNOWN: got to keep up that shit off of Bob off and chap as possible. Strachan. Right. And Mitchell. Right. Now,
+[01:13:52] UNKNOWN: and Magruder if he can. But that's the point. Because Magruder, to give Magruder, John's Dean's point
+[01:13:59] NIXON: is that Magruder goes down and tell everybody.
+[01:14:03] UNKNOWN: That's my view. Is it? Yeah. I think Jeb, I
+[01:14:07] HALDEMAN: don't think he wants to, and I think he even would try not to,
+[01:14:11] UNKNOWN: but I don't think he's able not to. I don't think he's strong enough to liberate Bob. No, that's not another thing. Another way to do it then, Bob is to that John realize this.
+[01:14:28] UNKNOWN: Continually try to cut
+[01:14:29] NIXON: out business. Now we have to look at that course of action. First, it's going to require approximately a 1000000 dollars to take care of the jackasses that are in jail That could be, that could be arranged.
+[01:14:41] UNKNOWN: That's going to be
+[01:14:42] NIXON: ranged. But you realize that after we're gone, and so we meet some battles
+[01:14:47] UNKNOWN: around. They're going to crack. You know what I mean? That would be a unseen story. Eventually, all the people are going to care that would you. That's right.
+[01:14:54] DEAN: People are going to care. So much history will pass.
+[01:14:56] NIXON: In other words, what we're talking about is a good question. The second thing is we're not
+[01:15:06] NIXON: Colson has gone around on this clemency thing about the rest. Hunt,
+[01:15:10] UNKNOWN: Hunt is now talking in terms of being out by Christmas. This year? This year.
+[01:15:16] DEAN: he was told by O'Brien, who was my conveyor of gloom back and forth
+[01:15:22] UNKNOWN: that, hell
+[01:15:23] DEAN: he'd be lucky if you were out a year from now after the Ervin hearings were, you know, over. He said, How in Lord's name could you be commuted that quickly? He said, Well, he said, That's my commitment from colson
+[01:15:38] UNKNOWN: By Christmas of this year?
+[01:15:39] HALDEMAN: Yeah. See that, that really, that's very believable. Colson... Colson could have told him. Colson isn't, isn't, that's, that's your fatal flaw really in Chuck, is he is an operator in expediency and he will pay at the time and where he is whatever he has to do to accomplish what he's there to do. And that's I, I would believe that he's made that commitment if Hunt says he has. I would
+[01:16:06] UNKNOWN: believe he's capable of saying that. The only thing you could do with him would be his parole on the basis of his family situation that you couldn't provide clemency. No, I,
+[01:16:17] DEAN: Kleindienst has now got control of the parole board and he said that, you know, we can, we can
+[01:16:21] UNKNOWN: pull paroles off now where we could not before So. Yeah. He always tells you that never...
+[01:16:29] NIXON: Oh, let's, let's talk candidly about that. Parole blocking himself and so forth is something that I think in Hunt's case you could do much could
+[01:16:38] DEAN: do the others. You understand? Well, so much depends upon how Sirica's sentences. He can sort
+[01:16:44] UNKNOWN: of sentence sentence in a way that, makes parole even impossible. We can't. Sure. He can do all kinds of permissions.
+[01:16:51] DEAN: Yeah, he can be a, just a son of a bitch, as far as the whole thing.
+[01:17:01] DEAN: But Chris,
+[01:17:02] HALDEMAN: can't you appeal on that on an unjust sentence as well as on a justice.
+[01:17:05] UNKNOWN: We got 60 days to have the judge to review it.
+[01:17:07] DEAN: There's no appellate review of sentences. There isn't necessary. The Judge would
+[01:17:12] UNKNOWN: review it or
+[01:17:12] HALDEMAN: not. Only the sentencing judge can review his own sentence.
+[01:17:15] NIXON: Well, you asked him for this. So he got that. The, hanging over. Now if, you see, in a letter here that the point isn't given them at all or they pardon. The point is your viewing is that we just can't continue to, to pay the blackmail with these
+[01:17:37] DEAN: cuts. I think that's our greatest jeopardy.
+[01:17:41] UNKNOWN: Now let me tell you... Because that is...
+[01:17:43] NIXON: We could get the money and no problem in that. We
+[01:17:45] UNKNOWN: can't provide the clemency
+[01:17:47] DEAN: The money can be provided. Mitchell can provide the way he was delivering him. That's going to be done. See what I mean? Mitchell says he can't do this thing. Mitchell says that, well, Mitchell that's, it, you know, there's been an interesting thing,
+[01:18:01] UNKNOWN: phenomena all the way along on this, is that there have been a lot of people having to pull oars and not everybody pulls them all the same time the same way because they're developed self-interest.
+[01:18:13] HALDEMAN: What John's saying is everybody smiles at Dean and says, Well, you better get something done about it. That's right.
+[01:18:18] UNKNOWN: mitchell is leaving dean hanging out on it
+[01:18:20] HALDEMAN: None of us, well, maybe we're to do the same thing for you. Sorry. But I, let me say that I don't see how there's any way that you can have the White House or anybody presently in the White House involved in trying to gin up this money.
+[01:18:34] UNKNOWN: We're already deeply enough in that. That's the problem. I thought you said that they had all that. Well, in the fact that,
+[01:18:43] DEAN: when Kalmbach... Well, Kalmbach, it was... No, but when they ran out of that money, as you know, they came after the 350 that was over here.
+[01:18:53] UNKNOWN: They can.
+[01:18:54] DEAN: and I had to explain what it was for, before I could get the money. Now they, now that they...
+[01:19:02] HALDEMAN: That was, that was, in the first place that was put back to LaRue.
+[01:19:06] UNKNOWN: That's right. Where it belonged.
+[01:19:08] HALDEMAN: It wasn't all returned in a lump sum. It was
+[01:19:11] UNKNOWN: put back in pieces. That's right. And then LaRue was for this other purpose. That's right. Well, I think they, and the balance was all returned to LaRue. Sometimes we don't have any receipt for that. We have no way to prove it.
+[01:19:31] UNKNOWN: I didn't see. And I think, I think that was because, you know, self-interest over there. Mitchell. Mitchell told LaRue not to take it at all. That's right. This is what you told me. That's right. And then do not give him a receipt Well, then what happened? LaRue took it in
+[01:19:44] DEAN: what? Well, it was sent back to him because we just couldn't continue piecemeal giving you know, I, I had to get, every time they asked for it, I had to tell Bob I needed some or something like that. And then we get Gordon Strachan to go up to his safe and take it out and take it over to LaRue. This was just a forever operation. We
+[01:20:03] HALDEMAN: have been trying to get a way to get that money back out of here anyway. Sure.
+[01:20:06] UNKNOWN: And what this was supposed to be was loans. This was immediate cash need that was going to be re-replenished. And
+[01:20:13] HALDEMAN: Mitchell was arguing you can't take the 350 back till it's all re-plenished. Isn't that right? That's right. Well,
+[01:20:19] UNKNOWN: we never replenished it, so we just gave it all back anyway. I don't
+[01:20:22] DEAN: feel you can handle this. well, of course I have a hell of a time proving it.
+[01:20:27] UNKNOWN: that's one thing. I just haven't feeling it. Well, let's now come
+[01:20:31] NIXON: back with the money, a million dollars and so forth and so forth. Obviously, I think you can get that. Maybe I think I have no money as far as a way is that. But the point is, what would you do on that? Let's,
+[01:20:46] DEAN: let's look at the hard. Well, that's been very interesting. That has been thus far the most difficult problem they have been on. That's why these fellows have been on and off the
+[01:20:53] UNKNOWN: reservation all the way along. So the hard place is this, your, your view at the present time is the hell of a million dollars. I would just say to these fellows, I'm sorry it's all off and let him talk, right? Well, that's, that's the way to do it, isn't it? You want to do it clean. That's the only way to do it. That's the way you can live with,
+[01:21:09] HALDEMAN: because the problem with the blackmail, and that's the thing we kept raising with you when you said there's a money problem
+[01:21:14] UNKNOWN: when we need 20,000 or 100,000
+[01:21:16] HALDEMAN: or something. Was, Yeah, that's what you need today. Well, what do you need tomorrow and next year and five years? How long? Well, that would
+[01:21:22] DEAN: get us through November 7th, though. I would. And
+[01:21:24] UNKNOWN: at that point we had to get right November 7th. There's no question. They could have sold these fellows to President. So he says all Democrats are up. Yeah, let's go. These fellows go as far as that. But what is there as far as what happened after this? Our cover areas have to do with the cuban committee as far as what could be the election. Well, yeah,
+[01:21:46] DEAN: but we can put that together. That isn't, of course, quite the way it happened, but,
+[01:21:50] NIXON: I know it's the way it's going to have to happen. It's going to have
+[01:21:52] UNKNOWN: to happen. That's right. Coming though. So you let it go. So
+[01:21:56] NIXON: what happens is then they go out and, then they'll start blowing the whistle on everybody else. That's what it really gets down to.
+[01:22:04] UNKNOWN: So that's, that would be the clean way, right? is that really you're, you, you would even go as far as to recommend that. That, no, I wouldn't.
+[01:22:15] DEAN: I don't think, I don't think necessarily that's the cleanest way. One of the, I think that's what we all need to discuss. Is there some way that we can get our story before a Grand Jury and so that they can have had really investigated the White House on this?
+[01:22:33] DEAN: I mean, and I must, I must be putting out, I haven't really thought through that alternative. We've been, you'll be so busy on... John, on the other containment situation. John
+[01:22:42] UNKNOWN: Ehrlichman, of course, will raise the point with another Grand Jury. I just don't know how to do it on what
+[01:22:46] NIXON: basis I, I didn't call for it, but I
+[01:22:50] UNKNOWN: would be, I would think,
+[01:22:51] NIXON: Yeah. It's the leadership that says now view all this strict black and so forth. I understand this, but I, I think I want another Grand Jury
+[01:22:59] UNKNOWN: proceeding and we'll have the White House appear before then. Is that right now? That's the
+[01:23:05] NIXON: point. See, I don't make the difference. I want everybody in the White House call. And then that's giving you a reason not to have it 12 before it occurred to whether
+[01:23:15] UNKNOWN: he, it puts it in a, in an executive session in a sense. Right. That's what there are at least some rules of evidence aren't there. There are rules that... No, that's lawyers.
+[01:23:27] HALDEMAN: So you're in a hell of a lot better position than you are up there.
+[01:23:29] DEAN: No, you can't have a lawyer before a Grand Jury. Oh, no.
+[01:23:31] UNKNOWN: You can't have a lawyer before a Grand Jury. That's right. But you, but you, you do have rules of evidence and can refuse to, to talk. We take fifth amendments. That's right. But you can say you forgot to do, yeah. Sure. That's
+[01:23:42] DEAN: right. But you can't give your very high risk in a perjury situation I mean,
+[01:23:46] NIXON: if you damn sure you say, I don't... Remember? I can't recall. I can't get an answer to that, but I can
+[01:23:52] UNKNOWN: recall. But you have the same perjury thing on the Hill, don't you? That's right. Oh, hell yes. And you can on top it. Much more difficult. Which is a hell of a lot worse
+[01:24:00] NIXON: to deal with. That's right. The Grand Jury thing has its, view of this thing might, supposedly have a Grand Jury machine. Would that, would that, what would that do with the Ervin thing? Would it
+[01:24:12] UNKNOWN: go right ahead anyway? Probably.
+[01:24:15] NIXON: You do it in the... But then on that score, though, we have, let me just, not by that, that, you do that on the Grand Jury. We can then have a much better cause in terms of saying, Look, this is a Grand Jury in which, prosecutor. How about a special prosecutor that's Petersen and use another one? I mean, see, he's
+[01:24:35] UNKNOWN: probably suspect. You call it another prosecutor.
+[01:24:37] DEAN: I'd like to have Petersen on our side finding it.
+[01:24:40] UNKNOWN: Frankly. Well, petersen is honest is anybody anybody's not be questioned him. No,
+[01:24:45] DEAN: no, but he'll get a barrage when the watergate hearings start
+[01:24:49] UNKNOWN: Yeah.
+[01:24:50] NIXON: But he could go up and say that he's, he's been told to go further the Grand Jury and go into this and that and the other thing. Oh, everybody in my
+[01:24:58] UNKNOWN: house and I want them to come.
+[01:25:02] DEAN: This may result, this may happen even without our calling for it when, when these, That's cool. No, well, that's one possibility, but also when these people go back before the Grand Jury here, they're going to pull all these criminal defendants back in before the Grand Jury and immunize them.
+[01:25:18] NIXON: And immunizing them on who we've got.
+[01:25:20] UNKNOWN: the U.S. Attorney's office will. Didn't what? To talk about anything further they want to talk about it. Yeah. What do they gain on it? Nothing. Well,
+[01:25:30] DEAN: they're, they're going to stonewall it, as it now stands. It's going to be
+[01:25:34] UNKNOWN: Hunt. That's why that's the leverage of his... Stretchless opportunity. Hunt's opportunity. That's why...
+[01:25:39] NIXON: He can lay... That's why you refer to your meeting that you've got no choice in Hunt
+[01:25:42] UNKNOWN: 100 or whatever it is. Right. That's right.
+[01:25:46] NIXON: Would you agree that that is a buy time thing you better damn well get that.
+[01:25:49] DEAN: I think he ought to be given some signal anyway that,
+[01:25:53] NIXON: Well, for Christ's sake to get it in a way that,
+[01:26:02] NIXON: who's, who's going to talk to a Colson on this? He's the
+[01:26:04] UNKNOWN: one that was supposed to come. Well, of course, there's not any money though, that's the thing.
+[01:26:08] DEAN: That's been our, one of the real problems. They haven't been unable to raise any money. A million dollars in cash or, or the like has been just a very difficult problem as we've discussed before. Mitchell has talked to Pappas. I called him last, John asked me to call him last night after our discussion and after you've met with John to see where that was. And I, I said, if you talked to pappas he was at home and martha had picked up the phone, so it was all in code and you talked to the Greek, and he said, yes, I have. And
+[01:26:38] UNKNOWN: I said, is the greek bearing gifts
+[01:26:40] DEAN: He said, Well, I want to call you tomorrow on that.
+[01:26:43] NIXON: Well, look, what is it that you need on that, when,
+[01:26:53] UNKNOWN: I got to pay over the money situation.
+[01:26:55] DEAN: Well, that's, you know, it's, it sounds easy to do, apparently, until everyone's out there doing it, and that's where our breakdown has come every time.
+[01:27:02] NIXON: Well, if you had it, it would be, how would you get it to somebody?
+[01:27:04] DEAN: Well, I, I gathered LaRue just leaves it in mailboxes and things like that and tells Hunt to go pick it up. someone phones hunt and tells him to pick it up. I say we're a bunch of amateurs in that business.
+[01:27:19] UNKNOWN: That was the thing that we thought Mitchell ought to be able to know how to find somebody who could do all that sort of thing. Because none
+[01:27:26] HALDEMAN: of us know how to do it. Right.
+[01:27:28] DEAN: You've got to wash money and all this so you know you got a hundred thousand out of a bank and it all comes in serialized bills. Oh, I understand. we have to go to Vegas with it or a bookmaker of New York City and
+[01:27:40] UNKNOWN: I've learned all these things after the fact is great shape for the next time around. This season. Well, he may point in office that people receive money. Well, of course, we've got to surplus the campaign that we have to talk to work. Any other money in here? Well, but what about all, what about the money we moved back out of here Apparently
+[01:28:04] DEAN: there's something there. That might be what they can use.
+[01:28:07] UNKNOWN: I don't know how much is left.
+[01:28:08] DEAN: Kalmbach must have something. Kalmbach
+[01:28:10] HALDEMAN: does not have a cent the 350 that we moved out was all we saved because they were afraid to because of this. I think
+[01:28:18] UNKNOWN: that's the trouble. We're so God damn squared that we get caught on everything. Well, could I suggest that this goes, let me, let me, let me go back around and see that. Yeah. Right. Stay a little bit. be careful. The,
+[01:28:47] NIXON: the Grand Jury thing has an appeal. The question is,
+[01:28:53] UNKNOWN: it least says we are cooperating with the... Well, the Grand Jury. Once we,
+[01:28:57] DEAN: once we start down anyway, this involves the criminal justice system. Yeah. We've got to have full appreciation of there is really no control over that. No,
+[01:29:06] UNKNOWN: sir.
+[01:29:06] DEAN: while we did a, we had an amazing job of I know keeping the thing on the track before the FBI was out there all, and that was the only because I had a grand knowledge of where they were going. That's right. But you have gotten everybody else in a way.
+[01:29:20] UNKNOWN: Let's take the Grand Jury. the new Grand Jury would call Magruder again with it.
+[01:29:26] DEAN: But based on what information was, for example, what happens if Dean goes in and gives a story, you know, that here was the way it all came about, that was supposed to be a legitimate operation. It obviously
+[01:29:37] UNKNOWN: got off the track. I heard these horribles, told Haldeman
+[01:29:40] DEAN: that we shouldn't be involved in it. Then Magruder's going to have to be called in question about all those meetings again and the like. And it begins to, again, you begin to change his story as to what he told the Grand Jury the last time. Well,
+[01:29:53] UNKNOWN: he's in the perjury situation.
+[01:29:54] HALDEMAN: That's the, that's the best leverage you got on Jeb. He's got to keep his story straight or he is in real trouble That's
+[01:30:02] UNKNOWN: right. Unless they get smart and give him immunity if they immunize jeb then you have an interesting problem.
+[01:30:15] UNKNOWN: He wouldn't want to... Well, I think we have... We have
+[01:30:18] DEAN: control, we have control......immunized. Do it. Yeah, I think they wouldn't do that without our.
+[01:30:24] NIXON: But you see, the Grand Jury receiving it just because you can go down that road and then I'm just thinking it now how the President goes. We would be cooperative, you cooperate
+[01:30:36] UNKNOWN: through Grand Jury. Everybody's, that's the proper way to do this. It should be
+[01:30:40] NIXON: done through Grand Jury. Not up there in the fleet advice of the Committee Jury. That's right.
+[01:30:44] UNKNOWN: Nobody is questioning this the Grand Jury and so forth. So, and then we would insist on executive privilege or the Committee flat out and say, No, we won't do that. We're not going to do it with the matter before the Grand Jury. And that's that. You see, would. All right. Then you go to the
+[01:30:59] HALDEMAN: next step. Wouldn't we then, the Grand Jury, the grand jury being executive session Yes, sir.
+[01:31:04] UNKNOWN: There's a secret session. There's a secret. Secret session.
+[01:31:07] HALDEMAN: All right. Then would we agree to release our state, our
+[01:31:10] UNKNOWN: Grand Jury
+[01:31:11] DEAN: transcripts? Well, not, that's not for our, we don't have the authority to do that. That's up to the court and the court thus far has not released the one from the last Grand Jury. They used it or not. It would be highly unusual for Grand Jury to come out. What would
+[01:31:22] HALDEMAN: happen is... But a lot of the stuff from the Grand Jury came out. Leaves
+[01:31:26] DEAN: well. It came out of the U.S. Attorney's office, you know,
+[01:31:28] UNKNOWN: more than the
+[01:31:29] DEAN: Grand Jury. We don't know, some of the grand jurors may have leaked it but they were not so bad as the President's
+[01:31:34] UNKNOWN: not the bad or the
+[01:31:35] HALDEMAN: worst place to go. Well, I was, yeah. I was putting the other way there. I was going that it might be our interest to get it out. Well, we
+[01:31:41] NIXON: could easily do that. Leak out certain stuff. We could pretty
+[01:31:45] UNKNOWN: much control
+[01:31:45] NIXON: that if that's a much more controllable thing. Now, the other possibility is not to go to the Grand Jury.
+[01:31:50] UNKNOWN: I mean, you've got three things. One, you just said the hell with it, we can't raise the money.
+[01:31:54] NIXON: Sorry, you can say what you want and so on.
+[01:31:56] UNKNOWN: What's the whistle right? Right. All right. Right. If that happens, then that raises some
+[01:32:01] NIXON: possibilities about a criminal because he's likely to say a hell of a lot of things. It'll certainly get Magruder going.
+[01:32:06] UNKNOWN: It'll get
+[01:32:06] DEAN: Magruder'll start the whole FBI investigation going again. Yeah.
+[01:32:10] UNKNOWN: What else
+[01:32:12] NIXON: get Magruder could possibly get Colson to be mad
+[01:32:14] UNKNOWN: thing? That's right. Could get, uh... Could get Mitchell. Maybe. No. Hunt can't get Mitchell. I don't think Hunt can get Mitchell. Hunt's got a lot of hearsay. Ehrlichman. He could on the other thing. ehrlichman krogh krogh could go down in smoke because krogh by the way krogh just says he krogh says this is a national security matter. Is that what he says?
+[01:32:41] DEAN: Yeah, but that won't sell ultimately in a criminal situation. It may be mitigating on sentences. It won't, in the main. I
+[01:32:50] NIXON: tried to try to go around the try. We have no choice on Hunt, but they've got to keep.
+[01:32:54] UNKNOWN: Right now we have no choice.
+[01:32:56] NIXON: But, but my point is, do you ever have any choice on Hunt?
+[01:33:00] UNKNOWN: That's the point. No matter what we do here now, John. Well, Hunt eventually, if he's going to get it together and so forth, he's going to blow the whistle. What I've been trying to conceive of is how we could lay out everything we know in a way that, you know, we told the Grand Jury or somebody else so that if a Hunt blows... Yeah. So what's new? You know,
+[01:33:25] DEAN: it's already been told to a Grand Jury and they've found no criminal liability and they've investigated it in full.
+[01:33:31] UNKNOWN: We're sorry, fellow.
+[01:33:32] DEAN: That's right. we don't, it doesn't... You're going to choose somehow
+[01:33:35] UNKNOWN: on the other deal. That's right. You throw that out.
+[01:33:39] DEAN: well, Hunt will go to jail for that too. He's got to understand that. That's the point, too. I
+[01:33:44] UNKNOWN: don't think that, I wouldn't throw that out. I think I would limit it to, I don't think that he could go into every God damn thing Hunt is done. That's the thing's in the national security area. Yes. Purdue. We've already said that. Anyway, I mean, we've laid the groundwork for that Yeah. But here's the point, John. So you know that. Let's go to the other stuff. The other,
+[01:34:03] NIXON: the other angle is to decide, oh, well, if you open up the Grand Jury first, if it'll do any good and won't be believed,
+[01:34:09] UNKNOWN: and then you'll have two things with the Grand Jury and the other thing.
+[01:34:13] NIXON: At least the Grand Jury appeals to me from the standpoint as the President makes
+[01:34:17] UNKNOWN: the move that all these charges have been bandied about and
+[01:34:20] NIXON: so forth. The best thing to do is to, I have ordered, I asked the Grand Jury to look at any further charges.
+[01:34:27] UNKNOWN: All charges have been raised.
+[01:34:28] NIXON: And that's the place to do it. And not before a Committee of the Congress. Right. And, however, we may say Mitchell all about became this
+[01:34:40] UNKNOWN: matter of social break that's there. Yeah. That leads you to your third thing. The
+[01:34:45] DEAN: third thing is just to continue to do that. Hunker down and fight it.
+[01:34:49] UNKNOWN: All right. you can hunker down the tight and fight it and what happens.
+[01:34:53] NIXON: Your... Your view is that that is, is not really a viable. It's a very,
+[01:34:57] UNKNOWN: it's a high risk. It's very high risk.
+[01:35:00] NIXON: Your view is that what will happen out of that is that it's going to come out. Somebody sent some sort of break losing. Something's going
+[01:35:06] DEAN: to break. When it breaks, it'll look like the President is covering up.
+[01:35:11] UNKNOWN: Covered up. Right. That's correct. You can ask Dean's here. That's right. I just don't...
+[01:35:22] NIXON: Your... It's now, moved away from the Hunt.
+[01:35:26] DEAN: But I've moved to the point that we've certainly got to make a, a harder look at the other alternative, which we haven't before. The
+[01:35:32] UNKNOWN: other alternative teams. The other alternative...
+[01:35:35] NIXON: Other choices which you say. As a matter of fact, here's a meeting middle ground of Grand Jury. And then he's fine with the other ground of.
+[01:35:47] UNKNOWN: No, I suppose there's a middle ground. And I would... Or the middle grounds of a public statement. Without a Grand Jury. But we need also
+[01:35:55] HALDEMAN: And also. John's view is if we make the public statement. Yeah. Now that we talked, I would raise that this morning the thing we talked about last night, each of us may not say he says that will immediately lead to a Grand Jury. Fine. All right. Says we make that statement, they'll have to call the Grand Jury. Then maybe
+[01:36:10] NIXON: we make it a public statement before the Grand Jury.
+[01:36:14] UNKNOWN: So it looks like we're trying to do it openly.
+[01:36:16] DEAN: All right, say, here in public statements and we want, we want, Yeah. Full Grand Jury investigation by the U.S. Attorney's office. Attorneys to
+[01:36:23] UNKNOWN: see whether this statement's bad. That's right. That I, and that
+[01:36:26] NIXON: you said that the reason that we have delayed this is until after the sentence.
+[01:36:30] UNKNOWN: You see, the point is the reason the time is of the essence we can't buy
+[01:36:34] NIXON: around is that they're going to sentence on Friday and we're going to move the God damn thing pretty fast. See what
+[01:36:38] UNKNOWN: I mean? That's right.
+[01:36:42] DEAN: So we've got to, we really have a time to move. The other, the other thing is that the Attorney General could call Sirica and say that the government has some major developments that it's considering, would you hold sentencing for 2 weeks if we set ourselves on a course of action?
+[01:36:55] UNKNOWN: Yeah. Yeah.
+[01:36:57] DEAN: Say that sentencing may be in the wrong perspective right now. I don't know for certain, but I just think there's the thing that, I'm not as willing to discuss with you that I want to ask that, that the court would hold two weeks.
+[01:37:13] UNKNOWN: So then the story
+[01:37:13] HALDEMAN: is that Sirica delays sentencing water being what? I think,
+[01:37:17] DEAN: I think that could be handled in a way between Sirica and Kleindienst that it would not get out. No. Sirica tells me, I mean, Kleindienst apparently does have good rapport with Sirica. He's never talked to him since this case is developed. But,
+[01:37:30] NIXON: that's helpful. Kleindienst would say that he's, working on this and that I'd
+[01:37:35] UNKNOWN: be like, he'd like to have a week, I would take two weeks and take a week. Now tell you
+[01:37:39] DEAN: the person that I, you know, I feel that, we, we could use his counsel on this because he understands the criminal process better than anybody over here does.
+[01:37:48] UNKNOWN: Petersen. Is Petersen. It, it's awkward for Petersen. He's the head of the criminal division.
+[01:37:53] DEAN: But to discuss some of these things with him, we may well want to remove him from the head of the criminal division and this way that, relate related to this case, you'll have no relation. and give him on some special assignment over here where he could sit down and say, Yes, this isn't, this is an obstruction, but it couldn't be proved or so on and so forth. We
+[01:38:11] UNKNOWN: almost need him out of there to take his counsel. That would, I don't think he'd want that, but, he is the most knowledgeable.
+[01:38:22] UNKNOWN: I think an appeal directly to Henry, that, why doesn't the President could, could the President call him in the special counsel
+[01:38:37] NIXON: to the White House, to the, to the White House for the purpose of conducting an investigation represent, you see, in other words, rather than having Dean. I've
+[01:38:45] UNKNOWN: thought of that. I've thought of that.
+[01:38:46] NIXON: Having him a special counsel to represent for the Grand Jury press. That is
+[01:38:51] UNKNOWN: one possibility. Yeah. On the basis that Dean has now become a principal rather than a try to do it something. That's right. And he's,
+[01:39:00] DEAN: and I could recommend that to you. He could
+[01:39:02] UNKNOWN: recommend it. You could recommend it. Petersen would come over.
+[01:39:05] NIXON: And Dean leave, and I'd say Petersen's plan to leave anyway. And I say, Now we want you to get, we want him to want to say that Petersen would want you to get to the bottom of the God damn thing. Call them on the Grand Jury
+[01:39:17] UNKNOWN: or anything
+[01:39:17] NIXON: else. Correct. Well, you've got to follow up to see whether Kleindienst does Sirica put off right. Second, you've got to get Mitchell down here, you and Ehrlichman and Mitchell and let's have to fight tomorrow. When we do that today,
+[01:39:34] UNKNOWN: don't think he's getting this. John, if you could be helpful if you could. I would be except
+[01:39:40] DEAN: this
+[01:39:40] NIXON: afternoon. It would be very helpful to, to get it
+[01:39:43] UNKNOWN: going that, you know, at the,
+[01:39:50] NIXON: actually, I perfectly willing to meet with the group or, I don't know, whatever you think you want to. Maybe have Dean report to me at the end and see what. I think I should stay away from the Mitchell side of it at this point.
+[01:40:05] UNKNOWN: Do you agree?
+[01:40:10] DEAN: But I think unless we see, you know, some sort of reluctant dragon there.
+[01:40:13] HALDEMAN: I think you can meet with the rest of us, and
+[01:40:15] UNKNOWN: I'm not sure you want to meet. John.
+[01:40:28] UNKNOWN: Okay, let me see what I'm going to do. All right, fine. And, my point is that, we can, you may well, I think it's good,
+[01:40:40] NIXON: frankly, to consider these various options. And then once you, once you decide on the plan, John, you have the right point. You say have no doubts about the right plan before the election. And you handled it. Just right. You contained it. Now, after the election, we've got to have another plan because we can't have for four years, and
+[01:40:57] UNKNOWN: we can't have this thing if it beaten away. We can't do it. Well, it's going to change it. John's point is exactly right. The erosion here now is going to you, and that is the thing we've got to turn off
+[01:41:09] HALDEMAN: at whatever the cost. We've got to be out where turn off at the lowest cost we can, but
+[01:41:14] UNKNOWN: at whatever it costs. I'm telling you exactly what we have to do with. Well, the erosion is inevitably going to come here, apart from anything, you know, people saying that,
+[01:41:22] NIXON: well, the Watergate isn't the main concern. It isn't. It will, but it will be. It's bound to be...
+[01:41:30] UNKNOWN: Well, I didn't mean the Rights also because I think the whole outsie has to go out. They blame, they agree as that's why the White House are not. We don't, I say that the White House can't do it. Right? Yeah. Yes, sir.

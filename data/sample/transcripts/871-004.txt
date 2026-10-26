@@ -1,0 +1,917 @@
+# Nixon Corpus v1.1 | conversation 871-004 | 1973-03-07 | 8:53 AM - 10:52 AM | Oval Office (OVAL)
+# NARA participants: Nixon, Richard M. (President); Dean, John W., III; Haldeman, H. R. ("Bob"); [Unknown person(s)]; Timmons, William E.; Bull, Stephen B.; Kissinger, Henry A.; Ziegler, Ronald L.; Sanchez, Manolo
+# Machine transcript, not an official record. Text layer: merged+llm; LLM correction: corrected. Speaker names come from a voiceprint classifier (UNKNOWN = not named). Listen to the audio before quoting.
+
+[00:00:01] UNKNOWN: President.
+[00:00:23] UNKNOWN: I was thinking that, I was going to ask you about that committee as to, uh...
+[00:00:50] UNKNOWN: In connection with the Gray hearings or the connection with anything. Well,
+[00:00:55] DEAN: you have somebody erbed. On the, on the full Judiciary Committee. There is Roman hruska who, as you know, is just one of our
+[00:01:05] UNKNOWN: strong soldiers. On the Gray Gray? He is. He's on the
+[00:01:10] DEAN: confirmation committee. Now, on the, on this, the Ervin Special Committee, the man who I think is going to emerge the man we can really guarantee is Gurney. Gurney stepped out yesterday and just said these confirmation hearings are politics and let's not, confidence anything more. So I would say those are our two closest, All
+[00:01:31] UNKNOWN: right.
+[00:01:32] NIXON: What you need to do here now, I think is to, seems to me that our strategy has got to be.
+[00:01:41] UNKNOWN: Yeah.
+[00:01:44] NIXON: The logical place Gray will still be up there now. He's up there today. Correct. Why haven't we thought of why you thought it was anybody else of not of putting out this crap, on the FBI Gray. In other words, let's put him on the griddle a little bit as to whether he approves or disapproves of certain things. Let me, let me tell you how this is done. The way I would do this. Chairman, I mean, Mr. Director, I have, it has been charged that, that the, electronic devices were used to, for the purpose of, of, of bugging the presidential candidate is plane and also that, so on and on and so forth. I want to ask you, I heard these charges have come to my attention. I want to ask you whether it's true or false. And say, Now, Mr. Gray, have you investigated these charges? Do you approve such things?
+[00:02:47] UNKNOWN: You
+[00:02:48] NIXON: get my point? They're not up there to conduct an investigation of Gray
+[00:02:52] UNKNOWN: on
+[00:02:52] NIXON: Watergate. They're up there to conduct his, to question his competence to be
+[00:02:57] UNKNOWN: head
+[00:02:57] NIXON: of the FBI and whether he approves certain things the FBI has been charged with doing over the years. And then go back and pick up what he said
+[00:03:04] UNKNOWN: he did in the Kennedy thing with the FBI did.
+[00:03:07] NIXON: You approve the use of the FBI for
+[00:03:09] UNKNOWN: this
+[00:03:09] NIXON: purpose. Just go, you have to write the question about it. I'll write
+[00:03:12] UNKNOWN: them out if you want me to. Sorry, it's fairly simple. Oh, sir,
+[00:03:16] NIXON: I think we have. Now, then take all your sullivan material all your sullivan material that is, it doesn't make any difference whether it's hearsay or not. Decide that, that the game, this game is not played according to the play the court to, you know, the, the, the, the hidden arrest me
+[00:03:33] UNKNOWN: understand that. All right. These are charges that have come to the attention of the man.
+[00:03:37] NIXON: Now, the main thing is we've got to find a way to get to whom ever we have down there in a way that he doesn't say that you send it to him.
+[00:03:46] DEAN: would no more blow us out of the water or me personally than, Yeah.
+[00:03:50] UNKNOWN: Well, but hruska is smart
+[00:03:51] DEAN: enough. That's the problem. Love the man, but... That's a problem. if what about,
+[00:03:57] UNKNOWN: well, how does it marlow cook is well marlow cook is the man, of course, he was hard enough,
+[00:04:02] DEAN: but he's white, I got it from the White House. That's the funny thing, you know, when we had him down here on the itt thing suddenly he said, Well, I got a little bit of this material from the White House. But Gurney, I think could be the man. Gurney, I can... I can only assume Gurney went on this select committee for one reason. He would like to have your nod next time around rather than Kramer and the like, and so he's a real carrot there. Kramer's
+[00:04:25] UNKNOWN: an ass. But you see what I mean is this.
+[00:04:31] NIXON: Why don't we now, let's get this stuff out right in this hearing. Now, that's a perfectly logical question In other words, raise questions. Now, gentlemen, I've, say that, I want to ask you some questions. Some charges have been made, have come to my attention, and here they are,
+[00:04:49] UNKNOWN: you know.
+[00:04:51] NIXON: I start with the lower case and then go to the higher case. Right. That in the, that in the 1968 campaign, that the FBI, at the request of the White House, Never say whom at the request of the White House, it's an electronic, the electronic surveillance of Vice President agnew is phone when he was in Phoenix.
+[00:05:10] UNKNOWN: Is this true or not? That's been written that part. Just the fact that they're making the charge is going to be a headline.
+[00:05:16] NIXON: Chart. Second, that's my point. Then, second, it has also been charged that by order, that the White House ordered the, the electronic surveillance step. In other words, I want to put Gray in there. I told him that Hoover had told me, and I'm going to make him lie because I think Gray's not handling himself well. What he said yesterday with regard to the fact that, it was, that, you know, this Jolly Well bullshit and all that sort of thing that you were, that it was highly improper for you to be present. I'm God damn it, we're not going to let him get away with that.
+[00:05:48] DEAN: He even said, he went as far as to say yesterday that he had told me he thought so. That is an outright misconduct. All right.
+[00:05:54] UNKNOWN: Well, now we're going to put
+[00:05:55] NIXON: him to it. He will know he's lying, you see, when he knows it, because he knows I told him that Hoover bucked this, that, that Hoover, that Hoover had told me, he knows that he's been told that, because I told Gray specifically. I said, I want you to go back and check it, and he hasn't done it. Now, you see, the way I mean, what I'm trying to get at here is Gray, in my view, probably has come to the point that we either, he's either got to,
+[00:06:21] UNKNOWN: that, that he,
+[00:06:22] NIXON: he, it's probably not in our interest to, to, to, to let him get in. But, but I think we've got to do it in a way that we, that's him a little more. Exactly what
+[00:06:31] DEAN: you're saying, sir. And do you disagree? No, sir, I think he... You know, yesterday it was the day of the truth and hell he turned to... Well, first yesterday and the day before. He, he did what he said in this regard. He started the argument that he can't turn over any more material, he's harming the rights of individuals and the like. He did do that, but to not, not much with much success for this reason. Kennedy bore right in on him again on the old stuff in regards to putting new stuff anyway. He's volunteered so much that, Well, now I want him to know then suddenly about the bobby kennedy
+[00:07:03] NIXON: Just go back to the old thing. He said, John, gentlemen, you're going to be the director of the FBI. Mr. Chairman, I'm concerned about the FBI being used by the White House for political purposes. Not only, I mean, through the years. Now, I want to know, I mean, Mr. Gray, do you have any knowledge of the White House doing it this year? Then go back to this. Now, I want to read you from, from this book, Mr. Smith's book or somebody else's book. Let me read you this. Is this true or not? Did the FBI do
+[00:07:30] UNKNOWN: this or not? Do you approve of that? Will you see that that's not done in the future? Then just repeat
+[00:07:36] NIXON: it and see. Kennedy go right up the God damn wall but do it. Then, then I would go on, but mainly I go into this stuff that is new. Everybody knows about what happened on the Kennedy thing and moving the reporters out of bed and all that sort of thing. But people do not know some of this other crap you know about how Johnson used the FBI. But he just goes right down the line on some of it. Stuff that you think is fairly good, maybe not the New Jersey Convention and certainly not the stuff of Walter Jenkins, but there's other stuff that's pretty good. Oh, yes. Oh, yes. You know, get about four or five meaty things and then, then wipe out the electronic surveillance of the Presidential plane And then lay Gray lies if he lies, then we're, I, we will, you'll, we'll have to call him and tell him because he lied under oath and then withdraw his name.
+[00:08:22] UNKNOWN: Exactly.
+[00:08:24] NIXON: He's got to, he's got to be put right to it.
+[00:08:27] UNKNOWN: He knows, in other words, did you conduct it? You
+[00:08:29] NIXON: see the way I would do it. Have you ever had any information put the question in such a way that he knows he's going to be lying?
+[00:08:36] UNKNOWN: Does he not lying to help us when he says he has on information? And he said, Have you investigated it? Do you approve of it? I first start with this. The charge has been made. Do you approve of
+[00:08:46] NIXON: that kind of activity? No. Have you ever had any information come to your attention questioning that sort of activity that was invited to Ruder about it? You'd say, No. He said he'd probably say no. He said, Did it happen? No. If, if you did get information, did you conduct an investigation? No. Why not?
+[00:09:06] DEAN: Well, now you see, he hasn't... Will you conduct him? He has done an administrative inquiry and the like, so this will put, this will be testing. Now, I, I think this is good for this reason. Yeah.
+[00:09:15] NIXON: You know, but I told him, I, you know what I told him. I ordered him when he was in this room. I directed him, I said, You were to give a lie detector test to every individual who may have had anything to do with electronic bugging of the president is plane in 1968.
+[00:09:29] UNKNOWN: Now, God damn it, he hasn't done that. He used to do it. They used the lie detector when they picked new agents. Now they, he didn't do it, did he? Has he used lie detector tests? No, sir. He didn't. I told him to get deloach and I ordered him to.
+[00:09:41] NIXON: Now we're not going to screw around with a thing like this. Hoover would have lie detected him in one second.
+[00:09:47] UNKNOWN: You know, if he'd been ordered.
+[00:09:50] NIXON: What I think is happening here, John, is that Gray, I've got no other type. He's a nice guy, he's loyal in his own way, but he's panting after the God damn job. And it's sucking up.
+[00:10:02] DEAN: As korologos says, some of these fellows go up and they get, confirmation itis. They change. They're different individuals once they get up there. All right. All right. It's
+[00:10:14] UNKNOWN: going to happen now. It's got to, it's got to, I, these are... You question these tactics? no, I don't for this reason......that's
+[00:10:21] NIXON: the question I don't, but I might point out... No, sir, I don't... Why not get something in on the other side?
+[00:10:25] UNKNOWN: That's exactly the point. And here's the hearing to do it. You see, in the other hearing, Ervin
+[00:10:29] NIXON: could rule it out as irrelevant. For the reason that it is limited to this election. But this involves the
+[00:10:35] UNKNOWN: FBI period. And so you're going to say, Now I want to see what
+[00:10:39] NIXON: do you think is going to, you show you, you laid the foundation very much.
+[00:10:42] DEAN: We've got tremendous questions about, did he investigate, did the FBI investigate some of the occurrences that you were confronted
+[00:10:48] UNKNOWN: with during your campaign. Yeah. the firebombings
+[00:10:52] DEAN: of some of these things where they did just, they did, virtually
+[00:10:54] UNKNOWN: nothing for us. Yes.
+[00:10:56] DEAN: there's some of that just, you know, know the other side. I've
+[00:10:58] NIXON: got to... Like a little bit of that with me in, but I
+[00:11:00] UNKNOWN: would rather get it out of the
+[00:11:01] NIXON: campaign I'd rather pull it back into the old history. Not what he did, just to say. But you see, whether or not he approves of the use of the FBI by the White House. Now, then go back into what the other White House did. See what I mean? He's pissed on the White House enough, frankly. All right. He's talking the White House as an entity that goes through all presidents. Now, what's he think? Maybe you don't want to pull it in a bobby kennedy but God damn it, he's dead. But certainly you can pull in all the Johnson crap and I'd pull in the other hand. I, it will worry Gray to death. And then if he's, and then if he does lie, he's to be called and says,
+[00:11:36] HALDEMAN: All right. I mean, that was a lie
+[00:11:40] UNKNOWN: under the circumstances,
+[00:11:42] NIXON: you just have to paddle your own canoe up there.
+[00:11:44] DEAN: I think the man to do this is probably probably Gurney rather than Hruska for this reason. But he's
+[00:11:53] UNKNOWN: so
+[00:11:53] DEAN: much smarter. He's smarter and Hruska is extremely close to Kleindienst, we can get in a way that's just between Gurney and does gurney know you well enough
+[00:12:05] NIXON: that he'll, that he won't get up to stage from the White House. That's what I'm concerned about. I can't.
+[00:12:11] DEAN: Well, I can have somebody who does know Gurney well enough do it. Well, that's my point. I'll
+[00:12:14] NIXON: do it outside. You can say somebody outside can go and say, Look, we've got some hot stuff
+[00:12:19] UNKNOWN: here. It'll help you in your campaign. Use it. Now, I should believe I've operated around here for
+[00:12:25] DEAN: about two and a half years now and no one has ever, I've never surfaced until you decided to surface me.
+[00:12:30] NIXON: You see what I mean? The trouble is sometimes with Colson, Ehrlichman and Stephen and some others involved in the investigation is that they have not known times that you're just going to do it in front of the White House. Never doing it in the White House. Never. I... You can put it out in the left field. That's my standard procedure. And, I think you can have to, what my view is that if you could get Gurney to do it, he'd go after it better and, he's all going to be all hruska is loyal a little bit on the pompous side and would be concerned about hurting the FBI. Gurney won't give one God damn what happens to the FBI. That's right. And shouldn't. But now on Gray, how about it now? We must, I mean, my view is that we should. Now, what the hell, where's
+[00:13:12] UNKNOWN: Kleindienst in all this? What in the name of God is he doing? Kleindienst has been totally
+[00:13:16] DEAN: unable to program what he calls a bull-headed Irishman in this whole thing. We have tried. They had, before the hearings started, they had sit-down sessions to plan his whole strategy. it's
+[00:13:28] NIXON: beyond Dick's control. Now listen. I want all communication when Gray got off of it. That's the other thing. Give
+[00:13:34] UNKNOWN: me the cold stuff for a while. Agreed. He called here last night,
+[00:13:40] DEAN: talked to, talked to Ehrlichman rather than me last night because I have just been pulling him up short every time he talks to me. I've known Pat for a long time. He knows that I'm doing it because Yeah. There's just general display. I haven't said anything about our conversations, of course, but, Oh, you shouldn't. I know. Of course not, I wouldn't. Well So I think this is good and I think the way to do it is just quietly move it in and move it into the forum. That's right. But let's get that question
+[00:14:06] NIXON: out about the fact about the 68 bugging Right. So now, what's the danger john Well, the danger is the Danger, they'll say, Oh, this is a red herring. This isn't true. This is a lie. This is a smear, right? A couple dangers.
+[00:14:19] UNKNOWN: One, he has made an in, an administrative inquiry of the thing. And he'll say no. He'll say, he'll say he hasn't inquired
+[00:14:28] DEAN: and he found it's not true. That's right. And, he, he'll say he found nothing in the records to support some of these. And
+[00:14:34] UNKNOWN: that's it. Did you give a lie detector test for those involved?
+[00:14:38] DEAN: That's where he'll follow on that. The other danger is he will blow deke deloach and possibly Bill Sullivan out of the water. deke deloach and Bill Sullivan being blown out of the water could be dangerous individuals. But I, what I think that what we're talking about here is raising... Not starting an investigation, but raising the inference of it all without touching any of the people. That's right. That's right. You
+[00:15:00] NIXON: understand? well, how did you conduct your investigation? You conducted by interrogatories. Did you take sworn testimony from your people? Did you give a lie detector test? See, not. I know, you know, read the hiss case again how I borrowed him those seven sons of bitches. Just to keep going right out little by little by little if you keep on the burning leak.
+[00:15:22] DEAN: Well, just like the point that the Senate is trying to drive between Gray and me on one,
+[00:15:27] UNKNOWN: did Segretti get to see the FBI reports? Yeah.
+[00:15:30] DEAN: Absolutely never did I show him those. That's right.
+[00:15:33] UNKNOWN: That's a phony
+[00:15:34] DEAN: story. And the second thing is, did I turn everything over to the FBI? I can go under oath on both those things or a lie detector if it ultimately came to that. not that it should. Right. Because we are clean and Gray knows it.
+[00:15:47] NIXON: But when Gray says that you should not have sat in what the hell does he mean why should not you have sat in the FBI always allows people to sit in counsel
+[00:15:57] UNKNOWN: can sit in. The FBI does not say an individual has to be inducted. As a matter of fact, the law provides otherwise. If an individual wants counsel, isn't that correct? That's
+[00:16:06] NIXON: correct. No individual, good God, the civil libertarians would be up the wall if they had a black up there, you know,
+[00:16:11] UNKNOWN: and he, they were investigating him for you. That's
+[00:16:13] DEAN: correct. That's right. The policy is if they can get an interview without counsel, they will do it. They could
+[00:16:18] NIXON: forever, yeah, but God damn it. The individual has a right to have counsel, then whose
+[00:16:22] UNKNOWN: other counsel is
+[00:16:22] DEAN: going to be. We were, the other thing is, and, and Pat understands this is that any inquiry into the White House is a different type of inquiry. It's not your run-of-the-mill type drug case or something like that that they're talking about.
+[00:16:36] UNKNOWN: It's
+[00:16:37] DEAN: sensitive. In fact, the only time I ever came down hard on the FBI was after the leaks started. And then I insisted before they came over here that they'd tell me what they wanted, who they wanted it from, why they wanted it and what protections they would take. That's right. On the information
+[00:16:51] UNKNOWN: they were given. Yeah. But we never... We have got, I don't see Gray after this, John. I don't see him taking hold
+[00:16:57] NIXON: of this thing and, the FBI cleaning it up. If I don't see him, I think he's going to be Mr. Nice guy and all that sort of thing. And I think he's, he's gotten this on his mouthtop, but I think if we can sing him now, we ought to do it. That's my view. I, I sense a character flaw here. I think. Well, the, uh... The raw stuff in the period. I know the papers don't carry everything, but there's a character flaw there. In this crap, I don't, if I would jolly well do that. Good Christ, that's the
+[00:17:26] DEAN: fbi director use that kind of language. I think the point that you made yesterday is, it is between us the very good point is that hell you could have appointed anybody to be a non-political head of the FBI. He could have found some federal judge who's untouched and the like and a good administrator and the like. That
+[00:17:42] NIXON: isn't what you need. And I'd go through the agony of a error. That's right.
+[00:17:50] UNKNOWN: At least he said,
+[00:17:53] DEAN: But, be responsive. Don't give the store away Well, I think that, I think this is good enough to get
+[00:17:59] UNKNOWN: him. I'm not, you've got to think it over. That's an idea. Yeah. You've got to think it over. Get me some questions better. Let me tell you, you've got
+[00:18:07] NIXON: to, I know these guys, and none of them are worth the God damn up there as letters to get him. It's
+[00:18:12] UNKNOWN: only because they don't think about it, they're
+[00:18:14] NIXON: too busy. But you make the questions up under cross examination
+[00:18:17] UNKNOWN: You know, build the case little by little. Gray won't know what the crisis is going to hit him until whack. See what I mean? Well, it
+[00:18:24] DEAN: does this. Even, even if he ultimately, you know, things get back on track. huh. If what I'm, the reason I like across the... It's, it's that, and it's giving you the later option if he does step across the boundaries from your knowledge. Yeah. For
+[00:18:37] UNKNOWN: the way he answers a question. Not just say, I'm
+[00:18:38] DEAN: sorry, he lied. And me? You don't have to even say that publicly, you can pull him in and he can say, I am
+[00:18:43] UNKNOWN: withdrawing. That's right.
+[00:18:45] DEAN: That's right. Because if you confront him, you know, privately and say,
+[00:18:49] UNKNOWN: Here's the reason......that's happening. You didn't tell the truth
+[00:18:52] NIXON: there. And then he'd say, Well, I can read it, now I'll withdraw it.
+[00:18:55] DEAN: That's right. What do you mean? That's the option we need to provide for you.
+[00:18:58] UNKNOWN: He says it's getting political hearing.
+[00:19:00] NIXON: So we'll throw him out. And it'll be a three, four, five-day story when he gets out and that's all. That's right. And we'll have to find some non-enterity entity to put in the goddamn job. I think I would have been better off to put Jerry Wilson in anyway. College degree and no college degree.
+[00:19:17] DEAN: Well, Jerry would do anything that you said. First of all, he'd go, he would have gone through the hearings with it. It's a little bit of a putting a puppy dog in, but he, God damn, he can run the shop. I know that the arguments were for and against Jerry and, and, they were all valid at the time that, when you look at what we're into, maybe, Well, maybe the FBI just needs a straight cop in there for a change who's going to stay out of politics. But what, here's the thing also, Mr. President, I, I, in Pat's defense, let me say this is the time to test him. This is the time to say, Are you on the reservation or not? That's right. Because if he isn't now, and if in the next few days, he has turned around from where he was before. There's no doubt about it, he's come down on the hard line. I'm not turning over any more material. So on and so forth. Well, we've got to stop him now is, and I told him, I said, if you try to create more of a dichotomy between you and the White House, Pat, you're just right. You're just egging for them to call and insist upon my appearance.
+[00:20:13] UNKNOWN: And that's to your disadvantage. Well, they're not going to get your appearance. That's what they're sure.
+[00:20:20] NIXON: Well, for Christ sakes first, they can't get your appearance unless you say there's the double privilege.
+[00:20:25] UNKNOWN: Sure. Lawyer, you can't. That's right.
+[00:20:27] NIXON: And, so you have a privilege there. I mean, yes, the Committee wouldn't think of calling a man's lawyer in questioning that, right? I
+[00:20:35] UNKNOWN: would think it highly. We've never got it. No. I heard
+[00:20:38] NIXON: it. Yeah, we never called lee pressman in. We didn't call him. His lawyer was a slimy son.
+[00:20:45] DEAN: We had it. We interrupt. We enter a total new league if you start breaching the attorney client privilege right attorney client
+[00:20:52] UNKNOWN: privilege, you've got that, but then also you have the
+[00:20:55] DEAN: other second privilege. That's right. No. Now we're on strong turret though.
+[00:20:59] UNKNOWN: Only point is just a privilege one main paper. Oh, we'll turn over any commission for it.
+[00:21:08] UNKNOWN: Well, I think this is a good idea, but I thought through that clear carefully. Well, let me, let, as I go through the question.
+[00:21:13] DEAN: Mainly see what the questions are and whether they stand up. Let me take a hard look and I'll, and I'll, you know, I'm, I'll seek at you what my honest impression is at the point
+[00:21:23] NIXON: in time. Your advice will be very important.
+[00:21:26] UNKNOWN: I mean, that's really very helpful. One other development. Yeah. Maybe a part three, I think it's to the good. Williams and califano the law firm representing all these civil cases are withdrawing from the cases themselves. Counsel. Why? They say they have a conflict in relationship to
+[00:21:44] DEAN: their representation of the Washington Post.
+[00:21:46] UNKNOWN: Now, because we have had quiet negotiations going on in the
+[00:21:51] DEAN: background with Strauss and O'Brien to settle those cases. And those cases are just one great pain for all of us
+[00:21:58] UNKNOWN: and potentially the same thing as the hearing
+[00:22:00] DEAN: with civil depositions. They can get about as far as the Senate can get. Yeah,
+[00:22:03] UNKNOWN: I know. So we may have a break going on that and I've been working on that all day. Well, maybe we'll get a rough lawyer.
+[00:22:09] DEAN: Well, not if we move right now, that's
+[00:22:11] UNKNOWN: the hopeful thing. All right, sir, I'll keep you posted. Okay.
+[00:22:19] NIXON: Have some fun. Understand? The way to look at all this is the battle.
+[00:22:24] UNKNOWN: Oh, and they do be. But I don't want our people to be around here
+[00:22:29] NIXON: too goddamn names handy and, and not getting things, you know, that
+[00:22:34] UNKNOWN: which I should have thought of
+[00:22:35] NIXON: much earlier. The way to get this in order to get it in is in this hearing, not the other one.
+[00:22:39] UNKNOWN: Ervin can't rule it out. Well, that was my suggestion. You cannot rule it out in Gray.
+[00:22:44] NIXON: It's got to be just questioned about the whole operations of the Bureau. Right. That's right. We say you approve it. See, the way you have to get into it is lay the Foundation is to say, Do you approve of the FBI being used by the White House for political purposes? You
+[00:22:59] UNKNOWN: got it. You got to go out. There's some more stuff. John Owen.
+[00:23:20] UNKNOWN: Get out of there around Sunday now. Works fine at 10 o'clock. Staying after dinner. Oh, hell yes. Yes, I don't know.
+[00:23:39] UNKNOWN: And Maury did an absolutely superb job.
+[00:23:45] NIXON: I, I, I finally decided it. Now the problem is you've got to get somebody to introduce at the dinners or after dinner or even, even that after dinner thing. Maury, like everyone, he had studied them. Obviously, he knew a lot of them, most of them, but he studied the list. And, but even if you know you have a guy introducing afterwards, you could say Mr. Jones from Senator Smith's office or Mr. So-and-so from that office or so forth and ACA and so forth and so forth. But you have, like, you have a codus or you have a military. You can't expect them to do that because they aren't really that sophisticated. You know what
+[00:24:22] HALDEMAN: I mean? Yeah. How about getting somebody to do that? Steve to it? We could train the military aides to do it. All right. Because it's a matter of asking. You know, I gotta give a party. You've got to do an intensive briefing then. It means one of our people getting in. That's... All right. Not when Julie gets here with you. That's the problem since Lucy doesn't like this. Referring to the social aides which is
+[00:24:49] UNKNOWN: who is the answer? Oh, but
+[00:24:53] NIXON: anyway, what I was going to say. You can't do that. Huh? I don't know why that can't. Well it out. Just work it out. I want them to tell me as they come through. Now look, let me point out that the point is I, I, I, I have to spend usually a half-hour before each dinner, Bob and each evening, at least reading those goddamn lists marking things and then memorizing who the Christ they are. Because these bastards expect you to know. They don't expect it, but it helps a lot to know. Now, the military, let me tell you, it doesn't do me one bit of good, believe me, one bit of good to have a stiff military aide or codus up there, putting Mr. Jones and Mr. Bennett. What the hell does that tell me? Yeah. What in the name of Christ does that tell me?
+[00:25:40] HALDEMAN: You know, one way you can do it is to make up cards for each individual ahead of time. And then he reads it. No, and then, yeah. And then give the card to the individual so he gives it to the introducer. They
+[00:25:53] UNKNOWN: do that at receptions.
+[00:25:55] HALDEMAN: Yeah. They did it at some of the foreign receptions Good.
+[00:25:57] UNKNOWN: Good. It was overseas. We went through
+[00:25:59] HALDEMAN: a thing. They give me, when I walk in a card saying, Mr. Haldeman, assistant to the President. Yeah. And then, as I do that, I hand that to them.
+[00:26:08] UNKNOWN: Now you take Mr. Haldeman. You can do that in the table. Oh, yes. You could do it. The nice
+[00:26:16] NIXON: little engraved card a little engraved card where you'd say, Will you please hand this to the aide as you go
+[00:26:20] UNKNOWN: through that? That's right. You can see you have to, you have to... Let's start that right. Let's do our card and tell them where to sit. Let's do that right away and say you can have that.
+[00:26:30] NIXON: They want their card.
+[00:26:40] UNKNOWN: That's an excellent
+[00:26:41] NIXON: idea. maury you know. Because people want to be identified.
+[00:26:45] UNKNOWN: I want to tell you it's such a pleasure.
+[00:26:47] NIXON: Don't worry, we'll take a minute with a half-minute with each one. This is one of the greatest guys you've ever met. This is just like Connally did. See, when connally got his party in Texas, that receiving line was fantastic because he knew everybody and he built everybody up and they went through there just like popped up. They come to receiving lines behind House unless it's somebody that I, like cary grant I don't know who the hell they are. Yeah, well I know pretty well. I know 3 fourths of them But there are many of them that I just
+[00:27:13] HALDEMAN: can't. But the people know that you don't know, and the people want to be talking. Like, if the guy is the head of the, the company, such and such as Steel Company and Des Moines, he wants, he wants the President to know that 'cause he, he thinks he's...
+[00:27:25] NIXON: Well, I wouldn't put too much on it. I mean it's the President. I would say
+[00:27:29] UNKNOWN: so one line on each... des moines or or u s president u s steel to Windows, or, no, it, they couldn't say that much.
+[00:27:37] NIXON: Maybe they even give me the name and the state it would help.
+[00:27:40] HALDEMAN: Well, they could... Why does he get a stake? They could say Mr., Mr. John Armstrong of United States Steel and Des Moines. Don't
+[00:27:48] UNKNOWN: use his title though. Don't say President. Don't sue the title. That's right. Just use the place with
+[00:27:54] NIXON: the University of so and so forth.
+[00:27:55] HALDEMAN: The University of California. Right. Right. Right.
+[00:27:58] NIXON: That's right. In other words, name, occupation, and,
+[00:28:03] HALDEMAN: And normally they can say City rather than state. Because if they say Des Moines, you don't have to say des moines DeMoy......that's not... City. Very
+[00:28:08] UNKNOWN: good shit. Will you work it up?
+[00:28:10] NIXON: But you, but Boyle Moore has said this through.
+[00:28:13] HALDEMAN: Unless it's a rinky-dink little city that you've never heard of, then they ought to give the state because states help you pull this
+[00:28:19] UNKNOWN: thing. They don't know. I, I know every city that anybody's from, believe me. But I will know that. Things you have to help us. That's a good idea.
+[00:28:33] HALDEMAN: That gives you, especially one like this where you want to talk to them. It gives you a basis for saying, Oh, yes, I didn't remember that, or tying to their football team or the.
+[00:28:41] UNKNOWN: Well, I do an awful lot of that. I know you've got to get, if you get triggered, is it because they've got a bad old memory on this. Just
+[00:28:48] HALDEMAN: too, it's, it's too, it's not a good use of my time. Did you see the story in the paper about that woman you remember?
+[00:28:56] UNKNOWN: Yeah.
+[00:28:57] NIXON: That was not a case of just seeing her and saying you want to grass it. She told me when she'd been out there with the captain and I remember they were all in long dresses Yeah. That's what you're talking about. She thought I remembered. But it was not bad. Mostly Wood even remembered it now that I'm afraid. I can't imagine eisenhower remembering or Johnson. They don't think that's a Johnson man. Johnson.
+[00:29:20] HALDEMAN: No, I don't think so, because Johnson didn't deal with people either. He was so, he dealt with them in the mass, too. I mean, see, you, you take each person one at a time. I don't think... It's more than the other people.
+[00:29:31] NIXON: Well, I'm inclined to think incidentally that as far as these people are concerned, except for the white crap, that the stag dinner is the best way to handle it.
+[00:29:42] UNKNOWN: Due to the fact that they come in and they get that bullshit in the afternoon, which they like to hear. Yeah.
+[00:29:47] NIXON: They really... I give them some bullshit at night and have a nice little dinner. I'm out of here by 10 o'clock and so forth and they go back and tell their wives. Now, over a period of four years their wives can come in. That's the way they would do it. I wouldn't break our ass. But, Maury's had his stag dinners and the stag dinner is no great strain for me. I don't mind having, I would, I would not have finding even more in
+[00:30:10] UNKNOWN: order to hurry
+[00:30:11] NIXON: would not. Start at 7:30. And incidentally, it could have been over by 9 30
+[00:30:16] UNKNOWN: but serve three courses. What? Were they slow on serving the dinner? No, no, no. They were working at 10 o'clock. 10 o'clock is the, you can't go back in that two and a half hours.
+[00:30:26] NIXON: Can't they figure you, you're shortchanging it. But my point is Dinner didn't
+[00:30:31] UNKNOWN: know. They did extremely well.
+[00:30:33] HALDEMAN: And they had the music and they had the music and
+[00:30:35] NIXON: long music. We've got those damn sea chanters tonight much affairs
+[00:30:38] UNKNOWN: and I just wish we'd have to. I guess we just can't.
+[00:30:42] NIXON: Look, if we have the Marines all the time,
+[00:30:44] UNKNOWN: why can't we just have the Army? We can't. We can't change tonight. Sure we can. Well, we can't. No. Let the sea chanters come and doesn't make that much difference.
+[00:30:55] NIXON: But always have the army for me, if you will. I don't like the sea chanters
+[00:31:03] NIXON: and wear beards and long hair and everything, you know, that's a goddamn thing.
+[00:31:07] UNKNOWN: And it looks a little bit just as a good thing in my mind. The Army looks like the Army.
+[00:31:15] HALDEMAN: That's the thing rotating the services is utterly absurd because nobody knows who's there anyway. Except the guests. And then the guests only know who's there at their dinner. They don't know who was there last night or tomorrow.
+[00:31:27] NIXON: I have any. One thing I made, I, John Rollins did not have, you know, so I told him I wanted him to work with harry dent candidates and so forth.
+[00:31:36] UNKNOWN: You tell Harry and I sent him on told him that I want him to work with John and he feels terribly important. Well, incidentally he is important. And he'll put up Bill.
+[00:31:47] NIXON: dave packard was at our table that couldn't have been traded, you
+[00:31:50] UNKNOWN: know, after
+[00:31:50] NIXON: what he went through in the cambodia press last night, he was saying how probably it was, and bus wheeler came in and recommended the cambodia thing which they did, you know,
+[00:32:01] UNKNOWN: there did not put
+[00:32:02] NIXON: down Wheeler as to whether or not he got one of my thank you letters in Vietnam.
+[00:32:08] UNKNOWN: You know what the letters were burning? Yeah, I did. Henry prepared for the time
+[00:32:13] NIXON: or price it, but I, I don't think we did. If sent
+[00:32:16] UNKNOWN: him to westmoreland Wheeler should
+[00:32:18] NIXON: have it. But anyway, but Packard said he was being invited to a meeting. He was going to Southern California meeting
+[00:32:25] UNKNOWN: with a half a dozen to try to talk where the governor was going to be present about the California situation. He said, If you've got any advice that you'd like to pass on, which I'll be glad to use myself, I'd have it as a way to
+[00:32:38] NIXON: he says he likes bob finch a lot
+[00:32:40] UNKNOWN: He said he doesn't, he thinks that would advise. He says he doesn't know where I think he very well makes a great deal of it when he thinks that Bob ought to run for the Senate. Right. He's got to run the
+[00:32:48] NIXON: governor. Now that's Packard who's there who should be a finch man but that's the way he's talking.
+[00:32:53] UNKNOWN: And he says that's the way our folks feel.
+[00:32:56] NIXON: Now you've got to pull him off with that, Bob. We've got to get go of it.
+[00:33:00] HALDEMAN: I think we are. I, I think we're going pretty well on it.
+[00:33:04] UNKNOWN: I talked to Bob, uh... Which way Bob can go? Senator. He's changing his mind. I think so. Oh, I couldn't believe
+[00:33:10] HALDEMAN: it. How I don't. I don't know. I think everybody's putting the pressure on him and just saying you can't go for Governor, you've got to go for Senate. And
+[00:33:19] UNKNOWN: then,
+[00:33:20] HALDEMAN: that's the direction he's taking. I talked to him Monday and Tuesday.
+[00:33:27] NIXON: Well, listen, would you give him a call just to keep tracking and say, Look, packard raised this, and I've got to do a very subject. What does he want us to say to packard before this meeting?
+[00:33:44] NIXON: Another that Packard raised that I, I thought you should know that he is apparently, baroody out that got a hold of him and trying to get him to work on this committee, which is willing to do.
+[00:33:59] UNKNOWN: And he said, The man that they all feel should be the best man to hit it up. Which is impossible.
+[00:34:04] NIXON: It would be connally and I couldn't, tell him that he couldn't, that he wouldn't do it and connally isn't about to do anything like that. And
+[00:34:11] UNKNOWN: he shouldn't. That's right. He can't get direct confrontation.
+[00:34:15] NIXON: But I, I just wanted to be sure that you weren't putting that in there because baroody Burley's out that you really checked out to me before they, well, maybe they shouldn't.
+[00:34:24] UNKNOWN: They, they know the best they can. They don't know who the hell it is, but that won't
+[00:34:29] NIXON: work. Could you tell Packard that I checked with Connally? He should be called and that he, he just can't do it at this point. He's got some other planning. laird incidentally, has, is in town. He has nothing to do. I wonder if we shouldn't make him a counselor of the President if he will. Before you say no, it was such a shocking idea. There is such a desperate need, you know, for
+[00:35:02] NIXON: get out and do that sort of thing at the present time. I think we're gonna have to and frankly the desperate need for advice on that sort of thing that, and then from the inside. Well, I, it just occurred to me and somebody else has cleared ever do it,
+[00:35:23] UNKNOWN: but he said two sense. And he was invited last night because he didn't talk. You want to be sure he was invited one of the two nights.
+[00:35:33] NIXON: Probably not. He was invited last night and connally was invited tonight That's what I told Rome. Okay.
+[00:35:40] UNKNOWN: I think it did vfw last night. Why do you think he wasn't? Why do you, how's the Laird idea strike you? And he's not invited tonight. I don't want to go on the last day. If he was invited last night.
+[00:36:04] UNKNOWN: It never gets it. What? The vfw thing. Yeah. He got a good. Did they? Oh, yeah. Oh, good. He got it. I didn't see it this time. No, he was too late. He gave a very strong speech on amnesty.
+[00:36:17] HALDEMAN: Yeah. And, it got a good ride and
+[00:36:20] UNKNOWN: he made the points well.
+[00:36:22] HALDEMAN: Got the Lincoln point in, well, and it wasn't, it wasn't a front page story. It was on page, seven. But quite... Incidentally, our story.
+[00:36:32] NIXON: I, I want you to go forward and make up the list that I spoke about for a mailing of the letter, but I reflection decided not to do it now. They're all out because the first paragraph
+[00:36:45] UNKNOWN: and, I don't want to get damned. Well, then you can say it about sure. And this is why I shouldn't circulate it. connally brought him on. Oh, they all say that.
+[00:36:58] HALDEMAN: Let them go on saying they're, they're doing a great job of saying it. We really don't
+[00:37:02] UNKNOWN: need to push that point. Well, that wasn't the point I was trying to do. I know. Well, it's the other is the moral point.
+[00:37:15] UNKNOWN: No, Bob, they are, they are, they are
+[00:37:18] NIXON: God damn liberals off the wall. It is unbelievable. Well, and just, I'll tell
+[00:37:22] UNKNOWN: you, the phased release is just a benesome. In fact, the third is bound not to get anything. They're only four, therefore. Oh, yeah.
+[00:37:32] HALDEMAN: Probably. Right. The third and the last one may not. No, the third will get a play. Good. Yeah. The drama of that is, is, is such that they have to play it. And they're, like, here you've got an old little story, but it's a big thing now is that guy cutting down the signs saying, you know, hanoi release, what's his name? He was in the first batch, and he just cut down the sign yesterday, so that is the big thing.
+[00:38:00] NIXON: What these guys are saying. The best statement actually has been made but it's made by the first guy on the second plane. Second batch
+[00:38:08] UNKNOWN: Yeah. He was the one. But they're all. But Bob, they're
+[00:38:14] HALDEMAN: all good. They're all hitting the Patriotism thing so hard. And that's the...
+[00:38:17] NIXON: And they're all kicking the bums and the rest, aren't they? And they're kicking them.
+[00:38:21] UNKNOWN: They're saying the peace groups delayed the war.
+[00:38:23] NIXON: You see, the very point we've been trying to say,
+[00:38:26] UNKNOWN: they are saying, right?
+[00:38:28] NIXON: They're putting into the peace groups if it is something though there, peace groups and McGovern's and the rest. Now look at the Senate. Now you can't find anybody that's for amnesty up there.
+[00:38:37] UNKNOWN: Make
+[00:38:37] NIXON: a note. timmons at least can do one thing up there. They've got to get a vote on amnesty on that God damn sentence on it. They're
+[00:38:44] UNKNOWN: trying.
+[00:38:44] HALDEMAN: The House. They've got to... Stack the bills in, they've stacked them all up. They did, you know, they ran the poll on it. The UPI didn't and so did ap They printed that, but that what I was thinking you might do, Bob, is this, have one of our guys put in a positive thing,
+[00:39:00] UNKNOWN: no amnesty shall be granted and then let the bad results. Get a roll call the libs have got a problem with that.
+[00:39:15] NIXON: I just love those questions.
+[00:39:18] UNKNOWN: Love them because.
+[00:39:21] HALDEMAN: Well, that keeps writing.
+[00:39:23] NIXON: Because, but coming back to the
+[00:39:26] UNKNOWN: POWs, the patriotism theme, the
+[00:39:29] NIXON: religious theme, the character
+[00:39:31] UNKNOWN: theme, the soldiers of the country.
+[00:39:35] NIXON: What do you think? You're a line. You do, and don't you believe? I, like I read it in the summary this morning and three fourths of us on the domestic battle and the others on the rest. And believe me, I don't think the people do God damn about the rest of the thing in terms of sure they for this or that or the other thing. But as far as they're concerned, it's too, frankly, it's too dull. It's too controversial. It's too depressing. They don't want to hear it.
+[00:39:58] HALDEMAN: Only when you get to a specific
+[00:40:12] NIXON: better law enforcement speech than just that usual path reduced crime shocking the whole through the day line John takes it to television. The other thing is that I think the social issue
+[00:40:26] UNKNOWN: get our guys on the back.
+[00:40:33] UNKNOWN: Wasn't that an amazing thing about CBS, canceling that papp thing you know, that horrible,
+[00:40:41] HALDEMAN: I, I wish it running. I just wish it won't. I was they had to, I wish they had run it last tonight or whatever is supposed to go. I guess
+[00:40:47] UNKNOWN: it's tonight.
+[00:40:48] HALDEMAN: I wish it had gone on the air, because they would have had a goddamned disorder. Horrible uprising. Now they'll get some credit for canceling it, which is kind of too bad. Well, that
+[00:40:59] NIXON: was no, we don't get the credit. for suppressing it That's what I'm concerned about. I just, I think
+[00:41:06] UNKNOWN: they were always a whole nation on the interesting three press. But the American people see what CBS runs.
+[00:41:14] HALDEMAN: It's ironic that papp was just made the head of the lincoln center now.
+[00:41:18] NIXON: Well, we've been to 2 of his plays neither of them worth a shit. Remember, he was down here. len garment was the one that really kissed on there. Sure, even with Len, you can't trust the Jewish Jew. You can't do it. You can't do it. You know, he was the two gentlemen with Peron. He was all scared of it. Neither of them was right.
+[00:41:40] UNKNOWN: And he was down here leading the charge of the war. God damn it. That's kind
+[00:41:43] HALDEMAN: of a person headly. I'll tell you one thing, it adds up the figures. We did about the Kennedy Center, but, but go to that. Roger Stevens, who is no friend of ours, but he's not an enemy really. It's just a little incompetent. But he's taken a firm stand there on the basis, he says, I'll be God damned if we're gonna present, I'm getting a lot of pressure now, he says, to put on American plays He says, But the problem is there are no good playwrights. Nobody's writing any good plays. All they're doing is putting their hanging their peckers out of their pants in order to get someone to come to the theater. And he said, I'm not going to put that stuff on. So what he's got over there now, he says, You got a Pirandello play and a, and a, Yeah. There's the other one. Rex Harrison. Rex Harrison and Emperor Henry the seventh or whatever it is. Fourth. Which is, and then a giraudoux play i guess at the other place at the eisenhower with this girl was apparently that they're both very good. And he says, you know, I'm going to go on doing this. The good plays were written a long time ago and we're going to go on presenting good plays that were written a long time ago. He says, You've got all of Pirandello and giraudoux and people like that have never been presented in America. And it's the better stuff. So he's, he's going with that and, and refusing to put on this other crime. And he's... I know it. He's running this story
+[00:43:08] NIXON: here. Yeah. Which is a hell of a good thing. Well, you, you're talking about just noting, but I've just been noticing what you've been doing on. I know he's taking a lot of pressure and I think here's one vote for roger stevens Not because I don't, I mean, I just think we ought to keep the theater relevant,
+[00:43:24] UNKNOWN: relatively clean. That bad damn I think, you know. But
+[00:43:34] NIXON: you, it's a horrible thing, you know. Christ, the mother has the poor blind guy kill himself and puts his body in the bag. Oh, for Christ's sakes. Not really.
+[00:43:43] HALDEMAN: Well, it's a, it's the typical song. Stick, you know, try to make the decadent, the country appear decadent. Why the hell they can't.
+[00:43:51] UNKNOWN: They can't do it now. They know if he'd be with his coming back, there'd be an outrage. Don't you agree? Hell
+[00:43:56] NIXON: yeah. Might break the God damn network on that thing. That's why
+[00:43:59] UNKNOWN: I wish
+[00:43:59] NIXON: they'd put it on. But 80 of their local stations refused to take it to go in. Now that is unprecedented,
+[00:44:07] UNKNOWN: isn't it? Oh, yeah.
+[00:44:10] HALDEMAN: WTOP probably announced that they were perfectly willing to carry it and didn't
+[00:44:14] UNKNOWN: have to.
+[00:44:15] HALDEMAN: which is The Washington Post station here.
+[00:44:22] UNKNOWN: Hell, anyway, let's get it. I'm glad to hear that. You notice the interesting thing. We,
+[00:44:38] UNKNOWN: thing over to the State Department yesterday.
+[00:44:41] NIXON: I was noting that lines that were used with Petersen or something like that.
+[00:44:50] UNKNOWN: He used two lines.
+[00:44:54] NIXON: he who compromises with a terrorist is name compromises with a terrorist is fate will destroy the terrorist is comrade
+[00:45:02] UNKNOWN: there you go one 2 .
+[00:45:09] NIXON: But both of them were, were
+[00:45:19] UNKNOWN: I wrote it down on the thing. You at the point. Yeah. You got to fight me.
+[00:45:33] UNKNOWN: They didn't ask him.
+[00:45:39] UNKNOWN: Sorry.
+[00:45:45] UNKNOWN: And call him on all countries to join the team saying it.
+[00:45:53] UNKNOWN: Rather than just sopping about the two guys that died.
+[00:46:00] UNKNOWN: Can we use lasky Moore? I notice the thing is he'll say anything. Yeah. But I would use him. You know what I mean?
+[00:46:08] NIXON: I think the efforts that we make sometimes to get him to drum understood, but in other words, they're all unless
+[00:46:14] UNKNOWN: he's a whore. He's a whore. Well,
+[00:46:19] HALDEMAN: the press doesn't. Where, we're, when you talk about it, are you trying to get other pick up? Better off. Well, what we do is, is you take the thing. Washington press yes. If you can get it run our way by Evans and Novak, you're better off than anywhere else. I know. Secondly by joe alsop That's
+[00:46:36] UNKNOWN: right. Thirdly by roscoe drummond roscoe
+[00:46:41] HALDEMAN: on President. Fourthly by nick thimmesch and 5th by by vic lasky Right. For two reasons. One coverage. Right. That's, that's the order of the ones that are the cover.
+[00:46:50] UNKNOWN: They're talking about the coverage people that read it.
+[00:46:52] NIXON: None of these people are read enough to make any difference. It's the mail out that we have. You mail it out to these damn. You see, it's an interesting thing that that Dallas paper, I noticed in the Kansas City paper, are just now picking up that damn editorial that annenberg sent
+[00:47:08] HALDEMAN: out. Okay, and that's... That's my point. But you know why we got some mileage out of that? The controversy over. Because we got a flap on it on whether he paid for the postage or not. Then that forced attention on it. So then they had to go back, which couldn't have been better. And that's something we ought to keep in mind. Maybe we ought to do more of it from controversial people and start questions to whether the guy the right to send it out.
+[00:47:30] UNKNOWN: Well, they would have wanted to know we're gonna get something very well.
+[00:47:38] NIXON: Remember to get the soy witness. Tell Ehrlichman and Boys. Well, at the time we were fighting this rear guard action on
+[00:47:46] UNKNOWN: that budget.
+[00:47:52] HALDEMAN: clobbered lou Harris pretty well on this poll, too. Yeah. We got a Wall Street Journal editorial just knocking the shit out of him, saying he had asked questions about things that weren't happening. And, then they take our met with, with Harrison, with the Wall Street Journal editorial and with, you know, went over to the thing. Well, now he's, he says he was in Argentina or, you know, Peru or someplace. He might have that his staff did it without his knowledge. Well, that's a lot of Haldeman. If you said your staff did something without your knowledge, how far would you get away with it?
+[00:48:26] NIXON: No. On the IRS when we get our guy in there. A senator, one of ours must ask equipment for a field full full field examination of all members of the House and senate
+[00:48:44] NIXON: That would mean the cabinet and the white house staff too. That's right.
+[00:48:48] UNKNOWN: I want that
+[00:48:49] NIXON: done. There's a reason that I want to, go into full field examinations of everybody in the House and Senate. Members of the White House staff, out there, the White House staff and the members of the President's Cabinet. They're not every year. Sure, you can
+[00:49:06] DEAN: irritate the shit out of everybody. Particularly or take those bastards
+[00:49:09] NIXON: See, they don't report their own rights. I know how they operate. I usually
+[00:49:12] UNKNOWN: report my surprise. I don't know. These guys, they lie and so forth with catching.
+[00:49:24] HALDEMAN: Back off of you got a basis for it right now. On this IRS thing of, how they handle special cases, sensitive cases. Oh, we just
+[00:49:34] UNKNOWN: say that, you know, he's not going to tolerate that, sir.
+[00:49:39] NIXON: How do you mean? You see what I mean? They're saying that, they're saying this and that, but I would like to have, could you get, I mean, get jack kemp to do it, for example. Yeah.
+[00:49:46] UNKNOWN: Get jack kemp Don't take that name in this. There's a better name. Get jack kemp to get up and demand it.
+[00:49:52] NIXON: And then I, I want it, I want him to come to my attention and I'll order it. See what I mean? Or the Secretary of the treasury sure. See.
+[00:50:06] NIXON: But he should say so. But the Congressman must get up. He must write a letter to the Secretary
+[00:50:11] UNKNOWN: of the Treasury. Or should he write it to me? I don't want to put the view for investigating the tax returns. Yes, sir for the Secretary. Secretary of Treasury.
+[00:50:19] NIXON: Secretary of Treasury routinely says, Yes, it is so ordered.
+[00:50:24] UNKNOWN: Okay. Let's
+[00:50:25] NIXON: get at that. That is a must, an absolute must now have
+[00:50:28] UNKNOWN: a report on what happens.
+[00:50:34] UNKNOWN: Worry.
+[00:50:40] UNKNOWN: Gray continues
+[00:50:41] HALDEMAN: to fall in his ass, doesn't he? Well, yeah, I know Dean's on top of it, but the son of a bitch said, you know, this is all fine, we're going to close the curtain down on Tuesday. Well, he didn't close it down at all. We lifted it up a little higher.
+[00:50:57] NIXON: Dean and God damned, he knows that a lawyer has a right to be, and Kleindienst has a right to have a lawyer there.
+[00:51:03] UNKNOWN: The FBI knows that. He doesn't know if it wasn't improper saying well, isn't that.
+[00:51:08] NIXON: I'm going to withdraw. Well, for your information, I'm going to withdraw his name. Good. But I'm going to set it up in a way we're going to trap him. Just, just forget how we're going to do it.
+[00:51:18] HALDEMAN: Well, I'm hoping for that. I, I really don't, I think that was a mistake. It was a mistake. We shouldn't
+[00:51:23] NIXON: put, you know, I think that's where I, I relied too much on Ehrlichman. Because I was for Wilson.
+[00:51:30] HALDEMAN: So was Ehrlichman who Ehrlichman? He suggested Wilson to be giving it.
+[00:51:36] NIXON: And who was it? You came in Ehrlichman.
+[00:51:38] UNKNOWN: Mitchell? You came in and told me that it was. And
+[00:51:41] NIXON: Kleindienst. Screw Kleindienst. Mitchell doesn't know anything about it anyway.
+[00:51:45] UNKNOWN: And somebody else. Well, Ehrlichman was right. No, John has had the original idea of Wilson to begin
+[00:51:52] NIXON: with. Why not have a cop in the damn thing?
+[00:51:56] UNKNOWN: Totally loyal and so forth. Well educated. What difference do you mean? I still do. You build him up yesterday. He moved him right in there now.
+[00:52:04] NIXON: That's right. Tell him I wanted to be totally non-political.
+[00:52:07] UNKNOWN: He's no friend. He's proved himself in
+[00:52:08] NIXON: law enforcement. He's cut crime in half the district of columbia and I want
+[00:52:11] UNKNOWN: that kind of a man in the FBI. By God yes. How's it sound of you?
+[00:52:19] NIXON: I think Gray has acted, he's pandering to these people out, pandering to them shamefully.
+[00:52:24] UNKNOWN: There's no question. I'm not going
+[00:52:26] HALDEMAN: to have that. He's trying to sell himself at the expense of everybody else, which is exactly what Kleindienst did.
+[00:52:32] UNKNOWN: Kleindienst did. In his
+[00:52:34] HALDEMAN: hearings. And we're right on the same track that both of them have relied on Eastland, who is, I'm afraid smarter than both of them. Oh, him
+[00:52:41] NIXON: smart. He could take both of them and wrap them up in a little ball of wax and chew them up and went by them.
+[00:52:46] UNKNOWN: Well, I think that's what he did.
+[00:52:48] HALDEMAN: I mean, I think he's sure he got him confirmed, but he did us a lot of harm in the process. And the Kleindienst won?
+[00:52:55] NIXON: He may. I, I, he was... Ehrlichman here, we never relied. Kleindienst would come in here. Oh, well, we're going to do it. Bustering around, he was never right. Never had that long meeting over the library that day. Kleindienst were. Well, also get another meeting over here. And Kleindienst was never right. Oh, we got the votes. We're going to cut this off. We're going to do
+[00:53:12] UNKNOWN: that. By the time we got through, we were. They told us the same thing on carswell Okay. Well, anyway, I'm glad you got
+[00:53:20] NIXON: it. I thought I did John an injustice on that thing.
+[00:53:23] UNKNOWN: Oh, I, I told John. I possibly brought in on in his name.
+[00:53:27] NIXON: And then John came in and said, Well, I did bring out these name. He hasn't had the intellectual qualifications. That sound like you were something like China, but maybe I'm wrong.
+[00:53:36] HALDEMAN: I was, it was not my view or John's, I don't think it's on intellectual qualifications. It was
+[00:53:40] UNKNOWN: Kleindienst and Mitchell's who were very concerned. He didn't have this perspective of history in legal. No bullshit. Bullshit. Yeah. Philosophical base or something. A lot of that.
+[00:53:54] NIXON: I was trying to think, Bob, of, schedule yesterday as to how we, what we might have let out.
+[00:54:09] UNKNOWN: Captain Singleton had to mind. Well, no, we raised it......that Wolsen... We, we loved Captain Singleton in the right. I wanted to, that was an opportunity when did I think? No, no, no. I needed some, and then the record jury some lift, didn't I? She's always had some lift in the jury day. The Sudanese Cabinet Minister, you had to do. I'm, no, probably didn't.
+[00:54:30] HALDEMAN: Well, because. I didn't have to do the chief, though.
+[00:54:32] UNKNOWN: Police chief?
+[00:54:34] NIXON: Yeah. I didn't think that was necessary. I don't think that was necessary. I don't think I had to do the mayors. It was really a loser, frankly, from the standpoint of going in there and gassing around those people.
+[00:54:46] HALDEMAN: I mean the court, he sure didn't have that. I didn't have that, it was just something. Something I had in my mind.
+[00:54:51] NIXON: Turned out to be a dead loser. He's perfectly came in and talked about the export of logs to Japan and some of the FTC that I didn't. At all about he's a nice fellow that knows asked the first base about a minute. It was a total waste of time. And what that is is a sale of... Or you had for 250,000 bucks. Of course I can't get it. I can't do it anymore. I think that's one thing I agree with Moore issue in that, but how many more of those got that done too? Yeah. Three or four. All
+[00:55:17] UNKNOWN: right.
+[00:55:19] NIXON: butz weinberger that has to be done sometimes.
+[00:55:23] UNKNOWN: Well, maybe, maybe there's no way to have a stitch. Oh, yeah, there is. But one way you can't. You said, don't pile it up quite as much against. Well, see,
+[00:55:32] HALDEMAN: that's the thing. Yesterday, and then you have to have, one other thing.
+[00:55:36] UNKNOWN: I think if you should know occasionally a heath,
+[00:55:39] NIXON: bigger or anybody else here, you see the case feel time to get this done. Yet four photo opportunities. Voter opportunity takes five minutes in any event. shultz has to be one the winners of the vfw will be one the party German ambassador be one, agreed or a federal women is report that is why i look at ollie i said we will have the federal women is
+[00:56:00] UNKNOWN: of course.
+[00:56:01] NIXON: I mean, there's none of them worth a shit of the photo opportunity in any event. None. Not worth a damn, and none will be used.
+[00:56:07] UNKNOWN: Ollie takes the rest. That's right. One a day. You agree? Absolutely. One
+[00:56:11] NIXON: a day. Because otherwise I get these people in chewing their gum and so forth and God damn it.
+[00:56:16] HALDEMAN: You don't know, you've got to pick the one that's a variety of seems different because you want this, this, the range of picture things to,
+[00:56:26] UNKNOWN: it's right. Obviously, go to what I mean. And, like the mayor's I can't go to our thing. They never use that picture. He said, I'm not talking much God damn here's anyway. Settle them use it. Yeah. Let all of you, but let ollie put it out.
+[00:56:37] HALDEMAN: They would have used it if that were the only one if that's what we wanted. What you gotta do is figure which one we want.
+[00:56:42] UNKNOWN: Yeah. And then go.
+[00:56:50] UNKNOWN: My fault, I guess.
+[00:56:53] HALDEMAN: Well, yesterday is sort of a classic day of where you had not been... You had a fairly heavy schedule and then added a couple things. Sure. Events added the Sudanese guy and added the State Department lunch.
+[00:57:10] UNKNOWN: The kind of thing that I think we can orchestra. no more pamplins no more.
+[00:57:26] UNKNOWN: Well, that's the key.
+[00:57:27] NIXON: And there's Pappas come in today because he dragged him with Erin or
+[00:57:31] UNKNOWN: doing that as somebody says he's financing people. Yeah, I told you that. Why didn't you see? I didn't tell you that to get Pappas in. I told you that to...
+[00:57:40] HALDEMAN: You might as well get your chips out of that, though. Tell him that, you've gotten the report. You know that he wants tasca kept in Greece and you're trying to work that out, or you're going to work that out, or you have worked out. That's right. And how high do you think of tasca The pitch he's going to make to you is, I'll, I'll warn you, that tasca is the world is greatest monetary expert and that you should call tasca in for consultation because he can explain to you what's going on in the military.
+[00:58:07] UNKNOWN: All right. Well, now
+[00:58:08] NIXON: I, I'll say we can't bring him back from the situation.
+[00:58:11] UNKNOWN: He's the poor fellow's making one suggestion. I have a state of the Greek Prime Minister. Oh, Jesus. You know, just now he'll tell him. How do you have the God damnedest riot here? It'd be
+[00:58:24] HALDEMAN: unbelievable. Tom is, even so, given all the problems and he's a wonderful friend. But he is a hell of a friend and he does it in one. Why do you think? And, and you're right in doing it. Yeah. But it's
+[00:58:38] NIXON: what is Dean now, what have we decided about my trip to the country and so forth? We got
+[00:58:43] UNKNOWN: the recommendation
+[00:58:44] HALDEMAN: now. No. We don't because, we got to help.
+[00:58:48] NIXON: Congress. Any more on that problem?
+[00:58:51] HALDEMAN: Breakfast, lunch, dinner and so forth. No. I want to sort all that out still and, and we're still working, I mean,
+[00:58:57] UNKNOWN: let's
+[00:58:57] HALDEMAN: get after a lot of different ideas and let's get
+[00:59:00] UNKNOWN: after it after the... Maybe about 3:30 this afternoon. How's that? Can you be ready for that? I think so. Better still to say 4 o'clock. Say 4 o'clock and spend on that.
+[00:59:13] NIXON: I think that I've got to, I think I want to, I think I know the views of Timmons and Ehrlichman and Harlow and all that now. I think I know what they want. Now you, you've got to be sort of and then let's sit down and talk about it. We've got to find different ways for still writing those different ways to get across. And also, you may have to figure Bob.
+[00:59:39] UNKNOWN: You may have to figure it
+[00:59:40] NIXON: out. You see, what is the purpose of going to the country on this sort of issue?
+[00:59:46] UNKNOWN: You say, Well, it'll change polls on.
+[00:59:52] NIXON: will it get mailed into the Congress? The answer is no. The way you get mailed to Congress is uninvited.
+[01:00:04] NIXON: Or, or they've got to be moved by it. to affect the people out there. I mean, I mean,
+[01:00:12] HALDEMAN: the mail to Congress has think about that. It maybe is too shameless for you to do it, but if you do a televised press conference, you'll get some question on it, and I think you ought to say, We're getting, you know, the reaction. And I call on people too. On both sides. Yeah. And just say, This is a matter that the people should decide. The Congress, as far as I can determine, has been misguided in, in their view of what the people's opinion is. And I urge the people in this country to write their Congressmen and their senators, not the President because the action's on the hill. I urge them to write and express their views. Do they want taxes raised in order to keep these programs going or do they want the Congress be responsible in holding the line on spending it?
+[01:01:00] NIXON: One thing we're doing is that we've got our biggest gun just work to death, running around the country and going up to see Congress is ehrlichman is not able to spend enough time making phrases
+[01:01:13] UNKNOWN: thinking of things on it. He knows that and we're... He is too valuable. I then hope you're talking to him
+[01:01:19] HALDEMAN: on it. But he's doing, you know, John, down here he's meeting the South Vietnamese ambassador today. And that's as almost as, as important as Henry Kissinger meeting, why jack javits Jabvin... I haven't any idea.
+[01:01:33] UNKNOWN: That's exactly what I told him. I, I couldn't
+[01:01:36] HALDEMAN: believe it when he, he asked at the staff meeting with the South vietnamese ambassador I said, What difference
+[01:01:40] UNKNOWN: does that make
+[01:01:41] HALDEMAN: to you? He said, Well, he's seeing me today. I said, John, you can say no to appointment requests, you know. You don't have to see an ambassador just because he asks to see him. This son of a bitch is, you know, that guy is a super operator and he's trying to cover everything, he's trying to see all of us, but that
+[01:01:57] UNKNOWN: doesn't mean we have to see him. Jesus
+[01:02:01] HALDEMAN: Christ. You know, John connally did that john connally has sit over there for an hour seeing ambassadors.
+[01:02:07] UNKNOWN: Well, you know what?
+[01:02:08] NIXON: John Ehrlichman should never see ambassadors Of course,
+[01:02:11] UNKNOWN: I believe never. And he shouldn't see all the Congressman
+[01:02:14] HALDEMAN: either. And all you have to do is he can be very nice. Well, I would simply say, Mr. ambassador my responsibilities are in other areas. If you want to see somebody else, not me. The problem is, and that's... Well, he didn't care his time. No. But the other thing is you get into the thing where you go out in this Washington Social thing and you get to the, to a dinner and the South Vietnamese ambassador gets you in a corner and says, I want to come in and talk to you about reconstruction or economic conditions, you know.
+[01:02:43] UNKNOWN: That's
+[01:02:43] HALDEMAN: right. Oh, fine. Call my office.
+[01:02:46] UNKNOWN: So then the guy calls the office. Well, also, it gives John some relief too from the deadly, deadly business of the domestic issues. You can't call him the secret reproduce. Typical
+[01:02:55] NIXON: the four narratives are. They are difficult. At least there is a big game. Yeah. But all this other is so petty. Yeah. Horribly petty now. Yeah. Grinding a ray. Greedy, not great. Totally. I guess that's the problem. That's why Bryce wants me to sit down with all the leaders to do it because he wants me to be as petty as they are. That's really what it gets down to. He thinks that will satisfy their egos.
+[01:03:22] UNKNOWN: I won't do it.
+[01:03:25] NIXON: That just timmons is correct. Timmons sees that. Well, we know we've done to have it as a testimony. Bob or you're still gonna hell a loser every time. They cry and they so
+[01:03:36] UNKNOWN: forth and go away and say it's a fine meeting. What good is it to us? Anything. They don't even go in and say it's
+[01:03:42] HALDEMAN: a fine meeting in most of those. They go away and say, Well, everybody else got their bitches in,
+[01:03:46] UNKNOWN: but I didn't get mine We didn't, or it wasn't one. He didn't spend enough time. Or the President
+[01:03:52] HALDEMAN: talked too much and didn't listen to us or Yeah. Or, Or somebody else talked to us. That son
+[01:03:56] NIXON: of a bitch, you know, is all going to talk to him why did he have to talk as long as all of your one guy should dominate it. They all get mad at him. That's right. I know I'm talking it. He gets drunk
+[01:04:05] UNKNOWN: and talks on that. That's right. When you were doing it, no, I think we're doing the right thing on this. I,
+[01:04:15] NIXON: I think when I meet with leaders and so forth and so on, listen, they have a hell of a lot to tell me. I mean, I want to ensure scott and ford you've got to listen to them and get their views. But Timmons and others, they can get their views and put them on to me. There's really nothing that ancher nelsen or any of those guys can really tell me, you know what I mean. That, that, that, but I've got to get their views. I must know, but it's like the news summary. What's the best way to get the views of roscoe drummond To read. Not to have him come in and spend an hour out of my contact. Well, agree. And that's what we need to do. Now, a little personal contact, Mr. But the way the personal contact should be, is that Bob, I should go to your meeting, listen to a thing, and then give them Pep talk. I think really that's about all I can do is to give the assholes a pep talk.
+[01:05:00] UNKNOWN: You agree?
+[01:05:01] HALDEMAN: Yeah, I, well, yes. I think you do have to do a little listening to them.
+[01:05:06] UNKNOWN: But no, no, no, no, no, I said, No, no, no. But not... I just mean, I just got.
+[01:05:10] HALDEMAN: They've not been going in and listening to a bitch, but rather going in and listening to them constructively. I mean, that's, they've got to take some responsibility. The rest of them will listen. They don't do that. He's got to listen to something that does some good. Yeah.
+[01:05:24] UNKNOWN: Yeah. But I must say Ford was good.
+[01:05:31] HALDEMAN: Scott. But John raises the point raised to in this Congressional meeting and the other guys agree that we've got, there's some potential things in the Congress, same thing you've been talking about about leaders. They aren't really the solid guys, but they're guys that we can get a hell of a lot more out of, like al quie yeah and and cederberg People who are basically are with us most of the time. Right. Go away some of the time. They could be with us more of the time if they thought they were ready for us.
+[01:05:59] UNKNOWN: Bring them for a boss. And those are the things. Like they have to follow it on. That's, that's going to
+[01:06:03] NIXON: be these chairman's appropriations. Yeah. It won't mean a God damn thing. I'll do it.
+[01:06:12] UNKNOWN: We've had four social events already.
+[01:06:17] NIXON: That's wrong. That's wrong. It doesn't mean a thing whose wife comes back. It does not really, if you're going to have it, you know, too far, too far. It's... After you... One thing I did is that I
+[01:06:28] UNKNOWN: think you should be used to do know. And,
+[01:06:31] NIXON: this is John and Sure will be concerned about it. I got to read the domestic council to Cabinet. I'll tell you why.
+[01:06:38] UNKNOWN: There's only two people in the, in the, in the cabinet that aren't on the domestic council
+[01:06:44] NIXON: And what the hell? people like to feel it's a cabinet meeting. domestic council down there. NSC is different. NSC they know is more important than the Cabinet.
+[01:06:54] HALDEMAN: Well, you don't bring outsiders into that. Right. But you see, well, this isn't it. But with domestic council
+[01:06:58] NIXON: we'll have a full cabinet. And so it's a cabinet meeting and we'll discuss domestic counseling and I'll bring in people with other things about aid and so forth. I've decided there'll be no more.
+[01:07:07] HALDEMAN: Isn't that the one you bring vernon jordan Yeah. Let the asshole let, let's
+[01:07:11] NIXON: get gender a little bit. See, Richardson needs to get some jobs too over at defense which I, my point is, I mean, I think the Cabinet likes to meet us in Cabinet. They don't like to be, you see, let me be quite candid. They think the domestic council is something on the John. And they don't think and, and too often they've had meetings. And so I say that there, there may be occasions and I'll have, you know, I just have a domestic council meeting. Whenever I'm there, it'll be a cabinet meeting.
+[01:07:39] UNKNOWN: Now the nsc is something different.
+[01:07:41] NIXON: Everybody knows that it is an elitist group.
+[01:07:44] UNKNOWN: Everybody would love to get in. And it's a secret thing. Therefore you have no problem.
+[01:07:49] NIXON: How does that sound to you? So let's just make all the domestic council cabinet meetings. On it. Now the counselors thing is working well. We have two of those, and they sit around and bowl a little, you know, and this and that, and, which is good. It's good for me to hear. They're not structured well enough, but that'll come later. I think, but John likes the unstructured meetings, you know, where people get a chance to find maybe he's right. Maybe they need that.
+[01:08:13] HALDEMAN: You've got to look at the purpose. If, if the purpose is, is, and there is some doubt. Well, there is a value. Feeling how they... See, the meeting isn't for the purpose of deciding me. It's, it's really for the purpose of giving you a little feel of it thereafter and giving them more importantly a feel of what you're... Sure. Your response. Your, your...
+[01:08:32] NIXON: Yeah. See, we're doing pretty well now. We're doing well with the domestic council Cabinet and the Ring.
+[01:08:41] UNKNOWN: Take care of us.
+[01:08:43] NIXON: What do we want to decide the other day on the Cabinet domestic council and so forth? We
+[01:08:48] UNKNOWN: see the Cabinet once a month.
+[01:08:50] NIXON: the Cabinet. The domestic council we decided every two weeks too.
+[01:08:55] HALDEMAN: We set the domestic council for it, no, once a month, a cabinet meeting. You wanted to see every Cabinet Officer once every two weeks. So the way it would go is one, you take the four weeks of the month. Yeah. One of them is a cabinet meeting. Yeah. One of them is a domestic council meeting. One of them is an NSC meeting. Yeah. And the fourth week is, is
+[01:09:17] NIXON: open. Well, the point is that now you've got two. This way, this way you'll see, you'll see them by,
+[01:09:27] UNKNOWN: two cabinet meetings about domestic. Rather, and which means that the, which is great. And
+[01:09:33] HALDEMAN: nobody can complain about that. In an NSC meeting this week, unfortunately it's the same week.
+[01:09:38] NIXON: Now on the leaders' meetings. That's perfectly correct. On the leaders' meetings. What's your view on that? I think you, you think we should come just having big meetings and not just Ford, Scott
+[01:09:50] HALDEMAN: thing. I think you ought to try the Ford Scott thing and see whether it is... Scott's two, the 2 whips
+[01:09:58] UNKNOWN: Right.
+[01:10:01] NIXON: I just think, I just think this, you can never take the leaders' meeting with all those 8 surrogates that are meaning the, the wildcard sitting around. It covers an awful lot of grounds.
+[01:10:11] UNKNOWN: Well, that's
+[01:10:11] HALDEMAN: bryce is argument He just covered that much more ground. That's right. And that all the leaders are, are important and that in some ways, like they make the point. Johnny Rhodes is, is in some ways more useful to you and more powerful.
+[01:10:23] UNKNOWN: That's right. than les or jerry well certainly than les
+[01:10:31] HALDEMAN: And that he, he's got his own bloc and each of those guys as john anderson has his own bloc of people that he can get things done with. That's why I don't think, that's why I personally
+[01:10:42] NIXON: think I'm going to change my mind on that. I think that Scott Ford really love it, but it isn't up. And it really isn't that bugging from my benefit. Yeah, the only question was what, what
+[01:10:54] UNKNOWN: you better you get out of it. Not, you want to... Why aren't we better off? Why aren't we better off
+[01:10:59] NIXON: in other words to have the leaders' meeting then? They're going to have a couple of times a month. Have the Master Petersen meeting then and then ford scott thing just go on and on give the calm basis. I just think you're controlled lawyers. I really do that. Well, the way we're saying I didn't think the ford scott thing was useful, candidly. I think it was useful. I mean, I think they could have told him all about that veto strategy and let it go. It was useful for the message you guys got about the Senate.
+[01:11:29] UNKNOWN: Oh, well. Mike would build that to the whole group. That would have been far more useful if the rest of it did. Yeah. I understand calls the Senate can't do anything here. No one can be in the House. Just the way to hell. Make them think they
+[01:11:45] NIXON: don't matter. And then they may, they may try to matter that, see.
+[01:11:49] HALDEMAN: Well, the classic one, apparently, for the way Ehrlichman played it back in timmons was later in the meeting when Scott said,
+[01:11:56] UNKNOWN: Well, Mr. President, when the whole group goes one way,
+[01:11:59] HALDEMAN: should I vote out and what's your guidance? Should I vote with the group or should I stand alone and stay with the administration position? He said, You just make any difference. You can
+[01:12:07] UNKNOWN: vote.
+[01:12:08] HALDEMAN: Nobody gives a shit how the Senate votes.
+[01:12:10] UNKNOWN: That's right. This is just marvelous. You see my point though? That's, this is different from the Timmons attitude and Harlow attitude that just worried how they're going to do it. Timmons was a thousand percent... Wasn't full, yeah. Hard off this. John reported
+[01:12:31] HALDEMAN: it to me. You know, so our eyes went things. The President said it doesn't matter how the Senate votes.
+[01:12:38] UNKNOWN: I said, Yep. Bryce's eyes were as big as saucers needed. Yeah.
+[01:12:45] NIXON: So we'll work on them where it does matter. But the others, why fight the battle and see if it's let them appear to be irresponsible.
+[01:12:52] UNKNOWN: Just as well to get the Senate out there looking like a bunch of God damn fools. That's why the mcclellan meeting is now useless. He won't be delivering rules. Can't do anything into it. Not to that.
+[01:13:04] HALDEMAN: Oh, well, he'll be helpful in the conference. It'll be helpful in conference and, and we need, we need to keep the saying what you do is great. We need to keep the impression of the, of the interest in the Senate going too. You can't just turn them off. Like they were talking on this idea of meeting with ranking members. They were saying, Well, just meet with the ranking members of the House. There's no point in meeting with the Senate on it. You know, they came back to me, you've got to do the Senate too.
+[01:13:33] NIXON: Now, I said, I particularly want John to have a good agenda for the next meeting of the leaders so that they can.
+[01:13:41] UNKNOWN: Yeah. Now there's
+[01:13:43] NIXON: another thing. Rather than even South Get a meeting back the way you ought to be doing today. You ought to be working with timmons and the rest of giving a God damn good agenda. And maybe doing the editing of the speech on crime, which I think is a very good speech. See, that's the kind of thing that John's going to time for. Understand, I think he's, I think he's as valuable a man as anybody could ever have in this office. And it's only because I don't want him to kill himself, and only I want him to waste his time with a bunch of farts Yeah. You know, and I know John's hanging up with kids.
+[01:14:12] UNKNOWN: That's fine with kids. That's what high schools. That's what's what? But the point isn't
+[01:14:17] HALDEMAN: it? Well, it, it's good, but let me say
+[01:14:19] UNKNOWN: the war is over. Now let the God damn kids come to us. You know what I mean? Really? I really mean that. We cannot be in a position where you have a rap session with a bunch of kids. I don't think we learned anything. I mean we do my. I, I don't mind
+[01:14:35] HALDEMAN: seeing him. It's interesting doing that stuff once in a while and it's,
+[01:14:38] UNKNOWN: it's, you
+[01:14:38] HALDEMAN: need variety. You can't, you can't just sit and do the same thing all day.
+[01:14:43] DEAN: And John is a public type guy. He loves,
+[01:14:45] UNKNOWN: John loves. He loves, he's a frustrated. He's a marvelous leader. He loves it. Yeah, but
+[01:14:51] HALDEMAN: he's never talked. But, but that's what he loves. I, you notice on a trip, he just loves to sort of give you the tour of, of explaining what the buildings are.
+[01:15:00] NIXON: He's, he's great. I just want to use that great big bullet like Kissinger in a way that's more effective.
+[01:15:06] UNKNOWN: Yeah. Did you have Timmons in for a minute and then could I have, I said, what's his name,
+[01:15:29] UNKNOWN: Well, we're going to get this game shaked up. Why not
+[01:15:32] NIXON: laird now you know what i am going to be thinking of i am thinking of laird the guy to do the congress to make you know to make the really big plays now laird out of defense, is one of the shrewdest, most vicious, ruthless sons of bitches there is. He probably hasn't got a goddamn thing to do. I don't think he has a little money on
+[01:15:55] UNKNOWN: much.
+[01:15:56] HALDEMAN: He's, he's going to move to that.
+[01:15:58] UNKNOWN: Well, would you check? No, he has no job. I know. That's on purpose.
+[01:16:05] HALDEMAN: Not President's trying to figure all out, or he was trying to figure all that.
+[01:16:08] UNKNOWN: Well, maybe I can get in here and, and stay here in order to prepare his way to run for the President.
+[01:16:13] NIXON: Now, what he should run for, let me tell you the Vice President. You could have connally and laird You've got one hell of a team. Not with connally take or connally and lugar you know what connally is
+[01:16:27] HALDEMAN: locked out for his Vice President.
+[01:16:29] UNKNOWN: Who? Rock Lauren.
+[01:16:31] HALDEMAN: At me of stupidity.
+[01:16:33] UNKNOWN: why brooke Oh shit.
+[01:16:38] HALDEMAN: That's the typical misguided politics of inclusion.
+[01:16:42] UNKNOWN: No,
+[01:16:42] HALDEMAN: no, no. You get a white Southerner. So what does he do? He goes as far as
+[01:16:48] NIXON: he's...
+[01:16:51] UNKNOWN: Yeah. Years ago. I mean, it's a big play. And it's a big play for about the reasons. And it's the wrong big play. No, it's a wrong
+[01:16:59] NIXON: signal. Brooke is not the man to be President of the United States. Now,
+[01:17:02] UNKNOWN: let's face it. Well, for
+[01:17:03] HALDEMAN: several reasons. One, the country is not ready and cannot take a black for President to the United States. And even if it could, Brooke is not the guy for it.
+[01:17:14] NIXON: Kalm lose the election if he took Brooke. Do you realize that?
+[01:17:18] UNKNOWN: I'm convinced of it. He, he lose lots of the south
+[01:17:21] NIXON: They'll hold for him for Senate, but not for President.
+[01:17:24] HALDEMAN: Well, in the first place, I think he would not be able to wheel the Republican convention. I don't. I don't think even if he got the nomination, he could go to the convention and say, I don't want Brooke to get it.
+[01:17:34] NIXON: Incidentally, on the plus side for whatever is worth the, at least, at least Maury's fat cats are in good shape. They're not bitching much. They're all, they all, of course, they're all budget cuts and they're
+[01:17:47] UNKNOWN: all for
+[01:17:48] HALDEMAN: war. They are good shit.
+[01:17:50] UNKNOWN: What can they do? They won the election and this and that.
+[01:17:53] HALDEMAN: I don't think you have many people in the country who are bitching about much of
+[01:17:56] UNKNOWN: anything. One group you got is Timmons cats up there. Bill, I had that one ass you wanted to run
+[01:18:04] NIXON: to me. you know, jerry has made this point about these 43 freshmen.
+[01:18:13] UNKNOWN: Are they actually going to try that sound? They had a press conference yesterday and today they're taking a special order after the regular business and they're going to defend the spending ceiling and the, fiscal responsibility. What do you think? I don't know that I would recommend you bring them down here. Let me, I'm gonna, I want to ask first what they're doing. Yeah. See. They have a special order and each of them taking the floor for five minutes and they're going to defend the President's budget overall ceiling. They're not going to get into priorities within the ceiling All 43 are going? Well, a lot of them. Anyway, anyway, anyway, it's leadership. their press conference I didn't see a thing in the summary of it. Yeah. It was... conlan is a little freshman congressman he is the president that is right it was conlan is Watch.
+[01:19:04] NIXON: The thing that they're going to be frustrated about.
+[01:19:07] UNKNOWN: They're going to
+[01:19:08] NIXON: find is that probably in the House of John for years. Nobody makes a God damn bit of attention to what they say if they're positive.
+[01:19:16] UNKNOWN: Which is sad. Right. Well,
+[01:19:23] NIXON: they should not come down for the purpose of a discussion because they have nothing really at all. but I have no objections for having, I mean, what I had in mind was to bring them down just for a very brief thing in the cabinet room where they all came down. The President just wants to thank him for what they've done. Now, what time do they
+[01:19:45] UNKNOWN: finish? Well, it's hard to, to figure because they, they still have special orders at the conclusion of the business today. That's, that's, this is Wednesday. Yes, sir. So it'll probably be quite late. Well, then you couldn't do it today. You'd like to do it tomorrow. Then
+[01:20:04] NIXON: can you shift mcclellan from 5 0 clock
+[01:20:06] UNKNOWN: Yes, of course. Thank you for.
+[01:20:14] NIXON: Let me explain. You can put McClellan at 4 o'clock on interviews in 5 o'clock. And these should always be 5 o'clock and then I says, I've got to get the hell out of 5:45.
+[01:20:23] UNKNOWN: They don't even write back to be out to it earlier.
+[01:20:26] NIXON: Now think if they were to come down and just say, Fellows were covering you down because the President thanks people when they support them.
+[01:20:33] UNKNOWN: This is one
+[01:20:34] NIXON: of those. Now this gives you a chance to get a few loops, not many of them. But it gets a whole, the whole, the whole of them down. And
+[01:20:41] UNKNOWN: I'll go in. I'm not
+[01:20:42] NIXON: going to listen to them. I'm just, unless we're, unless conlan wants to say a word. but I'm going to talk to him and then I would just talk to him and I'll take them on out and talk a little about thank
+[01:20:52] UNKNOWN: you
+[01:20:52] NIXON: very much. We've got some great battles with Biden. We'll appreciate your holdings of fire on the way to be in the house and so forth and so on.
+[01:20:59] UNKNOWN: Thank you very much. Goodbye. See what I mean? Yes. Why not? Good.
+[01:21:03] NIXON: Why not? It'll, it'll, the thing too is it'll get Scott and the rest of them make that they start behaving attention.
+[01:21:10] UNKNOWN: That's recognition for what they've done. That's all they should be recognition.
+[01:21:14] NIXON: Whenever anybody does anything, we must recognize them. Well,
+[01:21:17] HALDEMAN: and plus we've made some pretty good inroads into buying that freshman class. That's it. It's another step in locking that up. And that's a hell of a unit if we can, if we can hang on to it.
+[01:21:25] NIXON: Well, if you can get 30 of them, for example, with solid, that's a pretty good start
+[01:21:29] UNKNOWN: for here. huh. 140 vults. You got a fair chance to... 35. 35. 35 minutes. 30 of them. Well, I'm going to get them in. Now I'd say 5 o'clock, call mcclellan and see if he can make it at
+[01:21:39] NIXON: 4. Tell him that something has come up. If he can't make it for, tell him, ask, ask mcclellan and tell him the President would like to have it for breakfast, John.
+[01:21:52] UNKNOWN: Maybe that's the best idea. He'd love that. That's if you can't make the four. Yeah. Okay. John, the President could make at 4 o'clock for breakfast at 8:30. If he'd like. Now milt young was on there too with mcclellan
+[01:22:06] NIXON: Yes. Yeah. Fine. No, I'd like the two of them for breakfast. Why
+[01:22:10] UNKNOWN: don't you offer them for breakfast? Forget the four o'clock.
+[01:22:13] NIXON: Sure. Say the President just, he, he, he, he had a breakfast date. He got, he got, he found you on the schedule at five, he
+[01:22:20] UNKNOWN: knocked it off. Would like for you to come if you can.
+[01:22:24] NIXON: The hell we do it for mansfield let's do it for these two.
+[01:22:28] HALDEMAN: In a way, with something like that, the breakfast is easier. It works better. 8:30. When you just turn it in a couple of them.
+[01:22:34] NIXON: Yeah, just see 8:30 breakfast. And then, tell them that we can tell them it'll be through by 9:30 so that they can go on down to their hearings.
+[01:22:42] UNKNOWN: Okay. And 5 o'clock with
+[01:22:43] NIXON: Freshman. 5 o'clock for the freshman. Now tell the freshman fellows. The President's just going to have you up to be a half-hour
+[01:22:49] UNKNOWN: meeting. He wants to just thank you for what you've done, etc.
+[01:22:53] NIXON: And I can tell him how we're going to work for their re-election. You know, just give them a little fire.
+[01:22:58] UNKNOWN: You see, I've been talking to Bob a little about your meeting with Bryce
+[01:23:01] NIXON: and so forth. I totally agree with your view that sit down with those chairmen and let them say, Now look,
+[01:23:06] UNKNOWN: fellas, what's wrong with us?
+[01:23:08] NIXON: That gets down to their level. The only time, if I feel that about the only time we can listen to the leaders' pitch, which is bad enough.
+[01:23:16] UNKNOWN: But the only time that I should,
+[01:23:18] NIXON: the way we can really handle our people is really to think when they do things and now and then, just give them a little lift. They have enough feeling Christmas days. The minute you get them participated, ancher nelsen will come in with something. You
+[01:23:33] UNKNOWN: can't satisfy folks, huh? You can't satisfy him. You can't say, but also they don't, they don't really offer anything that they shouldn't do through you. You see how
+[01:23:40] NIXON: I, I shouldn't get into that kind of crap
+[01:23:42] UNKNOWN: around. You agree? Or do you? I do. I do that. But you find things for the... Well, it's just like Ehrlichman has been doing as you know, this talking up on the hill.
+[01:23:51] HALDEMAN: So, what does that do? That's fine as far as the first round, but what it does is generate about 300 phone calls a day to Ehrlichman from Congressman, which he can't handle. So he shifts those down to Bill and Bill's office checks back the phone calls. And what are they about? They want their cousin appointed to the pension board or, some constituent went out of jail or some goddamn thing. And then all of a
+[01:24:13] NIXON: sudden Ehrlichman were... Well, over you, and that way, but I mean you think Ehrlichman should not have done this?
+[01:24:18] HALDEMAN: No, I think Ehrlichman should do it, but he should, should show you the calls back, the mistake Ehrlichman should make the contact, cover the ground, and then get the hell out of it. He should not get into handling the constituent key problems.
+[01:24:31] UNKNOWN: That's what you say too long. No.
+[01:24:33] NIXON: Well, but I mean, the minute you get into this, though, I know these guys Ehrlichman
+[01:24:37] UNKNOWN: will take them on a high level and talk about the budget
+[01:24:39] NIXON: and the rest. And they'll say, Well, that's all very good. But what about my cousin who wants to be the postmaster and
+[01:24:44] HALDEMAN: so forth? This incredible thing with carl curtis you know, that Jesus Christ. I didn't want to supply it.
+[01:24:49] UNKNOWN: Ehrlichman is sorry about what he's ridiculous to me. He's a good man, though. Curtis says, I just, it's just a little disappointing
+[01:24:55] NIXON: that he takes shots at us. He wins by 53%. We win
+[01:24:58] UNKNOWN: by 75%. What the Christ is happening? I think that ought to be. Probably both sure. Sure. And this guy wants appointments a real turkey, of course.
+[01:25:08] HALDEMAN: Who doesn't want the appointment anyway, wants to stay where he is. Yeah.
+[01:25:12] UNKNOWN: and curtis doesn't want to get rid of it. Yeah.
+[01:25:14] HALDEMAN: Certainly Kissinger and sonnenfeldt
+[01:25:17] UNKNOWN: Well, Kissinger should keep sonnenfeldt
+[01:25:20] HALDEMAN: He's not going to, then he's going to go to the Treasury.
+[01:25:23] UNKNOWN: You talked to him today. Yeah, that was a few days ago when I talked to Kissinger about it since. Oh, well. I talked to him yesterday or the day before. Well, I think it was yesterday. He's back and forth and I keep to find out Secretary. Find out his name about this Secretary. Yeah. Uh... She's leaving.
+[01:25:51] HALDEMAN: She's, she's pretty good on confidence, but she's leaving because of border.
+[01:25:56] UNKNOWN: She doesn't like
+[01:25:57] HALDEMAN: the job. And, all sort of keep the border for me.
+[01:26:03] NIXON: Fine. No. But now you're, you've got to, here, now you understand the tactics now. Work them out. Yes, sir. The Senate. we're going to need him on trade, we're going to need him on energy, and we're going to need him on, uh... foreign aid And we're going to work it, and we love the Senate and sub-socially regarding it. But don't, don't break our ass on that thing. I think he just acts if we don't much, that we care about the Senate, we realize it is hopeless
+[01:26:31] UNKNOWN: Thank you very much if you want to support us. Fine both. Very good from scott is because you really laid it down to it. And I think in the long run that's going to be helpful.
+[01:26:40] NIXON: Because Scott now realizes doesn't matter on these things.
+[01:26:44] HALDEMAN: No, really. If a fellow thinks, you see, if they come in here and say,
+[01:26:48] UNKNOWN: Jesus, I've got a hell of a problem, you've got to help me.
+[01:26:50] NIXON: You spend all your time worrying with Curtis and fannin and all the other guys, which you shouldn't have to do. Let them go.
+[01:26:58] UNKNOWN: Let them be
+[01:26:59] NIXON: irresponsible. And you know, some of them will not be as irresponsible if they begin to think that we've written this kind of problem.
+[01:27:05] UNKNOWN: Jerry, Ford has the same kind of problems. his guys go every other year, and there are three times as many of them, but he doesn't know bitch in the morning. He's
+[01:27:14] NIXON: passed through that. That's why we're doing when I see these freshmen, I don't want Ford there. No leaders. I just, we have these meetings from now on. No leaders are going to come ever.
+[01:27:24] UNKNOWN: We don't want to do it out. But it doesn't bring his troops in. Right. We ought to think about something we can do for waggonner and his groups
+[01:27:31] ZIEGLER: because that's where we're going to have to go in and pull it out. But if
+[01:27:34] UNKNOWN: waggonner done anything yet or something. Not yet, but he's organized that group and they have regular meetings about 50 of them and they're really concerned about the DSG takeover of the car. Yeah, well they, they wouldn't, they wouldn't support us on budget though, would they? Well, some things I think they were on budget. Well, I'll have them down, but what excuse can I have? Well, let's let them vote once and then let
+[01:27:53] HALDEMAN: him bring in a few of his, phone whips. Well, let me say why can't Bill say to waggonner that President
+[01:27:59] UNKNOWN: wants to get your group down. We need it. The thing I want you to do is tell waggonner now look
+[01:28:03] NIXON: here. We don't want to go by, we don't want to cause you any embarrassment. The President, though, does follow the practices you know Joe calling and so forth. Your group, there's some tough ones coming up here. Whenever you stand up, whenever, whenever they stand up, the President is not going to be holding against people that didn't, but he wants to wants to pay his respects for what's at that. We want you to bring him down.
+[01:28:24] UNKNOWN: And we're planning that our politics is only because only because they've done something. But, Joe, you say, Joe, the President has asked me
+[01:28:34] NIXON: to let him know that you're to let him know anytime you think a meeting of this sort of be useful. And he'd like to have you down, ask Democrats. You also should tell him that the President, you had made an analysis as you did for me. And I had not realized how far it had gone in. And I had tommy the cork in here yesterday. He, he believes that's one of the most, dangerous things that's happened in the Congress in the whole hundred and ninety years. And I think so too. Thank God the Senate can go that direction whole committee hearings. What the hell did they mark up a bill in public? You'll have irresponsibility that runs out of your ears.
+[01:29:13] UNKNOWN: Television cameras in here. Yes. I think today's
+[01:29:17] NIXON: a hearing. The markup of a bill. Mark he said it was in the market. No. Well, the markup of a bill has to be in executive session. They don't even let every members in. Let alone the press. And you just can't write a bill that way because it involves a lot about this or that and the language. We've got to talk very candidly about it. Well, we can't get this through. We could get this now. Can you imagine talking compromise in public session? Would they like a conference report, for example? A conference committee in public session.
+[01:29:49] UNKNOWN: See my point? That's where... That's what they're for, sir.
+[01:29:52] NIXON: no. The open democracy then is a God damn dangerous way to run the country. And the
+[01:29:57] UNKNOWN: open rule, I know. Oh, it's gonna be... I
+[01:29:59] NIXON: know that. You know, I know the open rule ruins for the tax bills and everything
+[01:30:03] UNKNOWN: else.
+[01:30:03] NIXON: Yeah. It's going to put a lot of those guys to sort of, I don't know whether we've got to get a tax bill or trade though.
+[01:30:10] UNKNOWN: You're very tough. Well, we'll be doing the
+[01:30:12] NIXON: God damn thing, but it's nothing hard to be doing that has that parochial school aid in it
+[01:30:17] UNKNOWN: Property taxes
+[01:30:18] NIXON: doesn't bother me for the opportunity to get that one. Oh, broke the schools in it. That's what they'll do. But you understand. Sure. Oh, you know how the President does it. And tell him the way I open it. The President doesn't want to get in your internal fights. He read this and he was horrified by it as a former member of the House. And he just shocked and feels that it's very important that the responsibles, you want to work with me not trying to divide your party, but he wants to stand with the responsibles Democratic Republican and against the irresponsibles Democratic Republican. Now Joe Brady now. You see, that's the approach to make man.
+[01:31:06] NIXON: Looking at the things that I think so
+[01:31:14] NIXON: the things that are really worthwhile. The meeting with ford was worthwhile and the State Department and none of the rest of them. mayors tommy the cork robert pamplin police chief sudanese cabinet minister was necessary.
+[01:31:34] UNKNOWN: you read it? Yeah.
+[01:31:42] UNKNOWN: And, Hammer does break over a lot now on these things, you know, this and that.
+[01:31:48] NIXON: The reason that you say goodbye to ambassador pauls is that we broke over on Ambassador Yacity.
+[01:31:56] UNKNOWN: Yeah, see what I shouldn't be saying goodbye to Ambassador's Bob.
+[01:32:01] HALDEMAN: Well, then you guess others. There's a Deputy Prime Minister from some place that's here that they think would be a very good
+[01:32:06] UNKNOWN: idea. Well, you turned that down. Yeah.
+[01:32:10] HALDEMAN: And, and it just, there's, there'll always be an exception. Every
+[01:32:15] UNKNOWN: guy who
+[01:32:15] HALDEMAN: comes to town, there's a reason for an exception, and there is.
+[01:32:18] UNKNOWN: I mean, each guy is different. He's
+[01:32:19] HALDEMAN: got some in Hoover's case that makes, makes him a reason to accept. And if you follow them all up and see, everybody who wanders through.
+[01:32:37] UNKNOWN: Well, you need for two, but you have some ideas about what anything we do with California. I guess we decided not to go.
+[01:32:51] NIXON: But if you're talking about this thing, this roadshow extravaganza, I think you've got to do something out there. That doesn't feel some way I don't think that's the right thing. The idea of getting all the editors in. And so they write editorials. What the hell different is it?
+[01:33:09] UNKNOWN: It doesn't make that much difference, Bob. It doesn't make a difference.
+[01:33:12] NIXON: Even Congressmen don't read editorials anymore.
+[01:33:16] UNKNOWN: good not much
+[01:33:21] HALDEMAN: And they don't read any ass out of the district, so you gotta, you've been trying to cut copies, you gotta get one hell of a lot attitude.
+[01:33:32] NIXON: What in the name of God is the management
+[01:33:35] UNKNOWN: improvement awards to I approve that? I mean, apparently did. That was you were
+[01:33:41] NIXON: talking to him about it putting in the name of Christ isn't though. I can't remember.
+[01:33:45] UNKNOWN: I don't remember either. That's the one I don't know. That's more expensive. No. Yeah, I guess it is. From Congress.
+[01:33:55] HALDEMAN: No, no, it's the OMB
+[01:33:57] UNKNOWN: and Ehrlichman. Well, I'm sure. Oh, that's
+[01:34:03] HALDEMAN: right. That's one we shot in that I think I suggested you not do it. That you did.
+[01:34:08] NIXON: What is this management approving for trying to get some of this stuff cut off?
+[01:34:13] UNKNOWN: Those are going to be awards, sir, that, were recommended by hampton and Ehrlichman discussed.
+[01:34:19] HALDEMAN: improving the efficiency of civil service and government.
+[01:34:24] NIXON: Well, now that is utterly ridiculous.
+[01:34:28] UNKNOWN: That is utterly ridiculous. Have we agreed? Yes, sir. Are you sure now? Have we agreed? Have the men can inform him? Yes, sir.
+[01:34:36] NIXON: Now, you've got to run these by Bob in the future.
+[01:34:40] HALDEMAN: I mean, I think that's when I sit in... Yeah. Not zooing, isn't it?
+[01:34:43] UNKNOWN: You see. So I thought it was utterly
+[01:34:46] NIXON: ridiculous. The women's thing, I know we're doing it not for the women. That's the difference. That's right. This thing is a low level of lie. I can't leave people up to man approve the war is gone. What in the name of Christ is that?
+[01:35:06] NIXON: Let me ask you this. Can't you see that
+[01:35:08] UNKNOWN: these do not come loft into me without some discussion before this? Sure. They do have a discussion. You discuss this with John? Sure. And that's noted and, and my
+[01:35:17] HALDEMAN: suggestion I do, but this has been a cycle of things you've been doing some of, so, so it came in. Are you okay? I'll tell you
+[01:35:24] UNKNOWN: no press coverage. Is that clear?
+[01:35:27] NIXON: Absolutely never. Just an ollie picture I don't want to let the poster child that way, the retarded poster child would be the President. But the hell with the management approval. Just an ollie picture And I'll do it. I'll do it in three minutes about three, three to five that
+[01:35:41] UNKNOWN: could come in and I'll hand him the God damn award and get their ass out of here. Clear. All right, that's enough. At four o'clock. Can I settle one thing while Bob is here? He never settles a God damn thing. He didn't run it. No, no, no. No, it's, it's a scheduled thing with Bob.
+[01:36:01] UNKNOWN: No, he means well before here. Means well, go to the grocery book. the day for the President's later the Soviets want us to give them a day. No. No. Anytime in the second half of two.
+[01:36:19] KISSINGER: And well... You'd rather have a place with him. I've had it as a late passage because it's a tax break schedule.
+[01:36:25] UNKNOWN: It's going to be a
+[01:36:26] KISSINGER: huge success. We've already got four.
+[01:36:28] UNKNOWN: I would suggest this. That, how long does it run? Well, 7 to 8. Me? Yeah. I got, I don't see. He didn't travel with
+[01:36:40] KISSINGER: me a while. Yeah, but he wants to travel with you next year all over Russia.
+[01:36:44] NIXON: Yeah. Well, that may be out. I might even do the San Clemente.
+[01:36:48] KISSINGER: Well, he's counting on San Francisco.
+[01:36:51] UNKNOWN: Which I wouldn't mind
+[01:36:52] HALDEMAN: you back. Well, that works out fine because that brings you right up to the 4th of July period when you were going to be out in San Clemente anyway.
+[01:36:57] NIXON: Well, could we put it the last week of June rather than? Yeah. All right. Let's do it the last week of June.
+[01:37:03] UNKNOWN: Do San Clemente at the end and then go at the end. Now he leaves from San Francisco. Tom out there in San Clemente. Well, he'll have it then. Have it out there in a long,
+[01:37:12] NIXON: June 30th. Have a guest type thing. He'd love that one. Oh, yeah. And by, invite him out of the stars. Wouldn't he love that?
+[01:37:20] KISSINGER: They did blow their minds. I don't know if they could survive another day.
+[01:37:24] UNKNOWN: You don't know
+[01:37:25] NIXON: that. Well, cary grant is a little old brand.
+[01:37:28] UNKNOWN: No,
+[01:37:29] KISSINGER: no. No, he wants now. Who am I? Mr. President, you promised him so much. Ashley
+[01:37:34] UNKNOWN: didn't like
+[01:37:34] KISSINGER: you. elizabeth ashley was. No, he's asked to nuts that I.
+[01:37:41] UNKNOWN: Well, he told me she didn't know. Fine. He got that during the 20th. Now we've got another go to
+[01:37:46] KISSINGER: 20, not 20. He wants to go to Camp David.
+[01:37:50] UNKNOWN: Of course. I understand. Look, I'm going to go all out for him. And that's the way
+[01:37:54] KISSINGER: it's going to be. what is the other one that we're having here with it? He also, he hinted it that he wanted to go to Key Biscayne and see his boat But I told him it. He'll be here that time. I told him it's too hot. But let him get his boat up here.
+[01:38:12] UNKNOWN: We'll have the whole hearing record and we'll take a ride in a hole in the river ride on the Potomac. We'll take a ride in the Potomac, that's good. Tell you what to do. Take a ride in
+[01:38:20] HALDEMAN: the boat. Take him for dinner on their boat. In the boat. And go down to Mount Vernon and then use his boat to, to go ashore. Take a little run down and back up or something.
+[01:38:30] UNKNOWN: It's,
+[01:38:31] KISSINGER: they told me it was dangerous to use his boat on the Potomac.
+[01:38:36] NIXON: Listen, we use it on that Moscow River. You've got a hell of a lot more boat there than there was a week on it. We can, I think get down the river you see Ehrlichman by Mount Vernon. I think it's a few... And then we can take him down and give him to George the salute for tapped working. Stand there and salute George Washington. You love it then running.
+[01:38:53] UNKNOWN: Well, let's... What they let's just take the date. well, we should arrive on a Tuesday or a Monday. Well, I don't know.
+[01:39:04] NIXON: Well, we've always been saying it, but no, we're going to take the whole week. What do you
+[01:39:08] UNKNOWN: want to do? What? Well, you don't... Don't you want the dinner here? If you work... I would have to in his instance go to their embassy too. Yeah. You can
+[01:39:16] NIXON: agree to that. I went because they went to our embassy how good it is.
+[01:39:20] HALDEMAN: Well, your state dinner doesn't have to be the first night, does it?
+[01:39:23] UNKNOWN: No, sir. They didn't have it the
+[01:39:25] KISSINGER: first night. Well, his, I'm telling you to pre-what Camp David the first time. But dobrynin is thought is that he thought President would appreciate it if when he arrived he could go up to Camp David and then have his formal arrival the next morning.
+[01:39:39] UNKNOWN: Good. That he didn't want me
+[01:39:41] KISSINGER: to candidate with that. Not then, but then dobrynin is recommendation is to have perhaps two days here, then one day in Camp David and then Well, you don't want to write the Camp David and then go back to Camp
+[01:39:52] UNKNOWN: David? Yeah. I don't think that's a good idea. I think that's, he
+[01:39:56] KISSINGER: can, but I don't know. I mean, then you could go back to Camp David.
+[01:40:01] UNKNOWN: Oh, okay. In other words. Why he wants to rest.
+[01:40:04] HALDEMAN: Why don't you arrive like on Friday the 22nd. Yeah. And spend the weekend at Camp David. Yeah. Come down here on Monday or sometime during the weekend whenever he wants. Then come down here and have his arrival Monday morning.
+[01:40:16] UNKNOWN: Right. All right. And then have the dinner. Either Monday night or Tuesday night. We have a dinner Monday night. I'd have him Monday night. Monday night. Then have the dinner. Then the return dinner. What's the day of all the time?
+[01:40:33] HALDEMAN: Let him spend, if he wants to spend, let's invite him to come on Friday if he wants and go right to Camp
+[01:40:38] UNKNOWN: David and
+[01:40:38] KISSINGER: spend a whole week. But he also wants to have the President with Reed and gromyko so much about what he, the President was going to do up at Camp David. They're counting on a day's talk at Camp David. Okay,
+[01:40:51] HALDEMAN: he can run up in the middle of the week go up on Wednesday or
+[01:40:53] KISSINGER: something. That's right. All right. So 25th and 26th here, 27th at Camp David, then what would be the end of this, the second or third?
+[01:41:04] HALDEMAN: 20, and the 28th and he could be their return dinner at the embassy. Yeah. Then you go west on the 29th or 30th.
+[01:41:12] KISSINGER: Yeah. Now he may want to stop one other place, but he could go to a Space Center or somewhere.
+[01:41:19] HALDEMAN: Stop somewhere on the way out without the President.
+[01:41:22] UNKNOWN: That's right. The President shouldn't go out with him
+[01:41:24] KISSINGER: anyway. No, the President greets him out there.
+[01:41:26] HALDEMAN: So it would be better for him to stop somewhere on the... Huh?
+[01:41:28] UNKNOWN: It's a small detail that I want to be sure you know.
+[01:41:32] NIXON: We'll have to use, since I guess he would meet in the plane, use the old line.
+[01:41:36] UNKNOWN: Because I need, I need to... I said he shouldn't go with you. Well, he may
+[01:41:41] HALDEMAN: want to. No, let me, he wants to make a stop on the way.
+[01:41:44] UNKNOWN: Let him make a stop somewhere in the country.
+[01:41:46] NIXON: If he's on the plane with me, though, I'll have to use the old plane so they don't have the attic, you know, a facility right next to me so I can sit with him and not have to go back through staff and everything. I hope we can get the other one changed so we can do the same thing.
+[01:42:01] UNKNOWN: It won't work this way.
+[01:42:03] NIXON: So we'll, but if he goes with me, just use the old plane any place. Then not, not, not to do. They're both nice.
+[01:42:11] UNKNOWN: Well, they're both good.
+[01:42:13] NIXON: Well, except I, I've got to be a variety of sympathy.
+[01:42:16] KISSINGER: And then we wind it up in san clemente Now, that means all of the communiques so forth would be issued out there.
+[01:42:24] HALDEMAN: Sure. No. Why don't you piece him out during the week?
+[01:42:27] UNKNOWN: Well, there'll be two things. There'll be, if we
+[01:42:30] KISSINGER: can get dobrynin and I will have to be meeting in practically daily session to get this God damn thing done. Yeah. We can have a signature a day just as we had in Moscow. We've already got four of... We have a sheet
+[01:42:44] UNKNOWN: for that.
+[01:42:45] KISSINGER: Yeah, but then at the end. We have to have communication. You're going to have a...
+[01:42:49] UNKNOWN: communique from San Clemente
+[01:42:50] KISSINGER: first. And we're going to have a salt agreement with Lark and we may have that nuclear treaty that no one knows about yet,
+[01:42:57] UNKNOWN: which will be a
+[01:42:58] KISSINGER: spectacular. All of that would be in San Clemente.
+[01:43:01] HALDEMAN: You ought to wrap up on the second or third then, Monday or Tuesday. Yeah. So that you don't hit the weekend. Well, 4th of July is a Wednesday this year. Well, you could have
+[01:43:13] NIXON: the final. No reason why. Why not have it on Friday, 29th, wrap it up or 30th. Saturday Saturday night in King Peter.
+[01:43:23] HALDEMAN: Right. The question is how many days you have, let's work out a schedule. We can. Well, we can, we will have
+[01:43:31] KISSINGER: one or two things to sign if we can get them all negotiated as we had in Moscow. Then we're going to have two or three super things.
+[01:43:41] UNKNOWN: Tell me this. One thing I was going to suggest.
+[01:43:44] NIXON: I am not frankly too impressed with the idea of his coming and staying, staying at Camp David. What I would rather have him do would be to come and stay at Williamsburg, perhaps. Well, I mean, no, no, not too many people now. But what I mean is he shouldn't come to Camp David, come down and go back to Camp David. That's a bad girl. He should go to a new place, you know what I mean. And I would like to be at Camp David with him at least once a week and have Black Eisenhower starting that.
+[01:44:15] UNKNOWN: That's
+[01:44:15] NIXON: what he wants. And I would, I wouldn't mind as a matter of fact, but no, I can't have a, you'll have to have a formal arrival. But I wouldn't mind having them spending a week in a Camp David with him for
+[01:44:26] UNKNOWN: the preliminary talks. What the hell received the evening here? Well, no. No. It tries to have a lot of... No, no. Yeah. That's right. You've got to see it for the first time there. Well, anyway, you can see what I mean in the Camp David thing. Would he like williamsburg you think? Maybe he would. I think the thing to do is to ask dobrynin
+[01:44:46] NIXON: Yeah. But on the Camp David we do it the other way.
+[01:44:51] HALDEMAN: If he went to Camp David for the weekend as just, you know, sort of unannounced,
+[01:44:56] UNKNOWN: like the others do, and then came down here
+[01:44:58] KISSINGER: on. He would still want to go back with you for talk. Yeah.
+[01:45:03] UNKNOWN: If you go to Camp David on Wednesday morning stand, I understand, but I don't want to go twice.
+[01:45:08] KISSINGER: No, you wouldn't. You wouldn't. He wouldn't go. You should not......now
+[01:45:11] NIXON: it is me, it's him. He shouldn't go to Camp David twice. I mean, it has a certain feel. He ought to go to the views and that's your damn round. I should go with him and stay with him up there and he spends the night and I said he goes up there and then he's seen it. You see this? Ron has all gone out about it. Okay. Right in the river, we can take and have a damn good dinner in the river and we should hope we get the new vote with that time. We can't. No. I don't know. We might be able to. We might be able to get it on it on that basis. Yeah. Get it alone. Get alone. Get alone on the polls. So we take him on the Ehrlichman. Yeah. He doesn't want to go to New York.
+[01:45:51] UNKNOWN: We can control California.
+[01:45:54] KISSINGER: It's the public like crazy. I mean, they are. He'll, he'll, he'll love. If we could take a China trip every two weeks.
+[01:46:00] UNKNOWN: He'll love Disneyland. They told him. We love Disneyland. That'll
+[01:46:05] NIXON: be great. We'll give him a God damned show at Disneyland.
+[01:46:08] UNKNOWN: He says. Why not, why not do that to you, why not brush it? You see,
+[01:46:14] NIXON: the Grand That the President particularly wants you to do Disneyland because khrushchev could not go And he'll get a great welcome there
+[01:46:22] UNKNOWN: and feel that the President will guarantee it.
+[01:46:24] KISSINGER: What he wants to do, he said next year he personally wants to escort you through the Soviet Union.
+[01:46:30] UNKNOWN: That's great. I don't think. Do you want to go with him to Disneyland?
+[01:46:35] NIXON: I wonder if it doesn't mean that too many. No, no, no, with him, they'll want to meet him too. Too often when I go, they all want to, you know, they meet the President and they say,
+[01:46:44] UNKNOWN: Oh, yeah. What do you think for the two of you to go to disneyland Maybe. That those were next week.
+[01:46:51] NIXON: Oh, there was the other visit, Henry that was tanaka i have already told bob about tanaka then We'd
+[01:46:57] UNKNOWN: have to have him in the middle
+[01:46:57] NIXON: of the month. So you get to knock at the word, you know.
+[01:47:00] KISSINGER: Before the, Soviet thing? I think you
+[01:47:02] UNKNOWN: should. You said the laudatories are on. Not about it tonight.
+[01:47:05] NIXON: But there who was it we said we wanted in June? You've got to get one off in June. Do you have who played this? Oh, the black. Was this
+[01:47:14] UNKNOWN: in early June? Yeah. No, there was somebody else in June. June is the good one. I prefer. Wouldn't you like to have Tanaka before this phone?
+[01:47:23] HALDEMAN: Let's up to you. We had been figured out to tanaka in in may
+[01:47:30] NIXON: Well, you better get that for me at 4 o'clock, okay? Get it for me at 4 o'clock. I thought, I thought there was some reason
+[01:47:36] UNKNOWN: you were shifting by sorry. Because I see he's a good meeting for us. That's all about.
+[01:47:46] KISSINGER: le duc tho also wants to come over, but he, that's, you shouldn't see him on
+[01:47:52] UNKNOWN: this. Well, I might see him just like I saw the other forum. That's a nice way to do it.
+[01:47:58] KISSINGER: I mean, but we shouldn't make it a stage visit. Oh,
+[01:48:01] UNKNOWN: I'm
+[01:48:01] NIXON: afraid of that. I'm afraid of it, I'm afraid of too much gussing up. I wouldn't mind doing it in a subtle way of a private dinner.
+[01:48:08] KISSINGER: But you see the advantage of having le duc tho Liddy... Yeah. It almost forces him to behave themselves until
+[01:48:13] UNKNOWN: he's... Yeah. Ah, executive. Okay. You have no idea.
+[01:48:20] NIXON: I would have to before I leave le duc tho I don't want to get to this before I. I read the news summaries in your own summaries this morning about the infiltration and you've got to get a message out to the north vietnamese They've got to get off the pot or shit one of the two. I have will show them. Now, the second thing is, however, I think you've got to let State and Defense know that we're going to bomb those bastards.
+[01:48:40] UNKNOWN: I don't want them cracking
+[01:48:41] KISSINGER: No, no, I've told State the way I've handled this i have asked state and Defense to make recommendations by the end of this week. Right, right. Then on the basis of those, you can do it my point
+[01:48:51] NIXON: is, I do not want to jeopardize this POW return. The day they return, we can bomb the bejesus out of them.
+[01:48:57] UNKNOWN: You
+[01:48:58] KISSINGER: understand? I think, Mr. President. You will never jeopardize. I think.
+[01:49:05] UNKNOWN: Let me tell you this. when i actually went to see there's a little, if there's a little [unclear] You know how it is. So I would... I'm for being tough.
+[01:49:17] NIXON: But I just want to get them on board on this.
+[01:49:19] KISSINGER: Yeah. Oh, we'll, we won't order bombing until we get their paper, then I
+[01:49:23] UNKNOWN: told you their papers. Tell me the attitude of these people.
+[01:49:26] NIXON: You saw dobrynin at breakfast did not you
+[01:49:28] UNKNOWN: I saw him last night. How was it? I'll catch him. No, that's right. I've got Pappas coming in. I'm
+[01:49:36] ZIEGLER: going to be busy to there for another hour or so. Come on. It's just a line thing. Sure, sure. If we could just have the two wire photographers in there because they're 53
+[01:49:47] NIXON: cities. Fine. I don't... we won't have the press. Just the two wires
+[01:49:51] ZIEGLER: Send out little special releases in the room. Right.
+[01:49:53] UNKNOWN: the wire photographers are fine But don't try to take him in. No, no, no. Only one a day from now. Just
+[01:49:58] ZIEGLER: one a day and then I'll go to the have ollie
+[01:50:01] NIXON: They won't take all the pictures now.
+[01:50:05] UNKNOWN: Well, they will not go around and shake hands at the moment. No, no,
+[01:50:08] ZIEGLER: they'll just get the group and then they'll send them
+[01:50:11] UNKNOWN: All right, fine. Okay. Well,
+[01:50:16] KISSINGER: you see, that's what the outside doesn't understand is how we've kept the heart of keeping the Chinese and Russians both panting after us. They take it for granted. But I know one thing, once you are gone here, and the next fellow tries it.
+[01:50:32] UNKNOWN: That takes... They're gonna find it. Yeah, they're gonna find. See, they all think, Henry, that this is all
+[01:50:38] NIXON: done through mirrors and grandstand and so forth. And that it's... And that basically we just do this on impulse and the rest that It's the one thing that worries me about almost all the people we're talking about cheering They're too goddamned impulsive. They don't realize this is a cold-blooded proposition. It isn't, it's not [unclear] and also without bluster. Another thing, we don't bluster you know what I mean. We
+[01:51:00] UNKNOWN: take a hard line now and then about it. I talked to the marching and chowder Society, whatever it's called.
+[01:51:04] KISSINGER: Oh, yeah. They're for you. And I told them about how you operate. I told them about the POW thing last week. I said, There were two levels what you had in the newspapers and what the president said privately because you have been such great supporters. Let me tell you something. Well, they were up on their
+[01:51:21] NIXON: feet here. Were they? Oh. Yeah. God. Well, that's great. But that's important, David. We need
+[01:51:27] UNKNOWN: them for aid. we need them to vote for aid Yes. and i think they will get it i said
+[01:51:32] KISSINGER: listen, you know the President. It's not a humanitarian program. It's not a relief program. It's not a do good program. It's cold-blooded. And afterwards jack kemp came up to me and he said, Of course I can support it now.
+[01:51:47] UNKNOWN: Good. He's very conservative. And he's very conservative.
+[01:51:53] KISSINGER: Good. But the Russians, to get back to your question, are really blubbering They've given us a list of... Do you think it's
+[01:52:00] UNKNOWN: because of China? Oh, yeah.
+[01:52:03] KISSINGER: Before I went to China, he was saying, Well, whether, whether there can be a meeting depends on whether we can agree to the nuclear treaty. Yeah. He was, he was leaning towards November. now he says, there has it.
+[01:52:22] NIXON: Do you think they have the Chinese infiltrated?
+[01:52:25] UNKNOWN: No.
+[01:52:25] NIXON: You don't think Mao, for example, conversation with him got to them?
+[01:52:29] UNKNOWN: no that would scare him to death.
+[01:52:33] KISSINGER: But the mere fact that Mao, they want me to come to Moscow to work out the details.
+[01:52:39] UNKNOWN: That's all right. I think we've got to do that.
+[01:52:42] KISSINGER: And also it's important if it gets brezhnev is position and I can run through the thing with him.
+[01:52:47] UNKNOWN: Absolutely.
+[01:52:49] NIXON: When people think that you just sit down and negotiate these things and shake hands and they were all good friends well that it's such a crap.
+[01:52:56] KISSINGER: Such crap. Your summits have worked and the others have not because everything was meticulously prepared.
+[01:53:02] UNKNOWN: Well, I know it's.
+[01:53:03] KISSINGER: No, no, but it was, you know, but Mr. President.
+[01:53:06] NIXON: But I never believe in going into
+[01:53:07] KISSINGER: anything. and i read your conversation with chou you must have read the mao conversation for then That was
+[01:53:14] UNKNOWN: a replay of right to the letter what has come into use the letter you see just makes you think it might be a dream
+[01:53:22] KISSINGER: But the mao conversation was his picking up everything you said last year.
+[01:53:28] UNKNOWN: It's unbelievable.
+[01:53:30] NIXON: And then Russia
+[01:53:33] UNKNOWN: and everything. All out
+[01:53:34] KISSINGER: in the open now. And, and you conducted, after all, 16 hours of conversations with chou without a note.
+[01:53:42] UNKNOWN: That's the preparation. He was the
+[01:53:44] KISSINGER: same way. Yeah, but I mean...
+[01:53:47] NIXON: But most of our people, frankly, in government will not work hard enough to. You know what it is, Henry, I think they go to the social
+[01:53:54] KISSINGER: meetings. And then brezhnev is other message to you, is that the major thing he's looking forward to is seeing you and the,
+[01:54:02] NIXON: Right. You must tell dobrynin You know it, it might be worth it. This is a very small thing, but it'll get the message across.
+[01:54:15] NIXON: Haul him in for 10 minutes and let me talk a little with him and you about the schedule. And I'll say, Look, I'd like to have this time and I perceive remember I told him in San Clemente that I wanted to plan his visit Now look, I'll say, let me tell you what Camp David
+[01:54:30] UNKNOWN: and this and that
+[01:54:30] NIXON: and the other thing. I'd like to take him for a ride in the boat and I'd like to do this. And I see
+[01:54:35] KISSINGER: him, he comes in again next week.
+[01:54:38] NIXON: The doctor's necessary do it this afternoon when I get done that I don't know if we
+[01:54:42] UNKNOWN: do. Well, tomorrow he's gonna tomorrow. Well, let me give you, I don't want to rush it. Whatever you... I
+[01:54:50] KISSINGER: don't want, well, I, I was going to go to the Soviet Embassy tomorrow, but we could get him over here and see
+[01:54:56] UNKNOWN: you first. Fine. Well, we have let us see tomorrow.
+[01:55:00] KISSINGER: Well, about one o'clock. I'm seeing to one. I could have lunch with him at one.
+[01:55:06] UNKNOWN: 12:30 morning white house staff. I could do it a quarter of one. Yeah. Let's go to EOB. Right. Then you can have lunch. Burn out. Good. Good. Let's have a good talk and, Good. That'll mean a lot to him. Good.
+[01:55:20] NIXON: That's right. He said, then he'll get it back to the guy Good
+[01:55:24] UNKNOWN: idea. Excellent idea. And it puts it more on a personal basis.
+[01:55:27] KISSINGER: Good. Then I'll shift the lunch to over here rather than the Soviet Embassy, which is perfect Well, I'll
+[01:55:31] UNKNOWN: have lunch there next week. I'll just say you
+[01:55:35] NIXON: wanted to. He told him he has a luncheon at one, 1:15. He
+[01:55:41] UNKNOWN: said, could you come in a quarter and I'll spend 15, 20 minutes with him just talking about details. Good. Excellent. Very good.
+[01:55:49] KISSINGER: Now, but he, we, we still have this hang-up on the nuclear treaty.
+[01:55:54] UNKNOWN: Oh, I know, I know. That's, that's it. This is just not taking this.
+[01:55:57] NIXON: Well, now the other thing, did a fellow get you see you that saw me last night at the dinner or call you last night with, some guy a new york banker or something like that. He gets back from Europe, but you know he's a real bright guy and he wanted to see me. He said, he had seen the germans and the rest and wanted to visit us and I saw him. I said, Well, talk to shultz and so forth and so on. I wondered, and I told him also to talk to you if you talk to him tonight. You get to talk to him then. What kind of guidance are we going to give shultz today?
+[01:56:29] KISSINGER: Oh, on shultz basically you don't have to spend a lot of time.
+[01:56:33] NIXON: Well, I mean, what are we going to dictate? I know it's in the time what I'm concerned about. What guidance do we get him on the monetary thing?
+[01:56:38] KISSINGER: On the monetary thing, I think. Intervene or not intervene. I think he should do something for the Germans. Yeah. I don't think the germans should be left to float because we didn't do anything. And I would say to him that you'd be prepared to do some intervening.
+[01:56:57] NIXON: To play a more active role now that they're coming to us.
+[01:57:00] UNKNOWN: That's right. Okay.
+[01:57:02] KISSINGER: That's right. And I think regard to the, I prepared him for that because I spent an hour or so.
+[01:57:07] NIXON: Well, the fellow last night. I wish he would have seen him. He
+[01:57:12] UNKNOWN: hasn't
+[01:57:12] KISSINGER: called me. David Rockefeller was in yesterday. Yes. How's he? He said, Well, I want you to know the President is going to go down as one of the great figures in the
+[01:57:21] UNKNOWN: 20th century
+[01:57:22] KISSINGER: history. Which for david rockefeller is unbelievable.
+[01:57:26] UNKNOWN: Is he basically on Vietnam? On Vietnam,
+[01:57:29] KISSINGER: China, his reception in Eastern Europe, which they were all babbling about you.
+[01:57:34] UNKNOWN: Really? Yeah, he said with.
+[01:57:36] KISSINGER: He loved that. He said, Well, well, but what he found astounding is that Tito and ceausescu were raving about
+[01:57:45] UNKNOWN: you as a person.
+[01:57:52] KISSINGER: He said he's so glad he did not pay anything about the time.
+[01:57:57] UNKNOWN: He's going to be here tonight. Well, good.
+[01:58:01] KISSINGER: Oh, you know, you want to talk to that council that inter american council he has
+[01:58:07] UNKNOWN: he had. You shouldn't know he should have said Wants me to speak to him. I don't think you should because not the oas He's yes sir she can be confirmed tomorrow when shultz is here

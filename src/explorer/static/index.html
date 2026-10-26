@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nixon Tapes Explorer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="bar">
+  <a class="mark" href="#/">Nixon Tapes</a>
+  <nav><a href="#/">Calendar</a><a href="#/people">People</a></nav>
+  <form id="search" role="search"><input id="q" type="search" placeholder="Search the transcripts… (e.g. deloach, cancer on the presidency)" aria-label="Search the transcripts"></form>
+</header>
+<main id="view" aria-live="polite"></main>
+<footer id="player" hidden>
+  <div class="pl-inner">
+    <div class="pl-meta"><span id="pl-title"></span><label class="follow"><input id="follow" type="checkbox" checked> follow</label></div>
+    <audio id="audio" controls preload="none"></audio>
+  </div>
+</footer>
+<script src="/app.js"></script>
+</body>
+</html>

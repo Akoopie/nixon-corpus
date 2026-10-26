@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nixon Tapes Triage</title>
+<style>
+:root {
+  --bg: #f3f1ec; --surface: #fffdf8; --ink: #1d1b18; --ink-2: #5c574f; --rule: #ddd6c8;
+  --accent: #8a3b12; --good: #3d7a4a;
+  --font: "Segoe UI", system-ui, -apple-system, sans-serif; --mono: "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #17150f; --surface: #221f18; --ink: #efe9dd; --ink-2: #b3ab9b; --rule: #3a352b;
+          --accent: #e0915f; --good: #7cc48c; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--font); }
+main { max-width: 720px; margin: 0 auto; padding: 28px 18px 60px; display: grid; gap: 16px; }
+header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+h1 { font-size: 21px; margin: 0; }
+.muted { color: var(--ink-2); font-size: 14px; }
+.card { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 20px; display: grid; gap: 16px; }
+.bar { height: 6px; background: var(--rule); border-radius: 3px; overflow: hidden; }
+.bar div { height: 100%; background: var(--accent); }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+button { font: inherit; font-size: 15px; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--rule); background: var(--bg); color: var(--ink); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button.on { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.answers { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px; }
+.answers button { padding: 14px; text-align: left; display: grid; gap: 2px; }
+.answers button b { font-size: 16px; }
+.answers button span { font-size: 13px; color: var(--ink-2); }
+.answers button.on { background: color-mix(in srgb, var(--good) 14%, var(--bg)); border-color: var(--good); }
+kbd { font: 12px var(--mono); border: 1px solid var(--rule); border-radius: 4px; padding: 0 5px; }
+.draft { font-size: 14px; color: var(--ink-2); }
+.cells { position: relative; display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; }
+.cells button { padding: 16px 0; text-align: center; font: 13px var(--mono); color: var(--ink-2); border-radius: 6px; }
+.cells button.v { background: color-mix(in srgb, var(--accent) 30%, var(--bg)); border-color: var(--accent); color: var(--ink); }
+.cells .head { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink); pointer-events: none; left: 0; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Nixon Tapes Triage</h1>
+    <span class="muted" id="progress">loading…</span>
+  </header>
+  <div class="bar"><div id="bar" style="width:0%"></div></div>
+  <section class="card" aria-live="polite">
+    <div class="muted" id="meta"></div>
+    <div class="row">
+      <button id="play">▶ Replay</button>
+      <button id="clean" class="on">Cleaned audio: on</button>
+      <audio id="audio" preload="auto"></audio>
+    </div>
+    <div class="answers">
+      <button data-a="nothing"><b><kbd>1</kbd> Nothing said</b><span>silence, hiss, noise, clinks, no words</span></button>
+      <button data-a="crosstalk"><b><kbd>2</kbd> Several people at once</b><span>overlapping voices, can't follow one</span></button>
+      <button data-a="speech"><b><kbd>3</kbd> One person talking</b><span>real words, even if unclear</span></button>
+      <button data-a="mixed"><b><kbd>4</kbd> Mixed</b><span>noise for part of it, voices in the rest: mark the seconds</span></button>
+    </div>
+    <div id="mixbox" hidden>
+      <div class="muted" style="margin-bottom:6px">Click each second that has voices in it, then press <kbd>Enter</kbd> (or Save).</div>
+      <div class="cells" id="cells"></div>
+      <div class="row" style="margin-top:10px"><button id="mixsave">Save &amp; next</button></div>
+    </div>
+    <details class="draft"><summary>What the model wrote here (only if you're curious)</summary><p id="draft"></p></details>
+    <div class="row" style="justify-content:space-between">
+      <button id="prev">← Back</button>
+      <span class="muted"><kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> answer and move on · <kbd>Space</kbd> replay · <kbd>←</kbd> back</span>
+    </div>
+  </section>
+</main>
+<script>
+let S = [], labels = {}, i = 0, shownAt = 0;
+let clean = true; try { clean = localStorage.getItem("triage_clean") !== "0"; } catch (e) {}
+const $ = id => document.getElementById(id), audio = $("audio");
+const url = id => `/${clean ? "audio_clean" : "audio"}/${id}.wav`;
+async function load() {
+  S = await (await fetch("/session.json")).json();
+  labels = await (await fetch("/labels.json")).json();
+  i = S.findIndex(c => !labels[c.id]); if (i < 0) i = 0;
+  show();
+}
+function show() {
+  const c = S[i], done = Object.keys(labels).length;
+  $("progress").textContent = `clip ${i + 1} of ${S.length} · ${done} answered`;
+  $("bar").style.width = (100 * done / S.length) + "%";
+  $("meta").textContent = `Tape ${c.conv} · 5 seconds`;
+  $("draft").textContent = c.draft || "(nothing)";
+  document.querySelectorAll("[data-a]").forEach(b => b.classList.toggle("on", labels[c.id]?.answer === b.dataset.a));
+  voiced = new Set(labels[c.id]?.voiced_seconds || []);
+  $("mixbox").hidden = labels[c.id]?.answer !== "mixed";
+  drawCells();
+  $("clean").classList.toggle("on", clean); $("clean").textContent = `Cleaned audio: ${clean ? "on" : "off"}`;
+  shownAt = Date.now();
+  audio.src = url(c.id); audio.play().catch(() => {});
+}
+let voiced = new Set();
+function drawCells() {
+  $("cells").innerHTML = [0, 1, 2, 3, 4].map(k => `<button data-s="${k}" class="${voiced.has(k) ? "v" : ""}">${k}–${k + 1} s${voiced.has(k) ? " · voices" : ""}</button>`).join("") +
+    `<div class="head" id="head"></div>`;
+}
+$("cells").onclick = e => { if (e.target.dataset.s === undefined) return; const k = +e.target.dataset.s;
+  voiced.has(k) ? voiced.delete(k) : voiced.add(k); drawCells(); };
+audio.ontimeupdate = () => { const h = $("head"); if (h) h.style.left = `${Math.min(100, 100 * audio.currentTime / 5)}%`; };
+async function answer(a) {
+  if (a === "mixed" && $("mixbox").hidden) {  // first press opens the second boxes; Enter / Save records them
+    $("mixbox").hidden = false; voiced = new Set(labels[S[i].id]?.voiced_seconds || []); drawCells();
+    document.querySelectorAll("[data-a]").forEach(b => b.classList.toggle("on", b.dataset.a === "mixed"));
+    audio.currentTime = 0; audio.play(); return;
+  }
+  const c = S[i];
+  const x = { id: c.id, window: c.window, conv: c.conv, start: c.start, end: c.end, kind: c.kind, answer: a,
+              voiced_seconds: a === "mixed" ? [...voiced].sort() : undefined,
+              audio: clean ? "cleaned" : "original", seconds_spent: Math.round((Date.now() - shownAt) / 1000) };
+  await fetch("/label", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(x) });
+  labels[c.id] = x;
+  if (i < S.length - 1) i++;
+  show();
+}
+document.querySelectorAll("[data-a]").forEach(b => b.onclick = () => answer(b.dataset.a));
+$("mixsave").onclick = () => { $("mixbox").hidden = false; saveMixed(); };
+async function saveMixed() {  // record the marked seconds (the box is open, so answer() saves instead of opening it)
+  await answer("mixed");
+}
+$("play").onclick = () => { audio.currentTime = 0; audio.play(); };
+$("clean").onclick = () => { clean = !clean; try { localStorage.setItem("triage_clean", clean ? "1" : "0"); } catch (e) {} show(); };
+$("prev").onclick = () => { if (i > 0) { i--; show(); } };
+document.addEventListener("keydown", e => {
+  if (e.ctrlKey || e.altKey || e.metaKey) return;
+  if (e.key === "1") answer("nothing"); else if (e.key === "2") answer("crosstalk"); else if (e.key === "3") answer("speech");
+  else if (e.key === "4") answer("mixed");
+  else if (e.key === "Enter" && !$("mixbox").hidden) { e.preventDefault(); $("mixsave").click(); }
+  else if (e.key === " ") { e.preventDefault(); $("play").click(); }
+  else if (e.key === "ArrowLeft") $("prev").click();
+});
+load();
+</script>
+</body>
+</html>

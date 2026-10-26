@@ -1,0 +1,18 @@
+name: nixon
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - ffmpeg
+  - pip:
+      - whisperx
+      - faster-whisper
+      - sqlite-vec
+      - sentence-transformers
+      - anthropic
+      - requests
+      - tqdm
+      - pymupdf
+      - jiwer
+      - striprtf
