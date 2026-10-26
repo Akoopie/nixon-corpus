@@ -53,7 +53,7 @@ for watching" (METHODS 7p).
 
 ## Data
 
-Release **v1.1** (about 0.8 GB) is hosted at **[release DOI to be added]**, separately from this repository. It
+Release **v1.1** (about 0.8 GB) is archived on Zenodo at **https://doi.org/10.5281/zenodo.23657174**, separately from this repository. It
 contains, as described in [`docs/DATA_CARD.md`](docs/DATA_CARD.md):
 
 | File | Contents |

@@ -7,6 +7,7 @@ authors:
     given-names: "Arvin"
     orcid: "https://orcid.org/0000-0001-7833-4172"
 version: "1.1"
+doi: "10.5281/zenodo.23657174"
 date-released: "2026-10-25"
 license:
   - CC-BY-4.0

@@ -11,7 +11,7 @@
 
 **Attribution.** Under CC BY 4.0, reuse of the corpus or the model requires appropriate credit. Give credit by citing:
 
-> Akoopie, Arvin. 2026. "The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model." arXiv preprint. [arXiv identifier and release DOI to be added.]
+> Akoopie, Arvin. 2026. "The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model." arXiv preprint. Data: https://doi.org/10.5281/zenodo.23657174
 
 and the release DOI. Please also credit NARA and the Richard Nixon Presidential Library and Museum as the source of
 the recordings. Full license text: https://creativecommons.org/licenses/by/4.0/legalcode

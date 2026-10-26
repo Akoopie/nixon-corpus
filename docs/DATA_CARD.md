@@ -244,10 +244,10 @@ context for correction only and is not redistributed.
 
 ## 9. How to cite
 
-> Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* (Version 1.1) [Data set]. [Zenodo DOI]. [REPOSITORY URL]
+> Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* (Version 1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23657174. Code: https://github.com/akoopie/nixon-corpus
 
 BibTeX: `@dataset{nixon_corpus_2026, author = {Akoopie, Arvin}, title = {The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model}, year = {2026}, version = {1.1},
-doi = {[DOI]}, url = {[URL]}}`. Please also cite NARA and the Richard Nixon Presidential Library and Museum as the source
+doi = {10.5281/zenodo.23657174}, url = {https://doi.org/10.5281/zenodo.23657174}}`. Please also cite NARA and the Richard Nixon Presidential Library and Museum as the source
 of the recordings and metadata.
 
 ## 10. Contact and maintenance
