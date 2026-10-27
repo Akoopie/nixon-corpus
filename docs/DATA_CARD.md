@@ -248,7 +248,9 @@ context for correction only and is not redistributed.
 
 ## 9. How to cite
 
-> Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* (Version 1.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23657174. Code: https://github.com/akoopie/nixon-corpus
+> Paper: Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23695689
+>
+> Data: Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* (Version 1.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23657174. Code: https://github.com/akoopie/nixon-corpus
 
 BibTeX: `@dataset{nixon_corpus_2026, author = {Akoopie, Arvin}, title = {The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model}, year = {2026}, version = {1.2},
 doi = {10.5281/zenodo.23657174}, url = {https://doi.org/10.5281/zenodo.23657174}}`. Please also cite NARA and the Richard Nixon Presidential Library and Museum as the source

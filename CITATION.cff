@@ -27,4 +27,5 @@ preferred-citation:
       given-names: "Arvin"
       orcid: "https://orcid.org/0000-0001-7833-4172"
   year: 2026
-  journal: "arXiv preprint"
+  journal: "Zenodo preprint"
+  doi: "10.5281/zenodo.23695689"
