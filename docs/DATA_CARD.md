@@ -14,7 +14,7 @@ Author: Arvin Akoopie (ORCID 0000-0001-7833-4172).
 | Words | 18,994,348 (14,450,682 with a per-word confidence) |
 | Locations (NARA codes) | WHT telephone 6,548; Oval Office 6,224; EOB 4,435; Camp David (CDHW 1,077, CDST 848, CDSD 78); Cabinet Room 216 |
 | Withdrawn passages | 841 conversations contain 1,242 withdrawn-tone spans (18.4 h, muted before transcription, METHODS §6); no words are kept inside them |
-| Scope | Every conversation released as an individual recording: 19,426 of NARA's 22,723 conversations and 2,206 of the 2,719 hours of conversation in the Nixon Library's finding aid (81.1%). Of the other 3,297 conversations, 3,253 have no per-conversation audio file (they exist only within whole-tape files) and 44 could not be fetched (METHODS §1, §7s). |
+| Scope | Every conversation released as an individual recording: 19,426 recordings and 2,206 of the 2,719 hours of conversation in the Nixon Library's finding aid (81.1%). 19,418 of them are among NARA's 22,723 cataloged conversations; the other 8 are Library files the catalog does not list. Of the 3,305 cataloged conversations not in the corpus, 3,261 have no per-conversation audio file (they exist only within whole-tape files) and 44 could not be fetched (METHODS §1, §7s). |
 
 ## 2. What is in the release
 

@@ -1,7 +1,7 @@
 \section{The corpus}
 \label{sec:corpus}
 
-Release 1.1 (Table~\ref{tab:corpus}, Figure~\ref{fig:corpus}) was packaged as one JSON record per conversation: NARA's metadata and subject log, audio sources, withdrawn spans, speaker segments, and every word with its timing, speaker, confidence and source (Parakeet, both recognizers, a Whisper fill, a model edit or a correction by ear). Each edit was stored with what it replaced and why. Plain-text transcripts and the raw recognizer outputs were included. A browsing application, included in the repository, was built to present the corpus by day, conversation and person and to play each transcript in sync with the audio; no language model wrote its text.
+Release 1.1 of the corpus (Table~\ref{tab:corpus}, Figure~\ref{fig:corpus}) was packaged as one machine-readable JSON record per conversation. Each record contained NARA's metadata and subject log, the audio sources, the withdrawn spans, the speaker segments, and every word with its timing, speaker, confidence and source. The source recorded whether a word came from Parakeet, both recognizers, a Whisper fill, a model edit or a correction by ear. Each edit was stored with the words it replaced and the reason for the change. Plain-text transcripts and the raw output of each recognizer were also included. A browsing application, included in the repository, was built to present the corpus by day, conversation and person and to play each transcript in sync with the audio; no language model wrote its text.
 
 \begin{table}[t]
 \centering
@@ -23,6 +23,6 @@ Format & JSON (gzip), plain text, metadata table, raw layers, checksums; 776\,MB
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{figures/fig4_corpus.pdf}
-  \caption{The corpus. \textbf{a},~Audio hours per month by recording location, February 1971 to July 1973. \textbf{b},~Hours of speech per named voice (segments named at probability 0.7 or more; log scale) and the 438 scored hours without a name. \textbf{c},~Named words correct on the 130 held-out test conversations outside the classifier's training data, for voices with at least 200 named words.}
+  \caption{The corpus. \textbf{a},~Audio hours per month by recording location, February 1971 to July 1973. \textbf{b},~Hours of speech per named voice (segments named at probability 0.7 or more; log scale), and the 438 scored hours without a name. \textbf{c},~Named words correct on the 130 held-out test conversations outside the classifier's training data, for voices with at least 200 named words.}
   \label{fig:corpus}
 \end{figure}

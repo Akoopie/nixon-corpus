@@ -50,8 +50,8 @@ Some catalog file names are flagged as suspect (`audio_manifest.csv` tier `A_37_
 **Coverage.**
 - **Transcribed:** 19,426 conversations, February 16, 1971 to July 12, 1973, 2,206.0 audio hours. That is 2,206 of the
   finding aid's 2,719 hours (81.1%).
-- **NARA's other 3,297 conversations:**
-  - 3,253 have no per-conversation file; they exist only within whole-tape files (tier D).
+- **NARA's other 3,305 conversations** (8 of the 19,426 are Library files the catalog does not list):
+  - 3,261 have no per-conversation file; they exist only within whole-tape files (tier D).
   - 44 were in the job list but could not be fetched: 27 tier-A conversations with malformed catalog names and no
     single-conversation copy, 15 other tier-A conversations and 2 tier-B conversations.
 - **By location (NARA codes):** WHT telephone 6,548; Oval Office 6,224; EOB 4,435; Camp David 2,003 (CDHW 1,077,
@@ -1814,7 +1814,8 @@ classifier and the transcripts.
 
 ## 9. Known limitations
 
-- **Coverage:** 19,426 of NARA's 22,723 conversations (2,206 of the finding aid's 2,719 hours). 3,253 conversations have
+- **Coverage:** 19,426 recordings, 19,418 of them among NARA's 22,723 conversations (2,206 of the finding aid's
+  2,719 hours). 3,261 conversations have
   no per-conversation file (tier D, whole-tape audio, is not used), and 44 in the job list could not be fetched (§1).
 - **Mixed Whisper modes:** the trial fifth (3,891 conversations) has batched Whisper output, and the rest sequential
   (§7, §7p).
