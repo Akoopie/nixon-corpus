@@ -4,7 +4,8 @@ The final layer is what release v1.1 ships: the merged transcript with the Argon
 keep_unclear, then propagate, as in export_release.py), words inside withdrawal tones dropped, and the corrections the
 author confirmed by ear (docs/listener_corrections.json) applied. A quotation passes when its words occur in that layer
 contiguously, in order (segments separated by an ellipsis may skip words between them). Quotations that the paper
-presents as the recognizers' text before correction are checked against the merged layer instead.
+presents as the recognizers' text before correction are checked against the merged layer instead, and Whisper's own
+readings against its raw output (normalized like the other layers).
 
     python paper/check_quotes.py          # every quotation in QUOTES; also lists \\machine{} quotes in the .tex not covered
 """
@@ -23,12 +24,13 @@ from listener_fixes import apply_words, drop_tone_words  # noqa: E402
 from score import norm_words  # noqa: E402
 
 SECTIONS = ROOT / "paper" / "arxiv" / "sections"
-FINAL, MERGED = "final", "merged"
+FINAL, MERGED, WHISPER = "final", "merged", "whisper"
 
 # (conversation, layer, quotation, where it appears). Ellipses are written "[...]".
 QUOTES = [
     # Figure 1 (make_fig1.py): Haldeman gives his name on the telephone
     ("018-078", MERGED, "this is bob alderman", "Fig. 1 Parakeet/merged"),
+    ("018-078", WHISPER, "it is bob haldeman", "Fig. 1 Whisper (caption)"),
     ("018-078", FINAL, "hello mister president this is bob haldeman 0 general hughes", "Fig. 1 released"),
     # Section 4.3: real mishearings that Whisper heard right
     ("003-118", MERGED, "check a date with the whole different tomorrow", "4.3 'the whole different'"),
@@ -113,6 +115,11 @@ def merged_words(conv: str) -> list[dict]:
     return json.loads((CORPUS / "out" / conv / "merged.json").read_text(encoding="utf-8"))
 
 
+def whisper_words(conv: str) -> list[dict]:
+    raw = json.loads((CORPUS / "out" / conv / "whisper.json").read_text(encoding="utf-8"))["words"]
+    return [{"w": t, "s": w["s"], "e": w["e"]} for w in raw for t in norm_words(w["w"])]
+
+
 def mmss(t: float) -> str:
     return f"{int(t) // 60}:{int(t) % 60:02d}"
 
@@ -126,7 +133,7 @@ def find(seg: list[str], toks: list[str], start: int) -> int:
 
 
 def check(conv: str, layer: str, quote: str) -> tuple[bool, str]:
-    words = final_words(conv) if layer == FINAL else merged_words(conv)
+    words = {FINAL: final_words, MERGED: merged_words, WHISPER: whisper_words}[layer](conv)
     toks = [w["w"] for w in words]
     segs = [s.split() for s in quote.split("[...]")]
     pos, spans = 0, []
