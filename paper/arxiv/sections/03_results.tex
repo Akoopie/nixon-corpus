@@ -33,14 +33,14 @@ Corrected & \textbf{73.9} & \textbf{29.6} & \textbf{81.2} & \textbf{76.1} {\foot
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{figures/fig2_accuracy.pdf}
-  \caption{Accuracy. \textbf{a},~Word recall of each of the 165 held-out FRUS conversations, Whisper alone against the corrected layer (marker size: reference words). \textbf{b},~Word and name recall of each layer on the test set (filled, 95\% intervals) and the five train room recordings in the corpus (open). \textbf{c},~Fine-tuning: pooled word recall on the six train room recordings, by round. \textbf{d},~Test word recall by recording location, Whisper alone and corrected.}
+  \caption{Accuracy. \textbf{a},~Word recall of each of the 165 held-out FRUS conversations, Whisper alone against the corrected layer (marker size: reference words). \textbf{b},~Word and name recall of each layer on the Test set (filled, 95\% intervals) and the five train room recordings in the corpus (open). \textbf{c},~Fine-tuning: pooled word recall on the six train room recordings, by round. \textbf{d},~Test word recall by recording location, Whisper alone and corrected.}
   \label{fig:accuracy}
 \end{figure}
 
 \subsection{Artifacts of single-model transcription}
 \label{sec:res-artifacts}
 
-\runin{Whisper alone looped, dropped speech and wrote over silence} (Figure~\ref{fig:artifacts}). Its output contained 2,613 repetition loops, the same words written over and over, in 1,463 conversations (55,140 words); Parakeet v5 produced 105 loops and the released corrected layer 265. When run in batches with WhisperX \citep{bain2023whisperx}, the configuration of earlier machine transcriptions of the tapes \citep{fine2026easynixon}, Whisper also discarded speech: wherever WhisperX wrote nothing for 20 seconds or more, Parakeet still transcribed speech. These 3,973 stretches held 5.2\% of Parakeet's words in those conversations, and in 2,869 of them Parakeet wrote at least 60 words a minute, a rate that only real speech produces. Over NARA's muted withdrawals, Whisper wrote 1,882 words in 422 conversations, typically \enquote{you} every 30 seconds, while Parakeet wrote 131 words over the same silence. Across the corpus, Whisper also wrote 987 stock phrases such as \enquote{thank you for watching}. No word inside a muted passage was kept in the release. Each recognizer also heard words that the other missed, and both were therefore kept in the corpus.
+\runin{Whisper alone looped, dropped speech and wrote over silence.} Its output (Figure~\ref{fig:artifacts}) contained 2,613 repetition loops, the same words written over and over, in 1,463 conversations (55,140 words); Parakeet v5 produced 105 loops and the released corrected layer 265. When run in batches with WhisperX \citep{bain2023whisperx}, the configuration of earlier machine transcriptions of the tapes \citep{fine2026easynixon}, Whisper also discarded speech: wherever WhisperX wrote nothing for 20 seconds or more, Parakeet still transcribed speech. These 3,973 stretches held 5.2\% of Parakeet's words in those conversations, and in 2,869 of them Parakeet wrote at least 60 words a minute, a rate that only real speech produces. Over NARA's muted withdrawals, Whisper wrote 1,882 words in 422 conversations, typically \enquote{you} every 30 seconds, while Parakeet wrote 131 words over the same silence. Across the corpus, Whisper also wrote 987 stock phrases such as \enquote{thank you for watching}. No word inside a muted passage was kept in the release. Each recognizer also heard words that the other missed, and both were therefore kept in the corpus.
 
 \begin{figure}[t]
   \centering
@@ -52,9 +52,15 @@ Corrected & \textbf{73.9} & \textbf{29.6} & \textbf{81.2} & \textbf{76.1} {\foot
 \subsection{What the second reading and the correction added}
 \label{sec:res-correct}
 
-On the Test set, at least one recognizer was right on 79.5\% of reference words, 6.0 points more than Parakeet alone on the same words, and correction recovered 2.4 of those points. \textbf{The second reading drove the gain.} On the five train room recordings in the corpus, correction gained 405 reference words when given Parakeet's text alone, 564 when Whisper's readings were added and 712 when low-confidence words were also marked; before the corpus run, 340 edits helped and 20 hurt. \textbf{Same-day context corrected across recordings.} On April 9, 1971, Parakeet's \machine{want Dr. Burns, uh, Marjorie Burns? I'm pleased to call} (\conv{476-021}) was corrected to \machine{Find Dr. Burns, Arthur Burns, I placed a call}, the words of the telephone recording of the same moment (\conv{001-061}); the author confirmed both by ear. \textbf{Edits cited their evidence.} Of the corrected names in the Test set, 42.8\% cited Whisper's reading and 34.8\% the subject log; only 4.6\% cited the model's own knowledge.
+On the Test set, at least one recognizer was right on 79.5\% of reference words, 6.0 points more than Parakeet alone on the same words, and correction recovered 2.4 of those points.
+
+\runin{The second reading drove the gain.} On the five train room recordings in the corpus, correction gained 405 reference words when given Parakeet's text alone, 564 when Whisper's readings were added and 712 when low-confidence words were also marked; before the corpus run, 340 edits helped and 20 hurt.
+
+\runin{Same-day context corrected across recordings.} On April 9, 1971, Parakeet's \machine{want Dr. Burns, uh, Marjorie Burns? I'm pleased to call} (\conv{476-021}) was corrected to \machine{Find Dr. Burns, Arthur Burns, I placed a call}, the words of the telephone recording of the same moment (\conv{001-061}); the author confirmed both by ear.
+
+\runin{Edits cited their evidence.} Of the corrected names in the Test set, 42.8\% cited Whisper's reading and 34.8\% the subject log; only 4.6\% cited the model's own knowledge.
 
 \subsection{Speakers}
 \label{sec:res-speakers}
 
-On the 130 Test conversations outside the classifier's training data (220,664 aligned words), the classifier named the speaker of 68.4\% of words, and \textbf{92.4\% of named words carried the speaker named in the FRUS transcript}. For the fourteen voices it was trained on, the figure was 95.9\%: 94.9\% for Nixon over 78,305 named words and 97.5\% for Kissinger over 50,743 (Figure~\ref{fig:corpus}c). Its cross-validated balanced accuracy, the average of its accuracy on each voice, was 87.2\%.
+On the 130 Test conversations outside the classifier's training data (220,664 aligned words), the classifier named the speaker of 68.4\% of words, and 92.4\% of named words carried the speaker named in the FRUS transcript. For the fourteen voices it was trained on, the figure was 95.9\%: 94.9\% for Nixon over 78,305 named words and 97.5\% for Kissinger over 50,743 (Figure~\ref{fig:corpus}c). Its cross-validated balanced accuracy, the average of its accuracy on each voice, was 87.2\%.
