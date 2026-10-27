@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 from correct import propagate  # noqa: E402
 from export_release import apply_edits_tracked, CORPUS  # noqa: E402
-from listener_fixes import apply_words, drop_tone_words  # noqa: E402
+from listener_fixes import apply_possessives, apply_words, drop_tone_words  # noqa: E402
 from score import norm_words  # noqa: E402
 
 SECTIONS = ROOT / "paper" / "arxiv" / "sections"
@@ -108,6 +108,7 @@ def final_words(conv: str) -> list[dict]:
     tones = json.loads((d / "parakeet_v5.json").read_text(encoding="utf-8")).get("tones") or []
     words, _ = drop_tone_words(words, tones)
     words, _ = apply_words(conv, words)
+    words, _ = apply_possessives(conv, words)
     return words
 
 

@@ -100,10 +100,10 @@ def callout(ax, xy, head, sub=None, key="corrected", align=(0, 1), coords="axes 
 
 
 def released_text(conv: str, year: str, t0: float, t1: float) -> str:
-    """The readable (cased, punctuated) text of release v1.1 for the word rows starting in [t0, t1] s."""
+    """The readable (cased, punctuated) text of release v1.2 for the word rows starting in [t0, t1] s."""
     import gzip
     import tarfile
-    tar = DATA_DIR / "release" / "nixon-corpus-v1.1" / f"nixon-corpus-v1.1-conversations-{year}.tar"
+    tar = DATA_DIR / "release" / "nixon-corpus-v1.2" / f"nixon-corpus-v1.2-conversations-{year}.tar"
     with tarfile.open(tar) as t:
         rec = json.load(gzip.open(t.extractfile(f"{conv}.json.gz")))
     return " ".join(w[0] for w in rec["words"] if t0 <= w[1] <= t1)
@@ -303,7 +303,7 @@ def fig_corpus():
     """Hours by month and location (a), speech per named voice (b), speaker accuracy on the held-out test (c)."""
     m = D["by_month_location"]
     st = json.loads((ROOT / "data/speaker_time.json").read_text(encoding="utf-8"))
-    man = json.loads((DATA_DIR / "release" / "nixon-corpus-v1.1" / "MANIFEST.json").read_text(encoding="utf-8"))
+    man = json.loads((DATA_DIR / "release" / "nixon-corpus-v1.2" / "MANIFEST.json").read_text(encoding="utf-8"))
     sp = json.loads((DATA_DIR / "frus_test" / "results.json").read_text(encoding="utf-8"))["speakers"]
     months = [k for k in m if "1971-02" <= k <= "1973-07"]
     fig = plt.figure(figsize=(W2, 74 * MM))

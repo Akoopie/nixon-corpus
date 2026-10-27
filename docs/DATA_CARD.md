@@ -1,4 +1,4 @@
-# Data card: The Nixon Corpus v1.1
+# Data card: The Nixon Corpus v1.2
 
 Speaker-annotated machine transcripts of the Nixon White House tape recordings released as individual conversations.
 Produced by `src/export_release.py` from the pipeline documented in `docs/METHODS.md` (cited below as "METHODS §n").
@@ -11,7 +11,7 @@ Author: Arvin Akoopie (ORCID 0000-0001-7833-4172).
 | Conversations | 19,426 (every conversation in the job list: NARA catalog tier A 13,398 and Nixon Library tier B 6,072, METHODS §1, plus the 5 recovered tapes below) |
 | Audio | 2,206.0 hours, 1971-02-16 to 1973-07-12 |
 | Conversations with words | 17,343 in the released (corrected) layer. 17,778 had recognized speech before correction; 1,648 had none (very short, withdrawn or silent), and the corrector then blanked 411 more entirely (every word replaced by `[unclear]`, usually a recognizer hallucination on silence; median length 13 s), so their `word_count` is 0. In 24 more, every word lay inside a withdrawn passage and was removed (section 6b) |
-| Words | 18,994,348 (14,450,682 with a per-word confidence) |
+| Words | 18,989,244 (14,450,682 with a per-word confidence) |
 | Locations (NARA codes) | WHT telephone 6,548; Oval Office 6,224; EOB 4,435; Camp David (CDHW 1,077, CDST 848, CDSD 78); Cabinet Room 216 |
 | Withdrawn passages | 841 conversations contain 1,242 withdrawn-tone spans (18.4 h, muted before transcription, METHODS §6); no words are kept inside them |
 | Scope | Every conversation released as an individual recording: 19,426 recordings and 2,206 of the 2,719 hours of conversation in the Nixon Library's finding aid (81.1%). 19,418 of them are among NARA's 22,723 cataloged conversations; the other 8 are Library files the catalog does not list. Of the 3,305 cataloged conversations not in the corpus, 3,261 have no per-conversation audio file (they exist only within whole-tape files) and 44 could not be fetched (METHODS §1, §7s). |
@@ -22,11 +22,11 @@ All parts are described and checksummed in `README.md`, `MANIFEST.json` and `SHA
 
 | File | Size | Contents |
 |---|---|---|
-| `nixon-corpus-v1.1-conversations-{1971,1972,1973}.tar` | 112 / 94 / 85 MB | one `<id>.json.gz` per conversation: the full record |
-| `nixon-corpus-v1.1-transcripts-txt.zip` | 46 MB | one `<id>.txt` per conversation, speaker turns with timestamps |
+| `nixon-corpus-v1.2-conversations-{1971,1972,1973}.tar` | 112 / 94 / 85 MB | one `<id>.json.gz` per conversation: the full record |
+| `nixon-corpus-v1.2-transcripts-txt.zip` | 46 MB | one `<id>.txt` per conversation, speaker turns with timestamps |
 | `metadata.csv` | 12 MB | one row per conversation |
 | `uncorrected_conversations.csv` | under 1 KB | the 6 conversations whose LLM correction failed or never ran (section 6) |
-| `nixon-corpus-v1.1-raw-{1971,1972,1973}.tar` (optional) | 153 / 124 / 114 MB | Parakeet v5 words with confidence, Whisper large-v3 words with probability, speaker segments |
+| `nixon-corpus-v1.2-raw-{1971,1972,1973}.tar` (optional) | 153 / 124 / 114 MB | Parakeet v5 words with confidence, Whisper large-v3 words with probability, speaker segments |
 | `MANIFEST.json`, `SHA256SUMS`, `README.md`, `DATA_CARD.md` | small | checksums, sizes, build checks |
 
 The whole release is about 0.8 GB. Files in the tars are gzip-compressed JSON, so a single conversation can be read
@@ -87,7 +87,7 @@ build was checked to reproduce it exactly. `word_count` counts tokens as the pip
 One row per conversation: `id, tape, date, start_time, end_time, start_iso, nara_location_code, nara_location, duration_s,
 word_count, text_layer, correction_status, edits_total, edits_applied, propagated_units, unclear_stretches,
 words_with_confidence, named_speaker_share, named_speakers, withdrawn_spans, withdrawn_seconds,
-words_dropped_in_tones, listener_fixes, audio_parts,
+words_dropped_in_tones, listener_fixes, possessives_restored, audio_parts,
 audio_alt_source, audio_urls, audio_fallback_urls, nara_participants, nara_summary, explorer_word_count, apply_check,
 token_check`. URLs within a field are separated by `|`. `named_speakers` lists classifier names with at least 20 words.
 The last three columns are build checks (section 7). Eight conversations are missing from NARA's manifest; they have a date
@@ -203,9 +203,13 @@ of a conversation's words carry a named speaker (63% of all words, `metadata.csv
 other conversations with words were corrected. The
 corrector's total cost was US$154.13 at batch prices (57.3M input and 19.4M output tokens); Google billed at its standard price, which makes US$308.26 (METHODS §7r).
 
-## 6b. Changes in v1.1
+## 6b. Changes in v1.1 and v1.2
 
-v1.1 is the first public release. It differs from the internal build v1.0 in two ways (METHODS §7s; code:
+v1.2 is the first public release; v1.1 was prepared but never published. v1.2 adds one change to v1.1:
+
+* **Possessives restored** (`src/possessives.py`, `docs/possessive_fixes.json`). Corrected words are stored normalized, so a possessive "'s" written by the correction model or a Whisper fill had become the word "is" ("agnew is phone"). Each such "is" after a word that can take a possessive was checked: where Whisper's raw output has the possessive form at that point, or where a grammar rule finds a possessive, it is joined back to the word ("agnew's phone"): 5,103 words in 2,354 conversations, 3,007 decided by Whisper's raw output and 2,096 by a grammar rule (the word after "is" is a common noun, not a name, title or time word; a real "is" is not followed by a bare noun). The rest keep "is". `stats.possessives_restored` counts them per record; each joined pair counts as one word, so v1.2 has 18,989,244 words (v1.1: 18,994,348, also one fewer for the correction by ear "agnew's" in 871-004). Repetition loops in the released layer stay at 265. Test scores are unchanged: the scorer's normalizer writes "'s" as "is".
+
+v1.1 differs from the internal build v1.0 in two ways (METHODS §7s; code:
 `src/listener_fixes.py`):
 
 * **Words over withdrawn passages removed.** The withdrawal tones were muted to silence before either recognizer ran,
@@ -229,7 +233,7 @@ score at the precision given.
 the original in every conversation (`apply_check`: 17,773 ok, 0 mismatches). The token count after edits, before the
 v1.1 changes, is compared with the pipeline's `corrected.json` (`token_check`: 17,771 ok; 2 differ by one word, 268-005
 and 611-004, because the display layer propagates name fixes across an `[unclear]` placeholder). Word counts equal
-`explorer.db` for 19,190 of 19,426 conversations; the 236 exceptions are the 227 conversations with words removed from
+`explorer.db` (before v1.2) for 19,190 of 19,426 conversations; the 236 exceptions are the 227 conversations with words removed from
 withdrawn passages (each differs by exactly `words_dropped_in_tones`), the 5 Parakeet-only tapes (0 in the explorer,
 14,278 words here), the 2 above, 916-019 (one word more, "paint a" for "faint") and 871-004 (one word fewer, "hum" deleted). Durations, dates and times match `explorer.db` in all 19,426. Every conversation is present in each archive
 and in `metadata.csv`; every archive opens; `SHA256SUMS` verifies.
@@ -244,9 +248,9 @@ context for correction only and is not redistributed.
 
 ## 9. How to cite
 
-> Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* (Version 1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23657174. Code: https://github.com/akoopie/nixon-corpus
+> Akoopie, Arvin. (2026). *The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model* (Version 1.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23657174. Code: https://github.com/akoopie/nixon-corpus
 
-BibTeX: `@dataset{nixon_corpus_2026, author = {Akoopie, Arvin}, title = {The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model}, year = {2026}, version = {1.1},
+BibTeX: `@dataset{nixon_corpus_2026, author = {Akoopie, Arvin}, title = {The Nixon Corpus: Speaker-Annotated Transcripts of the Nixon Tapes Using a Fine-Tuned Transformer Model}, year = {2026}, version = {1.2},
 doi = {10.5281/zenodo.23657174}, url = {https://doi.org/10.5281/zenodo.23657174}}`. Please also cite NARA and the Richard Nixon Presidential Library and Museum as the source
 of the recordings and metadata.
 

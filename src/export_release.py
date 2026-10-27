@@ -43,11 +43,11 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from correct import apply_edits, propagate  # noqa: E402
-from listener_fixes import apply_words, drop_tone_words, override, speaker_spans  # noqa: E402
+from listener_fixes import apply_possessives, apply_words, drop_tone_words, override, speaker_spans  # noqa: E402
 from paths import DATA_DIR  # noqa: E402
 from score import norm_words  # noqa: E402
 
-VERSION = "1.1"
+VERSION = "1.2"
 NAME = f"nixon-corpus-v{VERSION}"
 CORPUS = DATA_DIR / "corpus_v5"
 DB = DATA_DIR / "explorer" / "explorer.db"
@@ -211,6 +211,7 @@ def _process(cid, job, row, out_dir, d):
     words, _ = drop_tone_words(words, pk.get("tones") or [])
     n_tone = pre_tokens - n_real(words)
     words, fixes = apply_words(cid, words)
+    words, n_poss = apply_possessives(cid, words)  # v1.2: "agnew is phone" -> "agnew's phone"
     rows = display_rows(words, cased, speaker)
     n_unclear = sum(1 for r in rows if r[0] == "[unclear]" and r[5] == "llm-edit")
     n_tokens = n_real(words)
@@ -276,7 +277,8 @@ def _process(cid, job, row, out_dir, d):
                        "unclear_stretches": n_unclear, "failed_parts": [f.get("part") for f in failed]},
         "listener_corrections": {"words": [{k: f[k] for k in ("at", "old", "new", "reason")} for f in fixes],
                                  "speaker_spans": [{k: s[k] for k in ("start", "end", "speaker", "reason")} for s in spans]},
-        "stats": {"word_count": word_count, "words_dropped_in_tones": n_tone, "display_units": len(rows),
+        "stats": {"word_count": word_count, "words_dropped_in_tones": n_tone, "possessives_restored": n_poss,
+                  "display_units": len(rows),
                   "words_with_confidence": len(confs),
                   "named_speaker_words": sum(k for n, k in sp_words.items() if n != "unknown")},
         "speaker_segments_fields": ["start", "end", "speaker", "possibly", "confidence"],
@@ -317,7 +319,7 @@ def _process(cid, job, row, out_dir, d):
         "named_speaker_share": round(rec["stats"]["named_speaker_words"] / len(rows), 3) if rows else "",
         "named_speakers": ";".join(n for n, _ in named),
         "withdrawn_spans": len(tones), "withdrawn_seconds": round(sum(b - a for a, b in tones), 1),
-        "words_dropped_in_tones": n_tone, "listener_fixes": len(fixes) + len(spans),
+        "words_dropped_in_tones": n_tone, "listener_fixes": len(fixes) + len(spans), "possessives_restored": n_poss,
         "audio_parts": len(job["urls"]), "audio_alt_source": row["alt_source"],
         "audio_urls": "|".join(job["urls"]), "audio_fallback_urls": "|".join("+".join(f) for f in job.get("fallbacks", [])),
         "nara_participants": "; ".join(job["participants"]), "nara_summary": row["summary"],
@@ -439,6 +441,8 @@ def build(limit: int | None, workers: int) -> int:
         "convs_with_words_dropped_in_tones": sum(1 for r in meta if r["words_dropped_in_tones"]),
         "convs_emptied_by_tones": sum(1 for r in meta if r["words_dropped_in_tones"] and not r["word_count"]),
         "listener_fixes": sum(r["listener_fixes"] for r in meta),
+        "possessives_restored": sum(r["possessives_restored"] for r in meta),
+        "convs_with_possessives_restored": sum(1 for r in meta if r["possessives_restored"]),
         "audio_hours": round(sum(r["duration_s"] or 0 for r in meta) / 3600, 1),
         "text_layer": dict(Counter(r["text_layer"] for r in meta)),
         "correction_status": dict(Counter(r["correction_status"] for r in meta)),
@@ -455,7 +459,7 @@ def build(limit: int | None, workers: int) -> int:
     (root / "SHA256SUMS").write_text("".join(f"{h}  {n}\n" for n, h in sums.items()), encoding="utf-8", newline="\n")
     print(json.dumps({k: manifest[k] for k in ("conversations", "with_words", "words", "words_dropped_in_tones",
                                                 "convs_with_words_dropped_in_tones", "convs_emptied_by_tones",
-                                                "listener_fixes", "audio_hours",
+                                                "listener_fixes", "possessives_restored", "audio_hours",
                                                 "text_layer", "correction_status", "checks")}, indent=1))
     for f in manifest["files"]:
         print(f"  {f['name']:52s} {f['size']:>10s}  {f['files']} files")
@@ -512,9 +516,15 @@ records the failure). {st.get('not-run', 0)} further conversations with Parakeet
 For these the text is the Parakeet v5 + Whisper merge; the field `correction.status` in each file and the column
 `correction_status` in `metadata.csv` say which case applies. `uncorrected_conversations.csv` lists them.
 
+## Release v1.2
+
+This is the first public release. Release v1.1 was prepared but never published; v1.2 adds one change to it:
+
+* **Possessives restored.** Corrected words are stored in normalized form, where a possessive "'s" written by the correction model or a Whisper fill had become the word "is" ("agnew is phone"). {m.get('possessives_restored', 0):,} such words in {m.get('convs_with_possessives_restored', 0):,} conversations are joined back ("agnew's phone"): where Whisper's raw output has the possessive form, or where the word after "is" is a common noun (a real "is" is not followed by a bare noun; names, titles and time words excluded) (`src/possessives.py`, `docs/possessive_fixes.json`; `stats.possessives_restored` in each record).
+
 ## Release v1.1
 
-This is the first public release. It differs from the internal build v1.0 in two ways (METHODS 7s):
+It differs from the internal build v1.0 in two ways (METHODS 7s):
 
 * **Words over withdrawn passages removed.** NARA's withdrawal tones were muted to silence before transcription, so any
   word placed inside one was invented. {m.get('words_dropped_in_tones', 0):,} such words in

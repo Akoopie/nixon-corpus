@@ -33,7 +33,7 @@ from urllib.parse import parse_qs, unquote, urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from correct import apply_edits, propagate  # noqa: E402
-from listener_fixes import apply_words, drop_tone_words, override, speaker_spans  # noqa: E402
+from listener_fixes import apply_possessives, apply_words, drop_tone_words, override, speaker_spans  # noqa: E402
 from paths import DATA_DIR  # noqa: E402
 
 DB = DATA_DIR / "explorer" / "explorer.db"
@@ -107,6 +107,7 @@ def display_words(conv: str) -> tuple[list[dict], dict]:
     # as in the release from v1.1 (listener_fixes.py): no words inside withdrawal tones; corrections heard by ear
     words, _ = drop_tone_words(words, pk.get("tones") or [])
     words, _ = apply_words(conv, words)
+    words, _ = apply_possessives(conv, words)
     spans = speaker_spans(conv)
     segs = sorted(json.loads((d / "speakers_v4.json").read_text(encoding="utf-8")), key=lambda s: s["start"]) \
         if (d / "speakers_v4.json").exists() else []

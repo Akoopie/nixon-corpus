@@ -55,6 +55,7 @@ rebuild the corpus and may refer to inputs that exist only in the original worki
 | `name_speakers.py` | 5 Speaker naming | 5 | pipeline |
 | `paper_extra.py` | 9 Name precision and two-recognizer ceiling | 7r | pipeline |
 | `paths.py` | Shared | 8 | pipeline |
+| `possessives.py` | (unmapped) | - | pipeline |
 | `preflight.py` | Pod safety checks | 7g | pipeline |
 | `pseudo_labels.py` | 4 Fine-tuning data (self-training) | 7e | one-off experiment |
 | `qc.py` | 3 Whisper failure checks | 3 | pipeline |

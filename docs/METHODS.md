@@ -1833,3 +1833,12 @@ classifier and the transcripts.
   reviewed.
 - **Test set:** FRUS prints excerpts its editors chose, mostly foreign-policy meetings in the Oval Office (§7o).
 - **References:** the human references are themselves imperfect, with about 94% agreement between versions (§2).
+
+## Release v1.2: possessives restored
+
+Corrected words are stored normalized (Whisper's English normalizer writes "'s" as "is"), so possessives written by
+the correction model or a Whisper fill read as "is" ("agnew is phone"). `src/possessives.py` listed every such "is"
+after a word that can take a possessive (21,239 candidates). Whisper's raw output decided 8,149 (3,007 "X's" joined,
+5,142 "X is" kept); for the other 13,090 a grammar rule joined the pair when the next word is a common noun (NLTK
+tagger; names, titles and time words excluded): 2,096. In total 5,103 possessives in 2,354 conversations are joined
+(`docs/possessive_fixes.json`). Release v1.2 has 18,989,244 words; loops (265) and test scores are unchanged.

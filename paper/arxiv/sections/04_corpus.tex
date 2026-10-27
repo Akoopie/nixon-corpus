@@ -1,18 +1,18 @@
 \section{The corpus}
 \label{sec:corpus}
 
-Release 1.1 of the corpus (Table~\ref{tab:corpus}, Figure~\ref{fig:corpus}) was packaged as one machine-readable JSON record per conversation. Each record contained NARA's metadata and subject log, the audio sources, the withdrawn spans, the speaker segments, and every word with its timing, speaker, confidence and source. The source recorded whether a word came from Parakeet, both recognizers, a Whisper fill, a model edit or a correction by ear. Each edit was stored with the words it replaced and the reason for the change. Plain-text transcripts and the raw output of each recognizer were also included. A browsing application, included in the repository, was built to present the corpus by day, conversation and person and to play each transcript in sync with the audio; no language model wrote its text.
+Release 1.2 of the corpus (Table~\ref{tab:corpus}, Figure~\ref{fig:corpus}) was packaged as one machine-readable JSON record per conversation. Each record contained NARA's metadata and subject log, the audio sources, the withdrawn spans, the speaker segments, and every word with its timing, speaker, confidence and source. The source recorded whether a word came from Parakeet, both recognizers, a Whisper fill, a model edit or a correction by ear. Each edit was stored with the words it replaced and the reason for the change. Plain-text transcripts and the raw output of each recognizer were also included. A browsing application, included in the repository, was built to present the corpus by day, conversation and person and to play each transcript in sync with the audio; no language model wrote its text.
 
 \begin{table}[t]
 \centering
-\caption{The Nixon Corpus, release 1.1.}
+\caption{The Nixon Corpus, release 1.2.}
 \label{tab:corpus}
 \small
 \begin{tabularx}{\linewidth}{@{}l L@{}}
 \toprule
 Conversations & 19,426 (February 16, 1971 -- July 12, 1973), 17,343 with words \\
 Audio & 2,206 hours: 6,548 telephone, 6,224 Oval Office, 4,435 EOB, 2,003 Camp David, 216 Cabinet Room \\
-Words & 18,994,348, each with start and end time, source and confidence; every model edit marked and reversible \\
+Words & 18,989,244, each with start and end time, source and confidence; every model edit marked and reversible \\
 Speakers & 63\% of words named; of 1,461 hours of scored speech, 1,023 named (Nixon 637, Haldeman 99, Kissinger 79) \\
 Context & NARA date and location for every conversation, participants for all but 35, subject log for 94\% \\
 Format & JSON (gzip), plain text, metadata table, raw layers, checksums; 776\,MB \\

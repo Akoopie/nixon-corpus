@@ -9,7 +9,7 @@ day's other conversations, and names fourteen principal speakers with a voicepri
 
 To our knowledge this is the first publicly documented speech recognizer fine-tuned on the Nixon tapes. The corpus
 covers every conversation released as an individual recording: **19,426 conversations, 2,206 hours**, about 19
-million words (release v1.1).
+million words (release v1.2).
 
 **Paper:** [`paper/arxiv/main.pdf`](paper/arxiv/main.pdf) (LaTeX source in [`paper/arxiv/`](paper/arxiv/)).
 **Data card:** [`docs/DATA_CARD.md`](docs/DATA_CARD.md).
@@ -53,16 +53,16 @@ for watching" (METHODS 7p).
 
 ## Data
 
-Release **v1.1** (about 0.8 GB) is archived on Zenodo at **https://doi.org/10.5281/zenodo.23657174**, separately from this repository. It
+Release **v1.2** (about 0.8 GB) is archived on Zenodo at **https://doi.org/10.5281/zenodo.23657174**, separately from this repository. It
 contains, as described in [`docs/DATA_CARD.md`](docs/DATA_CARD.md):
 
 | File | Contents |
 |---|---|
-| `nixon-corpus-v1.1-conversations-{1971,1972,1973}.tar` | one `<id>.json.gz` per conversation: words, timings, speakers, confidences, edit lists, turns |
-| `nixon-corpus-v1.1-transcripts-txt.zip` | one readable `<id>.txt` per conversation, speaker turns with timestamps |
+| `nixon-corpus-v1.2-conversations-{1971,1972,1973}.tar` | one `<id>.json.gz` per conversation: words, timings, speakers, confidences, edit lists, turns |
+| `nixon-corpus-v1.2-transcripts-txt.zip` | one readable `<id>.txt` per conversation, speaker turns with timestamps |
 | `metadata.csv` | one row per conversation (date, NARA location and participants, duration, word count, correction status) |
 | `uncorrected_conversations.csv` | the 6 conversations whose correction failed or never ran |
-| `nixon-corpus-v1.1-raw-{1971,1972,1973}.tar` (optional) | raw Parakeet v5 and Whisper layers and speaker segments |
+| `nixon-corpus-v1.2-raw-{1971,1972,1973}.tar` (optional) | raw Parakeet v5 and Whisper layers and speaker segments |
 | `MANIFEST.json`, `SHA256SUMS`, `README.md`, `DATA_CARD.md` | checksums and documentation |
 
 The release has 19,426 conversations, of which 17,343 have words in the final layer. `data/sample/` in this repository
@@ -74,7 +74,7 @@ Reading one conversation:
 
 ```python
 import gzip, json, tarfile
-tar = tarfile.open("nixon-corpus-v1.1-conversations-1973.tar")
+tar = tarfile.open("nixon-corpus-v1.2-conversations-1973.tar")
 rec = json.load(gzip.open(tar.extractfile("871-004.json.gz")))
 for text, start, end, speaker, conf, source, edit in rec["words"][:5]:
     print(start, speaker, text)

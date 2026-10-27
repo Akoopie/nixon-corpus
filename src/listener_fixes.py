@@ -33,6 +33,35 @@ def _load() -> dict:
     return json.loads(FILE.read_text(encoding="utf-8")) if FILE.exists() else {"words": [], "speakers": []}
 
 
+POSSESSIVES = FILE.parent / "possessive_fixes.json"
+
+
+@lru_cache(maxsize=1)
+def _possessives() -> dict:
+    out: dict[str, list[dict]] = {}
+    if POSSESSIVES.exists():
+        for f in json.loads(POSSESSIVES.read_text(encoding="utf-8"))["fixes"]:
+            out.setdefault(f["conv"], []).append(f)
+    return out
+
+
+def apply_possessives(conv: str, words: list[dict]) -> tuple[list[dict], int]:
+    """Release v1.2 (src/possessives.py): join each listed "is" to the word before it as "word's". The corrected words
+    are stored normalized, where a possessive "'s" became "is"; the joined token keeps the first word's source."""
+    todo = {round(f["at"], 2): f["word"] for f in _possessives().get(conv, [])}
+    if not todo:
+        return words, 0
+    out, n = [], 0
+    for x in words:
+        word = todo.get(round(x.get("s") or -1, 2))
+        if x["w"] == "is" and word and out and out[-1]["w"] == word:
+            out[-1] = dict(out[-1], w=f"{word}'s", e=x["e"])
+            n += 1
+            continue
+        out.append(x)
+    return out, n
+
+
 def apply_words(conv: str, words: list[dict]) -> tuple[list[dict], list[dict]]:
     """Replace each listened token with the heard words, spread evenly over its span, or delete it when `new` is empty;
     returns (words, fixes applied). New tokens carry src 'listener' and what they replaced."""
