@@ -7,11 +7,11 @@ from the corpus runs through every stage: 018-078 (January 13, 1972, telephone),
 wrote "alderman" (confidence 0.002), Whisper "it's bob haldeman"; the Whisper row shows only Whisper's readings that
 differ from Parakeet's, each under the word it differs from, as the merged layer attaches them ("it's" for "this",
 "haldeman" for "alderman"); Argon's edit is alderman -> haldeman, reason "whisper"; the classifier picks Haldeman among
-its fourteen voices (the other party, General Hughes, has no class). Every word, time and label below is copied from the
-corpus files (paper/check_quotes.py checks the text); words are shown in proper case (the layers store them
-lowercased) for legibility. The audio column shows a waveform above a cartoon of the reel-to-reel tape the system
-recorded on. Connectors run horizontally and vertically only, and every arrowhead points right. The bar strip at the
-bottom is read from the evaluation outputs.
+its fourteen voices (the other party, General Hughes, has no class), and its arrow ends at a bracket under the merged
+words that labels them Haldeman (speaker labels were attached to the transcript, not sent to the language model). Every
+word, time and label below is copied from the corpus files (paper/check_quotes.py checks the text); words are shown in
+proper case (the layers store them lowercased) for legibility. Connectors run horizontally and vertically only, and
+every arrowhead points right. The bar strip at the bottom is read from the evaluation outputs.
 """
 import json
 import math
@@ -33,7 +33,6 @@ CO, CO_FILL = "#1baf7a", "#e2f5ee"        # correction / released corpus
 VP, VP_FILL = "#e87ba4", "#fbe8f0"        # voiceprints
 LM, LM_SUB = "#6741c4", "#e4dbfa"         # the large language model: the one solid box
 COOL = ["#2a78d6", "#16a3a0", "#58b4e6"]  # accent lines in the waveform
-TAPE, REEL, REEL_FILL = "#7a5230", "#6f6f6f", "#f3f3f3"
 FONT = FontProperties(family="Arial")  # findfont falls back to a default sans if Arial is missing
 FONT_B = FontProperties(family="Arial", weight="bold")
 SMALL = 5.6                               # smallest size drawn: 5 pt once 183 mm is scaled to the 165 mm text width
@@ -109,18 +108,6 @@ def doc(x, y, w=6.0, h=7.6, color=GRAY):
                 solid_capstyle="round")
 
 
-def reel(x, y, pack, R=5.0):
-    """A cartoon tape reel: flange, wound tape, three windows, hub."""
-    ax.add_patch(plt.Circle((x, y), R, fc=REEL_FILL, ec=REEL, lw=0.6, zorder=3))
-    ax.add_patch(plt.Circle((x, y), pack, fc=TAPE, ec="none", zorder=4))
-    for a in (90, 210, 330):
-        t = math.radians(a)
-        ax.add_patch(plt.Circle((x + 3.0 * math.cos(t), y + 3.0 * math.sin(t)), 0.95, fc=REEL_FILL, ec=REEL, lw=0.4,
-                                zorder=5))
-    ax.add_patch(plt.Circle((x, y), 1.4, fc=REEL_FILL, ec=REEL, lw=0.5, zorder=6))
-    ax.add_patch(plt.Circle((x, y), 0.45, fc=REEL, ec="none", zorder=7))
-
-
 # ---- stage headers -----------------------------------------------------------------------------------------
 TOP = H - 3.5
 X2, X3, X4, X5 = 36.0, 84.0, 122.5, 157.5
@@ -130,8 +117,8 @@ step(X3, TOP, 3, "Merge")
 step(X4, TOP, 4, "Archival correction")
 step(X5, TOP, 5, "Corpus")
 
-# ---- 1 audio: the waveform, and below it the reel-to-reel tape it was recorded on ----------------------------
-cx, cy = 15.5, 62.0
+# ---- 1 audio -----------------------------------------------------------------------------------------------
+cx, cy = 15.5, 54.0
 n = 46
 for i in range(n):
     t = i / (n - 1)
@@ -139,20 +126,11 @@ for i in range(n):
     amp = env * (0.45 + 0.55 * abs(math.sin(i * 1.7) * math.cos(i * 0.53)))
     x = 3.0 + t * 25.0
     col = [GRAY, COOL[0], "#7d7d7d", COOL[1], COOL[2], "#7d7d7d"][i % 6]
-    ax.plot([x, x], [cy - 6.5 * amp, cy + 6.5 * amp], color=col, lw=0.6, solid_capstyle="round")
-RY, XL, XR = 46.0, 9.5, 21.5
-reel(XL, RY, 4.4)   # supply reel, nearly full
-reel(XR, RY, 2.7)   # take-up reel
-TY = RY - 6.6       # tape path runs under the reels, over two guides and the head
-ax.plot([XL, XL + 3.2, XR - 3.2, XR], [RY - 4.4, TY, TY, RY - 2.7], color=TAPE, lw=0.8, zorder=4,
-        solid_joinstyle="round")
-for gx in (XL + 3.2, XR - 3.2):
-    ax.add_patch(plt.Circle((gx, TY - 0.75), 0.75, fc=REEL_FILL, ec=REEL, lw=0.5, zorder=3))
-ax.add_patch(Rectangle((cx - 1.3, TY - 1.9), 2.6, 1.9, fc="#bdbdbd", ec=REEL, lw=0.5, zorder=3))
-text(cx, 33.6, "White House tapes", size=6.5, weight="bold", ha="center")
-text(cx, 30.6, "19,426 conversations", size=5.8, color=MID, ha="center")
-text(cx, 28.0, "2,206 hours, 1971–73", size=5.8, color=MID, ha="center")
-text(cx, 25.4, "withdrawals muted", size=5.8, color=MID, ha="center")
+    ax.plot([x, x], [cy - 7.5 * amp, cy + 7.5 * amp], color=col, lw=0.6, solid_capstyle="round")
+text(cx, cy - 11.4, "White House tapes", size=6.5, weight="bold", ha="center")
+text(cx, cy - 14.4, "19,426 conversations", size=5.8, color=MID, ha="center")
+text(cx, cy - 17.0, "2,206 hours, 1971–73", size=5.8, color=MID, ha="center")
+text(cx, cy - 19.6, "withdrawals muted", size=5.8, color=MID, ha="center")
 
 # ---- 2 recognizers -----------------------------------------------------------------------------------------
 rows = {"pk": 66.5, "wh": 48.0, "vp": 28.5}
@@ -170,7 +148,7 @@ chip(X2, rows["wh"], "It's", WH, WH_FILL)
 end_wh = chip(x_name, rows["wh"], "Haldeman", WH, WH_FILL, w=w_name)
 
 text(X2, rows["vp"] + 7.4, "Voiceprint classifier", size=6.5, weight="bold")
-text(X2, rows["vp"] + 4.6, "14 known voices, narrowed to NARA's list of who was present", size=5.8, color=MID)
+text(X2, rows["vp"] + 4.6, "14 voices; NARA's list of who was present", size=5.8, color=MID)
 x = X2
 for name in ["Nixon", "Haldeman", "Kissinger", "Ehrlichman"]:
     picked = name == "Haldeman"
@@ -209,6 +187,19 @@ XJ = X3 - 3.5
 assert end_wh + 2.0 < XJ, "Whisper row runs into the merge junction"
 route([(end_pk + 1.0, rows["pk"]), (XJ, rows["pk"]), (XJ, YM), (X3 - 1.0, YM)])
 route([(end_wh + 1.0, rows["wh"]), (XJ, rows["wh"]), (XJ, YM - 4.2), (X3 - 1.0, YM - 4.2)])
+# the classifier's label: a bracket under the merged words, named Haldeman, reached by the classifier's arrow
+YB = YM - 7.2                                   # bracket line, just under Whisper's attached readings
+ax.plot([X3, X3, end_m, end_m], [YB + 0.9, YB, YB, YB + 0.9], color=VP, lw=0.7, zorder=3, solid_joinstyle="miter")
+xb = (X3 + end_m) / 2
+ax.plot([xb, xb], [YB, YB - 0.8], color=VP, lw=0.7, zorder=3)
+YS = YB - 3.0                                   # the speaker label
+lab_w = 1.6 + 0.6 + tw("Haldeman", 5.8, bold=True)
+xs = xb - lab_w / 2
+ax.add_patch(plt.Circle((xs + 0.8, YS), 0.8, color=VP, zorder=4))
+text(xs + 2.2, YS, "Haldeman", size=5.8, color=VP, weight="bold")
+XA = end_vp + 1.6                               # the arrow rises between the classifier row and the label
+assert XA + 2.0 < xs - 0.6, "no room for the speaker arrow to turn into its label"
+route([(end_vp + 1.0, rows["vp"]), (XA, rows["vp"]), (XA, YS), (xs - 0.6, YS)], color=VP)
 
 # ---- 4 correction: the large language model, the one solid box -------------------------------------------------
 Y4, H4 = 40.5, 12.0
@@ -275,12 +266,6 @@ text(X5 + Wc / 2, Yc + 2.2, "raw layers · edit list", size=SMALL, color=MID, ha
 text(X5 + Wc / 2, Yc + Hc + 3.6, "Released transcripts", size=6.5, weight="bold", ha="center")
 assert X4 + BW + 2.6 < X5, "no room for the arrow into the corpus"
 route([(X4 + BW + 0.6, YL), (X5 - 0.6, YL)])
-# speakers run along the bottom, up beside the corpus box and into it from the left
-XV = X5 - 2.6
-YV = Yc + 6.0
-assert X4 + BW + 1.2 < XV, "speaker line touches the edit box"
-route([(end_vp + 1.0, rows["vp"]), (XV, rows["vp"]), (XV, YV), (X5 - 0.6, YV)], color=VP)
-text((end_vp + X4) / 2 + 3.0, rows["vp"] - 2.0, "a speaker label for each segment", size=5.8, color=VP, ha="center")
 
 # ---- bottom strip: the measured result, as bars (read from the evaluation outputs) ------------------------------
 A = mf.D["accuracy"]["test"]

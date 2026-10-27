@@ -6,7 +6,7 @@ Each conversation was transcribed by two recognizers: Parakeet, fine-tuned on th
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{figures/fig1_pipeline.pdf}
-  \caption{The pipeline, followed through one moment of the corpus: Haldeman giving his name on the telephone (\conv{018-078}, January 13, 1972). Parakeet was unsure of \machine{Alderman} (dashed); Whisper heard \machine{It's Bob Haldeman} (only its readings that differed from Parakeet's are shown); the large language model adopted Whisper's reading and cited it; the classifier picked Haldeman among its fourteen voices. Edits are underlined in the released transcript. Bottom: accuracy on the 165 held-out test conversations (speaker labels: the 130 outside the classifier's training data).}
+  \caption{The pipeline, followed through one moment of the corpus: Haldeman giving his name on the telephone (\conv{018-078}, January 13, 1972). Parakeet was unsure of \machine{Alderman} (dashed); Whisper heard \machine{It's Bob Haldeman} (only its readings that differed from Parakeet's are shown); the large language model adopted Whisper's reading and cited it; the classifier picked Haldeman among its fourteen voices and labeled the merged words (bracket). Edits are underlined in the released transcript. Bottom: accuracy on the 165 held-out test conversations (speaker labels: the 130 outside the classifier's training data).}
   \label{fig:pipeline}
 \end{figure}
 
