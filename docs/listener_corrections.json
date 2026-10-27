@@ -4,7 +4,11 @@
   {"conv": "916-019", "at": 782.32, "old": "faint", "new": "paint a", "release": "1.1",
    "reason": "author's listening, 2026-10-24: Nixon says \"i do not need to paint a picture\""},
   {"conv": "871-004", "at": 336.08, "old": "hum", "new": "", "release": "1.1",
-   "reason": "author's listening, 2026-10-25: no \"hum\" between \"handling himself well\" and \"what he said yesterday\""}
+   "reason": "author's listening, 2026-10-25: no \"hum\" between \"handling himself well\" and \"what he said yesterday\""},
+  {"conv": "871-004", "at": 308.4, "old": "agnew", "new": "agnew's", "release": "1.2",
+   "reason": "author, 2026-10-26: Nixon says \"vice president agnew's phone\"; the correction step wrote the normalized form \"agnew is\""},
+  {"conv": "871-004", "at": 308.77, "old": "is", "new": "", "release": "1.2",
+   "reason": "author, 2026-10-26: the \"is\" of the normalized \"agnew is phone\" (see the previous fix)"}
  ],
  "speakers": [
   {"conv": "916-019", "start": 589.25, "end": 675.3, "speaker": "Nixon", "release": "1.1",

@@ -22,3 +22,9 @@ The spans were heard as 9:50-11:15, about 12:55-13:20 and about 13:20-13:40; the
 boundaries nearest those times.
 
 Also in v1.1: the 675 words in 227 conversations that sat inside muted withdrawal tones (METHODS §7p) are removed.
+
+## Logged for v1.2
+
+| Conversation | Time | Was | Now | Note |
+|---|---|---|---|---|
+| 871-004 | 5:08 (308.4 s) | "vice president agnew is phone" | "vice president agnew's phone" | The correction step fixed Parakeet's "edward small" but wrote the normalized "agnew is"; reported by the author 2026-10-26. The website and explorer apply it now; release data keeps v1.1 until v1.2. |

@@ -48,7 +48,7 @@ QUOTES = [
      "that you know this jolly well bullshit and all that sort of thing that you were that it was highly improper for "
      "you to be present i am god damn it we are not going to let him get away with that", "7.1 Dean passage"),
     ("871-004", FINAL, "that in the 1968 campaign that the fbi at the request of the white house never say whom at the "
-     "request of the white house it is an electronic the electronic surveillance of vice president agnew is phone when "
+     "request of the white house it is an electronic the electronic surveillance of vice president agnew's phone when "
      "he was in phoenix is this true or not", "7.1 Agnew passage"),
     # Section 7.2, 916-019
     ("916-019", FINAL, "the problem with the memcon does not involve you but it does potentially involve john according "
