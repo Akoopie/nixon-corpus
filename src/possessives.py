@@ -156,6 +156,9 @@ def rule() -> int:
         if k >= len(toks):
             continue
         nxt = toks[k]
+        if nxt in ("sake", "sakes"):  # "for god's sake", "for heaven's sake": never a real "is"
+            yes.append(i)
+            continue
         if nxt in COPULA_NOUNS or not nxt.isalpha() or lex.get(nxt, nxt)[:1].isupper():
             continue
         if nltk.pos_tag(toks)[k][1] in ("NN", "NNS"):

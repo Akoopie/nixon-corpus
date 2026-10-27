@@ -873,6 +873,12 @@
 },
 {
 "conv": "012-068",
+"at": 131.81,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "012-068",
 "at": 403.31,
 "word": "christ",
 "by": "whisper"
@@ -974,6 +980,12 @@
 "by": "whisper"
 },
 {
+"conv": "014-026",
+"at": 19.09,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "014-047",
 "at": 14.84,
 "word": "ollie",
@@ -1056,6 +1068,12 @@
 "at": 493.16,
 "word": "tom",
 "by": "whisper"
+},
+{
+"conv": "014-140",
+"at": 421.01,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "014-140",
@@ -2475,6 +2493,12 @@
 },
 {
 "conv": "032-127",
+"at": 87.84,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "032-127",
 "at": 656.6,
 "word": "mcgovern",
 "by": "whisper"
@@ -2715,6 +2739,12 @@
 },
 {
 "conv": "035-078",
+"at": 82.75,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "035-078",
 "at": 825.79,
 "word": "truman",
 "by": "whisper"
@@ -2808,6 +2838,12 @@
 "at": 76.19,
 "word": "christ",
 "by": "whisper"
+},
+{
+"conv": "036-049",
+"at": 71.7,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "036-075",
@@ -3809,6 +3845,12 @@
 "conv": "049-012",
 "at": 1435.52,
 "word": "jerry",
+"by": "rule"
+},
+{
+"conv": "049-012",
+"at": 2538.39,
+"word": "agreement",
 "by": "rule"
 },
 {
@@ -6542,6 +6584,12 @@
 "by": "whisper"
 },
 {
+"conv": "198-025",
+"at": 191.78,
+"word": "god",
+"by": "rule"
+},
+{
 "conv": "199-006",
 "at": 284.77,
 "word": "romney",
@@ -7269,6 +7317,12 @@
 },
 {
 "conv": "246-007",
+"at": 4103.0,
+"word": "time",
+"by": "rule"
+},
+{
+"conv": "246-007",
 "at": 5366.75,
 "word": "macarthur",
 "by": "whisper"
@@ -7410,6 +7464,12 @@
 "at": 2029.12,
 "word": "brock",
 "by": "whisper"
+},
+{
+"conv": "249-003",
+"at": 93.66,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "249-006",
@@ -8052,6 +8112,12 @@
 "at": 230.53,
 "word": "smith",
 "by": "whisper"
+},
+{
+"conv": "282-035",
+"at": 52.31,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "283-018",
@@ -9284,6 +9350,12 @@
 "by": "rule"
 },
 {
+"conv": "329-025",
+"at": 296.87,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "329-035",
 "at": 63.75,
 "word": "commander",
@@ -9740,6 +9812,12 @@
 "by": "whisper"
 },
 {
+"conv": "348-013",
+"at": 21.89,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "348-015",
 "at": 3144.72,
 "word": "mcgovern",
@@ -9906,6 +9984,12 @@
 "at": 180.03,
 "word": "christ",
 "by": "whisper"
+},
+{
+"conv": "354-031",
+"at": 2265.56,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "354-031",
@@ -10821,6 +10905,12 @@
 },
 {
 "conv": "390-012",
+"at": 37.28,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "390-012",
 "at": 109.44,
 "word": "today",
 "by": "whisper"
@@ -11606,6 +11696,12 @@
 "by": "whisper"
 },
 {
+"conv": "423-003",
+"at": 4926.93,
+"word": "god",
+"by": "rule"
+},
+{
 "conv": "423-011",
 "at": 2110.29,
 "word": "mccord",
@@ -12062,6 +12158,12 @@
 "by": "rule"
 },
 {
+"conv": "432-037",
+"at": 2317.84,
+"word": "god",
+"by": "rule"
+},
+{
 "conv": "433-001",
 "at": 31.84,
 "word": "haldeman",
@@ -12434,9 +12536,21 @@
 "by": "rule"
 },
 {
+"conv": "440-038",
+"at": 16.86,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "442-015",
 "at": 678.32,
 "word": "goldwater",
+"by": "rule"
+},
+{
+"conv": "442-021",
+"at": 230.41,
+"word": "christ",
 "by": "rule"
 },
 {
@@ -12602,6 +12716,12 @@
 "by": "rule"
 },
 {
+"conv": "448-005",
+"at": 365.56,
+"word": "god",
+"by": "rule"
+},
+{
 "conv": "448-007",
 "at": 103.17,
 "word": "henry",
@@ -12611,6 +12731,12 @@
 "conv": "448-007",
 "at": 117.69,
 "word": "fulbright",
+"by": "rule"
+},
+{
+"conv": "448-007",
+"at": 118.89,
+"word": "god",
 "by": "rule"
 },
 {
@@ -12705,6 +12831,12 @@
 },
 {
 "conv": "452-004",
+"at": 1465.96,
+"word": "deficit",
+"by": "rule"
+},
+{
+"conv": "452-004",
 "at": 4964.8,
 "word": "heath",
 "by": "whisper"
@@ -12750,6 +12882,12 @@
 "at": 2006.19,
 "word": "klein",
 "by": "whisper"
+},
+{
+"conv": "455-002",
+"at": 222.88,
+"word": "volpe",
+"by": "rule"
 },
 {
 "conv": "455-002",
@@ -13898,6 +14036,12 @@
 "by": "whisper"
 },
 {
+"conv": "480-003",
+"at": 2907.41,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "480-010",
 "at": 572.7,
 "word": "muskie",
@@ -14166,6 +14310,12 @@
 "at": 28.21,
 "word": "henry",
 "by": "whisper"
+},
+{
+"conv": "487-019",
+"at": 1682.85,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "487-019",
@@ -14751,6 +14901,12 @@
 },
 {
 "conv": "500-034",
+"at": 217.24,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "500-034",
 "at": 316.28,
 "word": "board",
 "by": "whisper"
@@ -15005,6 +15161,12 @@
 "conv": "504-013",
 "at": 3555.28,
 "word": "bruce",
+"by": "rule"
+},
+{
+"conv": "504-013",
+"at": 4524.68,
+"word": "christ",
 "by": "rule"
 },
 {
@@ -15318,6 +15480,12 @@
 "at": 325.55,
 "word": "wheeler",
 "by": "whisper"
+},
+{
+"conv": "512-005",
+"at": 1967.6,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "512-012",
@@ -15902,6 +16070,12 @@
 "by": "whisper"
 },
 {
+"conv": "519-014",
+"at": 2202.0,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "519-015",
 "at": 686.71,
 "word": "berlin",
@@ -16163,6 +16337,12 @@
 "conv": "527-012",
 "at": 4265.72,
 "word": "ceasefire",
+"by": "rule"
+},
+{
+"conv": "527-012",
+"at": 5634.61,
+"word": "christ",
 "by": "rule"
 },
 {
@@ -17948,6 +18128,12 @@
 "by": "whisper"
 },
 {
+"conv": "578-002",
+"at": 1690.44,
+"word": "heaven",
+"by": "rule"
+},
+{
 "conv": "578-004",
 "at": 1471.91,
 "word": "pompidou",
@@ -18681,6 +18867,12 @@
 },
 {
 "conv": "611-003",
+"at": 156.43,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "611-003",
 "at": 489.55,
 "word": "fulbright",
 "by": "rule"
@@ -18755,6 +18947,12 @@
 "conv": "613-006",
 "at": 1819.88,
 "word": "hannah",
+"by": "rule"
+},
+{
+"conv": "613-006",
+"at": 2327.85,
+"word": "christ",
 "by": "rule"
 },
 {
@@ -21249,6 +21447,12 @@
 },
 {
 "conv": "677-004",
+"at": 473.38,
+"word": "god",
+"by": "rule"
+},
+{
+"conv": "677-004",
 "at": 527.88,
 "word": "mcnamara",
 "by": "whisper"
@@ -21798,6 +22002,12 @@
 "at": 1206.11,
 "word": "hiss",
 "by": "whisper"
+},
+{
+"conv": "692-007",
+"at": 2884.93,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "693-001",
@@ -24218,6 +24428,12 @@
 "by": "rule"
 },
 {
+"conv": "790-006",
+"at": 346.08,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "790-007",
 "at": 3493.73,
 "word": "peking",
@@ -25527,6 +25743,12 @@
 },
 {
 "conv": "823-006",
+"at": 1029.2,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "823-006",
 "at": 1089.15,
 "word": "christ",
 "by": "whisper"
@@ -26150,9 +26372,21 @@
 "by": "whisper"
 },
 {
+"conv": "831-007",
+"at": 2953.71,
+"word": "dinner",
+"by": "rule"
+},
+{
 "conv": "832-004",
 "at": 835.6,
 "word": "prinz",
+"by": "rule"
+},
+{
+"conv": "832-010",
+"at": 333.17,
+"word": "god",
 "by": "rule"
 },
 {
@@ -26529,6 +26763,12 @@
 },
 {
 "conv": "837-004",
+"at": 819.57,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "837-004",
 "at": 1722.99,
 "word": "marder",
 "by": "rule"
@@ -26682,6 +26922,12 @@
 "at": 3641.88,
 "word": "addison",
 "by": "whisper"
+},
+{
+"conv": "842-013",
+"at": 615.44,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "842-013",
@@ -27242,6 +27488,12 @@
 "by": "rule"
 },
 {
+"conv": "857-005",
+"at": 4438.44,
+"word": "christ",
+"by": "rule"
+},
+{
 "conv": "857-007",
 "at": 775.76,
 "word": "bull",
@@ -27317,6 +27569,12 @@
 "conv": "858-004",
 "at": 1829.58,
 "word": "fairlie",
+"by": "rule"
+},
+{
+"conv": "859-003",
+"at": 635.41,
+"word": "christ",
 "by": "rule"
 },
 {
@@ -29067,6 +29325,12 @@
 },
 {
 "conv": "903-020",
+"at": 23.88,
+"word": "christ",
+"by": "rule"
+},
+{
+"conv": "903-020",
 "at": 95.44,
 "word": "ehrlichman",
 "by": "rule"
@@ -29220,6 +29484,12 @@
 "at": 1930.75,
 "word": "dean",
 "by": "whisper"
+},
+{
+"conv": "906-024",
+"at": 544.16,
+"word": "christ",
+"by": "rule"
 },
 {
 "conv": "906-024",
