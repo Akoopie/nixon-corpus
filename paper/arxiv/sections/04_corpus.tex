@@ -1,7 +1,7 @@
 \section{The corpus}
 \label{sec:corpus}
 
-Release 1.1 (Table~\ref{tab:corpus}, Figure~\ref{fig:corpus}) is one JSON record per conversation: NARA's metadata and subject log, audio sources, withdrawn spans, speaker segments, and every word with its timing, speaker, confidence and source (Parakeet, both recognizers, a Whisper fill, a model edit or a correction by ear). Each edit keeps what it replaced and why. Plain-text transcripts and the raw recognizer outputs ship with it. A browsing application in the repository presents the corpus by day, conversation and person and plays each transcript in sync with the audio; no language model writes its text.
+Release 1.1 (Table~\ref{tab:corpus}, Figure~\ref{fig:corpus}) was packaged as one JSON record per conversation: NARA's metadata and subject log, audio sources, withdrawn spans, speaker segments, and every word with its timing, speaker, confidence and source (Parakeet, both recognizers, a Whisper fill, a model edit or a correction by ear). Each edit was stored with what it replaced and why. Plain-text transcripts and the raw recognizer outputs were included. A browsing application, included in the repository, was built to present the corpus by day, conversation and person and to play each transcript in sync with the audio; no language model wrote its text.
 
 \begin{table}[t]
 \centering
