@@ -46,6 +46,10 @@
 \newcommand{\conv}[1]{\mbox{#1}}                 % conversation numbers, e.g. \conv{871-004}
 \newcommand{\machine}[1]{\textit{``#1''}}        % quoted machine transcript
 \newcommand{\pct}[1]{#1\%}
+% a paragraph opening with a bold label: flush left, a small gap above (none right after a heading)
+\makeatletter
+\newcommand{\runin}[1]{\par\if@nobreak\else\addvspace{0.5\baselineskip}\fi\noindent\textbf{#1}}
+\makeatother
 
 \title{\papertitle}
 \author{\authorname\,\orcidlink{\authororcid}}
